@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "id": "RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8",
+      "object": "model",
+      "created": 1677610602,
+      "owned_by": "openai"
+    },
+    {
+      "id": "Qwen3-Coder-30B-A3B-Instruct-FP8",
+      "object": "model",
+      "created": 1677610602,
+      "owned_by": "openai"
+    },
+    {
+      "id": "gpt-oss-120b",
+      "object": "model",
+      "created": 1677610602,
+      "owned_by": "openai"
+    },
+    {
+      "id": "Qwen/Qwen3.5-9B",
+      "object": "model",
+      "created": 1677610602,
+      "owned_by": "openai"
+    },
+    {
+      "id": "GaleneAI/Magistral-Small-2509-FP8-Dynamic",
+      "object": "model",
+      "created": 1677610602,
+      "owned_by": "openai"
+    },
+    {
+      "id": "Qwen3-VL-8B-Instruct",
+      "object": "model",
+      "created": 1677610602,
+      "owned_by": "openai"
+    },
+    {
+      "id": "Meta/Llama3.2-3B-Instruct_L4",
+      "object": "model",
+      "created": 1677610602,
+      "owned_by": "openai"
+    },
+    {
+      "id": "Qwen3-4B-Instruct-2507-FP8-64k",
+      "object": "model",
+      "created": 1677610602,
+      "owned_by": "openai"
+    },
+    {
+      "id": "multilingual-e5-large",
+      "object": "model",
+      "created": 1677610602,
+      "owned_by": "openai"
+    },
+    {
+      "id": "lightonai/LightOnOCR-2-1B",
+      "object": "model",
+      "created": 1677610602,
+      "owned_by": "openai"
+    }
+  ],
+  "object": "list"
+}

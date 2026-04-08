@@ -1,0 +1,89 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "9 Jahre und 6 Monate Freiheitsstrafe"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "9 Jahren und 7 Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "90 Tagessätze zu je 10 EUR Geldstrafe"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 223 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmen des § 223 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmen des § 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "minder schweren Fall des Totschlags"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte legte ein umfassendes, von Reue getragenes Geständnis ab, in dem er beide Taten einräumte."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte legte ein umfassendes, von Reue getragenes Geständnis ab, in dem er beide Taten einräumte."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist auch nicht vorbestraft und hier erstmals im Alter von 27 straffällig geworden."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Zugunsten des Angeklagten davon auszugehen, dass der Alkoholgenuss zu einer Enthemmung des Angeklagten führte."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Straferschwerend wirkt sich allerdings aus, dass der Angeklagte mit Tötungsabsicht handelte."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "mehrminütigen und von Gegenwehr geprägten Geschehens"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "das Nachtatverhalten des Angeklagten, welches z.B. im Hinblick auf die binnen Minutenfrist erfolgte Beantwortung der Anfrage der Zeugin B."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Im Rahmen der Gesamtschau wiegen angesichts des von dem Angeklagten bei der Tat verwirklichten Handlungs- und Erfolgsunrechts die für ihn sprechenden Aspekte nicht derart, dass die Annahme eines minder schweren Falles i.S.d. § 213 Alt. 2 StGB gerechtfertigt wäre."
+        }
+    ]
+}

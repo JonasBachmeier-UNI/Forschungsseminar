@@ -1,0 +1,79 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Ausgangspunkt der Strafzumessung war der Strafrahmen des § 212 Abs. 1 StGB, der eine Freiheitsstrafe von nicht unter fünf Jahren vorsieht."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Kammer hat das Vorliegen eines (benannten) minder schweren Falles gemäß § 213 Var. 1 StGB geprüft, einen solchen im Ergebnis jedoch verneint."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Auch ein sonstiger, unbenannter minder schwerer Fall gemäß § 213 Var. 2 StGB liegt im Ergebnis nicht vor."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Kammer hat auch geprüft, ob ein besonders schwerer Fall gemäß § 212 Abs. 2 StGB vorliegt, dies jedoch mit Blick auf die vorstehend dargestellte Gesamtwürdigung der im Rahmen der Prüfung eines minder schweren Falls für und gegen den Angeklagten sprechenden Umstände verneint."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von acht Jahren und sechs Monaten"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Bei den im Rahmen dieser Gesamtwürdigung zu berücksichtigenden Umständen war für die Annahme eines minder schweren Falles und zu Gunsten des Angeklagten N insbesondere sein Geständnis (die Tötung des T als solche) zu berücksichtigen."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "unter nochmaliger Würdigung der Gesamtpersönlichkeit des Angeklagten einschließlich seines Geständnisses, mit dem er sich zur Tat bekannt hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte, der sich seit über neun Monaten in Untersuchungshaft befindet und sich in der Hauptverhandlung reuig gezeigt hat"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte, der sich seit über neun Monaten in Untersuchungshaft befindet und sich in der Hauptverhandlung reuig gezeigt hat, ist darüber hinaus nur geringfügig und nicht einschlägig vorbestraft."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Er ist als Erstverbüßer einer Haftstrafe zudem besonders haftempfindlich."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Zu Gunsten des Angeklagten und für die Annahme eines minder schweren Falls spricht darüber hinaus, dass der Angeklagte die Spontantat aus einer affektiven Erregung heraus begangen hat"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "der Geschädigte - nicht ausschließbar - die Hilfsbedürftigkeit des noch jungen, zur Tatzeit 21jährigen und im Umgang mit Behörden überforderten Angeklagten mit dem Ziel sexueller Annäherung ausgenutzt hat"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Zu Lasten des Angeklagten und gegen die Annahme eines minder schweren Falles hat die Kammer jedoch die hohe kriminelle Energie, die in der besonderen Aggressivität mit einer Vielzahl von Hieb- und Stichverletzungen zum Ausdruck gekommen ist, eingestellt. Darüber hinaus ist der Angeklagte - wenn auch nicht einschlägig - bereits vorbestraft ist."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Zu Lasten des Angeklagten und gegen die Annahme eines minder schweren Falles hat die Kammer jedoch die hohe kriminelle Energie, die in der besonderen Aggressivität mit einer Vielzahl von Hieb- und Stichverletzungen zum Ausdruck gekommen ist, eingestellt."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer hat bei der Strafzumessung im engeren Sinne hat die Kammer sämtliche oben genannten, für und gegen den Angeklagten sprechenden Umstände, auf die zur Vermeidung von Wiederholungen ausdrücklich verwiesen wird, umfassend abgewogen."
+        }
+    ]
+}

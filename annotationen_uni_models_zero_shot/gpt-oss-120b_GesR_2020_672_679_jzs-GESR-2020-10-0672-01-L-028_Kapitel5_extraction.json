@@ -1,0 +1,54 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Bei der Strafzumessung hat die Kammer ausgehend vom Regelstrafrahmen des § 212 Abs. 1 StGB geprüft, ob ein (sonst) minder schwerer Fall i.S.d. § 213 StGB vorliegt."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmen des § 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "minder schwerer Fall i.S.d. § 213 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Die Kammer hat daher für die Angekl. Dr. R. auf eine Freiheitsstrafe von einem Jahr und sechs Monaten und für den Angekl. Prof. V auf eine solche von einem Jahr und neun Monaten als tat- und schuldangemessen erkannt."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "das Tatgeschehen weitgehend eingeräumt haben"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "beide unbestraft sind"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "beide Angekl. bisher strafrechtlich nicht in Erscheinung getreten sind und beanstandungsfrei als Geburtsmediziner gearbeitet haben"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "dass diese in der Hauptverhandlung eine kritische Distanz zu ihrer Tathandlung zum Ausdruck gebracht hat"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Bei der konkreten Strafzumessung hat die Kammer hinsichtlich beider Angekl. die im Rahmen der Strafrahmenwahl berücksichtigten Umstände erneut gegeneinander abgewogen"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "dass die schuldmindernden Umstände in ihrer Gesamtheit ein derart hohes Gewicht auf, dass sie besondere Umstände i.S.d. § 56 Abs. 2 StGB darstellen"
+        }
+    ]
+}

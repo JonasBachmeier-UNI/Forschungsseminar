@@ -1,0 +1,49 @@
+Identifiziere alle Textpassagen, die für die Strafzumessung relevant sind, und weise ihnen eine Kategorie (Tag) aus dem untenstehenden Schema zu.
+
+ANWEISUNG ZUR FORMATIERUNG (WICHTIG FÜR CATMA):
+1. Antworte AUSSCHLIESSLICH mit einem validen JSON-Objekt. Keine Einleitung, kein Markdown außerhalb des JSONs.
+2. Das JSON muss eine Liste von Objekten unter dem Schlüssel "annotations" enthalten.
+3. Jedes Objekt muss folgende Felder haben:
+ - "tag": Der exakte Name des Tags aus der Liste unten.
+ - "quote": Das EXAKTE Zitat aus dem Text (Copy & Paste). Verändere kein einziges Zeichen, damit es im Text wiedergefunden werden kann.
+ - "category": Die Oberkategorie (z.B. "Mildernd", "Schärfend").
+
+TAG-SCHEMA (Nutze nur diese Tags):
+
+KATEGORIE: FORMALIA (Fakten)
+- "Strafhoehe": Die verhängte Freiheitsstrafe (z.B. "7 Jahre", "lebenslänglich").
+- "Gesetzesgrundlage": Die angewendeten Paragraphen (z.B. "§ 212 StGB", "§ 213 StGB").
+- "Strafrahmen": Der zugrunde gelegte Strafrahmen (z.B. "minder schwerer Fall", "Regelstrafrahmen").
+
+KATEGORIE: MILDERND (Zugunsten des Täters)
+- "Gestaendnis": Erwähnung eines Geständnisses, Teilgeständnisses oder der Einlassung.
+- "Reue_Einsicht": Ausdrückliche Reue, Entschuldigung oder Schuldeinsicht.
+- "Vorleben_Positiv": Keine Vorstrafen, geregeltes Leben, positive Sozialprognose.
+- "Enthemmung_Psychologie": Alkoholisierung, Drogen, psychische Ausnahmesituation oder Affekt (auch wenn § 21 abgelehnt wurde).
+- "Tatprovokation": Vorangegangenes Verhalten des Opfers, das die Tat auslöste.
+- "Haftempfindlichkeit": Besonderes Alter, Krankheit oder Suizidgefahr des Täters.
+
+KATEGORIE: SCHAERFEND (Zu Lasten des Täters)
+- "Vorleben_Negativ": Vorstrafen (insb. einschlägig), Bewährungsbruch, Hafterfahrung.
+- "Tatbild_Brutalitaet": Besondere Härte der Ausführung, Anzahl der Stiche/Schläge, Leiden des Opfers.
+- "Motiv_Verwerflich": Nichtiges Motiv, Eifersucht, Rache, Besitzdenken.
+- "Nachtatverhalten_Negativ": Flucht, Leichenbeseitigung, fehlende Hilfeleistung, Gleichgültigkeit.
+
+KATEGORIE: ABWAEGUNG (Argumentation)
+- "Gesamtwuerdigung": Sätze, die explizit Milderungs- und Schärfungsgründe gegeneinander abwiegen (oft eingeleitet mit "Nach Abwägung aller Umstände...").
+
+BEISPIEL OUTPUT FORMAT:
+{
+ "annotations": [
+  {
+   "tag": "Gestaendnis",
+   "category": "Mildernd",
+   "quote": "Der Angeklagte hat das Tatgeschehen vollumfänglich eingeräumt"
+  },
+  {
+   "tag": "Strafhoehe",
+   "category": "Formalia",
+   "quote": "Freiheitsstrafe von 8 Jahren und 6 Monaten"
+  }
+ ]
+}

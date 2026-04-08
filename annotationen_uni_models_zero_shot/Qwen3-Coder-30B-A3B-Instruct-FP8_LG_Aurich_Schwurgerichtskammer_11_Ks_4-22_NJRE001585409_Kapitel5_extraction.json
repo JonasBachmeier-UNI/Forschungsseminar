@@ -1,0 +1,64 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Strafe der Tat zu 2. ist dem Regelstrafrahmen des § 212 Abs. 1 StGB entnommen, der Freiheitsstrafe nicht unter 5 Jahren vorsieht."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "9 Jahre und 6 Monate Freiheitsstrafe"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 223 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte legte ein umfassendes, von Reue getragenes Geständnis ab, in dem er beide Taten einräumte."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte legte ein umfassendes, von Reue getragenes Geständnis ab, in dem er beide Taten einräumte."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "auch wenn der Alkoholisierungsgrad des Angeklagten bei der Tat zu 2. die Einsichts- und Steuerungsfähigkeit des Angeklagten nicht beeinträchtigte (hierzu ebenfalls im Folgenden), so ist doch zugunsten des Angeklagten davon auszugehen, dass der Alkoholgenuss zu einer Enthemmung des Angeklagten führte."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist auch nicht vorbestraft und hier erstmals im Alter von 27 straffällig geworden."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Insofern sind die vorangehenden Beleidigungen und die Schläge und das Schubsen ebenso strafmildernde Umstände."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "dass der Angeklagte mit Tötungsabsicht handelte. Der Angeklagte wusste nicht nur um den Todeseintritt, sondern es kam ihn letztlich darauf an."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach alledem erachtet die Kammer folgende Einzelstrafen als tat- und schuldangemessen:"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Im Rahmen der konkreten Strafzumessung der Tat zu 2. wird auf die zur abstrakten Strafrahmenwahl gemachten Ausführungen verwiesen. Die dort aufgeführten Umstände, die zu Gunsten und zu Lasten des Angeklagten ins Gewicht fallen, sind insofern bei der konkreten Strafzumessung nochmals berücksichtigt worden."
+        }
+    ]
+}

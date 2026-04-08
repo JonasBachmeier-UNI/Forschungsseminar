@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmen des § 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "bei der insoweit vorzunehmenden Gesamtwürdigung von Person und Tat"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "sie die Tat nicht etwa in einer schnelle Entscheidungen erfordernden Notfallsituation begangen haben, sondern vielmehr planvoll ein mehr als zwei Wochen zuvor verabredetes Vorgehen umsetzten"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Schuldmindernd wirkte sich zudem für beide Angekl. aus, dass die Tat mittlerweile mehr als neun Jahre zurückliegt, beide unbestraft sind"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "das Tatgeschehen weitgehend eingeräumt haben"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "ihr Handeln im Vorfeld der Tat von dem Ziel geprägt war, das Risiko für den gesunden Zwilling zu minimieren"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "ihr Handeln das Ziel hatte, der Zeugin S. in deren schwieriger Situation zu helfen"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der konkreten Strafzumessung hat die Kammer hinsichtlich beider Angekl. die im Rahmen der Strafrahmenwahl berücksichtigten Umstände erneut gegeneinander abgewogen"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "eine kritische Distanz zu ihrer Tathandlung zum Ausdruck gebracht hat"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von einem Jahr und sechs Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von einem Jahr und neun Monaten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "dass die Angekl. Dr. R. als Operateurin die eigentliche Tathandlung ausgeführt hat, demgegenüber jedoch nicht außer Acht gelassen, dass der Angekl. Prof. V. – worauf er in der Hauptverhandlung ausdrücklich hingewiesen hat – trotz seiner Assistentenstellung während der Operation als Chefarzt Vorgesetzter der Angekl. Dr. R. war"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "zum einen wurde der langen Dauer des gesamten Verfahrens bereits im Rahmen der Strafzumessung zugunsten der Angekl. Rechnung getragen"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "die Angekl. sich für dieses Verfahren nicht in Haft befanden und die Angekl. Dr. R. auch ihrer ärztlichen Tätigkeit weiter nachgehen konnte, sich mithin die durch das Verfahren ausgehende Belastung für die Angekl. in Grenzen hielt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass die beiden unbestraften Angekl. sich die bloße Verurteilung zu einer Freiheitsstrafe zur Warnung dienen lassen und künftig keine weiteren Straften begehen werden"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "dass beide Angekl. bisher strafrechtlich nicht in Erscheinung getreten sind und beanstandungsfrei als Geburtsmediziner gearbeitet haben"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "in der Hauptverhandlung eine (gewisse) Einsicht in ihr Fehlverhalten gezeigt und glaubhaft erklärt hat, eine solche Vorgehensweise nicht zu wiederholen"
+        }
+    ]
+}

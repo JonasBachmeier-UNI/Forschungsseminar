@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Ausgangspunkt der Strafzumessung war der Strafrahmen des § 212 Abs. 1 StGB, der eine Freiheitsstrafe von nicht unter fünf Jahren vorsieht."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Var. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Var. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 49 Abs. 1, 21 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 2 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte, der sich seit über neun Monaten in Untersuchungshaft befindet und sich in der Hauptverhandlung reuig gezeigt hat, ist darüber hinaus nur geringfügig und nicht einschlägig vorbestraft"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "der Angeklagte, der sich seit über neun Monaten in Untersuchungshaft befindet und sich in der Hauptverhandlung reuig gezeigt hat"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der Angeklagte, der sich seit über neun Monaten in Untersuchungshaft befindet und sich in der Hauptverhandlung reuig gezeigt hat, ist darüber hinaus nur geringfügig und nicht einschlägig vorbestraft"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Er ist als Erstverbüßer einer Haftstrafe zudem besonders haftempfindlich"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "der Angeklagte die Spontantat aus einer affektiven Erregung heraus begangen hat"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "der Geschädigte - nicht ausschließbar - die Hilfsbedürftigkeit des noch jungen, zur Tatzeit 21jährigen und im Umgang mit Behörden überforderten Angeklagten mit dem Ziel sexueller Annäherung ausgenutzt hat"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "der Angeklagte - wenn auch nicht einschlägig - bereits vorbestraft ist"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die hohe kriminelle Energie, die in der besonderen Aggressivität mit einer Vielzahl von Hieb- und Stichverletzungen zum Ausdruck gekommen ist"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller Umstände..."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von acht Jahren und sechs Monaten"
+        }
+    ]
+}

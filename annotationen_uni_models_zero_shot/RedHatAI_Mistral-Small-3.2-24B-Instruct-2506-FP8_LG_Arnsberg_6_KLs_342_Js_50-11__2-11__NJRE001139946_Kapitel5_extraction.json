@@ -1,0 +1,79 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Jugendstrafe von 3 Jahren 6 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Körperverletzung mit Todesfolge gemäß § 227 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Das Höchstmaß der Jugendstrafe beträgt gemäß § 18 Abs. 1 S. 2 JGG zehn Jahre"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Er hat den von ihm ausgeführten Messerstich und damit den äußeren Tathergang als solchen eingeräumt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Er hat in der Hauptverhandlung sein Bedauern über den von ihm verursachten Tod des Opfers glaubhaft zum Ausdruck gebracht."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Er war zuvor nur unwesentlich strafrechtlich in Erscheinung getreten."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat die Tat nicht von langer Hand geplant, sondern hat sich in unübersichtlicher Lage spontan zu der Tat entschlossen."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Umstand, dass sich der Angeklagte in der Untersuchungshaft und nach seiner Entlassung aus derselben einwandfrei geführt hat."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte, der in schulischer Hinsicht zuletzt von Ehrgeiz geprägt war."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Er sich um die Fortführung seiner schulischen Ausbildung bemüht."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Das Tatopfer sich aktiv an der Auseinandersetzung beteiligte und Gewalt gegen den Körper des Angeklagten (Schubsen) ausübte."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Die lange Verfahrensdauer, hat für den Angeklagten - wie auch für die Nebenkläger - eine hohe Belastung dargestellt."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Die Tat in einer die Tatbestandsmäßigkeit einer Körperverletzung weit übersteigenden, brutalen und hochgradig gefährlichen Weise mittels eines in die Gaststätte trotz Sicherheitskontrollen mitgeführten gefährlichen Werkzeugs i.S.d. § 224 Abs. 1 Nr. 2 StGB begangen."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Die Handlung des Angeklagten hat praktisch unmittelbar zum Tod des Tatopfers geführt."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter Berücksichtigung aller Umstände, vorrangig dem Erziehungsgedanken unter Beachtung des Erfordernisses eines gerechten Schuldausgleichs, erschien der Kammer die Verhängung einer Jugendstrafe von 3 Jahren 6 Monaten angemessen."
+        }
+    ]
+}
