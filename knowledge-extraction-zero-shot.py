@@ -5,6 +5,9 @@ from pathlib import Path
 import re
 
 # 1. Setup API Client
+# First, add your Key to your shell environment:
+# export LLMAPI_KEY="paste-your-key-here"
+
 api_key = os.getenv("LLMAPI_KEY") or os.getenv("OPENAI_API_KEY")
 if not api_key:
     raise RuntimeError(
