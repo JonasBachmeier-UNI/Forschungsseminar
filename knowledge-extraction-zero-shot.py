@@ -27,7 +27,7 @@ with open('available_models.json') as f:
 with open("knowledge-extraction-zero-shot-prompt.txt", encoding="utf-8") as f:
     base_prompt = f.read()
 
-input_files = sorted(Path("ergebnis_kapitel_5").glob("*.txt"))[:5]
+input_files = sorted(Path("ergebnis_kapitel_5").glob("*.txt"))
 
 def sanitize_name(value: str) -> str:
     return re.sub(r"[^A-Za-z0-9._-]", "_", value)
