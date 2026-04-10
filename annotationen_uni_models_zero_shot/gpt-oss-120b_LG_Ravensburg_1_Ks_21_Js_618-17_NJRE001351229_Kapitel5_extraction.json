@@ -1,0 +1,104 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "den nach den §§ 21, 49 Abs. 1 StGB gemilderten Strafrahmen des § 241 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "den Strafrahmen des § 29 a Abs. 2 BtMG"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "nach §§ 23 Abs. 2, 49 Abs. 1 StGB gemilderten Strafrahmen des § 212 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "den Strafrahmen des § 241 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 4 Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 1 Jahr und 8 Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 5 Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von einem Jahr"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "6 Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Teilgeständnis des Angeklagten"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "er sich zudem in den letzten Jahren straffrei führte"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Erstverbüßer besonders strafempfindlich"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die Tat im Zustand der Kokainintoxikation begangen wurde"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "sich schriftlich entschuldigt"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "rudimentäres Teilgeständnis"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "herabgesetzte Hemmungsfähigkeit"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "eine Vielzahl von Beleidigungen und massive Bedrohungen"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "bereits und z.T. einschlägig in Erscheinung getreten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller Umstände hielt die Kammer die Verhängung einer"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Abwägung aller Umstände erschien die Festsetzung einer Gesamtstrafe von"
+        }
+    ]
+}

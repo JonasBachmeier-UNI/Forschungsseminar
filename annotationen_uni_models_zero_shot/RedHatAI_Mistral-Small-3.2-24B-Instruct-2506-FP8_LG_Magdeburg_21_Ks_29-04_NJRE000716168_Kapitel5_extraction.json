@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen verschiebt sich damit auf Freiheitsstrafe von zwei Jahren bis zu 11 Jahren und drei Monaten."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Zu seinen Gunsten ist insbesondere zu werten gewesen, dass er geständig war,"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "die Tat bedauert und sich auch schriftlich beim Geschädigten entschuldigt hat."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "eine gewisse Enthemmung durch den zuvor genossenen Alkohol"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "der Angeklagte J. ihn zu einem besonders entschlossenen Vorgehen gegen den Geschädigten gereizt hat,"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "schließlich ist der Angeklagte W. bislang auch nicht einschlägig vorbestraft."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "dass er mit erheblicher Brutalität vorgegangen ist."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "der Angeklagte W. zugleich den Tatbestand der schweren Körperverletzung erfüllt hat."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller für und gegen den Angeklagten W. sprechenden Umstände"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "einer Freiheitsstrafe von sechs Jahren und neun Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 224 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Zu Gunsten des Angeklagten J. spricht, dass er seinen Tatbeitrag voll gestanden hat."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Zu seinen Lasten ist indes zu berücksichtigen, dass er bereits einschlägig vorbestraft ist."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung insbesondere dieser Umstände"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von einem Jahr"
+        }
+    ]
+}

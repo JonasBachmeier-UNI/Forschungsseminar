@@ -1,0 +1,49 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine im unteren Bereich des Strafrahmens anzusiedelnden moderaten Freiheitsstrafe von neun Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "gemäß § 213 Alt. 2 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "ein – im Höchstmaß zu Gunsten des Angeklagten abgerundeter (vgl. Fischer, StGB, 56. Auflage, § 49 Rdnr. 4) – Strafrahmen von einem Monat bis fünf Jahren und sieben Monate Freiheitsstrafe"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "den gesamten Sachverhalt von Anfang an eingeräumt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "nicht vorbestraft ist"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Berücksichtigung all dieser mildernder Umstände hielt die Kammer die Verhängung einer im unteren Bereich des Strafrahmens anzusiedelnden moderaten Freiheitsstrafe von neun Monaten für tat- und schuldangemessen, insbesondere aber auch für ausreichend"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "So handelte der Angeklagte aus einer altruistischen Motivation heraus, da er Frau N. N. ein Sterben in Würde ermöglichen wollte"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "die Konfliktlage, die der Entscheidung des Angeklagten, den Versorgungsschlauch durch die Angeklagte N. N. durchtrennen zu lassen, zugrunde lag, nicht von ihm, sondern den Verantwortlichen des Pflegeheims herbeigeführt wurde"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "da dem Angeklagten anderenfalls seine Zulassung als Rechtsanwalt entzogen worden wäre. Damit wäre aber seine berufliche Existenzgrundlage vernichtet worden, was aufgrund seines bislang rechtschaffenen Lebens eine unangemessene Härte dargestellt hätte"
+        }
+    ]
+}

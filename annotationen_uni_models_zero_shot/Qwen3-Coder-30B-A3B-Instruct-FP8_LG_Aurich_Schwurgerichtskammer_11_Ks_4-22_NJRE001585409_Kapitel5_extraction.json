@@ -3,7 +3,12 @@
         {
             "tag": "Strafrahmen",
             "category": "Formalia",
-            "quote": "Die Strafe der Tat zu 2. ist dem Regelstrafrahmen des § 212 Abs. 1 StGB entnommen, der Freiheitsstrafe nicht unter 5 Jahren vorsieht."
+            "quote": "Der Regelstrafrahmen des § 223 Abs. 1 StGB entnommen, der Geldstrafe oder Freiheitsstrafe bis zu 5 Jahren vorsieht."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Regelstrafrahmen des § 212 Abs. 1 StGB entnommen, der Freiheitsstrafe nicht unter 5 Jahren vorsieht."
         },
         {
             "tag": "Strafhoehe",
@@ -19,6 +24,36 @@
             "tag": "Gesetzesgrundlage",
             "category": "Formalia",
             "quote": "§ 223 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 20 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 21 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 49 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 46 Abs. 3 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 40 Abs. 2 und Abs. 3 StGB"
         },
         {
             "tag": "Gestaendnis",
@@ -46,9 +81,29 @@
             "quote": "Insofern sind die vorangehenden Beleidigungen und die Schläge und das Schubsen ebenso strafmildernde Umstände."
         },
         {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Dieser Umstand konnte vorliegend, das Doppelverwertungsverbot des § 46 Abs. 3 StGB beachtend, Berücksichtigung finden (vgl. BGH NStZ 2012, 689). Dies ergibt die Gesamtschau der Tatumstände, unter Berücksichtigung der Besonderheiten des Einzelfalls und des konkreten Tatgepräges in Form eines mehrminütigen und von Gegenwehr geprägten Geschehens, welches nicht am unteren Ende denkbarer Deliktsverwirklichungen einzuordnen ist (vgl. BGH NStZ 2018, 533; NStZ-​RR 2017, 237; BGH (2. Strafsenat), Beschluss vom 27.07.2017 - 1 ARs 20/16)."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte wusste nicht nur um den Todeseintritt, sondern es kam ihn letztlich darauf an. Dieser Umstand konnte vorliegend, das Doppelverwertungsverbot des § 46 Abs. 3 StGB beachtend, Berücksichtigung finden"
+        },
+        {
             "tag": "Nachtatverhalten_Negativ",
             "category": "Schärfend",
-            "quote": "dass der Angeklagte mit Tötungsabsicht handelte. Der Angeklagte wusste nicht nur um den Todeseintritt, sondern es kam ihn letztlich darauf an."
+            "quote": "das gesteuerte Nachtatverhalten als wesentliches Gegenindiz für eine rauschbedingte Beeinträchtigung der Steuerungsfähigkeit."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "die dann festgestellten Handlungen des Angeklagten (Ansichnahme des Telefons der Getöteten, Nachrichtenabsendung an diese, Ausräumen des Kleiderschrankes und Öffnen des Tresors) eine erhebliche Geistesleistung erforderlich gemacht habe."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "im unmittelbaren Nachgang zu dem Tatkerngeschehen grammatisch fehlerfreie Whats App Nachrichten versandte."
         },
         {
             "tag": "Gesamtwuerdigung",
@@ -58,7 +113,27 @@
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Im Rahmen der konkreten Strafzumessung der Tat zu 2. wird auf die zur abstrakten Strafrahmenwahl gemachten Ausführungen verwiesen. Die dort aufgeführten Umstände, die zu Gunsten und zu Lasten des Angeklagten ins Gewicht fallen, sind insofern bei der konkreten Strafzumessung nochmals berücksichtigt worden."
+            "quote": "Die Entscheidung, ob die Schuldfähigkeit eines Angeklagten zur Tatzeit aus einem der in § 20 StGB bezeichneten Gründe ausgeschlossen oder im Sinne von § 21 StGB erheblich vermindert war, erfordert prinzipiell eine mehrstufige Prüfung."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die vorstehenden Ausführungen zu Grunde gelegt, kam der Sachverständige zu dem auch die Kammer überzeugenden Ergebnis, dass es keinerlei Anhaltspunkte für eine aufgehobene oder auch nur beeinträchtigte Einsichtsfähigkeit gegeben habe."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer folgt den Ausführungen des Sachverständigen nach eigener kritischer Würdigung."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer hat zudem bedacht, dass der Angeklagte sich selbst und auch durch die ihn näher kennenden Zeugen, so insbesondere den Zeugen S. oder auch die Zeugin B., als eher ruhig und besonnen beschrieben wurde."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer folgt den Ausführungen des Sachverständigen nach eigener kritischer Würdigung. Das Gutachten war erkennbar von hoher Qualität, in sich widerspruchsfrei und durchweg nachvollziehbar."
         }
     ]
 }

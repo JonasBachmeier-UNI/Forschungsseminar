@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen richtet sich aufgrund des § 52 Abs. 2 Satz 1 StGB grundsätzlich nach § 212 Abs. 1 StGB, als derjenigen Vorschrift, die die schwerste Strafe - eine Freiheitsstrafe nicht unter 5 Jahren - vorsieht."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Es war daher ein Strafrahmen von Freiheitsstrafe von 2 Jahren bis zu 11 Jahren und 3 Monaten zu Grunde zu legen."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 8 Jahren 3 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Var.1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Var. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 23 Abs. 2, 49 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "hat sich der Angeklagte insoweit geständig eingelassen, als er eingeräumt hat, die Messerstiche ausgeführt zu haben."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der Angeklagte nicht vorbestraft ist"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "aufgrund der affektiv aufgeladenen Situation von einer gewissen Enthemmung auszugehen ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "von einer besonderen Haftempfindlichkeit auszugehen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die Nebenklägerin akut lebensgefährliche Verletzungen erlitten hat und nur noch durch eine Notoperation gerettet werden konnte."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "haben die bereits bei der Prüfung des minder schweren Falles für und gegen den Angeklagten sprechenden Umstände gegeneinander abgewogen und in einer Gesamtschau eine"
+        }
+    ]
+}

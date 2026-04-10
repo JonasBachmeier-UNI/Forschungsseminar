@@ -1,24 +1,49 @@
 {
     "annotations": [
         {
-            "tag": "Strafhoehe",
-            "category": "Formalia",
-            "quote": "Jugendstrafe von 3 Jahren 6 Monaten"
-        },
-        {
-            "tag": "Gesetzesgrundlage",
-            "category": "Formalia",
-            "quote": "Körperverletzung mit Todesfolge gemäß § 227 StGB"
-        },
-        {
             "tag": "Strafrahmen",
             "category": "Formalia",
             "quote": "Das Höchstmaß der Jugendstrafe beträgt gemäß § 18 Abs. 1 S. 2 JGG zehn Jahre"
         },
         {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Körperverletzung mit Todesfolge, § 227 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 17 Abs. 2 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 18 Abs. 1 S. 1 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 18 Abs. 2 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 227 Abs. 2 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Jugendstrafe von 3 Jahren 6 Monaten"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der zur Tatzeit erst 17-jährigen Angeklagten, der zuvor nur unwesentlich strafrechtlich in Erscheinung getreten ist"
+        },
+        {
             "tag": "Gestaendnis",
             "category": "Mildernd",
-            "quote": "Er hat den von ihm ausgeführten Messerstich und damit den äußeren Tathergang als solchen eingeräumt"
+            "quote": "der von ihm ausgeführten Messerstich und damit den äußeren Tathergang als solchen eingeräumt hat"
         },
         {
             "tag": "Reue_Einsicht",
@@ -26,49 +51,44 @@
             "quote": "Er hat in der Hauptverhandlung sein Bedauern über den von ihm verursachten Tod des Opfers glaubhaft zum Ausdruck gebracht."
         },
         {
-            "tag": "Vorleben_Positiv",
+            "tag": "Enthemmung_Psychologie",
             "category": "Mildernd",
-            "quote": "Er war zuvor nur unwesentlich strafrechtlich in Erscheinung getreten."
-        },
-        {
-            "tag": "Vorleben_Positiv",
-            "category": "Mildernd",
-            "quote": "Der Angeklagte hat die Tat nicht von langer Hand geplant, sondern hat sich in unübersichtlicher Lage spontan zu der Tat entschlossen."
-        },
-        {
-            "tag": "Vorleben_Positiv",
-            "category": "Mildernd",
-            "quote": "Der Umstand, dass sich der Angeklagte in der Untersuchungshaft und nach seiner Entlassung aus derselben einwandfrei geführt hat."
-        },
-        {
-            "tag": "Vorleben_Positiv",
-            "category": "Mildernd",
-            "quote": "Der Angeklagte, der in schulischer Hinsicht zuletzt von Ehrgeiz geprägt war."
-        },
-        {
-            "tag": "Vorleben_Positiv",
-            "category": "Mildernd",
-            "quote": "Er sich um die Fortführung seiner schulischen Ausbildung bemüht."
+            "quote": "hat sich in unübersichtlicher Lage spontan zu der Tat entschlossen."
         },
         {
             "tag": "Tatprovokation",
             "category": "Mildernd",
-            "quote": "Das Tatopfer sich aktiv an der Auseinandersetzung beteiligte und Gewalt gegen den Körper des Angeklagten (Schubsen) ausübte."
+            "quote": "das Tatopfer sich aktiv an der Auseinandersetzung beteiligte und Gewalt gegen den Körper des Angeklagten (Schubsen) ausübte."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "sich der Angeklagte in der Untersuchungshaft und nach seiner Entlassung aus derselben einwandfrei geführt hat."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "in schulischer Hinsicht zuletzt von Ehrgeiz geprägt war"
         },
         {
             "tag": "Haftempfindlichkeit",
             "category": "Mildernd",
-            "quote": "Die lange Verfahrensdauer, hat für den Angeklagten - wie auch für die Nebenkläger - eine hohe Belastung dargestellt."
-        },
-        {
-            "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
-            "quote": "Die Tat in einer die Tatbestandsmäßigkeit einer Körperverletzung weit übersteigenden, brutalen und hochgradig gefährlichen Weise mittels eines in die Gaststätte trotz Sicherheitskontrollen mitgeführten gefährlichen Werkzeugs i.S.d. § 224 Abs. 1 Nr. 2 StGB begangen."
+            "quote": "Die lange Verfahrensdauer hat für den Angeklagten - wie auch für die Nebenkläger - eine hohe Belastung dargestellt."
         },
         {
             "tag": "Tatbild_Brutalitaet",
             "category": "Schärfend",
             "quote": "Die Handlung des Angeklagten hat praktisch unmittelbar zum Tod des Tatopfers geführt."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Die Tat ist im oberen Bereich der denkbaren Delikte nach § 227 StGB einzuordnen."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Er hat damit eine geringe Hemmschwelle hinsichtlich der körperlichen Integrität seines Opfers gezeigt."
         },
         {
             "tag": "Gesamtwuerdigung",

@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Das Gesetz sieht für den Totschlag gemäß § 212 Abs. 1 StGB die Verhängung einer Freiheitsstrafe von fünf bis fünfzehn Jahren vor."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "In besonders schweren Fällen ist gemäß § 212 Abs. 2 StGB auf lebenslange Freiheitsstrafe zu erkennen."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Im minder schweren Fall ist gemäß § 213 StGB ein Strafrahmen eröffnet, der Freiheitsstrafe von einem bis zu zehn Jahren vorsieht."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "zwölf Jahren"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "ein Strafrahmen von fünf bis fünfzehn Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte bereits frühzeitig in seiner ersten verantwortlichen Vernehmung ein von Reue getragenes Geständnis abgelegt hat"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "er dieses Geständnis in der Hauptverhandlung wiederholt hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "der Angeklagte bereits frühzeitig in seiner ersten verantwortlichen Vernehmung ein von Reue getragenes Geständnis abgelegt hat"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "er durch die vorangegangene Auseinandersetzung aufgebracht war"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "es sich bei der erlittenen Untersuchungshaft um die erste Freiheitsentziehung handelt, die naturgemäß beeindruckt"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "die Tat gedanklich schon lange vorweggenommen und durch das Ausheben des Grabes manifestiert war"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "er mit Absicht im Sinne seines Planes zielgerichtet gehandelt hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die Tat mehraktig war"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "es sich bei einem Erstickungstod um einen für das Opfer qualvollen Tod handelt"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "das Opfer längere Zeit Todesangst erleiden musste und den Tod kommen sah"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "er selbstsüchtige Motive insoweit verfolgte, als durch die Tat - mag dies auch einen untergeordneten Beweggrund dargestellt haben - auch finanziellen Folgen einer Trennung begegnet werden sollte"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Abwägung der vorgenannten Umstände, bei denen die belastenden Momente in ihrem Gewicht deutlich überwiegen, führt dazu, dass ein sonstiger minder schwerer Fall des § 213 Alternative 2 StGB erkennbar nicht vorliegt. Andererseits liegt insbesondere unter Berücksichtigung des frühzeitigen, von Reue getragenen Geständnisses auch ein besonders schwerer Fall des Totschlags im Sinne des § 212 Abs. 2 StGB nicht vor."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Vor diesem Hintergrund erachtet die Kammer in dem Regelstrafrahmen des § 212 StGB eine Freiheitsstrafe von zwölf Jahren als tat- und schuldangemessen."
+        }
+    ]
+}

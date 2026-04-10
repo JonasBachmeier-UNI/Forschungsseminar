@@ -1,0 +1,224 @@
+{
+    "annotations": [
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte W.K. hat sich, wenn auch mit Einschränkungen zur Motivlage, zur Tat bekannt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "sich bei dem Opfer in der Hauptverhandlung entschuldigt"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Ausgehend von einem herabgesetzten Strafrahmen von Geldstrafe oder Freiheitsstrafe bis zu 3 Jahren und 9 Monaten hat die Kammer eine"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 1 Jahr und 6 Monaten"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "dass er geständig"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "nicht bestraft"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "mit 59 Jahren besonders haftempfindlich ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "lange Dauer der Untersuchungshaft"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Er hat das Opfer nach der Tat empfangen, um sich ein Bild von den Verletzungsfolgen machen zu können."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Die Tat diente der Durchsetzung erheblicher wirtschaftlicher Interessen."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "er sein Opfer über seine Täterschaft lange im Dunkeln ließ"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sein Teilgeständnis"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Entschuldigung gegenüber dem Opfer, eine Körperverletzung beauftragt zu haben"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Nachtatverhalten ist zu seinen Lasten zu berücksichtigen, hat er doch K. in vermeintlicher Sorge Ratschläge zum Aufsuchen für Spezialisten für Ohrenrekonstruktionen erteilt und ihm damals das Ehrenwort gegeben, mit der Tat nicht in Verbindung zu stehen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Unter Berücksichtigung der oben erwähnten Strafzumessungserwägungen erschien der Kammer eine"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe in Höhe von 5 Jahren und 3 Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 6 Jahren"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "umfassende Geständnis mit Aufklärungshilfe"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Entschuldigung beim Opfer"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "er war zur Tatzeit nicht vorbestraft"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "schwierige Sozialisation"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "er die Taten unter laufender Bewährung begangen hat, wobei straferschwerend wirkt, dass er zweifach unter Bewährung stand und in einem Fall eine einschlägige Vorstrafe aufzuweisen hatte."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "durchdachte Planung und Kontrolle der Tat, die drei Qualifizierungen enthält"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Auch die massiven Verletzungen des H.F. waren einzustellen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Hierbei sind noch einmal sämtliche Strafzumessungserwägungen gegeneinander abgewogen"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Er ist mehrfach in der DDR zu Strafen verurteilt worden"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "lange Untersuchungshaft"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Geständnis hinsichtlich seiner Tatbeiträge"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "er sich bei den Opfern in der Hauptverhandlung entschuldigt hat"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "fast zwei Jahre andauernde Untersuchungshaft"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "er mehrfach vorbestraft war und zwei einschlägige Vorverurteilungen aufzuweisen hatte"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "dreifache Bewährungsversagen im Tatzeitraum"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Rücksichtslosigkeit und Gleichgültigkeit hinsichtlich der Interessen Dritter"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "er die Taten gestanden hat"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "lange Zeit in Untersuchungshaft verbüßt hat"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "erhebliche Vorbelastungen, wobei es sich in einem Fall um eine einschlägige Vorstrafe handelte"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "schweren Verletzungsfolgen beim Geschädigten H.F."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Das Geständnis von A.K."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Alkoholbedingte Enthemmung am Tatabend der Auftragserteilung ist zu seinen Gunsten berücksichtigt worden"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "er mit der Tat auch wirtschaftliche Interessen verfolgte"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Entschuldigung gegenüber H.W."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Hierbei sind noch einmal sämtliche für und gegen den Angeklagten sprechenden Zumessungsgesichtspunkte gegeneinander abgewogen"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 223 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 223a StGB"
+        }
+    ]
+}

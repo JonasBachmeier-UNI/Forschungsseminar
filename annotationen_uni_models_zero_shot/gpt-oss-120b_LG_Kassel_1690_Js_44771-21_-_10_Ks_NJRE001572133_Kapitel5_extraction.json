@@ -1,0 +1,79 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "13 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 21 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmen des § 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen des § 213 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte äußerte unmittelbar nach der Tat gegenüber seinen Kindern, dass er S. A. getötet habe, weil sie so viele Probleme gemacht habe, weil sie immer Streit gesucht habe."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "er nicht vorbestraft ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "die dadurch und durch seine geringen Sprachkenntnisse bestehende Haftempfindlichkeit"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "es handelte sich zwar um eine Impulstat"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "erhebliche Provokation des Angeklagten"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "malträtierte S. A. mit 30 brutalen Messerstichen"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "nach Durchführung der Stiche das Messer auf S. A. warf"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "er deren Flehen aufzuhören nicht nachkam"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Nach einer Gesamtwürdigung dieser für und gegen den Angeklagten sprechenden Gesichtspunkte"
+        }
+    ]
+}

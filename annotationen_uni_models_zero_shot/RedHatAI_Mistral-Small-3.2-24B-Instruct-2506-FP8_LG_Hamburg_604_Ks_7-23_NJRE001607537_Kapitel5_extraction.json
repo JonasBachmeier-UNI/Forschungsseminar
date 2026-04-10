@@ -1,0 +1,59 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Kammer hat die Strafe dem Strafrahmen des § 212 Abs. 1 StGB entnommen"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 22, 23 Abs. 2, 49 Abs. 1 StGB"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass er unbestraft ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "dass er sich seit rund neun Monaten in Untersuchungshaft befindet, die für ihn als einen der deutschen Sprache Unkundigen besonders belastend ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "dass er als Erstverbüßer erhöht haftempfindlich ist"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "dass es sich um eine Spontantat gehandelt hat und eine gewisse affektive Erregung des Angeklagten vorlag"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "dass er tateinheitlich zwei Straftatbestände sowie zwei Tatbestandsalternativen der gefährlichen Körperverletzung verwirklicht hat und der Geschädigte nicht unerheblich verletzt worden ist"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von 5 (fünf) Jahren und 10 (zehn) Monaten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller Umstände, die für und gegen den Angeklagten sprechen, hat die Kammer die Strafe auf 5 Jahre und 10 Monate festgesetzt."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von vier Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "einen Strafrahmen von fünf bis zu fünfzehn Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "ein Jahr bis zu zehn Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "zugezüglich des Umstandes, dass er sich ohne erkennbare Motivation und ohne erkennbare Beziehung zum Nebenkläger mit demselben in eine Auseinandersetzung begeben hat, ist auch seinem Verhalten im Ermittlungsverfahren und im Strafverfahren keine gesteigerte Schuld zu entnehmen"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "der bei dem Unfallgeschehen nur geringfügig verletzte Nebenkläger in der Hauptverhandlung ausdrücklich zu erkennen gegeben hat, dass er an der Strafverfolgung des Angeklagten kein Interesse hat"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der nur geringfügig vorbestrafte Angeklagte im Rahmen der Untersuchungshaft im vorliegenden Verfahren und der sich anschließenden Strafhaft seine erste Hafterfahrung macht"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "der Angeklagte den - hinsichtlich der Tötung lediglich in Form des Eventualvorsatzes vorliegenden - Tatentschluss innerhalb eines dynamischen Geschehens in einem sehr kurzen Moment spontan gefasst hat"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "die hierdurch zutage getretene hohe kriminelle Energie des Angeklagten"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "in der mit der erheblichen Beschädigung des Citroen verbundenen tateinheitlichen Verwirklichung des § 315b StGB ein eigenständiger Unrechtsgehalt liegt und die Tat zudem mit einer hohen Gefährlichkeit für die Allgemeinheit, insbesondere für andere, unbeteiligte Verkehrsteilnehmer verbunden war und durch sie damit einhergehend eine erhebliche Rücksichtslosigkeit auch Dritten gegenüber zum Ausdruck gekommen ist"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "das der unmittelbaren Tatbegehung vorausgehende geplante Verfolgungsszenario unter Beteiligung von S. und R. U."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach der vorzunehmenden Gesamtabwägung aller für und gegen den Angeklagten sprechender Umstände rechtfertigen die allgemeinen Milderungsgründe die Annahme eines minder schweren Falls nicht."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "sodann gebotene Hinzuziehung des vertypten fakultativen Strafmilderungsgrundes des § 23 Abs. 2 StGB gibt der Tat ein solches Gesamtgepräge, dass sie vom Durchschnitt der gewöhnlich vorkommenden Fälle in einem solchen Maß abweicht, dass die Anwendung des Ausnahmestrafrahmens hiernach geboten wäre."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "die Kammer nochmals alle für und gegen den Angeklagten sprechenden Gesichtspunkte abgewogen"
+        }
+    ]
+}

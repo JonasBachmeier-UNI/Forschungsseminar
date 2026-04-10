@@ -1,0 +1,54 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "ein Strafrahmen von sechs Monaten bis zu fünf Jahren ergibt."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "der Nebenkläger sich auf die Provokation des Angeklagten eingelassen hat und nach der zunächst verbalen Auseinandersetzung seinerseits zum tätlichen Angriff übergegangen ist, indem er mit einem Axtstiel bewaffnet das Grundstück des Angeklagten betrat."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass dieser bisher unbestraft ist."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "der Nebenkläger das Grundstück des Angeklagten betrat und damit eine körperliche Auseinandersetzung in Kauf nahm."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "der Angeklagte mit der Tat mit der gefährlichen und der schweren Körperverletzung zugleich zwei Straftatbestände verwirklicht hat."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "im Rahmen der schweren Körperverletzung mit dem Verlust des Sprechvermögens und dem Verfallen in Siechtum zugleich zwei Tatbestandsvarianten der schweren Körperverletzung verwirklicht sind."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "die Verhängung einer Freiheitsstrafe von drei Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 226 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 226 Abs. 3 StGB"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter Berücksichtigung aller für und gegen den Angeklagten sprechenden Umstände war deshalb die Verhängung einer Freiheitsstrafe von drei Jahren tat- und schuldangemessen."
+        }
+    ]
+}

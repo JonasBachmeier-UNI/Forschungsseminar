@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB eröffnet in Verbindung mit § 38 Abs. 2 StGB einen Strafrahmen von fünf bis zu fünfzehn Jahren Freiheitsstrafe."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "ein minder schwerer Fall nach § 213 Alt. 2 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der für die konkrete Strafzumessung anzuwendende Strafrahmen zwei Jahre bis zu elf Jahren und drei Monaten Freiheitsstrafe"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von vier Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach der vorzunehmenden Gesamtabwägung aller für und gegen den Angeklagten sprechender Umstände rechtfertigen die allgemeinen Milderungsgründe die Annahme eines minder schweren Falls nicht."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Zugunsten des Angeklagten war insbesondere zu berücksichtigen, dass er den - hinsichtlich der Tötung lediglich in Form des Eventualvorsatzes vorliegenden - Tatentschluss innerhalb eines dynamischen Geschehens in einem sehr kurzen Moment spontan gefasst hat, der nur geringfügig vorbestrafte Angeklagte im Rahmen der Untersuchungshaft im vorliegenden Verfahren und der sich anschließenden Strafhaft seine erste Hafterfahrung macht und der bei dem Unfallgeschehen nur geringfügig verletzte Nebenkläger in der Hauptverhandlung ausdrücklich zu erkennen gegeben hat, dass er an der Strafverfolgung des Angeklagten kein Interesse hat. Zulasten des Angeklagten in die Abwägung einzustellen war demgegenüber, dass in der mit der erheblichen Beschädigung des Citroen verbundenen tateinheitlichen Verwirklichung des § 315b StGB ein eigenständiger Unrechtsgehalt liegt und die Tat zudem mit einer hohen Gefährlichkeit für die Allgemeinheit, insbesondere für andere, unbeteiligte Verkehrsteilnehmer verbunden war und durch sie damit einhergehend eine erhebliche Rücksichtslosigkeit auch Dritten gegenüber zum Ausdruck gekommen ist. Zwar hat sich das Geschehen nachts abgespielt, jedoch handelt es sich bei der Tatörtlichkeit um eine Hauptverkehrsstraße und eine nur schwer einsehbare Kreuzung. Strafschärfend wirkt nach den getroffenen Feststellungen auch das der unmittelbaren Tatbegehung vorausgehende geplante Verfolgungsszenario unter Beteiligung von S. und R. U. und die hierdurch zutage getretene hohe kriminelle Energie des Angeklagten."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Im Hinblick auf die (anders als etwa der schwere gefährliche Eingriff in den Straßenverkehr, vgl. BGH, Urteil vom 4. Dezember 2014 - 4 StR 213/14 -, BGHSt 60, 84-89, juris Rn. 8 ff.) einem Ausgleich grundsätzlich zugänglichen Delikte der §§ 212, 22, 23 StGB und §§ 223 Abs. 1, 224 Abs. 1 Nr. 5 StGB fehlt es schon an der Voraussetzung einer (ernsthaft erstrebten) Wiedergutmachung."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "der nur geringfügig vorbestrafte Angeklagte im Rahmen der Untersuchungshaft im vorliegenden Verfahren und der sich anschließenden Strafhaft seine erste Hafterfahrung macht"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die Tat zudem mit einer hohen Gefährlichkeit für die Allgemeinheit, insbesondere für andere, unbeteiligte Verkehrsteilnehmer verbunden war und durch sie damit einhergehend eine erhebliche Rücksichtslosigkeit auch Dritten gegenüber zum Ausdruck gekommen ist"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "das der unmittelbaren Tatbegehung vorausgehende geplante Verfolgungsszenario unter Beteiligung von S. und R. U. und die hierdurch zutage getretene hohe kriminelle Energie des Angeklagten"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der bei dem Unfallgeschehen nur geringfügig verletzte Nebenkläger in der Hauptverhandlung ausdrücklich zu erkennen gegeben hat, dass er an der Strafverfolgung des Angeklagten kein Interesse hat"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "er den - hinsichtlich der Tötung lediglich in Form des Eventualvorsatzes vorliegenden - Tatentschluss innerhalb eines dynamischen Geschehens in einem sehr kurzen Moment spontan gefasst hat"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "der nur geringfügig vorbestrafte Angeklagte im Rahmen der Untersuchungshaft im vorliegenden Verfahren und der sich anschließenden Strafhaft seine erste Hafterfahrung macht"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Neben den bereits oben dargelegten schuldrelevanten Umständen ist vorliegend insbesondere zu berücksichtigen, dass eine Tatvollendung in Form der Tötung angesichts der nur leichten Verletzungen des Nebenklägers im Ergebnis eher in der Ferne lag. Wenngleich in der Versuchstat auch eine erhebliche kriminelle Energie und hohe (Allgemein-)Gefährlichkeit zum Ausdruck kommen, überwiegt die fehlende Vollendungsnähe derart, dass der Strafrahmen im Rahmen der Gesamtschau der für und gegen den Angeklagten sprechenden Umstände gemäß §§ 23 Abs. 2, 49 Abs. 1 StGB auf Freiheitsstrafe von zwei Jahren bis zu elf Jahren und drei Monaten zu mildern war."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Da der gemäß § 49 Abs. 1 StGB gemilderte Strafrahmen des versuchten Totschlags den der §§ 315b Abs. 1 Nr. 3, Abs. 3, 315 Abs. 3 Nr. 1a StGB (Strafrahmen von einem bis zu fünfzehn Jahren Freiheitsstrafe) und der §§ 223 Abs. 1, 224 Abs. 1 Nr. 5 StGB (Strafrahmen von sechs Monaten bis zu zehn Jahren Freiheitsstrafe) übersteigt (ein minder schwerer Fall nach § 315 Abs. 4 StGB bzw. § 224 Abs. 1 Hs. 2 StGB kommt nach den obigen Ausführungen ebenfalls nicht in Betracht), beträgt der für die konkrete Strafzumessung anzuwendende Strafrahmen zwei Jahre bis zu elf Jahren und drei Monaten Freiheitsstrafe."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der konkreten Bemessung der Strafe innerhalb des vorgenannten Strafrahmens hat die Kammer nochmals alle für und gegen den Angeklagten sprechenden Gesichtspunkte abgewogen. Unter Berücksichtigung der oben genannten und sämtlicher weiteren für und gegen den Angeklagten sprechenden Umstände erachtet die Kammer gemäß § 46 Abs. 1 und 2 StGB eine Freiheitsstrafe von vier Jahren für tat- und schuldangemessen."
+        }
+    ]
+}

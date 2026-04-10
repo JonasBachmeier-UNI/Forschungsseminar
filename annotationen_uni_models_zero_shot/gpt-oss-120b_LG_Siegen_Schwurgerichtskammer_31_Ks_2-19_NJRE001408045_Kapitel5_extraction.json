@@ -1,0 +1,64 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Bei der Strafzumessung hat die Kammer den Strafrahmen des § 224 Abs. 1 StGB, der von 6 Monaten bis zu 10 Jahren reicht, zugrunde gelegt."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Diesen Strafrahmen hat die Kammer gem. §§ 46a Nr. 1, 49 StGB gemildert mit der Folge, dass der Strafrahmen von Freiheitsstrafe von 1 Monat bis zu 7 Jahren und 6 Monate reichte."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Den Strafrahmen des § 224 Abs. 1 StGB hat die Kammer schließlich jedoch unter Anwendung des § 46a Abs. 1 StGB gem. § 49 StGB gemildert, so dass der Strafrahmen von 1 Monat bis 7 Jahre und 6 Monaten reichte."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "2 Jahren"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat im Rahmen seines Geständnisses die Verantwortung für die Tat uneingeschränkt übernommen."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "er die Tat bereut"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "er strafrechtlich nicht vorbelastet"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "bei Tatausführung unter dem Einfluss von Alkohol stand"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "er das Messer verdeckt eingesetzt und dessen Einsatz zuvor nicht angedroht hat"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "er das Messer verdeckt eingesetzt und dessen Einsatz zuvor nicht angedroht hat"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "In der Gesamtschau vermochten danach die strafmildernden die strafschärfenden Gesichtspunkte nicht wesentlich zu überwiegen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Unter zusammenfassender Würdigung all dieser für und gegen den Angeklagten sprechenden Umstände und der Erwägung, dass Strafe bei einem an und für sich sozial integrierten Täter nicht zur Entsozialisierung führen soll, hielt die Kammer zur Einwirkung auf den Angeklagten die Verhängung einer Freiheitsstrafe von"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen war nach § 52 Abs. 2 StGB aus § 226 Abs. 1 StGB zu entnehmen, der Freiheitsstrafe von einem Jahr bis zu zehn Jahren vorsieht."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "die Kammer hat jedoch nach § 226 Abs. 3 StGB einen minderschweren Fall angenommen, so dass sich ein Strafrahmen von sechs Monaten bis zu fünf Jahren ergibt."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "nach § 52 Abs. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "nach § 226 Abs. 3 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "drei Jahren"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass dieser bisher unbestraft ist."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "dass es der Nebenkläger war, der das Grundstück des Angeklagten betrat und damit eine körperliche Auseinandersetzung in Kauf nahm."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "dass der Angeklagte mit der Tat mit der gefährlichen und der schweren Körperverletzung zugleich zwei Straftatbestände verwirklicht hat."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "im Rahmen der schweren Körperverletzung mit dem Verlust des Sprechvermögens und dem Verfallen in Siechtum zugleich zwei Tatbestandsvarianten der schweren Körperverletzung verwirklicht sind."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter Berücksichtigung aller für und gegen den Angeklagten sprechenden Umstände war deshalb die Verhängung einer Freiheitsstrafe von drei Jahren tat- und schuldangemessen."
+        }
+    ]
+}

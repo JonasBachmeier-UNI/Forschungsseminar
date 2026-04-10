@@ -1,0 +1,39 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 211 Abs. 2 Alt. 5, 212 Abs. 1, 53 StGB"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Alkohol- und drogenbedingte Enthemmung und Kritikminderung des Angeklagten zum Zeitpunkt der Tatausführung"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist bislang strafrechtlich nicht in Erscheinung getreten"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "einzelnen aufgesetzten Genickschuss"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Nach den Tötungen deckte er die Leichen jeweils sorgfältig mit der Bettdecke zu."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Unter Abwägung der für und gegen das Vorliegen einer schuldrelevanten affektiven Erregung sprechenden Umstände kommt die Kammer zu dem Ergebnis, dass diejenigen genannten Merkmale, die gegen eine tiefgreifende Bewusstseinsstörung sprechen, deutlich überwiegen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Die Kammer hat bei der vorgenommenen Gesamtabwägung sämtlicher tat- und täterbezogenen Merkmale, die als Indizien für und gegen die Annahme eines schuldrelevanten Affekts sprechen können, berücksichtigt"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "13 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 38 Abs. 2 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 5 Jahren bis 15 Jahren"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Der Angeklagte ist nicht vorbestraft"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "er malträtierte S. A. mit 30 brutalen Messerstichen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "er nach Durchführung der Stiche das Messer auf S. A. warf und somit seine Herablassung demonstrierte"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "die spezifische Aussage von S. A. für die Tat eine untergeordnete Rolle gespielt hat"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Die Bemerkung, wie er darauf komme, dass es sich bei den Kindern um seine Kinder handele, stellt sowohl objektiv als auch subjektiv eine erhebliche Provokation des Angeklagten dar"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "die dadurch und durch seine geringen Sprachkenntnisse bestehende Haftempfindlichkeit"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "es handelte sich zwar um eine Impulstat, diese vermochte jedoch nicht die Qualität eines schuldvermindernden Affektes zu erreichen"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "Er unternahm keinerlei Versuch zu fliehen, obwohl sich die Pässe der Familie allesamt im Haus befanden, sondern rief den Notruf"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach einer Gesamtwürdigung dieser für und gegen den Angeklagten sprechenden Gesichtspunkte erachtet die Kammer eine Freiheitsstrafe von 13 Jahren für tat- und schuldangemessen"
+        }
+    ]
+}

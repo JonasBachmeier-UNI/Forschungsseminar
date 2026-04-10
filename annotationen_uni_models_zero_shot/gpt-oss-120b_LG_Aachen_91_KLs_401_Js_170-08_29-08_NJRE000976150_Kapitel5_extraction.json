@@ -1,41 +1,6 @@
 {
     "annotations": [
         {
-            "tag": "Gestaendnis",
-            "category": "Mildernd",
-            "quote": "der Angeklagte in erster Linie und mit besonderem Gewicht zugute, dass er das Geschehen in den meisten wesentlichen Punkten in tatsächlicher Hinsicht gestanden hat."
-        },
-        {
-            "tag": "Reue_Einsicht",
-            "category": "Mildernd",
-            "quote": "Sein Geständnis ist nach dem Eindruck der Kammer auch ernsthaft geprägt von Reue und Einsicht in sein Fehlverhalten und den unwiederbringlich angerichteten schwersten Schaden."
-        },
-        {
-            "tag": "Enthemmung_Psychologie",
-            "category": "Mildernd",
-            "quote": "Es darf auch nicht übersehen werden, dass sich sein tödliches Verhalten auf einen spontanen, nicht geplanten Entschluss gründete."
-        },
-        {
-            "tag": "Haftempfindlichkeit",
-            "category": "Mildernd",
-            "quote": "Der Angeklagte verbüßt erstmals Haft und ist deshalb als besonders haftempfindlich anzusehen."
-        },
-        {
-            "tag": "Motiv_Verwerflich",
-            "category": "SCHAERFEND",
-            "quote": "Für eine empfindliche Strafe spricht das hohe Gewicht des sinnlosen Tötungsdelikts und die Nichtigkeit des Anlasses."
-        },
-        {
-            "tag": "Tatbild_Brutalitaet",
-            "category": "SCHAERFEND",
-            "quote": "Er hat es nicht bei einem oder wenigen Stichen belassen."
-        },
-        {
-            "tag": "Strafhoehe",
-            "category": "Formalia",
-            "quote": "Jugendstrafe von sechs Jahren"
-        },
-        {
             "tag": "Gesetzesgrundlage",
             "category": "Formalia",
             "quote": "Auf den zur Tatzeit wie heute heranwachsenden Angeklagten findet gemäß § 105 Abs.1 Nr.1 JGG Jugendstrafrecht Anwendung."
@@ -46,14 +11,44 @@
             "quote": "Angesichts der Schwere der Schuld im Hinblick auf die Tötung des Q kommt gemäß § 17 Abs.2 JGG nur die Verhängung von Jugendstrafe in Betracht."
         },
         {
-            "tag": "Gesetzesgrundlage",
+            "tag": "Strafrahmen",
             "category": "Formalia",
             "quote": "Ein minder schwerer Fall im Sinne von § 213 StGB liegt keinesfalls vor."
         },
         {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Bei der Strafzumessung hält die Kammer dem Angeklagten in erster Linie und mit besonderem Gewicht zugute, dass er das Geschehen in den meisten wesentlichen Punkten in tatsächlicher Hinsicht gestanden hat."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Sein Geständnis ist nach dem Eindruck der Kammer auch ernsthaft geprägt von Reue und Einsicht in sein Fehlverhalten und den unwiederbringlich angerichteten schwersten Schaden."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte verbüßt erstmals Haft und ist deshalb als besonders haftempfindlich anzusehen."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Er hat es nicht bei einem oder wenigen Stichen belassen."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Für eine empfindliche Strafe spricht das hohe Gewicht des sinnlosen Tötungsdelikts und die Nichtigkeit des Anlasses."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Jugendstrafe von sechs Jahren"
+        },
+        {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
-            "quote": "Unter Berücksichtigung aller für und gegen den Angeklagten sprechenden Umstände, im Hinblick auf seine aufzuarbeitenden Erziehungsdefizite und in Anbetracht des schweren menschlichen Schadens, den er angerichtet hat, hält die Kammer eine"
+            "category": "Abwägung",
+            "quote": "Unter Berücksichtigung aller für und gegen den Angeklagten sprechenden Umstände, im Hinblick auf seine aufzuarbeitenden Erziehungsdefizite und in Anbetracht des schweren menschlichen Schadens, den er angerichtet hat, hält die Kammer eine Jugendstrafe von sechs Jahren für notwendig und angemessen."
         }
     ]
 }

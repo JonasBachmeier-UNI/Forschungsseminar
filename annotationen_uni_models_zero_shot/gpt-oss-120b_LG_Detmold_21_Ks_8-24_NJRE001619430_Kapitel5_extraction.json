@@ -1,0 +1,109 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "13 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1, 218 Abs. 1, 223 Abs. 1, 226 Abs. 1 Nr. 3, 22, 23, 52 StGB."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Alt. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Alt. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 52 Abs. 2 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen des § 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmen"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "kein minder schwerer Fall des Totschlags"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "keine Strafrahmenverschiebung"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der Angeklagte nicht vorbestraft ist"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "er bereits sieben Monate Untersuchungshaft verbüßt hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Er hat den Kopf der Nebenklägerin in Tötungsabsicht so lange unter Wasser gedrückt, bis sie kein Lebenszeichen mehr von sich gab."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Sie ist zu einem Vollpflegefall geworden und hat ihre kognitiven und körperlichen Fähigkeiten weitgehend verloren."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Sie hat sämtliche kognitiven Fähigkeiten für immer verloren. Sie ist reaktionslos wach, urin- und stuhlinkontinent und wird künstlich über eine Magensonde ernährt. Sämtliche Gliedmaßen sind spastisch gelähmt und sie leidet an einer nicht behandelbaren Epilepsie."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "der Angeklagte tateinheitlich zum versuchten Totschlag eine schwere Körperverletzung sowie einen Schwangerschaftsabbruch verwirklicht hat."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Er nahm somit an, bereits alles zur Verwirklichung des Tatbestands Erforderliche getan zu haben, als er ihren leblosen Körper an die 25 Meter vom Ufer entfernte Auffindestelle verbrachte und dort zurückließ."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Nach der vorgenommenen Gesamtabwägung, bei der alle nachfolgend (unter VI.1. und VI.2.) aufgeführten und sonstigen Umstände und Aspekte herangezogen und gewürdigt worden sind, die für die Wertung der Taten und des Täters in Betracht kommen und die der Tat innewohnen, ihr vorausgehen oder nachfolgen, kam ein minder schwerer Fall im Sinne des § 213 Alt 2 StGB nicht in Betracht."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Nach Abwägung aller für und gegen den Angeklagten sprechenden Umstände hat die Kammer unter Berücksichtigung der Person des Angeklagten und der abgeurteilten Tat eine Freiheitsstrafe von"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Die Kammer verkennt hierbei nicht, dass der Angeklagte spontan zu der Tat hingerissen wurde und seine Alarmierung der Rettungskräfte letztlich dafür gesorgt hat, dass das Leben der Nebenklägerin gerettet werden konnte, auch wenn ihre Rettung nicht das Ziel seines Notrufs war."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Die Strafrahmenverschiebung zu verweigern, kann insbesondere dann angemessen sein, wenn die Folgen des Versuchs besonders nahe zur Vollendung liegen oder wenn es letztlich nur dem Zufall geschuldet war, dass der Erfolg nicht eintrat."
+        }
+    ]
+}

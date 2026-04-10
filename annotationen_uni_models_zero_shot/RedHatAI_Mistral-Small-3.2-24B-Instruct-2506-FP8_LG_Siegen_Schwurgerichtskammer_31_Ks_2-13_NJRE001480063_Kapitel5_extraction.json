@@ -1,0 +1,114 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "ein Strafrahmen von 5 bis 15 Jahren Freiheitsstrafe zugrunde zu legen."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "von einem Strafrahmen von 2 Jahren bis 11 Jahren und 3 Monaten Freiheitsstrafe auszugehen war."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von 10 Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von 4 Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Gesamtfreiheitsstrafe von 11 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "gem. § 212 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "gem. §§ 23, 49 Abs. 1 Nr. 3 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "an § 46 StGB orientiert"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "gem. §§ 53, 54 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Zugunsten des Angeklagten war sein Geständnis zu werten."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Für den Angeklagten sprach überdies, dass er nicht vorbestraft ist."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "die in der Hauptverhandlung zu Tage getretene Reue des Angeklagten positiv zu werten."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "strafmildernd zu berücksichtigen, dass es sich um eine Spontantat mit nur bedingtem Tötungsvorsatz gehandelt hat und bei der Tötung die durch Wut und Enttäuschung hervorgebrachte starke emotionale Erregung des Angeklagten eine entscheidende Rolle gespielt hat."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "strafmildernd war außerdem das junge Alter des zur Tatzeit 23-jährigen Angeklagten zu berücksichtigen, da der Strafvollzug erhebliche Auswirkungen auf das weitere Leben des Angeklagten haben wird."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "erheblich gegen den Angeklagten sprach hingegen, dass er die zu den Straftaten führende Ausgangssituation in der Tatnacht selbst durch den Einbruch, der einen Hausfriedensbruch und eine Sachbeschädigung darstellt, herbeigeführt hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Negativ war hingegen zusätzlich zu berücksichtigen, dass der Angeklagte vor Fassen des Tötungsvorsatzes bereits durch die Schläge und das Herbeiführen des Schädel-Hirn-Traumas Körperverletzungen begangen hat."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "strafschärfend zu berücksichtigen, dass sich bei dem Brand mehrere Bewohner im Haus befunden haben, mit deren Anwesenheit der Angeklagte rechnen musste, auch wenn eine konkrete Gefahr für die Bewohner nicht bestanden hat."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "Zulasten des Angeklagten war weiter seine besondere kriminelle Energie zu berücksichtigen, die sich darin zeigte, dass der Angeklagte an sieben verschiedenen Stellen Feuer legte."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "Gegen den Angeklagten sprach schließlich, dass trotz des untauglichen Versuchs ein Sachschaden im Kellergeschoss entstanden ist."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer hat nach Abwägung aller genannten Umstände eine Freiheitsstrafe in der Mitte der Strafrahmens gewählt"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller für und gegen den Angeklagten sprechenden Umstände hält die Kammer für den Versuch der besonders schweren Brandstiftung eine Freiheitsstrafe von 4 Jahren für tat- und schuldangemessen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach erneuter Abwägung aller relevanten Umstände hat die Kammer eine Gesamtfreiheitsstrafe von 11 Jahren und 6 Monaten für angemessen erachtet."
+        }
+    ]
+}

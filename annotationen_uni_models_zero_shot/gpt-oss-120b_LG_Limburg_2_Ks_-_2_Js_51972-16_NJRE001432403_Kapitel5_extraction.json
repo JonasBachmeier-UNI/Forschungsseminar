@@ -1,0 +1,49 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen des § 212 Abs. 1 StGB sieht Freiheitsstrafe von 5 Jahren bis 15 Jahren vor."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen des § 212 Abs. 1 StGB sieht Freiheitsstrafe von 5 Jahren bis 15 Jahren vor."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Die Kammer hat geprüft, ob ein minder schwerer Fall des Totschlags zu bejahen ist (§ 213 Alt. 2 StGB)."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Ein minder schwerer Fall liegt dann vor, wenn das gesamte Tatbild, einschließlich aller subjektiver Momente und der Persönlichkeit des Angeklagten vom Durchschnitt der erfahrungsgemäß gewöhnlich vorkommenden Fälle in einem solchen Maße abweicht, dass die Anwendung des Ausnahmestrafrahmens geboten erscheint."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Zu Gunsten der Angeklagten hat die Kammer berücksichtigt, dass sie strafrechtlich noch nicht in Erscheinung getreten ist und zum Tatzeitpunkt gerade erst 22 Jahre und 1 Monat alt war."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Die Angeklagte ist besonders haftempfindlich, weil die Art des Deliktes ihr das Zusammenleben mit anderen Strafgefangenen erschwert."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "SCHAERFEND",
+            "quote": "Gegen die Angeklagte sprach, dass sie gegenüber ihrem Kind eine Obhutspflicht hatte."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Unter Abwägung sämtlicher für und gegen die Angeklagte sprechenden Umstände, hielt die Kammer eine"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 9 Jahren"
+        }
+    ]
+}

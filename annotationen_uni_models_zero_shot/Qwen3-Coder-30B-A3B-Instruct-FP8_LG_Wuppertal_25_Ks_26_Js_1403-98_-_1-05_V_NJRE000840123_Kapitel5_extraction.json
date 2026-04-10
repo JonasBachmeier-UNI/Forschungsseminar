@@ -1,0 +1,69 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Im Rahmen der Strafzumessung hat die Kammer unter Berücksichtigung von § 52 Abs.2 StGB den Regelstrafrahmen des § 212 Abs. 1 StGB zu Grunde gelegt und ist mithin von einem Strafrahmen in Höhe von 5 Jahren bis zu 15 Jahren Freiheitsstrafe ausgegangen."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Im Rahmen der Strafzumessung hat die Kammer unter Berücksichtigung von § 52 Abs.2 StGB den Regelstrafrahmen des § 212 Abs. 1 StGB zu Grunde gelegt"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "acht Jahren"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat das Tatgeschehen vollumfänglich eingeräumt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Er war es vielmehr gewohnt, seine eigenen Bedürfnisse erfolgreich in den Vordergrund zu stellen und diese notfalls durch aufbrausendes Verhalten, gegenüber seiner Ehefrau auch mit Hilfe von entsprechenden Tätlichkeiten, durchzusetzen."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Es war nicht ersichtlich, dass der Angeklagte ohne eigene Schuld durch eine ihm von seiner Ehefrau zugefügte Misshandlung oder schweren Beleidigung zum Zorn gereizt und hierdurch auf der Stelle zur Tat hingerissen wurde. Selbst wenn ein im Verhältnis zu den früheren Streitgesprächen maßvoll geführter Disput der Tat vorangegangen sein sollte, wäre zu beachten gewesen, dass bei der Einschätzung der Schwere einer Beleidigung im Rahmen von § 213 1. Alternative StGB vom Lebenskreis der Beteiligten auszugehen ist"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Es war nicht ersichtlich, dass der Angeklagte ohne eigene Schuld durch eine ihm von seiner Ehefrau zugefügte Misshandlung oder schweren Beleidigung zum Zorn gereizt und hierdurch auf der Stelle zur Tat hingerissen wurde."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "daß er strafrechtlich zum damaligen Zeitpunkt noch nicht in Erscheinung getreten war und als Ausländer verstärkt haftempfindlich ist"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "auch fiel ins Gewicht, dass er und seine Familie durch die in Togo erlittene Verfolgung gezwungen waren, sich in Deutschland eine neue Existenz aufzubauen, die ohne die gewohnten Privilegien und wirtschaftliche Absicherung blieb"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller Umstände..."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Dass er die Tat - auch wenn er sie spontan beging - in der geschützten Umgebung der vormals ehelichen Wohnung verübte, die er seiner Ehefrau zur alleinigen Nutzung mit den Kindern überlassen hatte"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "dass er die Tat, die seiner körperlich unterlegenen Ehefrau nahezu keinerlei Chance zur Gegenwehr ließ, aus eigensüchtigen Motiven verübte, nämlich weil er den von ihr ausgehenden Entschluss, ihn mit den Kindern zu verlassen, und den damit verbundenen Ansehensverlust nicht verwinden konnte"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "tateinheitlich mit der Tötungshandlung an seiner Ehefrau einen Schwangerschaftsabbruch beging"
+        }
+    ]
+}

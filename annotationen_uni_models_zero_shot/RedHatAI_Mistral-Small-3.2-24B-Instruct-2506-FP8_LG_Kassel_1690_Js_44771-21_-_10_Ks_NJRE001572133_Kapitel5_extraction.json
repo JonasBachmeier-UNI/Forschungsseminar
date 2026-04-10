@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der maßgebliche Regelstrafrahmen des § 212 Abs. 1 StGB beläuft sich auf Freiheitsstrafe von 5 Jahren bis 15 Jahren (§ 38 Abs. 2 StGB); dieser war zugrunde zu legen."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Ein minder schwerer Fall nach § 213 StGB liegt vor, wenn jemand ohne eigene Schuld durch eine ihm zugefügte schwere Beleidigung von dem getöteten Menschen zum Zorn gereizt und hierdurch auf der Stelle zur Tat hingerissen worden ist."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Die Bemerkung, wie er darauf komme, dass es sich bei den Kindern um seine Kinder handele, stellt sowohl objektiv als auch subjektiv eine erhebliche Provokation des Angeklagten dar, die seine Vaterschaft und Ehre in Frage stellt."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Durch sein überdurchschnittlich aggressives Verhalten trug er dazu bei, dass S. A. ihn beleidigte und provozierte. Ihm war bekannt, dass er zu Gewaltausbrüchen neigte."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Er malträtierte S. A. mit 30 brutalen Messerstichen"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Gravierend zu seinen Lasten wirkt sich jedoch die Anwesenheit der fünf Kinder bei der Tat aus und der Umstand, dass er deren Flehen aufzuhören nicht nachkam, sondern schwerwiegende Folgen für diese in Kauf nahm."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Seine Äußerungen gegenüber den Kindern, die Mutter komme in die Hölle, stellen sich erheblich nachteilig dar und der Umstand, dass er nach Durchführung der Stiche das Messer auf S. A. warf und somit seine Herablassung demonstrierte."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Indessen hat die Kammer zugunsten des Angeklagten berücksichtigt, dass er nicht vorbestraft ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "die dadurch und durch seine geringen Sprachkenntnisse bestehende Haftempfindlichkeit"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "es sich um eine Impulstat handelte"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Er stellt die Tat nicht in Abrede"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Mildernd",
+            "quote": "Er unternahm keinerlei Versuch zu fliehen, sondern rief den Notruf."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach einer Gesamtwürdigung dieser für und gegen den Angeklagten sprechenden Gesichtspunkte erachtet die Kammer eine Freiheitsstrafe von 13 Jahren für tat- und schuldangemessen."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "13 Jahren"
+        }
+    ]
+}

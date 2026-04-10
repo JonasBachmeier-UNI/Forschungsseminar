@@ -1,0 +1,39 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "quote": "§§ 211 Abs. 2 Alt. 5, 212 Abs. 1, 53 StGB",
+            "category": "Formalia"
+        },
+        {
+            "tag": "Strafrahmen",
+            "quote": "§ 212 Abs. 1 StGB",
+            "category": "Formalia"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "quote": "Der Angeklagte hat sich zur Tat spontan hinreißen lassen und keine Handlungen vorgenommen, um diese oder seine Täterschaft zu vertuschen. Diese Umstände deuten jedenfalls auf eine alkohol- und drogenbedingte Enthemmung und Kritikminderung des Angeklagten zum Zeitpunkt der Tatausführung hin.",
+            "category": "Mildernd"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "quote": "Der Angeklagte war zum Tatzeitpunkt derart berauscht, dass bei ihm eine Enthemmung und Kritikminderung vorlag.",
+            "category": "Mildernd"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "quote": "Der Angeklagte ist bislang strafrechtlich nicht in Erscheinung getreten, die Beweisaufnahme hat keine Hinweise auf frühere Gewalttätigkeiten ergeben.",
+            "category": "Mildernd"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "quote": "Unter Abwägung der für und gegen das Vorliegen einer schuldrelevanten affektiven Erregung sprechenden Umstände kommt die Kammer zu dem Ergebnis, dass diejenigen genannten Merkmale, die gegen eine tiefgreifende Bewusstseinsstörung sprechen, deutlich überwiegen.",
+            "category": "Abwaegung"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "quote": "Die Kammer hat bei der vorgenommenen Gesamtabwägung sämtlicher tat- und täterbezogenen Merkmale, die als Indizien für und gegen die Annahme eines schuldrelevanten Affekts sprechen können, berücksichtigt, dass sich bei dem Angeklagten über die Jahre ein gewisser Affektstau aufgebaut hatte, der sich in der Tat entlud.",
+            "category": "Abwaegung"
+        }
+    ]
+}

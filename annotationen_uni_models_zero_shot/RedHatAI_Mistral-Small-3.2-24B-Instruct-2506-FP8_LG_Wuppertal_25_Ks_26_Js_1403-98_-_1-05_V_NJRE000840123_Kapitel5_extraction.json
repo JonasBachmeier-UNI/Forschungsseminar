@@ -1,0 +1,89 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmen des § 212 Abs. 1 StGB zu Grunde gelegt und ist mithin von einem Strafrahmen in Höhe von 5 Jahren bis zu 15 Jahren Freiheitsstrafe ausgegangen."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "daß der Angeklagte ohne eigene Schuld durch eine ihm von seiner Ehefrau zugefügte Misshandlung oder schweren Beleidigung zum Zorn gereizt und hierdurch auf der Stelle zur Tat hingerissen wurde"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Selbst wenn ein im Verhältnis zu den früheren Streitgesprächen maßvoll geführter Disput der Tat vorangegangen sein sollte,"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "daß er strafrechtlich zum damaligen Zeitpunkt noch nicht in Erscheinung getreten war"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "als Ausländer verstärkt haftempfindlich ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "er und seine Familie durch die in Togo erlittene Verfolgung gezwungen waren, sich in Deutschland eine neue Existenz aufzubauen,"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "vor dem Hintergrund seiner erfahrenen egozentriksteigernden elterlichen Erziehung persönlichkeitsbedingt nur eingeschränkt Möglichkeiten besaß,"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Zu seinen Gunsten war demnach seine gekränkte Gemütsverfassung zum Tatzeitpunkt zu werten, wenngleich diese nicht ansatzweise Kennzeichen einer psychischen Dekompensation aufwies,"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "sowie der Umstand, dass es sich um eine spontane Tat handelte, die er in einem affektiv angespannten Erregungszustand beging, auch wenn dieser kein forensisch relevantes Maß erlangte."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Maßgeblich fiel zu seinen Gunsten ferner die überaus lange Verfahrensdauer ins Gewicht, die für ihn und seine Familie eine große Belastung darstellte und innerhalb derer er ein zweites Mal in Untersuchungshaft geriet, wodurch er seine wirtschaftliche Existenz wieder verlor, die er sich nach seiner ersten Haftentlassung aufgebaut hatte."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "er die Tat - auch wenn er sie spontan beging - in der geschützten Umgebung der vormals ehelichen Wohnung verübte, die er seiner Ehefrau zur alleinigen Nutzung mit den Kindern überlassen hatte und die er gleichwohl aufsuchte, obwohl ihm seine Verärgerung über das Verhalten seiner Ehefrau bewusst war und er seine Neigung kannte, gewalttätig zu reagieren, wenn sie sich seinen Vorstellungen und Wünschen nicht fügte."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Gegen ihn sprach auch, dass er die Tat, die seiner körperlich unterlegenen Ehefrau nahezu keinerlei Chance zur Gegenwehr ließ, aus eigensüchtigen Motiven verübte,"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "weil er den von ihr ausgehenden Entschluss, ihn mit den Kindern zu verlassen, und den damit verbundenen Ansehensverlust nicht verwinden konnte,"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Zu seinem Nachteil fiel ferner ins Gewicht, dass er tateinheitlich mit der Tötungshandlung an seiner Ehefrau einen Schwangerschaftsabbruch beging."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe in Höhe von acht Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Um die Schuld des Angeklagten und das Unrecht der von ihm begangenen Tat angemessen zu ahnden, hielt die Kammer unter maßgeblicher Berücksichtigung der langen Verfahrensdauer eine Freiheitsstrafe in Höhe von"
+        }
+    ]
+}

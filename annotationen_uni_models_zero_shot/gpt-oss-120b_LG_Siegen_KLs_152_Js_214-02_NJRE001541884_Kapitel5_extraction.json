@@ -1,0 +1,59 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 1 Abs.1 und 2 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 18 Abs.1 Satz 1 und 2 JGG"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "ein Rahmen von 6 Monaten bis zu 10 Jahren eröffnet"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen gemäß § 211,21,49 Abs.1 StGB: 3 bis 15 Jahre; Strafrahmen gemäß §§ 212, 21, 49 Abs.1 StGB: 2 bis 11 Jahre 3 Monate"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "er nicht vorbelastet ist"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "von Anbeginn geständig war"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "eine ersichtlich ernst gemeinte Einsicht in sein allerdings massives Fehlverhalten dokumentiert hat"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "im Zustand erheblich verminderter Steuerungsfähigkeit gehandelt hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Er hat vorsätzlich zwei Menschenleben ausgelöscht"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Er hat die Schwester zur Vollwaisen gemacht"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "6 Jahre"
+        }
+    ]
+}

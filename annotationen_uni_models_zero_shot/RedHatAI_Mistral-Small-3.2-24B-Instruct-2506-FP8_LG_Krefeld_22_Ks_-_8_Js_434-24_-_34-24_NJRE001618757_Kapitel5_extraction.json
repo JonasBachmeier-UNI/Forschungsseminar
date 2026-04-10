@@ -1,0 +1,59 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Kammer hat zunächst den Strafrahmen des § 212 Abs. 1 StGB, der eine Freiheitsstrafe von fünf Jahren bis zu 15 Jahren vorsieht, zugrunde gelegt."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "§ 213 StGB regelt mit dem Affekttotschlag nach vorausgegangener Tatprovokation und sonstigen minder schweren Fällen zwei Alternativen der privilegierten vorsätzlichen Tötung."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "§ 213 Var. 1 StGB privilegiert den Täter, der aus berechtigtem Zorn handelt, weil er vor der Tat seinerseits körperlich oder durch ein ihn - sei es verbal oder in anderer Weise - schwer beleidigendes Verhalten des Opfers angegriffen worden ist"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Dabei sprach zu Gunsten des Angeklagten, dass dieser bisher strafrechtlich nicht in Erscheinung getreten ist."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Die Geschädigte nicht lange leiden musste und wenige Sekunden nach dem Messerstich das Bewusstsein verlor."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte sich seit nunmehr bereits ca. 7 Monaten als Erstverbüßer in Untersuchungshaft befindet und als nichtdeutschsprachiger Ausländer besonders haftempfindlich ist und während der Untersuchungshaft eine mittelgradige depressive Episode mit latenter Suizidalität erlitt."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte die Tat bereits eine Woche geplant und mit gezieltem Tötungsvorsatz (dolus directus 1. Grades) handelte"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte handelte mithin sehr überlegt und mit erheblicher krimineller Energie."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer hat gleichsam geprüft, ob ein besonders schwerer Fall des Totschlags gem. § 212 Abs.2 StGB vorliegt und dies im Ergebnis ebenfalls verneint."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer hat bei der Strafzumessung im engeren Sinne die oben ausgeführten für und gegen den Angeklagten sprechenden Strafzumessungsgesichtspunkte gegeneinander abgewogen."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "zwölf Jahren und sechs Monaten"
+        }
+    ]
+}

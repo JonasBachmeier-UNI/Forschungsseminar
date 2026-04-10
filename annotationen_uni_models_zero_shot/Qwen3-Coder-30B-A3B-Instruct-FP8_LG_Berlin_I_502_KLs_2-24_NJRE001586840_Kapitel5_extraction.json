@@ -1,0 +1,159 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "1 (einem) Jahr und 10 (zehn) Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 130 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 111 Abs. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 140 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 46 Abs. 2 Satz 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 56 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 56 Abs. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 56 Abs. 3 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der Strafrahmen des § 130 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der Strafrahmen des § 111 Abs. 2 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der Strafrahmen des § 140 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sich zu den objektiven Umständen geständig gezeigt"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "die Angeklagte hat das Tatgeschehen vollumfänglich eingeräumt"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "ihre weitgehend geständigen Einlassung"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "ihre distanziert hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "die Angeklagte hat das Tatgeschehen vollumfänglich eingeräumt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "die Angeklagte ... sich erst denkbar spät, nämlich im Rahmen ihres letzten Wortes, umfassend und ohne Relativierung von den von ihr veröffentlichten Inhalten und der Hamas distanziert hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "die Angeklagte ... ihre antisemitische Haltung nicht abgelegt hat, ist sie sich doch der Gefahr einer zu vollstreckenden Freiheitsstrafe als Konsequenz neuerlicher Straftaten bewusst und will diese schon ihrer Familie zuliebe vermeiden"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "nicht vorbestraft ist"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "nicht vorbestraften und weitgehend geständigen Angeklagten"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "ihrem noch nicht einmal ein Jahr alten Kind, das bei Begehung der Taten 2 bis 4 erst wenige Monate alt war"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "neuerlichen Schwangerschaft im achten Monat zum Zeitpunkt der Hauptverhandlung"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "durch die auch medial beachtete Hauptverhandlung und die Berichterstattung im Vorfeld besonders belastet war"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "besonders drastisch entwürdigende und von bemerkenswerter Empathielosigkeit geprägte glorifizierende Darstellung des getöteten Soldaten"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "antisemitischen Beweggründe gemäß § 46 Abs. 2 Satz 2 StGB"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "relativ große Adressatenkreis der Aufforderung"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "die Taten in der mit einer allgemeinen Reduzierung von Hemmschwellen verbundenen Anonymität des Internets erfolgten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung all dessen"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Abwägung aller für und gegen die Angeklagte sprechenden Umstände"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "die Kammer hat nach einer Gesamtwürdigung der Taten und der Täterpersönlichkeit"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "nicht vorbestraft"
+        }
+    ]
+}

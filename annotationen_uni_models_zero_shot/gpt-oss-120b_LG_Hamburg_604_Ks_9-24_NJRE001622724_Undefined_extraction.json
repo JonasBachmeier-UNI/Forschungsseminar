@@ -1,0 +1,89 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von sechs Monaten bis zu zehn Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von fünf Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 224 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 358 Abs. 2 S. 1 StPO"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "er weite Teile des objektiven Tatgeschehens eingeräumt hat."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "er eingeräumt hat, den Messerstich auf die festgestellte Art und Weise ausgeführt zu haben."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "der Angeklagte im Zuge seines letzten Wortes aufrichtig wirkende Reue für den Vorfall gezeigt hat."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "nicht ausschließbar infolge des Konsums von Alkohol bei der Tatbegehung enthemmt war."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "seit seiner Festnahme vom 3. März 2023 in Untersuchungshaft befindet, was angesichts der im Vergleich zur regulären Strafhaft härteren Bedingungen der Untersuchungshaft allein wegen der langen Dauer eine besondere Härte darstellt"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "nicht ausschließbaren Faustschlag des Geschädigten"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "mehrfach einschlägig vorbestraft ist."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "in Verletzungsabsicht handelte"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "in Verletzungsabsicht handelte"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "er allein schon durch das Beisichführen des Messers gegen das ihm auferlegte Waffenverbot verstoßen hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "in einem öffentlichen Park und in der Nähe eines Kinderspielplatzes begangen hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "der Geschädigte durch die Tat erhebliche Verletzungsfolgen erlitten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Im Ergebnis einer Gesamtschau und Abwägung der Strafzumessungsgesichtspunkte"
+        }
+    ]
+}

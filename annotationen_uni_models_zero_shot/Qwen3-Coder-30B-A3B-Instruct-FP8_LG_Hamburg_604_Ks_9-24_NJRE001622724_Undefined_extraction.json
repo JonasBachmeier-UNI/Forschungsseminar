@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von fünf Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 224 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "von Freiheitsstrafe von sechs Monaten bis zu zehn Jahren"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "er weite Teile des objektiven Tatgeschehens eingeräumt hat"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "er eingeräumt hat, den Messerstich auf die festgestellte Art und Weise ausgeführt zu haben"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "dass er den Messerstich nicht ausschließbar auch deshalb abgegeben hat, weil er zuvor einen Faustschlag erlitten hat"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "das Verfahren zum Zeitpunkt der Urteilsverkündung seit insgesamt 22 Monaten über dem Angeklagten schwebt"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "der Angeklagte sich seit seiner Festnahme vom 3. März 2023 in Untersuchungshaft befindet, was angesichts der im Vergleich zur regulären Strafhaft härteren Bedingungen der Untersuchungshaft allein wegen der langen Dauer eine besondere Härte darstellt"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "nicht ausschließbar eine eigene, durch den Geschädigten verursachte Verletzung erlitten hat und nicht ausschließbar infolge des Konsums von Alkohol bei der Tatbegehung enthemmt war"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "der Angeklagte im Zuge seines letzten Wortes aufrichtig wirkende Reue für den Vorfall gezeigt hat"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "der Angeklagte mehrfach einschlägig vorbestraft ist"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "der Geschädigte durch die Tat erhebliche Verletzungsfolgen erlitten hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "So schloss sich an die Tatbegehung ein zweiwöchiger Krankenhausaufenthalt an, der Geschädigte musste zwei Mal operiert werden"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "der Geschädigte für die Dauer von fünf Monaten arbeitsunfähig und leidet bis heute an durch die Tat verursachten Schmerzen"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "der Angeklagte in Verletzungsabsicht handelte"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "er allein schon durch das Beisichführen des Messers gegen das ihm auferlegte Waffenverbot verstoßen hat"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "die Tat in einem öffentlichen Park und in der Nähe eines Kinderspielplatzes begangen hat, weshalb die Tat in besonderem Maße geeignet gewesen ist, das Sicherheitsempfinden der Allgemeinheit negativ zu beeinflussen"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Im Ergebnis einer Gesamtschau und Abwägung der Strafzumessungsgesichtspunkte hält die Kammer eine"
+        }
+    ]
+}

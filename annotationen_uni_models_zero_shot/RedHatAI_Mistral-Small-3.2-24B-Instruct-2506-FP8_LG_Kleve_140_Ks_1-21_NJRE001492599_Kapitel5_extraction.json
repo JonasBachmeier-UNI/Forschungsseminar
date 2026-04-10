@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 5 bis 15 Jahren."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB und damit Freiheitsstrafe von 5 bis 15 Jahren."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Ein besonders schwerer Fall des Totschlags nach § 212 Abs. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "aufgrund des Fehlens von Vorstrafen"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "die mit dem Erregungszustand der Mutter X der Geburt verbundene Belastung vom \"Normalfall\" der vorsätzlichen Tötung"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Aufgrund der Belastungen durch die unmittelbar zuvor erfolgte Geburt mag bei ihr B3 - unterhalb der Erheblichkeitsschwelle der §§ 20, 21 StGB - die Hemmschwelle herabgesetzt gewesen sein."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Mildernd",
+            "quote": "die Kammer zugunsten der Angeklagten berücksichtigt, dass diese zumindest später den Fundort der Leiche preisgegeben hat."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Ferner hat die Kammer bei der Strafzumessung zugunsten der Angeklagten in Rechnung gestellt, dass diese bislang nicht strafrechtlich in Erscheinung getreten ist."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "T6 ist Erstverbüßerin."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "T6 ist besonders haftempfindlich, weil T6 lange Zeit getrennt von ihren 2 kleinen Kindern sein muss, die die nächsten Jahre ohne Mutter aufwachsen müssen, was ebenfalls strafmildernd zu berücksichtigen ist."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "das gerade geborene Opfer besonders schutz- und hilflos war"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "die Tat zu überdurchschnittlichen psychischen Folgen bei der ganzen Familie C/S geführt hat."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Eine Gesamtabwägung unter Berücksichtigung aller nachfolgend aufgeführten Milderungsgründe ergibt nicht, dass die vorliegende Tat vom \"Normalfall\" der vorsätzlichen Tötung in einem solchen Grad abweicht, dass die Anwendung des Regelstrafrahmens unangemessen erscheint."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Nach Gesamtabwägung aller zugunsten und zu Lasten der Angeklagten sprechenden Umstände"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von 5 Jahren und 6 Monaten"
+        }
+    ]
+}

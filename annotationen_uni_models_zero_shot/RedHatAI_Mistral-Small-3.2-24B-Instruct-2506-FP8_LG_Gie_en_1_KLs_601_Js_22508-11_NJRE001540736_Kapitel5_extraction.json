@@ -1,0 +1,59 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Einheitsjugendstrafe von 3 Jahren 10 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 21 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "gemäß § 17 Abs. 2 JGG"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "schuldlos an der rechtzeitigen Aufnahme professioneller Hilfe gehindert wurde"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sein Verhalten zumindest teilweise und im Laufe der Hauptverhandlung auch in Punkten, die er zuvor abstritt, einräumte, und sich bei der Nebenklägerin glaubhaft entschuldigte"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "bereut, sondern auch im Hinblick auf die Folgen, die die Nebenklägerin durchlitt - die er mit nicht lapidaren Worten bedauerte"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Alkohols beging, auch wenn dies nicht an die Schwelle des § 21 StGB heranreichte"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "das Verhalten der Nebenklägerin selbst trug in nicht unbeträchtlichem Maße zur Eskalation aller drei abgeurteilten Taten bei"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte war vor Begehung der Taten zudem bereits strafrechtlich in Erscheinung getreten"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "gleich mehrfach Angriffe auf das Leben der Nebenklägerin unternahm, hierbei nicht vor dem Versuch zurückschreckte, andere zur Mithilfe zu bewegen, und das Leben der Nebenklägerin durch das Würgen am 02.07.020.. nicht nur konkret gefährdet wurde, sondern die Tat auch besonders dicht an eine Tötung heranreichte"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung auch sämtlicher übriger für und gegen den Angeklagten sprechenden Umstände erschien daher die Verhängung einer"
+        }
+    ]
+}

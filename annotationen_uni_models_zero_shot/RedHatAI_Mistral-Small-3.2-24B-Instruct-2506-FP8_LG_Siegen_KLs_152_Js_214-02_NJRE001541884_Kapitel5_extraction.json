@@ -1,0 +1,69 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "6 Jahre"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 211,21,49 Abs.1 StGB: 3 bis 15 Jahre; Strafrahmen gemäß §§ 212, 21, 49 Abs.1 StGB: 2 bis 11 Jahre 3 Monate"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen gemäß § 211,21,49 Abs.1 StGB: 3 bis 15 Jahre; Strafrahmen gemäß §§ 212, 21, 49 Abs.1 StGB: 2 bis 11 Jahre 3 Monate"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "von Anbeginn geständig war"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "eine ersichtlich ernst gemeinte Einsicht in sein allerdings massives Fehlverhalten dokumentiert hat"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "nicht vorbelastet ist"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "im Zustand erheblich verminderter Steuerungsfähigkeit gehandelt hat"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "die Vorgeschichte, die über lange Zeit chronisch belastete Beziehungswelt zwischen Eltern und Sohn, die jedenfalls mit zunehmendem Alter des Angeklagten von unangemessenen Erziehungsmethoden geprägt war"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Seit nunmehr rund 7 Monaten befindet er sich, der erstmals mit Strafverfolgungsbehörden und Justiz in Kontakt gekommen ist, in Untersuchungshaft quasi abgeschnitten von allem, was vorher war"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "schädliche Neigungen bei dem nicht vorbelasteten und mit deutlich niedrigem Aggressionspotential und überdurchschnittlicher Aggressionshemmung ausgestatteten Angeklagten nicht festzustellen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Er hat vorsätzlich zwei Menschenleben ausgelöscht und damit nicht nur sich selbst die Eltern genommen, sondern rein tatsächlich noch mehr Opfer im weiteren Sinne geschaffen. Er hat die Schwester zur Vollwaisen gemacht und auch den Großeltern ihrerseits die Kinder genommen."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Die in der Tat hervorgetretene Reaktion des Angeklagten auf die sicherlich unangemessenen Erziehungsmethoden der Eltern kann letztlich nur als extrem bezeichnet werden."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Um die erforderliche erzieherische Einwirkung auf den Angeklagten zu ermöglichen, darüber hinaus aber auch dem Sühnegedanken hinreichend Rechnung zu tragen, hat die Kammer unter Berücksichtigung der vorstehend aufgeführten Erwägungen die Jugendstrafe auf 6 Jahre bemessen."
+        }
+    ]
+}

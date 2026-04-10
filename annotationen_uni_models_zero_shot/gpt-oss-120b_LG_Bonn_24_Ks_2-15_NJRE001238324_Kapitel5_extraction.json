@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Das Gesetz sieht für den Totschlag gemäß § 212 Abs. 1 StGB die Verhängung einer Freiheitsstrafe von fünf bis fünfzehn Jahren vor."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "In besonders schweren Fällen ist gemäß § 212 Abs. 2 StGB auf lebenslange Freiheitsstrafe zu erkennen."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Im minder schweren Fall ist gemäß § 213 StGB ein Strafrahmen eröffnet, der Freiheitsstrafe von einem bis zu zehn Jahren vorsieht."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Es ist daher von dem Strafrahmen des § 212 Abs. 1 StGB und damit einem Strafrahmen von fünf bis fünfzehn Jahren Freiheitsstrafe auszugehen."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Im minder schweren Fall ist gemäß § 213 StGB ein Strafrahmen eröffnet, der Freiheitsstrafe von einem bis zu zehn Jahren vorsieht."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "zwölf Jahren"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte bereits frühzeitig in seiner ersten verantwortlichen Vernehmung ein von Reue getragenes Geständnis abgelegt hat, welches dadurch dokumentiert wird, dass er die vernehmenden Polizeibeamten zum Ablageort der Leiche geführt hat, und er dieses Geständnis in der Hauptverhandlung wiederholt hat,"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "der Angeklagte bereits frühzeitig in seiner ersten verantwortlichen Vernehmung ein von Reue getragenes Geständnis abgelegt hat, welches dadurch dokumentiert wird, dass er die vernehmenden Polizeibeamten zum Ablageort der Leiche geführt hat, und er dieses Geständnis in der Hauptverhandlung wiederholt hat,"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "er durch die vorangegangene Auseinandersetzung aufgebracht war,"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "es sich bei der erlittenen Untersuchungshaft um die erste Freiheitsentziehung handelt, die naturgemäß beeindruckt."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "die Tat gedanklich schon lange vorweggenommen und durch das Ausheben des Grabes manifestiert war und der Gedanke tatzeitnah durch das Aufsuchen des Grabes aktualisiert wurde,"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "er mit Absicht im Sinne seines Planes zielgerichtet gehandelt hat,"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "er selbstsüchtige Motive insoweit verfolgte, als durch die Tat - mag dies auch einen untergeordneten Beweggrund dargestellt haben - auch finanziellen Folgen einer Trennung begegnet werden sollte."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die Tat mehraktig war und der Angeklagte sich hierbei über Komplikationen hinweggesetzt hat,"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "es sich bei einem Erstickungstod um einen für das Opfer qualvollen Tod handelt,"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "es sich nicht um einen schnellen Tod, sondern ein Geschehen handelte, in dem das Opfer längere Zeit Todesangst erleiden musste und den Tod kommen sah,"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Die Abwägung der vorgenannten Umstände, bei denen die belastenden Momente in ihrem Gewicht deutlich überwiegen, führt dazu, dass ein sonstiger minder schwerer Fall des § 213 Alternative 2 StGB erkennbar nicht vorliegt."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Die im Rahmen der Strafrahmenwahl aufgezeigten für und gegen den Angeklagten sprechenden Faktoren hat die Kammer in Ansehung der getroffenen Feststellungen zur konkreten Strafzumessung nochmals in den Blick genommen und dabei insbesondere berücksichtigt, dass der Erstickungstod für das Opfer qualvoll war und es für längere Zeit bis zum Eintritt der Bewusstlosigkeit Todesangst ausgesetzt war. Diese in dieser Handlung zum Ausdruck kommende Gefühlslosigkeit war ebenso strafschärfend zu berücksichtigen wie der Umstand, dass das rasche Schreiten zur Tat das Opfer - mag es angesichts früherer, auch massiver körperlicher Übergriffe bei streitigen Auseinandersetzungen auch nicht arglos gewesen sein - jedenfalls überrascht und dadurch seine Möglichkeit zu entkommen oder sich zur Wehr zu setzen, nachhaltig beeinträchtigt hat."
+        }
+    ]
+}

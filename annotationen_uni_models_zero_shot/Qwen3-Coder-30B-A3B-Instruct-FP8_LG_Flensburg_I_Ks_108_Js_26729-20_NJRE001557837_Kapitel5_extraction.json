@@ -1,0 +1,159 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 2 Jahren und 4 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 177 Abs. 6 Nr. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmen des § 177 Abs. 6 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat das Tatgeschehen vollumfänglich eingeräumt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Dieses Geständnis war auch von Reue und der Fassungslosigkeit über die eigene Tat geprägt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist strafrechtlich bisher nicht in Erscheinung getreten"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die mehrfach erwähnte Anpassungsstörung, an der der Angeklagte zum Zeitpunkt der Vergewaltigung litt"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Wie bereits ausgeführt, hat die Geschädigte dem Angeklagten nach der Trennung mehrfach verdeutlicht, dass sie weder von dem Angeklagten berührt werden noch mit diesem sexuelle Kontakte pflegen wollte"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Die Tat ereignete sich im Ehebett, also an einem Ort, an dem sich ein Mensch üblicherweise geschützt und geborgen fühlen sollte, und durch einen Täter, zu dem die Geschädigte trotz aller Schwierigkeiten in der Beziehung noch Vertrauen hegte"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Die Tötung steht jedoch nicht in einem unmittelbaren Zusammenhang mit dieser Vergewaltigung, sondern stellt sich als Folge einer anschließenden Eskalation dar"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte hat die Geschädigte zwar vor der Tötung vergewaltigt. Die Tötung steht jedoch nicht in einem unmittelbaren Zusammenhang mit dieser Vergewaltigung"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 7 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmen des § 212 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Er hat, soweit es ihm möglich war, die Tat geständig eingeräumt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Dieses Geständnis war auch von Reue und der Fassungslosigkeit über die eigene Tat geprägt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist nicht vorbestraft"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Seine Verzweiflung nach der Tat bereits Ausdruck in dem Selbstmordversuch gefunden hat"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "der Angeklagte im Zeitpunkt der Tötung aufgrund einer tiefgreifenden Bewusstseinsstörung vermindert schuldfähig war"
+        },
+        {
+            "tag": "Gesaemtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "In einer Gesamtschau dieser zu Gunsten und zulasten des Angeklagten sprechenden Umstände überwiegen die mildernden Faktoren nicht so beträchtlich, dass die Bestrafung aus dem Regelstrafrahmen unangemessen erscheinen würde"
+        },
+        {
+            "tag": "Gesaemtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach alledem erachtete die Kammer eine Freiheitsstrafe von 7 Jahren für tat- und schuldangemessen"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von einem Jahr und 6 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 306a StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmen des § 306a StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat die versuchte Brandlegung in der Hauptverhandlung gestanden"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist bisher nicht vorbestraft"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat sich bei der Brandbelegung in einer psychischen Ausnahmesituation befunden"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Es handelte sich um eine gemietete Doppelhaushälfte"
+        },
+        {
+            "tag": "Gesaemtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach alledem erachtete die Kammer eine Freiheitsstrafe von einem Jahr und 6 Monaten für tat- und schuldangemessen"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 8 Jahren"
+        },
+        {
+            "tag": "Gesaemtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der Bemessung der Gesamtfreiheitsstrafe hat die Kammer erneut alle für und gegen den Angeklagten sprechenden Umstände gewürdigt und ihrer Strafzumessung zugrunde gelegt"
+        }
+    ]
+}

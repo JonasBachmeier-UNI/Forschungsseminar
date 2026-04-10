@@ -1,0 +1,99 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "neun Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "10 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 21 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 49 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe nicht unter fünf Jahren"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von sechs Monaten bis zu zehn Jahren"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte in Teilen geständig eingelassen hat"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "der Angeklagte in Teilen geständig eingelassen hat. Des Weiteren hat die Kammer nicht verkannt, dass sich der Angeklagte insgesamt bereits seit etwa einem Jahr in Untersuchungshaft befindet und ihn diese aufgrund der durch die Corona-​Pandemie erforderlichen Einschränkungen im Strafvollzug besonders empfindlich trifft, insbesondere, da er aufgrund der vielen Verhandlungstage regelmäßig in Quarantäne musste und er sich außerdem für ca. zwei Wochen in Laos in Haft befand, wo die Haftbedingungen erheblich schlechter als in Deutschland sind."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Der Umstand des vorangegangenen Streits ist ebenfalls zu berücksichtigen."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte vorbestraft ist"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "der Angeklagte vorbestraft ist und zum Tatzeitpunkt unter Bewährung stand"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "sein Verhalten Grund dafür war, dass der Leichnam von W. P. erst später nach der Tat und insbesondere in verwestem Zustand aufgefunden werden konnte"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach einer Gesamtwürdigung aller Umstände auch unter zusätzlicher Berücksichtigung des vertypten Milderungsgrundes wegen des Vorliegens verminderter Schuldfähigkeit nach § 21 StGB vermag die Kammer einen minder schweren Fall nicht feststellen. Die Tat weicht in ihrem Gepräge nicht positiv von der Norm ab."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter zusammenfassender Abwägung des Unrechtsgehaltes, sowie angesichts aller zuvor ausgeführten für und gegen den Angeklagten streitenden Strafzumessungsgesichtspunkte hält die Kammer letztlich eine Einzelstrafe von neun Jahren Freiheitsstrafe für tat- und schuldangemessen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Infolge dessen hält die Kammer auch unter Beachtung der an einen gerechten Schuldausgleich zu stellenden Anforderung eine Gesamtfreiheitsstrafe von 10 Jahren für tat- und schuldangemessen und zur Einwirkung auf den Angeklagten für erforderlich, aber auch ausreichend, wobei auch insoweit noch einmal die Auswirkungen der Vollstreckung einer solchen langen Freiheitsstrafe auf das künftige Leben des Angeklagten berücksichtigt worden sind."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die verminderte Schuldfähigkeit"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die konkrete brutale Tatausführung"
+        }
+    ]
+}

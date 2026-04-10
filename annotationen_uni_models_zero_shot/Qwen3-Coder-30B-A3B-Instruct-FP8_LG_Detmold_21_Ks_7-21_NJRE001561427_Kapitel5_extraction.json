@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "der Angeklagte hat sich demnach wegen heimtückischen Mordes an seinem Bruder F sowie wegen Totschlags an seiner Mutter A schuldig gemacht, strafbar gemäß §§ 211 Abs. 2 Alt. 5, 212 Abs. 1, 53 StGB."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Angeklagte hat seinen Bruder F vorsätzlich mit einem einzelnen aufgesetzten Genickschuss getötet. Er verwirklichte hierbei das Mordmerkmal der Heimtücke."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte hat seinen Bruder F vorsätzlich mit einem einzelnen aufgesetzten Genickschuss getötet."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Der Hof spielte für seine Altersversorgung zwar eine wichtige Rolle. Den Besitz am Hof zu erhalten stand für den in bescheidenen Verhältnissen lebenden Angeklagten bei der Tatbegehung aber nicht im Sinne eines tatbeherrschenden Motivs im Vordergrund."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte hat zudem seine Mutter A vorsätzlich durch einen Schuss ins Genick getötet."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte verfügte ferner über eine detaillierte Erinnerung an das Tatgeschehen. Er konnte sowohl Einzelheiten des objektiven Geschehensablaufs inklusive der Uhrzeit als auch seine Gefühlslage geordnet wiedergeben."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte war in seiner kognitiven und körperlichen Leistungsfähigkeit nicht wesentlich beeinträchtigt."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte selbst hat glaubhaft angegeben, bei der Tatausführung keine Koordinationsschwierigkeiten an sich bemerkt zu haben."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Die Farbaufzeichnungen sind hinsichtlich der Schärfe, Ausleuchtung und Auflösung von guter Qualität. Sie zeigen den Angeklagten aufgrund der unterschiedlichen Kamerapositionen aus zwei Perspektiven (von vorne und von hinten) und in voller Größe."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte war in der Lage, sowohl mit seinem Bruder als auch mit seiner Mutter ein geordnetes, zusammenhängendes Gespräch zu führen und (aus seiner Sicht) sachgerecht auf deren Aussagen zu reagieren."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Er hat sich zu der Tat spontan hinreißen lassen und keine Handlungen vorgenommen, um diese oder seine Täterschaft zu vertuschen."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat sich zur Tat spontan hinreißen lassen und keine Sicherungstendenzen gezeigt, was ein Hinweis auf eine kognitive Funktionsbeeinträchtigung sein kann."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist bislang strafrechtlich nicht in Erscheinung getreten, die Beweisaufnahme hat keine Hinweise auf frühere Gewalttätigkeiten ergeben."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer hat bei der vorgenommenen Gesamtabwägung sämtlicher tat- und täterbezogenen Merkmale, die als Indizien für und gegen die Annahme eines schuldrelevanten Affekts sprechen können, berücksichtigt"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter Abwägung der für und gegen das Vorliegen einer schuldrelevanten affektiven Erregung sprechenden Umstände kommt die Kammer zu dem Ergebnis, dass diejenigen genannten Merkmale, die gegen eine tiefgreifende Bewusstseinsstörung sprechen, deutlich überwiegen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer hat im Rahmen der durchgeführten Gesamtbetrachtung einerseits berücksichtigt, dass der Tat eine seit Jahrzehnten belastete Täter-​Opfer-​Beziehung zugrunde liegt, die den Angeklagten in seinem Wesen geprägt hat. Andererseits sprechen gewichtige Beweisanzeichen für den Erhalt seiner Hemmungsfähigkeit."
+        }
+    ]
+}

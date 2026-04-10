@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "4 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 315d Abs. 5 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von einem Jahr bis zu 10 Jahren"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat das Tatgeschehen vollumfänglich eingeräumt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "In seinem diesbezüglichen Verhalten und seinen Erklärungen wurde auch eine Reue über die Tat und deren Folgen erkennbar"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der Angeklagte zum Zeitpunkt der Tat mit 21 Jahren noch recht jung und wenig lebenserfahren war"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die lange Verfahrensdauer und die lange Untersuchungshaft, zumal als junger Erstverbüßer unter dem Vorwurf des Mordes und dem konkreten Drohen einer lebenslangen Freiheitsstrafe, außerdem verbunden mit den besonderen Beschränkungen infolge der Schutzmaßnahmen gegen die Corona-​Pandemie"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "ein Vorfahrtsverstoß (Verstoß gegen § 8 StVO) des Tatopfers mitursächlich für den tödlichen Verkehrsunfall war"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "das hohe Maß der Pflichtwidrigkeit, insbesondere die sehr große Gefährlichkeit der Art und Weise der Rennfahrt aufgrund der sehr hohen Geschwindigkeitsüberschreitung und der Fahrt über die für den Gegenverkehr vorgesehene linke Fahrspur sowie die schwere Folge des Todes der Frau T"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "die sehr große Gefährlichkeit der Art und Weise der Rennfahrt aufgrund der sehr hohen Geschwindigkeitsüberschreitung"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "der Angeklagte hat den N geführt, obwohl er wusste, dass er nicht über die hierfür erforderliche Fahrerlaubnis verfügt"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "hat sich nach dem Zusammenstoß mit dem D3 der Frau T unerlaubt vom Unfallort entfernt"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "die Vorstrafen des Angeklagten hat die Kammer nicht zu dessen Lasten berücksichtigt, weil diese auf anderem Gebiet lagen und weniger schwerwiegend waren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller für die Wertung von Tat und Täter maßgebenden Umstände"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Hiervon ausgehend liegt bei Abwägung aller für die Wertung von Tat und Täter maßgebenden Umstände kein minder schwerer Fall gemäß § 315d Abs. 5, letzter Halbsatz StGB vor"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Ausgehend von dem hiernach eröffneten Strafrahmen hat die Kammer für die konkrete Zumessung der Strafe nochmals alle für und gegen den Angeklagten sprechenden Strafzumessungserwägungen abgewogen"
+        }
+    ]
+}

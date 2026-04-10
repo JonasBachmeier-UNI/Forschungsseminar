@@ -1,0 +1,59 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "strafbar nach §§ 212 Abs. 1, 218 Abs. 1, 223 Abs. 1, 226 Abs. 1 Nr. 3, 22, 23, 52 StGB."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte hat den Kopf der Nebenklägerin in Tötungsabsicht so lange unter Wasser gedrückt, bis sie kein Lebenszeichen mehr von sich gab."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "die Kammer gemäß § 52 Abs. 2 StGB vom Strafrahmen des § 212 Abs. 1 StGB ausgegangen."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "die Kammer nicht zu erkennen vermocht. einen minder schweren Fall des Totschlags im Sinne des § 213 StGB"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der Angeklagte nicht vorbestraft ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "er die Tat spontan beging und bereits sieben Monate Untersuchungshaft verbüßt hat"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte ging, als er von der Nebenklägerin abließ, davon aus, dass sie bereits verstorben war oder ihr Tod unmittelbar bevorstand. Er nahm somit an, bereits alles zur Verwirklichung des Tatbestands Erforderliche getan zu haben, als er ihren leblosen Körper an die 25 Meter vom Ufer entfernte Auffindestelle verbrachte und dort zurückließ."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Die Nebenklägerin hat den Angriff nur knapp überlebt, bei Eintreffen der Rettungskräfte war sie schon mehrere Minuten ohne Sauerstoff und es lag eine Asystolie bei ihr vor."
+        },
+        {
+            "tag": "Gesaemtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller für und gegen den Angeklagten sprechenden Umstände hat die Kammer unter Berücksichtigung der Person des Angeklagten und der abgeurteilten Tat eine Freiheitsstrafe von"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 13 Jahren"
+        }
+    ]
+}

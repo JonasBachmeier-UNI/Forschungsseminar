@@ -1,0 +1,59 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Wegen des versuchten Totschlags steht der Kammer gemäß § 212 Abs.1 StGB grundsätzlich ein Strafrahmen von Freiheitsstrafe von 5 Jahren bis zu 15 Jahren zur Verfügung."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Wegen des versuchten Totschlags steht der Kammer gemäß § 212 Abs.1 StGB grundsätzlich ein Strafrahmen von Freiheitsstrafe von 5 Jahren bis zu 15 Jahren zur Verfügung."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Die Kammer hat jedoch von der Milderungsmöglichkeit gemäß §§ 23 Abs.2, 49 Abs.1 Ziff. 2, 3 StGB Gebrauch gemacht, weshalb im Ergebnis ein Strafrahmen von Freiheitsstrafe von 2 Jahren bis zu 11 Jahren und 3 Monaten zugrunde zu legen war."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Kammer hat jedoch von der Milderungsmöglichkeit gemäß §§ 23 Abs.2, 49 Abs.1 Ziff. 2, 3 StGB Gebrauch gemacht, weshalb im Ergebnis ein Strafrahmen von Freiheitsstrafe von 2 Jahren bis zu 11 Jahren und 3 Monaten zugrunde zu legen war."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass er nicht vorbestraft ist"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sich weitestgehend geständig eingelassen hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "er sich nach der Tat freiwillig gestellt und sich mit seinem Vater zwischenzeitlich wieder versöhnt hat"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "der nichtige Tatanlass - ein Streit über die Zubereitung eines Nudelauflaufs -"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Gegen den Angeklagten sprach auch die hohe Brutalität der Tathandlung, bei der der Angeklagte den Pkw zunächst zurückgesetzt hat, um seinen Vater gezielt anzufahren, und dann noch Tritte gegen Kopf und Körper des bereits verletzt und hilflos am Boden liegenden Geschädigten ausgeführt hat."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Unter Abwägung aller vorgenannten und Berücksichtigung sämtlicher weiterer Strafzumessungsgesichtspunkte des § 46 StGB hat die Kammer für die Tat auf eine Freiheitsstrafe von"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "4 Jahren und 6 Monaten"
+        }
+    ]
+}

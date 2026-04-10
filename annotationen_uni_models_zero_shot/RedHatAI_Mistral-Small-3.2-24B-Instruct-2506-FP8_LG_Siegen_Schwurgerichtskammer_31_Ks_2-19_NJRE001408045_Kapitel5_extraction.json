@@ -1,0 +1,109 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "die Kammer den Strafrahmen des § 224 Abs. 1 StGB, der von 6 Monaten bis zu 10 Jahren reicht, zugrunde gelegt."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der Strafrahmen von Freiheitsstrafe von 1 Monat bis zu 7 Jahren und 6 Monate reicht."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der minder schwere Fall einer gefährlichen Körperverletzung, der von 3 Monaten bis zu 5 Jahren reicht,"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 224 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 46a Nr. 1, 49 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 1. Alternative StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 46a Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 56 Abs. 1 und Abs. 2 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 2 Jahren"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "der besondere Strafmilderungsgrund des auch hier anwendbaren § 213 1. Alternative StGB gegeben ist, der Täter also durch eine von ihm nicht provozierte schwere Kränkung vom späteren Opfer zum Zorn gereizt und hierdurch auf der Stelle zur Tat hingerissen worden ist."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "hat die Tat gleichwohl eingeräumt und somit sein Tun und die daraus resultierenden Folgen nicht in Abrede gestellt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "er sich nach seiner Flucht in die XXXXX freiwillig dem Verfahren gestellt und die Tat eingeräumt hat, er über sich und die Tat sichtlich entsetzt ist, die Tat bereut,"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "er strafrechtlich nicht vorbelastet ist,"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "bei Tatausführung unter dem Einfluss von Alkohol stand und bei Tatausführung gerade erst das 21. Lebensjahr vollendet hatte."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "die eigene Verletzung am kleinen Finger der rechten Hand, die Notwendigkeit der eigenen psychiatrischen Behandlung"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "er das Messer verdeckt eingesetzt und dessen Einsatz zuvor nicht angedroht hat."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "die Vielzahl der Stichverletzungen"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "der Umstand, dass der Anlass für das Anzetteln der körperlichen Auseinandersetzung gering war."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "er sich nach seiner Flucht in die XXXXX freiwillig dem Verfahren gestellt"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "In der Gesamtschau vermochten danach die strafmildernden die strafschärfenden Gesichtspunkte nicht wesentlich zu überwiegen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter zusammenfassender Würdigung all dieser für und gegen den Angeklagten sprechenden Umstände und der Erwägung, dass Strafe bei einem an und für sich sozial integrierten Täter nicht zur Entsozialisierung führen soll,"
+        }
+    ]
+}

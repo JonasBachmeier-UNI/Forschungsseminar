@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Kammer ist bei der Strafzumessung zunächst gemäß § 52 Abs. 2 StGB von dem in § 226 Abs. 1 StGB angedrohten Strafrahmen von einem Jahr bis zu zehn Jahren Freiheitsstrafe ausgegangen."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "gemäß § 52 Abs. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "von dem in § 226 Abs. 1 StGB angedrohten Strafrahmen"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Kammer hat sodann den Strafrahmen des § 226 Abs. 1 StGB gemäß §§ 27 Abs. 2, 49 Abs. 1 StGB gemildert und der konkreten Strafzumessung einen Strafrahmen von drei Monaten bis zu sieben Jahren und sechs Monaten Freiheitsstrafe zu Grunde gelegt."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "8 (acht) Monaten"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sich bei der Polizei zumindest teilgeständig zeigte."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte im Hinblick auf die mit dem hier einzubeziehenden Urteil des Amtsgerichts H.- B. vom 21. September 2011 abgeurteilten Taten [Az.: <leer> umfassend geständig gewesen ist."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "dass dieser mehrfach einschlägig vorbestraft ist, bereits einmal unter laufender Bewährung erneut straffällig wurde und auch die verfahrensgegenständliche Tat unter laufender Bewährung stehend begangen hat."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte ist wiederholt mit Körperverletzungsdelikten in Erscheinung getreten. Er beging bereits zuvor ein Körperverletzungsdelikt unter laufender Bewährung und hat dies auch im vorliegenden Fall getan."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte ist wegen Gewaltdelikten erheblich vorbestraft."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die massive Gewalteinwirkung der durch ihn unterstützten Haupttäter, die zu fünft gegen den zunächst allein agierenden O. S. vorgegangen sind, und die aus der Gewalteinwirkung resultierenden über die schwere körperliche Folge hinausgehenden andauernden psychischen Beeinträchtigungen des Geschädigten"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "hielt zudem während der Auseinandersetzung ein Einwegfeuerzeug in der Hand, um seine Schläge härter zu machen, was eine gesteigerte Missachtung der körperlichen Integrität Dritter belegt."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Die Kammer hat alle für und gegen den Angeklagten sprechenden Umstände, u.a. die vorgenannten Strafzumessungsgesichtspunkte, unter Berücksichtigung des am oberen Ende der Gruppe der Heranwachsenden einzuordnenden Alters des Angeklagten von 20 Jahren und 6 Monaten, gegeneinander abgewogen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Die Kammer hat alle für und gegen den Angeklagten sprechenden Umstände, u.a. die vorgenannten Strafzumessungsgesichtspunkte, unter Berücksichtigung des eher am oberen Ende der Gruppe der Heranwachsenden einzuordnenden Alters des Angeklagten von 20 Jahren und 2 Monaten, gegeneinander abgewogen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Die Kammer hat alle für und gegen den Angeklagten sprechenden Umstände, u.a. die vorgenannten Strafzumessungsgesichtspunkte, unter erneuter Berücksichtigung der erlittenen Untersuchungshaft sowie des am Anfang der Gruppe der Heranwachsenden einzuordnenden Alters des Angeklagten von 18 Jahren und 5 Monaten, gegeneinander abgewogen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Die Kammer hat alle für und gegen den Angeklagten sprechenden Umstände, u.a. die vorgenannten Strafzumessungsgesichtspunkte, gegeneinander abgewogen."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Er war als erstmalig Inhaftierter besonders haftempfindlich."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Er ist als erstmalig Inhaftierter – auch aufgrund der Trennung von Familie und Freunden - und insbesondere wegen seiner Stoffwechselerkrankung besonders haftempfindlich."
+        }
+    ]
+}

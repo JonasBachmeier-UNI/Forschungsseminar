@@ -1,0 +1,59 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "aus § 213 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen von Freiheitsstrafe von 1 Jahr bis zu 10 Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 5 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "SCHAERFEND",
+            "quote": "bereits wegen einer Körperverletzungstat vorbestraft"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "SCHAERFEND",
+            "quote": "tateinheitlich eine gefährliche Körperverletzung verwirklicht hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "SCHAERFEND",
+            "quote": "schweren körperlichen und psychischen Folgen für das Opfer"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "teilweise geständig war"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "er erscheint als Polizist und Vater besonders haftempfindlich"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "sich in einer psychischen Ausnahmesituation befand"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "nach einer Gesamtwürdigung"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "alle vorgenannten für und gegen den Angeklagten sprechenden Umstände gegeneinander abgewogen"
+        }
+    ]
+}

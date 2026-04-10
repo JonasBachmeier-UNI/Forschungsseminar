@@ -1,0 +1,99 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der Freiheitsstrafe von einem Jahr bis zu zehn Jahren vorsieht."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "die Kammer einen Strafrahmen von Geldstrafe oder drei Monate bis sieben Jahre und sechs Monate Freiheitsstrafe zugrunde zu legen."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "hat die Kammer den Strafrahmen nochmals auf 1 Monat bis zu 5 Jahre 7 Monate verringert."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von neun Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 212 Abs. 1, 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 21, 49 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 49 Abs. 1 i.V.m. § 17 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 50 StGB"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte war von dem Tatopfer zuvor misshandelt, dadurch zum Zorn gereizt und auf der Stelle zur Tat hingerissen worden, ohne daran eigene Schuld zu tragen."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte war Geschädigter eines Raubüberfalles, begangen durch das Tatopfer und die vier weiteren Raubtäter. Ihm wurde eine Pistole an den Kopf gehalten, er wurde mit einem Schal stranguliert und aggressiv angegangen. Dies stellt eine körperliche Misshandlung dar."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Er war gesundheitlich aufgrund einer vorherigen Knieoperation stark eingeschränkt, ihm wurde eine Pistole an den Kopf gehalten und er wurde mit einem Schal stranguliert."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Dem Angeklagten kommt nach Auffassung der Kammer eine weitere Strafmilderung nach § 49 Abs. 1 i.V.m. § 17 StGB zugute."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Dem Angeklagten kommt nach Auffassung der Kammer eine weitere Strafmilderung nach § 49 Abs. 1 i.V.m. § 17 StGB zugute."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass er nicht vorbestraft ist"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Aufgrund des vorangegangenen Überfalls litt der Angeklagte unter einer akuten Belastungsreaktion, die eine nicht auszuschließende erhebliche Verminderung der Schuldfähigkeit zur Folge hatte."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Mildernd wirkte sich zudem aus, dass er sich geständig eingelassen und Reue gezeigt hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Mildernd wirkte sich zudem aus, dass er sich geständig eingelassen und Reue gezeigt hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Er leidet weiterhin in erheblicher Weise psychisch unter den Folgen sowohl der Raubtat als auch unter dem Umstand, den Tod des (...) verursacht zu haben."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter Abwägung aller dieser Strafzumessungsgesichtspunkte hat die Kammer eine Freiheitsstrafe von neun Monaten für tat- und schuldangemessen angesehen."
+        }
+    ]
+}

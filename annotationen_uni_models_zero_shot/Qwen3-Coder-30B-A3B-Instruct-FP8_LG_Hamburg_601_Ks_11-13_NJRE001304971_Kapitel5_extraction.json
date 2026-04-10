@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 2 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der konkreten Strafzumessung ein Strafrahmen von 3 Monaten bis zu 7 Jahren 6 Monate Freiheitsstrafe zugrunde zu legen war"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Das frühzeitige und umfassende Geständnis der Angeklagten"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Ihr Geständnis war ersichtlich von tiefer Reue getragen"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "die Angeklagte bislang strafrechtlich nicht in Erscheinung getreten ist"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die von der Angeklagten als ausweglos empfundene Situation"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Beabsichtigt hatte die Angeklagte einen erweiterten Suizid, der ihr aber misslang"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "ihre Tochter schnell und ohne Todeskampf gestorben ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "das fortgeschrittene Alter der Angeklagten, ihre angeschlagene Gesundheit"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "dass die Angeklagte planvoll vorging – sie kaufte den Likör ein, legte das Strangwerkzeug zurecht und ging in Gedanken die Tötung der Tochter und den eigenen Suizid durch"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "einen Menschen getötet hat, der ihr sein volles Vertrauen entgegengebracht, sich in ihrer Obhut befunden hat und aufgrund der Behinderung völlig hilflos war"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach einer Gesamtwürdigung aller - nachfolgend aufgeführten - tat- und täterbezogenen Umstände weicht die Tat in einem so erheblichen Maß vom Durchschnitt der erfahrungsgemäß gewöhnlich vorkommenden Fälle ab, dass die Anwendung des Regelstrafrahmens des § 212 StGB (5 bis 15 Jahren) eine unzumutbare Härte darstellen würde"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach erneuter Abwägung aller maßgeblichen Strafzumessungskriterien hat die Kammer sodann eine"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die gegen den Angeklagten wegen dieser Tat zu verhängende Strafe hat die Kammer einem von drei Monaten bis zu sieben Jahren und sechs Monate Freiheitsstrafe reichenden Strafrahmen entnommen."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Die Kammer hat zunächst einen sonstigen minder schweren Fall des Totschlags gemäß § 213 StGB geprüft und im Ergebnis bei Betrachtung aller allgemeinen Strafzumessungskriterien bejaht."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Aufgrund der im Verhältnis zur Täterschaft geringer wiegenden Beihilfe ist der Strafrahmen nach den §§ 27 Abs. 2 S. 2, 49 Abs. 1 StGB gesetzlich verpflichtend nochmals zu mildern gewesen."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Bei der Zumessung der konkreten Strafe hat sich die Kammer unter Beachtung der in § 46 StGB genannten Gesichtspunkte von den bereits aufgeführten Erwägungen leiten lassen."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Die Kammer hat die Vollstreckung der Freiheitsstrafe gemäß § 56 Abs. 2, 1 StGB zur Bewährung ausgesetzt."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Dem Angeklagten kann die von § 56 Abs. 1 StGB vorausgesetzte günstige Sozialprognose gestellt werden."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Darüber hinaus liegen nach der Gesamtwürdigung von Tat und Persönlichkeit des Angeklagten auch besondere Umstände im Sinne des § 56 Abs. 2 StGB vor."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Schließlich gebietet auch die Verteidigung der Rechtsordnung nicht die Vollstreckung der Freiheitsstrafe (§ 56 Abs. 3 StGB)."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "einem Jahr und sechs Monaten"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Zum Tatgeschehen hat er sich geständig und umfassend eingelassen."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass dieser bisher durch die Begehung von Straftaten nicht aufgefallen ist."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Die Kammer hat auch berücksichtigt, dass sich der Angeklagte in einer Situation erheblicher psychischer Anspannung befand."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte führt ein bürgerliches Leben."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Nach nochmaliger Abwägung dieser und aller sonstigen Umstände hat sie eine Freiheitsstrafe von"
+        }
+    ]
+}

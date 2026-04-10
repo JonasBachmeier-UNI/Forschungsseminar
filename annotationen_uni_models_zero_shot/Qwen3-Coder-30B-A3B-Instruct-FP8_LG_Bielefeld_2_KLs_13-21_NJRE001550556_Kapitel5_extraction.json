@@ -1,0 +1,99 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "8 (acht) Monate"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 224 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "von drei Monaten bis zu fünf Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte hat sich zumindest hinsichtlich des äußeren Ablaufs der Tat teilweise geständig eingelassen"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der Angeklagte nicht vorbestraft ist"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "der Angeklagte die Tatbestandsalternative des § 224 Abs. 1 Nr. 2 StGB sowohl durch den Gebrauch des Reizgases als auch den Einsatz der Nordic Walking-​Stöcke verwirklicht hat"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Auslöser der Tat das Einsprühen des nicht angeleinten Hundes aus Ärger über diesen Umstand und damit ein Akt der Selbstjustiz des Angeklagten war"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "der Geschädigte D bis heute psychisch unter der Tat leidet, wenngleich nicht so schwerwiegend, dass er professioneller Hilfe bedarf"
+        },
+        {
+            "tag": "Gesaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte hat sich zumindest hinsichtlich des äußeren Ablaufs der Tat teilweise geständig eingelassen"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der Angeklagte nicht vorbestraft ist"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "der Geschädigte G die körperlichen Verletzungsfolgen überwunden hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "der Geschädigte G erhebliche Verletzungen erlitten und zeitweise in Lebensgefahr geschwebt hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "der Geschädigte bis heute psychisch unter der Tat leidet und insoweit zur Aufarbeitung professioneller Hilfe bedarf"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Auslöser der Tat das Einsprühen eines der nicht angeleinten Hunde aus Ärger über diesen Umstand und damit ein Akt der Selbstjustiz des Angeklagten war"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägen dieser und aller sonstigen Umstände war eine Freiheitsstrafe von"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "3 (drei) Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 21, 49 StGB"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei nochmaliger Berücksichtigung aller für und gegen den Angeklagten sprechenden Aspekte und unter zusammenfassender Würdigung der Person des Angeklagten und der von ihm begangenen Taten, insbesondere des engen zeitlichen und situativen Zusammenhangs, ist, auch unter Berücksichtigung des erheblichen Gewaltpotenzials des Angeklagten aufgrund seiner Erkrankung eine Gesamtfreiheitsstrafe von"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "3 (drei) Jahren und 3 (drei) Monaten"
+        }
+    ]
+}

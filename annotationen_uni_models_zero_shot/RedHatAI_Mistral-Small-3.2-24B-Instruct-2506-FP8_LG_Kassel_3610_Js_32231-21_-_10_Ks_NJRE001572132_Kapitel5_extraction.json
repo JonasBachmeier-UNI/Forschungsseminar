@@ -1,0 +1,54 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB einen Strafrahmen von Freiheitsstrafe nicht unter 5 Jahren vor."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "sonstigen minder schweren Fall des Totschlags gemäß § 213 Alt. 2 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sein vollumfängliches Geständnis. Bereits im Rahmen des ersten Kontaktes mit den Ermittlungsbeamten hat sich der Angeklagte dahingehend eingelassen, seine Frau getötet zu haben. In der Hauptverhandlung hat der Angeklagte detailreich und auf Nachfragen eingehend sein Geständnis wiederholt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "sich reuig zeigt, tief erschüttert über sein Handeln ist und spürbar um den Verlust seiner großen Liebe und einzigen engen Bezugsperson und Partnerin seit über 50 Jahren trauert."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der Angeklagte zum Zeitpunkt der Hauptverhandlung bereits 71 Jahre alt und Zeit seines Lebens nie strafrechtlich in Erscheinung getreten ist."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Angesichts seines fortgeschrittenen Alters ist davon auszugehen, dass die Haft den Angeklagten in besonderem Maße belasten wird."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "besonders zu Gunsten des Angeklagten zu gewichten ist auch die psychische Verfassung des Angeklagten zum Tatzeitpunkt. Die Kammer geht, den Ausführungen des Sachverständigen folgend, von der vollen Schuldfähigkeit des Angeklagten aus. Dennoch steht zu ihrer Überzeugung fest, dass bei der Tat der Angeklagte affektiv belastet und der Angeklagte in seiner Fähigkeit, die Situation neutral bewerten zu können, deutlich eingeschränkt gewesen ist, wenn auch nicht im Sinne des § 21 StGB."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat durch sein Versprechen an seine Frau und die negativen Schilderungen des Zeugen W. über eine Kurzzeitpflege verständlicherweise Hemmungen gehabt, seine Frau in einer solchen unterzubringen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Zusammenschau dieser Umstände führt dazu, dass die Tat nach ihrem Gepräge derart von den üblicherweise von § 212 StGB erfassten Taten abweicht, dass eine Ahndung der Tat aus dem Regelstrafrahmen nach Überzeugung der Kammer unangemessen wäre und die Annahme eines minder schweren Falles zu erfolgen hat."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Freistrafe von vier Jahren"
+        }
+    ]
+}

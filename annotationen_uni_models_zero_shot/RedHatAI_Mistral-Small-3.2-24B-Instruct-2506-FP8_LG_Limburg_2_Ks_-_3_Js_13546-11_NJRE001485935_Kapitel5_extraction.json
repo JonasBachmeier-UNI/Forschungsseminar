@@ -1,0 +1,89 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der Freiheitsstrafe von 5 Jahren bis 15 Jahren vorsieht."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 2 SGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Alt. 2 StGB"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "ein Ersticken, bei dem erst nach einigen Minuten die Bewusstlosigkeit eintritt"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Dass die Angeklagte mehrere Menschen getötet hat"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "dass sie die Taten gestanden hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "dass sie Reue gezeigt, indem sie sich bei ihrer Familie entschuldigt hat"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass sie nicht vorbestraft ist"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "der Todeskampf der Kinder bis zum Eintritt der Bewusstlosigkeit einige Minuten dauerte"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "die Angeklagte als Mutter eine besondere Obhutspflicht gegenüber ihren Kindern hatte"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "das Gefühl der Angeklagten, von ihrem zunächst in Russland gebliebenen Ehemann allein gelassen worden zu sein, angesichts ihrer erst kurz zuvor erfolgten Übersiedlung nach Deutschland zusätzlich zu der subjektiven Überforderung beitrug"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Einzelfreiheitsstrafe von 9 Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Einzelfreiheitsstrafe von 10 Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 13 Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter Abwägung sämtlicher für und gegen die Angeklagte sprechenden Umstände"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter erneuter Abwägung sämtlicher für und gegen die Angeklagten sprechenden Umstände"
+        }
+    ]
+}

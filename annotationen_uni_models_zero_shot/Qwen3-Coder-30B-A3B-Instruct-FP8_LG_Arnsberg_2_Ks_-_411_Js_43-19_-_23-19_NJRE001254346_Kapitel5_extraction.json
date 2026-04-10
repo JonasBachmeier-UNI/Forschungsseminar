@@ -21,19 +21,9 @@
             "quote": "§ 213 Var. 2 StGB"
         },
         {
-            "tag": "Gesetzesgrundlage",
-            "category": "Formalia",
-            "quote": "§ 49 Abs. 1, 21 StGB"
-        },
-        {
-            "tag": "Gesetzesgrundlage",
-            "category": "Formalia",
-            "quote": "§ 212 Abs. 2 StGB"
-        },
-        {
             "tag": "Gestaendnis",
             "category": "Mildernd",
-            "quote": "der Angeklagte, der sich seit über neun Monaten in Untersuchungshaft befindet und sich in der Hauptverhandlung reuig gezeigt hat, ist darüber hinaus nur geringfügig und nicht einschlägig vorbestraft"
+            "quote": "sein Geständnis (die Tötung des T als solche)"
         },
         {
             "tag": "Reue_Einsicht",
@@ -43,7 +33,7 @@
         {
             "tag": "Vorleben_Positiv",
             "category": "Mildernd",
-            "quote": "der Angeklagte, der sich seit über neun Monaten in Untersuchungshaft befindet und sich in der Hauptverhandlung reuig gezeigt hat, ist darüber hinaus nur geringfügig und nicht einschlägig vorbestraft"
+            "quote": "nur geringfügig und nicht einschlägig vorbestraft"
         },
         {
             "tag": "Haftempfindlichkeit",
@@ -68,17 +58,27 @@
         {
             "tag": "Tatbild_Brutalitaet",
             "category": "Schärfend",
-            "quote": "die hohe kriminelle Energie, die in der besonderen Aggressivität mit einer Vielzahl von Hieb- und Stichverletzungen zum Ausdruck gekommen ist"
+            "quote": "hohe kriminelle Energie, die in der besonderen Aggressivität mit einer Vielzahl von Hieb- und Stichverletzungen zum Ausdruck gekommen ist"
         },
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Nach Abwägung aller Umstände..."
+            "quote": "Die Kammer hat auch geprüft, ob ein besonders schwerer Fall gemäß § 212 Abs. 2 StGB vorliegt, dies jedoch mit Blick auf die vorstehend dargestellte Gesamtwürdigung der im Rahmen der Prüfung eines minder schweren Falls für und gegen den Angeklagten sprechenden Umstände verneint."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer hat auch geprüft, ob ein besonders schwerer Fall gemäß § 212 Abs. 2 StGB vorliegt, dies jedoch mit Blick auf die vorstehend dargestellte Gesamtwürdigung der im Rahmen der Prüfung eines minder schweren Falls für und gegen den Angeklagten sprechenden Umstände verneint."
         },
         {
             "tag": "Strafhoehe",
             "category": "Formalia",
             "quote": "Freiheitsstrafe von acht Jahren und sechs Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 2 StGB"
         }
     ]
 }

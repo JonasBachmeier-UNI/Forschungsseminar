@@ -1,0 +1,89 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 224 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von sechs Monaten bis zehn Jahren"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "die Beurteilung eines minder schweren Falls ist aufgrund einer Gesamtwürdigung von Tat und Täter zu treffen, wobei die Täterpersönlichkeit, die Tatvorgeschichte, das Opferverhalten und die Tatfolgen, insbesondere die Intensität der Verletzungen des Opfers unter Berücksichtigung der Heilungsdauer und eventuell verbleibender Beeinträchtigungen zu berücksichtigen sind"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Das Maß der Verletzung der körperlichen Integrität und Gesundheit ist strafschärfend einzustellen. Die oberflächliche Schnitt- oder Rissverletzung an der linken Halsseite verfehlte nur knapp die Halsschlagader und ging in dem dynamischen Geschehen mit einer Lebensgefahr einher. Zwei Messerstichverletzungen am linken Oberschenkel gingen ebenfalls mit einer Lebensgefahr einher, eröffneten die tiefe Oberschenkelarterie und führten zu einer stark spritzenden Blutung, die ohne zeitnahe operative Versorgung zum Tode Nebenklägers geführt hätte"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Als Folge der körperlichen Verletzungen war der Nebenkläger vier Monate arbeitsunfähig krankgeschrieben"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Schaerfend",
+            "quote": "Im Weiteren spricht die straffreie Lebensführung – die geringe strafrechtliche Vorbelastung hat kein Gewicht – für den in familiär und beruflich stabilen Verhältnissen lebenden Angeklagten"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat das Tatgeschehen vollumfänglich eingeräumt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist über sein Handeln selbst erschrocken, bereut die Tat und hat sich bei dem Nebenkläger entschuldigt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Die ausgesprochene Entschuldigung spricht für den Angeklagten"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die psychische Beeinträchtigung des Angeklagten – der Affekt – Einfluss auf die Art der Tatausführung hatte"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "die geringe strafrechtliche Vorbelastung hat kein Gewicht"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der Angeklagte ist in familiär und beruflich stabilen Verhältnissen lebend"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Schon der Vollzug von Untersuchungshaft und eine – erstmalige - Strafhaft haben Auswirkungen auf den Familienbetrieb"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Gesamtabwägung sämtlicher inneren und äußeren Tatumstände ergibt, dass die Intensität des von dem Angeklagten begangenen Unrechts nicht hinter den erfahrungsgemäß gewöhnlich vorkommenden Fällen der gefährlichen Körperverletzung in einem Maß zurückbleibt, das die Anwendung des regulären Strafrahmens unangemessen erscheinen ließe"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer hat bei Findung des Strafrahmens die Sperrwirkung des § 213 StGB bedacht, wenn bei Annahme eines Tötungsdeliktes § 213 StGB anzunehmen gewesen wäre und wegen § 21 und § 23 Abs. 2 StGB zwei Strafrahmenverschiebungen nach § 49 StGB hätten vorgenommen werden können. So liegt der Fall hier aber nicht"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "3 Jahre und 4 Monate"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "von einem Monat bis zu sieben Jahren und sechs Monaten"
+        }
+    ]
+}

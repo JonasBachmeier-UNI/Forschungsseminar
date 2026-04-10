@@ -1,0 +1,54 @@
+{
+    "annotations": [
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte hat bereits zu einem frühen Zeitpunkt im Ermittlungsverfahren hinsichtlich seiner Täterschaft geständig gewesen ist"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Er hat versucht, die Tat soweit wie möglich ungeschehen zu machen, indem er versuchte, durch Reanimation die Lebensfunktionen des Säuglings wieder herzustellen, und den Rettungsdienst verständigte"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "auch ist er als Erstverbüßer strafempfindlicher als andere haftgewohnte Straftäter"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Gegen den Angeklagten spricht, dass er strafrechtlich bereits - wenn auch im geringem Umfang - in Erscheinung getreten ist"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Er hat aus Verärgerung über eine alltägliche Situation, einem nichtigen Anlass heraus eine massive Gewalthandlung gegen einen 11-​monatigen Säugling begangen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Er hat das in ihn von seiner Freundin und Mutter des Tatopfers gesetzte Vertrauen, er werde das Baby für die kurze Zeit des Geldholens und Einkaufens fürsorglich behandeln und gut beaufsichtigen, auf das Äußerste missbraucht"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Das krasse Missverhältnis zwischen dem Anlass der Tat und dem eingetretenen „Erfolg“ rückt die Tat in die Nähe eines Mordes"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der gebotenen Abwägung der für und gegen den Angeklagten sprechenden Umstände zeigt sich, dass die strafschärfenden Gesichtspunkte der Anzahl und insbesondere dem Gewicht nach überwiegen"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "elf Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 StGB"
+        }
+    ]
+}

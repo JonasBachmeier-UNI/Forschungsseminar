@@ -1,0 +1,34 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Die Bestimmung des § 212 Abs, 1 StGB sieht als Strafrahmen für ein Verbrechen des Totschlags Freiheitsstrafe zwischen 5 und 15 Jahren vor."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Bestimmung des § 212 Abs, 1 StGB sieht als Strafrahmen für ein Verbrechen des Totschlags Freiheitsstrafe zwischen 5 und 15 Jahren vor."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von 12 Jahren"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Zugunsten des Angeklagten ist zu beachten, dass er bislang strafrechtlich nicht in Erscheinung getreten ist."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Auch der jahrelange Streit mit dem Nachbarn kann nicht völlig unbeachtet bleiben."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Zum Nachteil des Angeklagten muss sich auswirken, dass er aus nichtigem Anlass den Tod eines anderen Menschen herbeigeführt hat."
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Kammer hat die Strafe dem Strafrahmen des § 213 StGB entnommen."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte war nicht vorbestraft."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte war im Ermittlungsverfahren hinsichtlich des objektiven Tatgeschehens weitestgehend geständig."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist seitdem nicht erneut straffällig geworden."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat bereits ein hohes Lebensalter erreicht und ist somit in gesteigertem Maße haftempfindlich."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Mildernd",
+            "quote": "Die altruistische Motivation des Angeklagten, die Geschädigte von einem leidvollen Zustand zu erlösen."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte hat bei seinem Umgang mit der Geschädigten im Zuge des Tatgeschehens die Maßstäbe, die nach dem, ihm vertrauten, geltenden Recht bei der Prüfung und Durchführung einer Suizidbegleitung an ärztliches Handeln anzulegen sind, über die bloße Tatbestandsbegehung hinaus in mehrfacher Weise und in erheblichem Maße missachtet hat."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Eine Freiheitsstrafe von 3 (drei) Jahren."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Das Gericht hat sodann, die vorgenannten und auch alle sonstigen für und gegen den Angeklagten sprechenden Strafzumessungsgründe abwägend"
+        }
+    ]
+}

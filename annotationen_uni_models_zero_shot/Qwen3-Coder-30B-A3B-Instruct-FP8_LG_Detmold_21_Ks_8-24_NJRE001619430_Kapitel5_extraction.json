@@ -1,0 +1,109 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Der Angeklagte hat sich demnach wegen versuchten Totschlags in Tateinheit mit schwerer Körperverletzung und Schwangerschaftsabbruch schuldig gemacht, strafbar nach §§ 212 Abs. 1, 218 Abs. 1, 223 Abs. 1, 226 Abs. 1 Nr. 3, 22, 23, 52 StGB."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "13 Jahren"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Bei der Strafzumessung ist die Kammer gemäß § 52 Abs. 2 StGB vom Strafrahmen des § 212 Abs. 1 StGB ausgegangen."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte nicht vorbestraft ist"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "er die Tat spontan beging"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat bereits annähernd sieben Monate Untersuchungshaft verbüßt"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "die für ihn aufgrund der Sprachbarriere und als Erstverbüßer besonders belastend war"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Die Nebenklägerin hat den Angriff knapp überlebt"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die Tatfolgen einer Tatvollendung besonders nahe kommen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Die Nebenklägerin hat den Angriff nur knapp überlebt"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "ihre Rettung nicht das Ziel seines Notrufs war"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "der Nebenklägerin letztlich alle Funktionen genommen wurden, die das Leben im eigentlichen Sinne ausmachen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Sie hat sämtliche kognitiven Fähigkeiten für immer verloren"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Sie ist reaktionslos wach, urin- und stuhlinkontinent und wird künstlich über eine Magensonde ernährt"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "alle Gliedmaßen sind spastisch gelähmt"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "sie leidet an einer nicht behandelbaren Epilepsie"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "diese Tat dennoch dem Regelstrafrahmen zugewiesen"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Der konkrete Tatauslöser und die bei dem Angeklagten vorherrschenden Beweggründe konnten nicht aufgeklärt werden"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "nicht feststellen konnte, was der Tatauslöser war"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller für und gegen den Angeklagten sprechenden Umstände hat die Kammer unter Berücksichtigung der Person des Angeklagten und der abgeurteilten Tat eine Freiheitsstrafe von 13 Jahren für tat- und schuldangemessen erachtet."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach wie vor die Annahme eines minder schweren Falles nicht für gerechtfertigt"
+        }
+    ]
+}

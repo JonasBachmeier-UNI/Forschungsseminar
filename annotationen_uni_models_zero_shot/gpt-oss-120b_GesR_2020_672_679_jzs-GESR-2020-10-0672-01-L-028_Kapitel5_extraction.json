@@ -1,54 +1,89 @@
 {
     "annotations": [
         {
-            "tag": "Strafrahmen",
+            "tag": "Strafhoehe",
             "category": "Formalia",
-            "quote": "Bei der Strafzumessung hat die Kammer ausgehend vom Regelstrafrahmen des § 212 Abs. 1 StGB geprüft, ob ein (sonst) minder schwerer Fall i.S.d. § 213 StGB vorliegt."
-        },
-        {
-            "tag": "Gesetzesgrundlage",
-            "category": "Formalia",
-            "quote": "Regelstrafrahmen des § 212 Abs. 1 StGB"
-        },
-        {
-            "tag": "Gesetzesgrundlage",
-            "category": "Formalia",
-            "quote": "minder schwerer Fall i.S.d. § 213 StGB"
+            "quote": "Freiheitsstrafe von einem Jahr und sechs Monaten"
         },
         {
             "tag": "Strafhoehe",
             "category": "Formalia",
-            "quote": "Die Kammer hat daher für die Angekl. Dr. R. auf eine Freiheitsstrafe von einem Jahr und sechs Monaten und für den Angekl. Prof. V auf eine solche von einem Jahr und neun Monaten als tat- und schuldangemessen erkannt."
+            "quote": "eine solche von einem Jahr und neun Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 56 Abs. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 70 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Art. 6 Abs. 1 Satz 1 MRK"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmen des § 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "minder schwerer Fall i.S.d. § 213 StGB"
         },
         {
             "tag": "Gestaendnis",
             "category": "Mildernd",
-            "quote": "das Tatgeschehen weitgehend eingeräumt haben"
+            "quote": "Tatgeschehen weitgehend eingeräumt"
         },
         {
-            "tag": "Vorleben_Positiv",
+            "tag": "Gestaendnis",
             "category": "Mildernd",
-            "quote": "beide unbestraft sind"
-        },
-        {
-            "tag": "Vorleben_Positiv",
-            "category": "Mildernd",
-            "quote": "beide Angekl. bisher strafrechtlich nicht in Erscheinung getreten sind und beanstandungsfrei als Geburtsmediziner gearbeitet haben"
+            "quote": "die Tat mittlerweile mehr als neun Jahre zurückliegt, beide unbestraft sind und das Tatgeschehen weitgehend eingeräumt haben"
         },
         {
             "tag": "Reue_Einsicht",
             "category": "Mildernd",
-            "quote": "dass diese in der Hauptverhandlung eine kritische Distanz zu ihrer Tathandlung zum Ausdruck gebracht hat"
+            "quote": "kritische Distanz zu ihrer Tathandlung zum Ausdruck gebracht hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "eine (gewisse) Einsicht in ihr Fehlverhalten gezeigt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "bisher strafrechtlich nicht in Erscheinung getreten"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "beide unbestraft"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "planvoll ein mehr als zwei Wochen zuvor verabredetes Vorgehen umsetzten"
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "Bei der konkreten Strafzumessung hat die Kammer hinsichtlich beider Angekl. die im Rahmen der Strafrahmenwahl berücksichtigten Umstände erneut gegeneinander abgewogen"
-        },
-        {
-            "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "dass die schuldmindernden Umstände in ihrer Gesamtheit ein derart hohes Gewicht auf, dass sie besondere Umstände i.S.d. § 56 Abs. 2 StGB darstellen"
+            "category": "Abwaegung",
+            "quote": "Bei der konkreten Strafzumessung hat die Kammer hinsichtlich beider Angekl. die im Rahmen der Strafrahmenwahl berücksichtigten Umstände erneut gegeneinander abgewogen."
         }
     ]
 }

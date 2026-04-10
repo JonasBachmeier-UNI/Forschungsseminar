@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "2 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 224 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der von 1 Monat bis zu 7 Jahren und 6 Monate reichte"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat im Rahmen seines Geständnisses die Verantwortung für die Tat uneingeschränkt übernommen"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte hat die Tat eingeräumt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "er sich nach seiner Flucht in die XXXXX freiwillig dem Verfahren gestellt und die Tat eingeräumt, er über sich und die Tat sichtlich entsetzt ist, die Tat bereut"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "er bei Tatausführung unter dem Einfluss von Alkohol stand"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der Angeklagte ist nicht vorbestraft"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "die Voraussetzungen des § 46a Nr. 1 StGB vorliegen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "er das Messer verdeckt eingesetzt und dessen Einsatz zuvor nicht angedroht hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "der Nebenkläger wegen der durch die Tat des Angeklagten erlittenen gesundheitlichen Folgen 9 Tage in stationärer Behandlung, anschließend noch 12 Wochen arbeitsunfähig und ist nach wie vor in psychotherapeutischer Behandlung"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "die Vielzahl der Stichverletzungen und der Umstand, dass der Anlass für das Anzetteln der körperlichen Auseinandersetzung gering war"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "In der Gesamtschau vermochten danach die strafmildernden die strafschärfenden Gesichtspunkte nicht wesentlich zu überwiegen"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter zusammenfassender Würdigung all dieser für und gegen den Angeklagten sprechenden Umstände und der Erwägung, dass Strafe bei einem an und für sich sozial integrierten Täter nicht zur Entsozialisierung führen soll, hielt die Kammer zur Einwirkung auf den Angeklagten die Verhängung einer Freiheitsstrafe von"
+        }
+    ]
+}

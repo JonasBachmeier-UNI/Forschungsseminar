@@ -1,0 +1,49 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Ausgangspunkt für den Strafrahmen ist der Strafrahmen des § 212 Abs. 1 StGB und damit Freiheitsstrafe von 5 bis 15 Jahren."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Ein besonders schwerer Fall des Totschlags nach § 212 Abs. 2 StGB liegt aufgrund des Fehlens von Vorstrafen und der - wenn B3 unterhalb der Schwelle der §§ 20, 21 StGB liegende - Belastung durch die Geburt nicht vor."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Eine Gesamtabwägung unter Berücksichtigung aller nachfolgend aufgeführten Milderungsgründe ergibt nicht, dass die vorliegende Tat vom \"Normalfall\" der vorsätzlichen Tötung in einem solchen Grad abweicht, dass die Anwendung des Regelstrafrahmens unangemessen erscheint."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Innerhalb des Regelstrafrahmens für den Totschlag hat die Kammer zugunsten der Angeklagten berücksichtigt, dass diese zumindest später den Fundort der Leiche preisgegeben hat."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Ferner hat die Kammer bei der Strafzumessung zugunsten der Angeklagten in Rechnung gestellt, dass diese besonders haftempfindlich ist: T6 ist Erstverbüßerin."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Zudem ist T6 besonders haftempfindlich, weil T6 lange Zeit getrennt von ihren 2 kleinen Kindern sein muss, die die nächsten Jahre ohne Mutter aufwachsen müssen, was ebenfalls strafmildernd zu berücksichtigen ist."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Aufgrund der Belastungen durch die unmittelbar zuvor erfolgte Geburt mag bei ihr B3 - unterhalb der Erheblichkeitsschwelle der §§ 20, 21 StGB - die Hemmschwelle herabgesetzt gewesen sein."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Das gerade geborene Opfer besonders schutz- und hilflos war und dass die Tat zu überdurchschnittlichen psychischen Folgen bei der ganzen Familie C/S geführt hat."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Nach Gesamtabwägung aller zugunsten und zu Lasten der Angeklagten sprechenden Umstände ist eine Freiheitsstrafe von 5 Jahren und 6 Monaten tat- und schuldangemessen."
+        }
+    ]
+}

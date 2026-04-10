@@ -1,0 +1,59 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "10 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der eine Freiheitsstrafe nicht unter fünf Jahren vorsieht"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der Angeklagte bisher nicht vorbestraft ist"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "der Angeklagte sich durch das Verhalten des Opfers provoziert fühlte, wütend auf sie und alkoholbedingt enthemmt war"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte die Tat gestanden"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "der Angeklagte sich durch das Verhalten des Opfers provoziert fühlte"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "daß er sich mit 61 Jahren erstmals in Haft befindet"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "er seine Ehefrau mit unbedingtem Tötungsvorsatz erwürgte, sogar weiter zudrückte, als ihr Suppe und Blut aus Mund und Nase traten"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "unterbrach er den Vorgang einmal, würgte jedoch weiter, als das Opfer noch Lebenszeichen zeigte"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung der genannten für und gegen das Vorliegen eines minder schweren Falles sprechenden Umstände ist die Kammer zu der Überzeugung gelangt, dass ein solcher Fall hier nicht vorliegt"
+        }
+    ]
+}

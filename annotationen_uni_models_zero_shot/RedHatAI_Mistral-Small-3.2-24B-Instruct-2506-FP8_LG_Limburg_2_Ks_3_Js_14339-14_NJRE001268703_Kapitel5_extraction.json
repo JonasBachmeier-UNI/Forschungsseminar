@@ -1,0 +1,39 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen des § 212 Abs. 1 StGB sieht Freiheitsstrafe von 5 Jahren bis 15 Jahren vor. Dieser Strafrahmen war sodann wegen des Versuches gemäß § 23 Abs. 2, 49 Abs. 1 StGB zu mildern."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "hierbei hat die Kammer berücksichtigt, dass der Angeklagte nicht einschlägig vorbestraft ist und er sich bisher um seine Familie gekümmert hat."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Die Nebenkläger hatten seine Tochter schlecht behandelt, der Nebenkläger S.Y. sie sogar geschlagen. Es handelte sich um eine Spontantat."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Gegen den Angeklagten sprachen jedoch die erheblichen, bei dem Nebenkläger M.Y. sogar lebensgefährlichen Verletzungen. Der Nebenkläger M.Y. ist bis zum heutigen Tag nicht in der Lage seiner Arbeit im Restaurant in vorherigem Umfang nachzukommen."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Er hat das aus seiner Sicht schändliche Verhalten der Nebenkläger durch eigene Hand zu rächen versucht."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der Zumessung der Strafe waren die Umstände zu sehen, die bereits bei der Prüfung eines minder schweren Falles Berücksichtigung fanden. Unter Abwägung sämtlicher für und gegen die Angeklagte sprechenden Umstände, hielt die Kammer eine"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 6 Jahren und 6 Monaten"
+        }
+    ]
+}

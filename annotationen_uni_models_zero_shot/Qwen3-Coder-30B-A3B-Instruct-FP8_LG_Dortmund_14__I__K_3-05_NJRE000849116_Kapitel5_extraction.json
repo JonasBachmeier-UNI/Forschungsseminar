@@ -1,0 +1,34 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 8 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "minder schwerer Fall"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Die geistige Entwicklung des durchschnittlich intelligenten Angeklagten ist sicherlich altergemäß. Reiferückstände bestehen allenfalls hinsichtlich seiner sittlich-sozialen Entwicklung."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Insoweit wirkten sich die alkoholische Beeinflussung und die beschriebene aktuelle seelisch-geistige Verfassung nicht so aus, dass er dadurch gehindert war, nach dieser Unrechtseinsicht zu handeln."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer befindet sich insoweit in Übereinstimmung mit der psychiatrischen Sachverständigen Dr. I4, welche die strafrechtliche Verantwortlichkeit im Sinne des § 3 JGG beim Angeklagten für gegeben hält."
+        }
+    ]
+}

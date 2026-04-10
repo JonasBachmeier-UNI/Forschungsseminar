@@ -1,0 +1,89 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Es war daher ein Strafrahmen von Freiheitsstrafe von 2 Jahren bis zu 11 Jahren und 3 Monaten zu Grunde zu legen."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 8 Jahren 3 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Var.1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Var. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 21 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 23 Abs. 2, 49 Abs. 1 StGB"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "der Angeklagte nicht vorbestraft ist"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "aufgrund der affektiv aufgeladenen Situation von einer gewissen Enthemmung auszugehen ist"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte hat sich insoweit geständig eingelassen, als er eingeräumt hat, die Messerstiche ausgeführt zu haben"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "dem körperlichen Angriff des Angeklagten eine verbale Auseinandersetzung vorausgegangen"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "besonderen Haftempfindlichkeit auszugehen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "zwei unterschiedliche Varianten der gefährlichen Körperverletzung verwirklichte, indem er ein gefährliches Werkzeug verwendete und die Körperverletzung mittels einer das Leben gefährdenden Behandlung verursachte"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "akut lebensgefährliche Verletzungen erlitten hat und nur noch durch eine Notoperation gerettet werden konnte"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "mit Tötungsabsicht, also der stärksten Vorsatzform, handelte"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "In einer Gesamtschau eine"
+        }
+    ]
+}

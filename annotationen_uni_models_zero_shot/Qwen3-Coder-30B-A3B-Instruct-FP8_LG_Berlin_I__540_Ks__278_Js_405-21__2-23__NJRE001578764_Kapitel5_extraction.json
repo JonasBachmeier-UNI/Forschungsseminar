@@ -1,0 +1,54 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Die gegen den Angeklagten zu verhängende Strafe hat die Kammer dem Strafrahmen des § 213 StGB entnommen."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "die Tat stellte sich ... als ein sonstiger minder schwerer Fall des Totschlags dar, der vom Durchschnitt der erfahrungsgemäß vorkommenden Fälle dieses Delikts so weit nach unten abweicht, dass die Anwendung des Regelstrafrahmens nicht schuldangemessen gewesen wäre."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte war bereits im Ermittlungsverfahren hinsichtlich des objektiven Tatgeschehens weitestgehend geständig war"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat nicht vorbestraft"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der Angeklagte ist seitdem nicht erneut straffällig geworden"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "der Angeklagte bereits ein hohes Lebensalter erreicht hat und somit in gesteigertem Maße haftempfindlich ist"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Mildernd",
+            "quote": "die altruistischen Motivation des Angeklagten, die Geschädigte von einem leidvollen Zustand zu erlösen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "er bei seinem Umgang mit der Geschädigten im Zuge des Tatgeschehens die Maßstäbe, die nach dem, ihm vertrauten, geltenden Recht bei der Prüfung und Durchführung einer Suizidbegleitung an ärztliches Handeln anzulegen sind, über die bloße Tatbestandsbegebung hinaus in mehrfacher Weise und in erheblichem Maße missachtet hat"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Das Gericht hat sodann, die vorgenannten und auch alle sonstigen für und gegen den Angeklagten sprechenden Strafzumessungsgründe abwägend"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 3 (drei) Jahren"
+        }
+    ]
+}

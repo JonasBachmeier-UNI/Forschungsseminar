@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Jugendstrafe von 4 (vier) Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "§ 18 Abs. 1 S. 2, 105 Abs. 3 JGG zugrunde zu legen."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "dass der Angeklagte eingeräumt hat, an allen Taten beteiligt gewesen zu sein"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Er hat sich bei allen Geschädigten entschuldigt, mit dem Geschädigten H. eine Geldzahlung in Höhe von 1.000 € als Schadenswiedergutmachung und Schmerzensgeld vereinbart."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Er setzt sich – auch dies hat die Kammer gesehen – mit all seinen Taten auseinander, sucht viele Gesprächspartner und ist erreichbar. Insoweit ist sein Verhalten insgesamt von Reue getragen."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "der noch recht junge Angeklagte zum ersten Mal schon lange in Untersuchungshaft sitzt – zudem unter den erschwerten Coronabedingungen – und mit Blick auf den Schuldspruch auch sein gegenwärtiger ausländerrechtlicher Status (Aufenthaltserlaubnis) gefährdet ist."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Die Schuldfähigkeit war zudem zumindest nicht ausschließbar krankheitsbedingt eingeschränkt."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Verwenden eines gefährlichen Werkzeuges, lebensgefährdende Behandlung"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Bei dem Angeklagten lagen jeweils zu den Tatzeitpunkten schädliche Neigungen iSd § 17 Abs. 2 JGG vor, die auch immer noch vorhanden sind."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "erheblichen innere Fehlhaltungen, welche eine längere Gesamterziehung notwendig machen."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "gravierende – letztlich auch geplante, provozierte. und gewollte – Gewalttaten (Fall 2 und 4 – Geschädigte M./B./A.) begangen wurden mit erheblichen Verletzungsfolgen (Kieferbruch/Handbrüche), welche noch immer zu spüren sind und bis heute wirken, mithin Monate später."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "In den Fällen 1 und 2 ist darüber hinaus zu Lasten des Angeklagten zu berücksichtigen, dass durch eine Handlung je einmal drei Personen geschädigt wurden (Fall 1 – Gebrüder P. und S. K.) und einmal zwei Personen zu Schaden gekommen sind (Fall 2 – M. und B.)."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Die Gewaltanwendung (Schlagen, Tritte und Hochziehen des Körpers an Ohren und Haaren) stehen in einem krassen Missverhältnis und erschüttern."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "Anlass – Wunsch nach neuen Turnschuhen im Wert von gut 170 Euro – und Gewaltanwendung (Schlagen, Tritte und Hochziehen des Körpers an Ohren und Haaren) stehen in einem krassen Missverhältnis und erschüttern. Das Opfer sollte zudem – verbreitet über I. – als vermeintlicher Drogenkonsument denunziert und bloßgestellt werden, wenn es der Forderung des Angeklagten nicht nachkäme."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Im Rahmen einer Gesamtbetrachtung aller vorgenannter strafmildernden und strafscharfenden Aspekte im Einzelnen und in der Gesamtschau sowie unter Berücksichtigung des im Jugendstrafrecht dominierenden Erziehungsgedankens hält die Kammer unter Abwägung all jener Aspekte eine Jugendstrafe von 4 (vier) Jahren insgesamt geboten, um in diesem Rahmen erzieherisch auf den erst 18-jährigen Angeklagten einzuwirken."
+        }
+    ]
+}

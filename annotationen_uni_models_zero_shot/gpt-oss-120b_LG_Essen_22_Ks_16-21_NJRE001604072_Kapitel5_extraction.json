@@ -1,0 +1,124 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen von Freiheitsstrafe von 5 Jahren bis zu 15 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 I StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen des § 213 2. Alt. StGB, welcher Freiheitsstrafe von 1 Jahr bis zu 10 Jahren vorsieht"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 2. Alt. StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen von 3 Monaten bis zu 7 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 23 II"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 49 I Nr. 2, 3 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 46 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 53 I StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 54 I 2, 3 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "2 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "3 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "er nicht vorbestraft ist"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "die Verabreichung von Analgosedierungsmedikamenten bei dem Patienten X. eingeräumt hat, wodurch er nicht unerheblich zur Sachverhaltsaufklärung beigetragen hat"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "dass er sich aufgrund seiner ärztlichen Tätigkeit auf einer Intensivstation während der zweiten Coronawelle im Herbst 2020 sicher in einer schwierigen Lebenssituation befand"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "dass er - wenn auch nicht im Sinne des § 21 StGB - durch die bei ihm vorliegende Grunderkrankung der Depression nicht ausschließbar zusätzlich belastet war"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "der Angeklagte die Medikamentenboli nicht ausschließbar aufgrund eines jeweils spontan gefassten Tatentschlusses verabreichte"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "dass sich der Angeklagte nahezu ein Jahr in Untersuchungshaft befunden hat"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "dass seine Ehefrau zwischenzeitlich schwer erkrankt ist - besonders haftempfindlich ist"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "er als auf einer Intensivstation tätiger Arzt eine Vertrauensstellung innehatte, welche er durch die Taten in besonderem Maße enttäuscht hat"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Im Rahmen der hierbei vorzunehmenden Gesamtbetrachtung sind alle Umstände heranzuziehen und zu würdigen, die für die Bewertung der Tat und des Täters in Betracht kommen, gleichgültig, ob sie der Tat selbst innewohnen, sie begleiten, ihr vorausgehen oder nachfolgen (BGH, NStZ‑RR 2007, S. 194)"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Bei der gebotenen Gesamtabwägung aller für und gegen den Angeklagten sprechenden Umstände war die Kammer nach alledem der Überzeugung, dass ein minder schwerer Fall des Totschlags im Sinne des § 213 2. Alt. StGB jeweils schon allein aufgrund allgemeiner Milderungsgründe anzunehmen war"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Unter Abwägung aller vorgenannten und Berücksichtigung sämtlicher weiterer Strafzumessungsgesichtspunkte des § 46 StGB hat die Kammer für beide Fälle des versuchten Totschlags jeweils auf eine (Einzel-​)Freiheitsstrafe von"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Nach einer abschließenden Gesamtwürdigung hat die Kammer unter Erhöhung der höchsten Einzelfreiheitstrafe von 2 Jahren und 6 Monaten auf eine Gesamtfreiheitsstrafe von"
+        }
+    ]
+}

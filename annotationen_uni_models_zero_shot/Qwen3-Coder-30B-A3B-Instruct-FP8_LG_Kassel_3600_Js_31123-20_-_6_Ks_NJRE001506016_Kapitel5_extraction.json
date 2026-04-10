@@ -1,0 +1,114 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 4 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 21 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 49 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 23 Abs. 2 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 5 Jahren bis zu 15 Jahren"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen des § 213 StGB von 1 Jahr bis zu 10 Jahren"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen von 3 Monaten bis zu 7 Jahren und 6 Monaten Freiheitsstrafe"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte hat geständige Angaben gemacht"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "sich in der mündlichen Verhandlung für sein Tun entschuldigt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "nicht vorbestraft ist"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "unter Suchtmitteleinfluss begangen wurde"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "ohne Anlass und für das mit ihm befreundete Opfer überraschend mit einem Beil gegen dessen Kopf geschlagen hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "tateinheitlich eine vollendete gefährliche Körperverletzung begangen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "ein gefährliches Werkzeug verwendete und die Körperverletzung mittels einer das Leben gefährdenden Behandlung verursachte"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "für das mit ihm befreundete Opfer"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "die von ihm begangene Straftat ohne vorherige Planung aufgrund eines spontan gefassten Entschlusses"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei dieser Gesamtwürdigung sind alle Umstände herangezogen worden, die für die Wertung von Tat und Täterpersönlichkeit in Betracht kommen, gleichgültig, ob sie der Tat innewohnen, sie begleiten, ihr vorausgehen oder folgen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Im Rahmen dieser Abwägung hat die Kammer zugunsten des Angeklagten berücksichtigt, dass er nicht vorbestraft ist, geständige Angaben gemacht hat, sich in der mündlichen Verhandlung für sein Tun entschuldigt hat, dass die von ihm begangene Straftat ohne vorherige Planung aufgrund eines spontan gefassten Entschlusses unter Suchtmitteleinfluss begangen wurde, dass es hinsichtlich der Tötung beim Versuch blieb, dass sein Opfer nicht schwerer verletzt wurde und keine gesundheitlichen Folgen davongetragen hat."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Gegen den Angeklagten sprach zunächst die Tatausführung selbst, da er ohne Anlass und für das mit ihm befreundete Opfer überraschend mit einem Beil gegen dessen Kopf geschlagen hat."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach erneuter Abwägung aller für und gegen den Angeklagten sprechenden Umstände war für die Tat eine Freiheitsstrafe von 4 Jahren und 6 Monaten tat- und schuldangemessen."
+        }
+    ]
+}

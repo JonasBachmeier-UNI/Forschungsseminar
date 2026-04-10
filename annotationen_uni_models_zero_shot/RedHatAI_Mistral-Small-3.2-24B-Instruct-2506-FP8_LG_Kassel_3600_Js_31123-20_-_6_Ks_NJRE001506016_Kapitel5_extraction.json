@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 5 Jahren bis zu 15 Jahren (§ 38 Abs. 2 StGB)"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "ein „sonstiger“ minder schwerer Fall des versuchten Totschlags"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die Fähigkeit des Angeklagten, nach der vorhanden gebliebenen Einsicht in das Unrecht zu handeln, nach den getroffenen Feststellungen bei Begehung der Tat erheblich vermindert war."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Dabei hat das Gericht zunächst allein unter Heranziehung der allgemeinen Milderungsgründe die Maßgeblichkeit des Ausnahmestrafrahmens, sodann unter Heranziehung zusätzlich je eines vertypten und ggf. aller vertypter Milderungsgründe zu prüfen, ob ausnahmsweise der Strafrahmen des minder schweren Falls zur Anwendung kommen soll oder demgegenüber der ggf. gemilderte Regelstrafrahmen günstiger wirkt"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "geständige Angaben gemacht hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "sich in der mündlichen Verhandlung für sein Tun entschuldigt hat"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die von ihm begangene Straftat ohne vorherige Planung aufgrund eines spontan gefassten Entschlusses unter Suchtmitteleinfluss begangen wurde"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "er nicht vorbestraft ist"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei dieser Gesamtwürdigung sind alle Umstände herangezogen worden, die für die Wertung von Tat und Täterpersönlichkeit in Betracht kommen, gleichgültig, ob sie der Tat innewohnen, sie begleiten, ihr vorausgehen oder folgen."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "ohne Anlass und für das mit ihm befreundete Opfer überraschend mit einem Beil gegen dessen Kopf geschlagen hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "vollendete gefährliche Körperverletzung begangen"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der Bemessung der Strafhöhe innerhalb des zugrunde zu legenden Strafrahmens hat sich die Kammer an den Grundsätzen der Strafzumessung des § 46 StGB orientiert und noch einmal sämtliche Gesichtspunkte miteinander abgewogen, die im Rahmen der Erörterung eines minder schweren Falles von Bedeutung gewesen sind."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach erneuter Abwägung aller für und gegen den Angeklagten sprechenden Umstände"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 4 Jahren und 6 Monaten"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Die Gesamtabwägung der inneren und äußeren Tatumstände hat ergeben, dass in keinem Fall die Intensität des von dem Angeklagten begangenen Unrechts hinter den erfahrungsgemäß gewöhnlich vorkommenden Fällen des § 212 Abs. 1 StGB in einem Maß zurückbleibt, das die Anwendung des regulären Strafrahmens unangemessen erscheinen lässt."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Unter Abwägung sämtlicher für und gegen die Angeklagte sprechenden Umstände, hielt die Kammer eine"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass der Angeklagte nicht einschlägig vorbestraft ist"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "er sich bisher um seine Familie gekümmert hat"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Die Nebenkläger hatten seine Tochter schlecht behandelt, der Nebenkläger S.Y. sie sogar geschlagen."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Gegen den Angeklagten sprachen jedoch die erheblichen, bei dem Nebenkläger M.Y. sogar lebensgefährlichen Verletzungen."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Er hat das aus seiner Sicht schändliche Verhalten der Nebenkläger durch eigene Hand zu rächen versucht."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen des § 212 Abs. 1 StGB sieht Freiheitsstrafe von 5 Jahren bis 15 Jahren vor."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 6 Jahren und 6 Monaten"
+        }
+    ]
+}

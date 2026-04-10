@@ -1,0 +1,89 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von\n\ndrei Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 224 Abs. 1 Halbsatz 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 21 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 46a StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 64 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "minder schweren Fall"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat das Tatgeschehen vollumfänglich eingeräumt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat, soweit er sich an das Geschehen noch erinnern konnte, zur Aufklärung beigetragen"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "einen finanziellen Ausgleich mit dem Geschädigten gesucht, der zu dem gerichtlich protokollierten Vergleich geführt hat"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte bisher nicht bestraft ist"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte war erheblich alkoholisiert und stand noch etwas unter Drogeneinfluss"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "die Tat aus einer – durch den Angeklagten missverstandenen – Kränkungssituation entstanden ist"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "zumindest aufgrund der zwei Verfahren aus den Jahren 2004 und 2007 gewusst hat, dass er unter Alkoholeinfluss zu Aggressionen neigen kann"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die psychischen und physischen Folgen für den Geschädigten erheblich"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "der Geschädigte mehrere Tage im Krankenhaus verbringen und aufgrund des großes Blutverlustes mit einer ihn über Wochen körperlich einschränkenden Thrombose leben musste"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "angesichts der Stichrichtung sowie der Klingenlänge des Messers hätten hier noch wesentlich schwerere Verletzungen entstehen können"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Abwägung aller genannten und aller weiteren Strafzumessungsgesichtspunkte hat die Kammer eine Freiheitsstrafe von"
+        }
+    ]
+}

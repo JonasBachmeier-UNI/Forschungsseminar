@@ -31,94 +31,99 @@
             "quote": "Die Kammer hat von einer Anordnung gemäß § 52a JGG abgesehen, so dass die erlittene Untersuchungshaft auf die Jugendstrafe anzurechnen ist."
         },
         {
-            "tag": "Geständnis",
+            "tag": "Gestaendnis",
             "category": "Mildernd",
             "quote": "Der Angeklagte hat das Tatgeschehen vollumfänglich eingeräumt"
         },
         {
             "tag": "Reue_Einsicht",
             "category": "Mildernd",
-            "quote": "In der Hauptverhandlung hat der Angeklagte glaubhaft sein Bedauern über den von ihm verursachten Tod des P1 zum Ausdruck gebracht und sich von seiner Tat durchaus beeindruckt gezeigt."
+            "quote": "In der Hauptverhandlung hat der Angeklagte glaubhaft sein Bedauern über den von ihm verursachten Tod des P1 zum Ausdruck gebracht"
         },
         {
             "tag": "Reue_Einsicht",
             "category": "Mildernd",
-            "quote": "Er hat in der Hauptverhandlung sein Bedauern über den von ihm verursachten Tod des Opfers glaubhaft zum Ausdruck gebracht."
-        },
-        {
-            "tag": "Vorleben_Positiv",
-            "category": "Mildernd",
-            "quote": "Der Angeklagte hat sich während der Untersuchungshaft einwandfrei geführt."
-        },
-        {
-            "tag": "Vorleben_Positiv",
-            "category": "Mildernd",
-            "quote": "Nach seiner Haftentlassung hat er sich umgehend weiter um die Fortführung seiner Ausbildung bemüht."
-        },
-        {
-            "tag": "Vorleben_Positiv",
-            "category": "Mildernd",
-            "quote": "Die Entwicklung des Angeklagten verlief weitgehend unauffällig, in der Schule hat er sich zuletzt als zielstrebig erwiesen."
-        },
-        {
-            "tag": "Vorleben_Positiv",
-            "category": "Mildernd",
-            "quote": "Der Angeklagte hat hinsichtlich seiner schulischen Zukunftsplanung konkrete Vorstellungen hat und er sich um die Fortführung seiner schulischen Ausbildung bemüht."
+            "quote": "Der Angeklagte hat die Tat nicht von langer Hand geplant, sondern hat sich in unübersichtlicher Lage spontan zu der Tat entschlossen"
         },
         {
             "tag": "Tatprovokation",
             "category": "Mildernd",
-            "quote": "Auch das Tatopfer sich aktiv an der Auseinandersetzung beteiligte und Gewalt gegen den Körper des Angeklagten (Schubsen) ausübte."
+            "quote": "auch das Tatopfer sich aktiv an der Auseinandersetzung beteiligte und Gewalt gegen den Körper des Angeklagten (Schubsen) ausübte"
         },
         {
-            "tag": "Tatprovokation",
+            "tag": "Vorleben_Positiv",
             "category": "Mildernd",
-            "quote": "Der Angeklagte hat die bis dahin zwischen den unmittelbar Beteiligten geltenden Grenzen der Auseinandersetzung (gegenseitiges Schubsen) mit dem Messerstich daher ohne Not ganz deutlich überschritten."
+            "quote": "Der Angeklagte hat sich während der Untersuchungshaft einwandfrei geführt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Nach seiner Haftentlassung hat er sich umgehend weiter um die Fortführung seiner Ausbildung bemüht"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat in der Hauptverhandlung sein Bedauern über den von ihm verursachten Tod des Opfers glaubhaft zum Ausdruck gebracht"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der Angeklagte hinsichtlich seiner schulischen Zukunftsplanung konkrete Vorstellungen hat und er sich um die Fortführung seiner schulischen Ausbildung bemüht"
         },
         {
             "tag": "Haftempfindlichkeit",
             "category": "Mildernd",
-            "quote": "Der Angeklagte war zur Tatzeit noch 17 Jahre alt, also Jugendlicher im Sinne des § 1 Abs. 2 JGG."
+            "quote": "Der Angeklagte war zur Tatzeit noch 17 Jahre alt, also Jugendlicher im Sinne des § 1 Abs. 2 JGG"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "die den Voreintragungen zugrundeliegenden Tatvorwürfe sind relativ geringfügig"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "überdies liegen die Tatzeiten mehr als zweieinhalb Jahre bzw. mehr als eineinhalb Jahre vor der nunmehr abgeurteilten Tat"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Die Taten waren überdies geprägt von großsprecherischen Zügen"
         },
         {
             "tag": "Tatbild_Brutalitaet",
             "category": "Schärfend",
-            "quote": "Die Handlung des Angeklagten hat praktisch unmittelbar zum Tod des Tatopfers geführt."
+            "quote": "Die Handlung des Angeklagten hat praktisch unmittelbar zum Tod des Tatopfers geführt"
         },
         {
             "tag": "Tatbild_Brutalitaet",
             "category": "Schärfend",
-            "quote": "Er hat damit eine geringe Hemmschwelle hinsichtlich der körperlichen Integrität seines Opfers gezeigt."
+            "quote": "Er hat damit eine geringe Hemmschwelle hinsichtlich der körperlichen Integrität seines Opfers gezeigt"
         },
         {
             "tag": "Tatbild_Brutalitaet",
             "category": "Schärfend",
-            "quote": "Die Tat ist im oberen Bereich der denkbaren Delikte nach § 227 StGB einzuordnen."
-        },
-        {
-            "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
-            "quote": "die Tat in einer die Tatbestandsmäßigkeit einer Körperverletzung weit übersteigenden, brutalen und hochgradig gefährlichen Weise mittels eines in die Gaststätte trotz Sicherheitskontrollen mitgeführten gefährlichen Werkzeugs i.S.d. § 224 Abs. 1 Nr. 2 StGB begangen."
+            "quote": "Die Tat ist im oberen Bereich der denkbaren Delikte nach § 227 StGB einzuordnen"
         },
         {
             "tag": "Motiv_Verwerflich",
             "category": "Schärfend",
-            "quote": "Der Angeklagte hat die schwere Verletzung eines Menschen unter Verwendung eines Messers bewusst in Kauf genommen."
+            "quote": "Der Angeklagte hat die schwere Verletzung eines Menschen unter Verwendung eines Messers bewusst in Kauf genommen"
         },
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Nach Gesamtwürdigung der erörterten Gesichtspunkte bejaht die Kammer die Schwere der Schuld gemäß § 17 Abs. 2 JGG."
+            "quote": "Nach Gesamtwürdigung der erörterten Gesichtspunkte bejaht die Kammer die Schwere der Schuld gemäß § 17 Abs. 2 JGG"
         },
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Die Kammer hat auch das Vorliegen eines minder schweren Falles der Körperverletzung mit Todesfolge gemäß § 227 Abs. 2 StGB geprüft, im Ergebnis jedoch verneint."
+            "quote": "Die Kammer hat auch das Vorliegen eines minder schweren Falles der Körperverletzung mit Todesfolge gemäß § 227 Abs. 2 StGB geprüft, im Ergebnis jedoch verneint"
         },
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Trotz der Milderungsgründe, deren Bedeutung nicht verkannt wird, und auch unter Berücksichtigung des Umstands, dass sich die Tat letztlich als Eskalation zum Ende einer Auseinandersetzung darstellt, weicht die Tat nicht vom Durchschnitt der gewöhnlich vorkommenden Fälle einer Körperverletzung mit Todesfolge nach unten hin ab und auch die Schuld des Angeklagten hebt sich nicht nach unten vom Regelfall des § 227 StGB ab."
+            "quote": "Trotz der Milderungsgründe, deren Bedeutung nicht verkannt wird, und auch unter Berücksichtigung des Umstands, dass sich die Tat letztlich als Eskalation zum Ende einer Auseinandersetzung darstellt, weicht die Tat nicht vom Durchschnitt der gewöhnlich vorkommenden Fälle einer Körperverletzung mit Todesfolge nach unten hin ab und auch die Schuld des Angeklagten hebt sich nicht nach unten vom Regelfall des § 227 StGB ab"
         }
     ]
 }

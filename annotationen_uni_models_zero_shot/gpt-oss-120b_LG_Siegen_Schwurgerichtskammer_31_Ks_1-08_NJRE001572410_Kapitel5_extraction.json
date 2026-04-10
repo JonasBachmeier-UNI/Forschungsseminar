@@ -1,0 +1,99 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "die Verwirklichung des Totschlags gem. § 212 StGB stets die vorsätzliche Beendigung menschlichen Lebens unabdingbar voraussetzt"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Im Rahmen der Strafzumessung ist wegen der Tat in Dezember 0000 der Strafrahmen des § 213 StGB alter Fassung anzuwenden (§ 2 StGB)."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Gem. § 2 StGB ist der zum Tatzeitpunkt geltende Strafrahmen des § 213 StGB a.F. anzuwenden, der Freiheitsstrafe von 6 Monaten bis 5 Jahren vorsah."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Gem. § 2 StGB ist der zum Tatzeitpunkt geltende Strafrahmen des § 213 StGB a.F. anzuwenden, der Freiheitsstrafe von 6 Monaten bis 5 Jahren vorsah."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Wegen der Tat im Jahr 0000 ist der aktuell gültige Strafrahmen des § 213 StGB anzuwenden"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 6 Monaten bis 5 Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 4 Jahren und 3 Monaten"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "die Angeklagte zuvor noch niemals straffällig geworden war"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "die frühere Straffreiheit"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "sie als Erstverbüßerin und aufgrund ihres angegriffenen psychischen Gesundheitszustands als besonders haftempfindlich anzusehen ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "die Haftempfindlichkeit"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sie sich freiwillig selbst bei der Polizei gestellt, im Strafverfahren angemessen verteidigt und dabei insbesondere weitgehend geständig eingelassen hat"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "die weitgehend geständige Einlassung"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "sie selbst in erheblichem Maße unter der Tat gelitten hat, alkoholkrank wurde"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die Angeklagte an einer massiven Alkoholkrankheit mit einem Abhängigkeitssyndrom litt"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die Beeinträchtigung durch die wesentlich auf den früheren Taten beruhende Alkoholerkrankung"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "sie durch das monatelange Geheimhalten der Schwangerschaft ihre ohnehin bestehende Garantenpflicht maßgeblich verschärft hatte"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "diese auch gezielt verheimlicht und ihrer Familie verschwiegen hatte"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Unter nochmaliger Abwägung aller für und gegen die Angeklagte sprechenden Umstände war zwar einerseits der inhaltliche Zusammenhang zur strafrechtlich nicht mehr zu ahndenden Tat von 0000 zu berücksichtigen, andererseits aber auch zu beachten, daß insoweit wohl lediglich ein Fahrlässigkeitsdelikt verwirklicht worden sein kann."
+        }
+    ]
+}

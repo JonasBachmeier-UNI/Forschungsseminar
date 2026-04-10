@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "neun Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 17 Abs. 2 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 18 Abs. 1 S. 1 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 18 Abs. 2 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 21 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "von sechs Monaten bis zu zehn Jahren"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sein zumindest teilgeständige Einlassung"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "er ist nur geringfügig und nicht einschlägig vorbestraft"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Er befindet sich bereits seit über zehn Monaten in Untersuchungshaft, was für einen jungen Heranwachsenden eine einschneidende Erfahrung darstellt"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "sein Verhalten in der Tatsituation und nach der Tat lässt dennoch auf eine erhebliche Empathielosigkeit und Gleichgültigkeit und damit auf eine massive charakterliche Fehlentwicklung schließen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "bei der Tat handelt es sich um einen brutalen Angriff auf zwei dem Angeklagten bis dahin völlig unbekannte Personen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "der Angeklagte hat mehrere Tatbestände verwirklicht"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "mit seinem Nachtatverhalten, dem Einsprühen mit dem Parfum des Opfers und der Entsorgung seiner persönlichen Dinge, als wären sie Abfall, hat er dieses verhöhnt"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "die durch die Tatbeteiligung zum Ausdruck gebrachte egoistische und rücksichtslose Grundeinstellung, das Maß an Brutalität sowie die zutage getretenen Empathiedefizite"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "bei dem Angeklagten von einer gewissen alkoholbedingten Enthemmung unterhalb der Schwelle des § 21 StGB auszugehen"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter Abwägung aller für und gegen die Angeklagte sprechenden Umstände hat die Kammer unter Einbeziehung des Urteils des Amtsgerichts F. vom 29.04.2024 die Verhängung einer Einheitsjugendstrafe von"
+        }
+    ]
+}

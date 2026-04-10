@@ -1,0 +1,39 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Bei der insoweit vorzunehmenden Gesamtwürdigung von Person und Tat hat sie dabei für beide Angeklagten ein derart beträchtliches Überwiegen der strafmildernden Faktoren festgestellt, dass die Anwendung des Regelstrafrahmens vorliegend unangemessen hart erscheinen würde."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "SCHAERFEND",
+            "quote": "Zwar sprach zu Lasten beider Angeklagten, dass sie die Tat nicht etwa in einer schnelle Entscheidungen erfordernden Notfallsituation begangen haben, sondern vielmehr planvoll ein mehr als zwei Wochen zuvor verabredetes Vorgehen umsetzten."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "die Tat mittlerweile mehr als neun Jahre zurückliegt, beide unbestraft sind"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "das Tatgeschehen weitgehend eingeräumt haben"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "eine kritische Distanz zu ihrer Tathandlung zum Ausdruck gebracht hat"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "einem Jahr und sechs Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "einem Jahr und neun Monaten"
+        }
+    ]
+}

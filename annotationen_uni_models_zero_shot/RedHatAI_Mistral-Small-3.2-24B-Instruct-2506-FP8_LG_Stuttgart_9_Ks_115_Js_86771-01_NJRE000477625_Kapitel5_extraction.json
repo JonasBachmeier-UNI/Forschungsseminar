@@ -1,0 +1,124 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "lebenslanger Gesamtfreiheitsstrafe"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "11 Jahren Gesamtfreiheitsstrafe"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "30 Tagessätzen zu je 10 Euro"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Absatz 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 224 Absatz 1, 1. Alternative StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 242 Absatz 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "5 bis 15 Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "6 Monaten bis 10 Jahren"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "maßvolles Geständnis"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "weitgehendes Geständnis"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Erfahrung ist ihm diese Erfahrung nicht geworden."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte A. Z. steht erstmals vor Gericht"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": " Seine Schuldfähigkeit ist - wenn auch nicht erheblich vermindert - doch beeinträchtigt gewesen infolge des vor der Tat genossenen Alkohols in Verbindung mit seiner kombinierten Persönlichkeitsstörung, die sowohl von narzisstischen als auch dependenten Zügen geprägt ist, womit die Eingangsvoraussetzungen der 'schweren anderen seelischen Abartigkeit' im Sinne der §§ 20, 21 StGB erfüllt gewesen sind."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Seine Schuldfähigkeit ist - wenn auch nicht erheblich vermindert - doch beeinträchtigt gewesen infolge des vor der Tat genossenen Alkohols."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Die Vorstrafe wegen versuchten Totschlags"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Der Angeklagte ist einschlägig vorbestraft durch die Verurteilung wegen versuchten Totschlags, begangen am 25. Juli 1991. Im übrigen hat der Angeklagte durch die breite Mischung seiner sonstigen Delikte seit seiner Strafmündigkeit im Jahr 1976 - namentlich Diebstahl, Leistungserschleichung, unerlaubtes Entfernen vom Unfallort, fahrlässige Trunkenheit im Straßenverkehr, Nötigung, Fahren ohne Fahrerlaubnis, Raub, fahrlässiger Vollrausch, Beleidigung und Missbrauch von Ausweispapieren - ein bemerkenswertes Maß sozialer Unverträglichkeit offenbart."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Die besondere Brutalität, für die der Angeklagte mit den 'Rammstößen' verantwortlich gewesen ist"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Die Brutalität der Schläge über einen längeren Zeitraum hinweg sowie das Ausmaß der konkreten Verletzungen, die sich in den zwei blauen Augen, dem gebrochenen Nasenbein und dem insgesamt zur Unkenntlichkeit aufgeschwollenen Gesicht niedergeschlagen haben, sind in die Strafzumessung eingeflossen."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Die Banalität und Belanglosigkeit des Tatmotivs"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Gewalt um der Gewalt willen als Demonstration seiner Macht, seiner Überlegenheit und sein 'Könnens', das allein hat dem Angeklagten genügt, die Tat zu begehen."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "Die Todesangst hat fortgewirkt unter dem erzwungenen Eindruck der gegen den Getöteten gerichteten Gewalt mit der Drohung jederzeit möglicher Rückumkehrung der Opferrolle von Bernd S. zu A. M. hin, abhängig von der Aussage des Bernd S. Auch das Geschehen nach der Tat hat in diesem Zusammenhang eine Rolle gespielt"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "nach Abwägung der für und gegen den Angeklagten sprechenden Umstände"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "nach Abwägung der für und gegen den Angeklagten sprechenden Umstände"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "nach Abwägung der für und gegen den Angeklagten sprechenden Umstände"
+        }
+    ]
+}

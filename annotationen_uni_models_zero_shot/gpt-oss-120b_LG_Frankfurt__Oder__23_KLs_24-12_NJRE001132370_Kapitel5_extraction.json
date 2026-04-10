@@ -1,0 +1,59 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Wegen der im Zustand der Schuldunfähigkeit begangenen Tat war die Unterbringung der Beschuldigten in einem psychiatrischen Krankenhaus gemäß § 63 StGB anzuordnen."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die bei ihr vorliegenden schizoaffektiven Psychose aus dem Formenkreis der Schizophrenie"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Dieser Wunsch sei psychotisch und extrem gefährlich."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "der unbedingte Wunsch der Beschuldigten wieder schwanger zu werden."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Die Beschuldigte hat seit der Tat bereits viermal ihre Lebenspartner gewechselt."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Zu berücksichtigen sind neben der Drogenvergangenheit der Beschuldigten auch die Vorfälle in der Unterbringungseinrichtung in Teupitz."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "verheimlichte Medikamenteneinnahme"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "verheimlichte Sexualkontakt"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "die dort Angeklagte ihre drei Monate alte Tochter mit einem Kissen erstickt hatte."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der Abwägung der Folgen für die Beschuldigte gegenüber den Gefahren für die Allgemeinheit ist eine Unterbringung der Beschuldigten in einem psychiatrischen Krankenhaus als unabdingbar anzusehen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der Abwägung der Folgen für die Beschuldigte gegenüber den Gefahren für die Allgemeinheit ist eine Unterbringung unter Verhältnismäßigkeitsgesichtspunkten angezeigt."
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "§ 213 StGB a.F. anzuwenden, der Freiheitsstrafe von 6 Monaten bis 5 Jahren vorsah."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der aktuell gültige Strafrahmen des § 213 StGB anzuwenden, weil auch diesbezüglich ein minder schwerer Fall anzunehmen ist."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": " Sich demnach ergebenden Strafrahmens von 1 Jahr bis 10 Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Einzelstrafe von 1 Jahr und 9 Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Eine Einzelstrafe von 3 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 4 Jahren und 3 Monaten"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "die Angeklagte sich freiwillig selbst bei der Polizei gestellt, im Strafverfahren angemessen verteidigt und dabei insbesondere weitgehend geständig eingelassen hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "sie selbst in erheblichem Maße unter der Tat gelitten hat"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "die Angeklagte zuvor noch niemals straffällig geworden war"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "ihre bis dahin erfolgten klinischen Geburten komplikationslos abgelaufen und die Kinder jeweils weitgehend gesund zur Welt gekommen waren"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die Angeklagte an einer massiven Alkoholkrankheit mit einem Abhängigkeitssyndrom litt"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "sie in erheblichem Umfang Untersuchungshaft erlitten hat, wobei sie als Erstverbüßerin und aufgrund ihres angegriffenen psychischen Gesundheitszustands als besonders haftempfindlich anzusehen ist"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "die Angeklagte nun in dem Bewußtsein der Verantwortlichkeit für bereits zwei entsprechende Abläufe handelte bzw. nicht handelte, sondern wiederum die Schwangerschaft über deren gesamte Dauer hin verheimlichte."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "das enorme Gewicht der Garantenstellung der Angeklagten bezüglich des schutzlosen Kindes - im Vergleich zu dem geringen zur Vermeidung des Todesfalls erforderlichen Aufwand"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "monatelange Geheimhalten der Schwangerschaft ihre ohnehin bestehende Garantenpflicht maßgeblich verschärft hatte"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "die Angeklagte diese auch gezielt verheimlicht und ihrer Familie verschwiegen hatte."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter angemessener Berücksichtigung dieser Vielzahl gewichtiger strafmildernder Gesichtspunkte kann trotz des nachhaltigen Warneffekts des vorangegangenen Todesfalls von 0000 die anzusetzende Einzelstrafe nur dem unteren Drittel des anzuwendenden Strafrahmens zu entnehmen sein."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Angesichts dieser Umstände stünde nach Ansicht der Kammer im Grundsatz die gesamte untere Hälfte des bereits gemilderten Strafrahmens zur Verfügung, wobei auch insoweit eine Verdreifachung der Mindeststrafe von einem Jahr als Untergrenze anzusehen ist."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Abwägung aller für und gegen die Angeklagte sprechenden Umstände"
+        }
+    ]
+}

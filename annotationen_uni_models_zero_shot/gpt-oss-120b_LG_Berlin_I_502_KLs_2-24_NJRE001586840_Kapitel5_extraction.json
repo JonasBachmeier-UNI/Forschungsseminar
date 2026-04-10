@@ -1,0 +1,109 @@
+{
+    "annotations": [
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "sie nicht vorbestraft ist"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sich zu den objektiven Umständen geständig gezeigt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Verantwortung für ihre Taten übernommen hat"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "herausfordernde persönliche Lebenssituation mit dem zum Zeitpunkt der Hauptverhandlung noch nicht einmal ein Jahr alten Kind, das bei Begehung der Taten 2 bis 4 im Oktober 2023 erst wenige Monate alt war, und ihrer neuerlichen Schwangerschaft im achten Monat zum Zeitpunkt der Hauptverhandlung, sowie den Umstand, dass die Angeklagte durch die auch medial beachtete Hauptverhandlung und die Berichterstattung im Vorfeld besonders belastet war, hat die Kammer strafmildernd berücksichtigt"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Strafrahmen des § 130 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Einzelfreiheitsstrafe von sechs Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Strafrahmen des § 130 Abs. 1 StGB"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die besonders drastisch entwürdigende und von bemerkenswerter Empathielosigkeit geprägte glorifizierende Darstellung des getöteten Soldaten"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "ihre antisemitischen Beweggründe gemäß § 46 Abs. 2 Satz 2 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Einzelfreiheitsstrafe von einem Jahr und zwei Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Strafrahmen des § 111 Abs. 2 StGB"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "das konkrete Tatbild bewertet, insbesondere der relativ große Adressatenkreis der Aufforderung und die durch die Ereignisse im Gazastreifen an und nach dem 7. Oktober 2023 sowie die bereits erfolgten gewalttätigen Ausschreitungen in Berlin erheblich aufgeheizte Situation"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Einzelfreiheitsstrafe von einem Jahr und zwei Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Strafrahmen des § 140 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Einzelfreiheitsstrafe von sechs Monaten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Unter nochmaliger Abwägung aller für und gegen die Angeklagte sprechenden Umstände"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 1 (einem) Jahr und 10 (zehn) Monaten"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "fehlenden Vorstrafen"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "weitgehend geständigen Einlassung"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "sie sich im letzten Wort mit der gebotenen Deutlichkeit von ihren Taten distanziert"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "die Auswirkungen ihrer Taten auf die jüdischen Teile der Bevölkerung zumindest anerkannt"
+        }
+    ]
+}

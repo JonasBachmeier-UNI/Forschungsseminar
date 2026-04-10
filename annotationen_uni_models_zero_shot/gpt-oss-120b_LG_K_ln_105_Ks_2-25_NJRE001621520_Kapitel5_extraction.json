@@ -1,0 +1,54 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "stellt der Strafrahmen des § 212 Abs. 1 StGB den Ausgangspunkt dar, der eine Freiheitsstrafe zwischen fünf und fünfzehn Jahren vorsieht."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Auch sein frühes, bereits im Rahmen der Festnahme erfolgtes Teil‑Geständnis ist strafmildernd in die Abwägung eingeflossen."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "die Kammer hat bei der anzustellenden Gesamtwürdigung zu Gunsten des Angeklagten berücksichtigt, dass er nicht vorbestraft ist."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Zugunsten des Angeklagten ist des Weiteren in den Blick genommen worden, dass es sich um eine Spontantat handelt und der Angeklagte in dieser Situation affektiv erregt war."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "dass der Angeklagte den noch jungen gemeinsamen Kindern die Mutter und zugleich den Kontakt zum Vater genommen hat, sodass sie nun ohne ihre Eltern bei Verwandten aufwachsen müssen."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "dass der Angeklagte mit Tötungsabsicht handelte."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Bei der konkreten Strafzumessung hat die Kammer die dargestellten für und gegen den Angeklagten sprechenden Umstände noch einmal umfassend gewürdigt und gegeneinander abgewogen."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 11 Jahren"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Jugendstrafe von fünf Jahren und drei Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 212, 22; 224 Abs. 1 Nr. 5; 113 Abs. 1 und Abs. 2 Satz 2 Nr. 2 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "nach welchen die Strafrahmen des allgemeinen Strafrechts bei Anwendung des Jugendrechts nicht gelten"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "von Anfang an - wenngleich ohne nähere Angaben - dem Grunde nach eingeräumt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "deren schwere Folgen er bedauert"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "ist es ihm immerhin gelungen, einen Hauptschulabschluss nach Klasse 10 A zu erwerben"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "hat er bei Tatausführung unter hoher affektiver Anspannung gestanden"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "der zuvor genossene Alkohol - was entsprechend auch hinsichtlich der Tat vom 23.07.2010 gilt - zu einer gewissen Enthemmung geführt haben"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Sämtliche hier behandelte Taten liegen inzwischen mehr als 2 ½ Jahre zurück, in denen der Angeklagte ununterbrochen Freiheitsentzug"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "besonders belastet hat ihn zudem die lange Dauer des Verfahrens, in dessen Verlauf er in ständiger Ungewissheit über die Höhe der ihm drohenden Strafe geblieben ist"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "der schon mehrfach wegen Gewaltdelikten vorbelasteten, durch vorangegangenen Freiheitsentzug in Form von Jugendarrest und Untersuchungshaft in anderer Sache gewarnten und unter Bewährungsaufsicht stehenden Angeklagten"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "den Nebenkläger sowie ihm drohende Regressansprüche der mit den Krankheitskosten belasteten Sozialversicherungsträger hat der Angeklagte neben den strafrechtlichen Konsequenzen auch erhebliche finanzielle Folgen der zum Nachteil F. begangenen Tat zu tragen, die unter dem Gesichtspunkt des Totschlags - allein durch eine glückliche Fügung - nicht zur Vollendung gelangt, sondern nur versucht worden ist"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Der Angeklagte hat einen Menschen zu töten versucht und diesem ganz besonders schwerwiegende Gesichtsverletzungen zugefügt, zu deren Behandlung mehrere Operationen, darunter eine aufwendige Rekonstruktion praktisch des gesamten Mittelgesichts, erforderlich gewesen"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "hat er sich ungeachtet der offensichtlich schlimmen Folgen seiner Tat zum Nachteil des Nebenklägers schon am folgenden Morgen erneut einer polizeilichen Maßnahme widersetzt und dabei unmittelbar dazu angesetzt, einen Polizeibeamten - KHK H. - körperlich zu verletzen"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Abwägung aller vorgenannten Umstände ergibt zunächst, dass die Tat zum Nachteil des Nebenklägers F. einen minder schweren Fall der jeweils verletzten Strafvorschriften nicht darstellt"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die wertende Gesamtbetrachtung aller zuvor erörterten Strafzumessungsfaktoren ergibt ferner, dass die persönliche Schuld des Angeklagten, der unter anderem einen Menschen zu töten oder damit ein Verbrechen von hohem Unrechtsgehalt zu begehen versucht hat, so schwer wiegt, dass nach § 17 Abs. 2 JGG schon unter diesem Gesichtspunkt die Verhängung von Jugendstrafe erforderlich und auch erzieherisch geboten ist"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Schließlich ergibt die Abwägung aller vorgenannten Umstände, dass zur erzieherischen Einwirkung auf den Angeklagten eine empfindliche Jugendstrafe zu verhängen ist"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach alledem hält die Kammer unter der nach § 31 Abs. 2 JGG gebotenen Einbeziehung der im Tenor näher bezeichneten Entscheidungen eine Jugendstrafe von fünf Jahren und drei Monaten für angemessen und ausreichend, die einerseits der großen Schuld und dem erheblichen Nacherziehungsbedarf des Angeklagten gerecht wird, diesem andererseits aber auch noch eine Perspektive lässt"
+        }
+    ]
+}

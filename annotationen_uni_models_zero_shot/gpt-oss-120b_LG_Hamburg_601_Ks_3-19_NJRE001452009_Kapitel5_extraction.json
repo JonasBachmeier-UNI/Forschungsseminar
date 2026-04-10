@@ -1,0 +1,59 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen hat die Kammer gemäß § 52 Abs. 2 Satz 1 StGB dem – nach Versuchsgrundsätzen gemäß den §§ 23 Abs. 1, 49 Abs. 1 StGB nochmals gemilderten – § 213 StGB entnommen; der anzuwendende Strafrahmen beträgt damit Freiheitsstrafe von drei Monaten bis zu sieben Jahren und sechs Monaten."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 3 Jahren und 4 Monaten"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte wurde durch diese Provokationen auf der Stelle zu der Tat hingerissen."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "im Rahmen seiner Einlassungen den Einsatz eines Messers ... eingeräumt hat, wenngleich es sich nicht um ein strafbegründendes (Teil‑) Geständnis handelt"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "er war durch das vorangegangene Geschehen ... zudem durch den Genuss von Alkohol leicht enthemmt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der als unbestraft geltende Angeklagte, der sich bereits seit etwa 9 ½ Monaten in Untersuchungshaft befindet, ist als Erstverbüßer"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "ist als Erstverbüßer sowie unter Berücksichtigung der aus dem auferlegten Haftstatut folgenden Beschränkungen während der Untersuchungshaft zudem gesteigert haftempfindlich"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die Verletzung des Geschädigten C. so erheblich war, dass dieser sich einer Notoperation unterziehen und mehrere Tage stationär im Krankenhaus behandelt werden musste"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "nach der Tat noch im September 2018 ein Foto von sich in den sozialen Netzwerken veröffentlichte, welches ihn mit der Tätowierung „§ 212“ zeigt, was für die Kammer belegt, wie wenig sich der Angeklagte entgegen seiner Einlassung in Wahrheit von seiner Tat distanziert hat"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Unter nochmaliger Abwägung aller für und gegen den Angeklagten sprechenden Strafzumessungsgründe"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Bei dem Totschlag war gem. § 212 StGB ein Strafrahmen von 5 bis 15 Jahren Freiheitsstrafe zugrunde zu legen."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "ein Strafrahmen von 5 bis 15 Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Zugunsten des Angeklagten war sein Geständnis zu werten."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass er nicht vorbestraft ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "das junge Alter des zur Tatzeit 23-​jährigen Angeklagten"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "die in der Hauptverhandlung zu Tage getretene Reue des Angeklagten"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "dass er die zu den Straftaten führende Ausgangssituation in der Tatnacht selbst durch den Einbruch, der einen Hausfriedensbruch und eine Sachbeschädigung darstellt, herbeigeführt hat"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "daß es sich um eine Spontantat mit nur bedingtem Tötungsvorsatz gehandelt hat und bei der Tötung die durch Wut und Enttäuschung hervorgebrachte starke emotionale Erregung des Angeklagten eine entscheidende Rolle spielte"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "dass der Angeklagte vor Fassen des Tötungsvorsatzes bereits durch die Schläge und das Herbeiführen des Schädel-​Hirn-​Traumas Körperverletzungen begangen hat"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von 10 Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer hat nach Abwägung aller genannten Umstände eine Freiheitsstrafe in der Mitte der Strafrahmens gewählt"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller für und gegen den Angeklagten sprechenden Umstände"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von 4 Jahren"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "dass sich bei dem Brand mehrere Bewohner im Haus befunden haben, mit deren Anwesenheit der Angeklagte rechnen musste"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "seine besondere kriminelle Energie zu berücksichtigen, die sich darin zeigte, dass der Angeklagte an sieben verschiedenen Stellen Feuer legte"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "trotz des untauglichen Versuchs ein Sachschaden im Kellergeschoss entstanden ist"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach erneuter Abwägung aller relevanten Umstände hat die Kammer eine Gesamtfreiheitsstrafe von 11 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Gesamtfreiheitsstrafe von 11 Jahren und 6 Monaten"
+        }
+    ]
+}

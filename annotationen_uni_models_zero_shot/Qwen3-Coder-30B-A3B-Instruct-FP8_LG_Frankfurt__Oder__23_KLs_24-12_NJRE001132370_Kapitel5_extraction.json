@@ -1,0 +1,119 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Die von der Kammer vorgenommene Gesamtwürdigung der Beschuldigten und ihrer Tat hat ergeben, dass von ihr infolge ihres Zustandes – der bei ihr vorliegenden schizoaffektiven Psychose aus dem Formenkreis der Schizophrenie – weitere erhebliche rechtswidrige Taten zu erwarten sind und sie deshalb für die Allgemeinheit gefährlich ist."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Die von der Kammer vorgenommene Gesamtwürdigung der Beschuldigten und ihrer Tat hat ergeben, dass von ihr infolge ihres Zustandes – der bei ihr vorliegenden schizoaffektiven Psychose aus dem Formenkreis der Schizophrenie – weitere erhebliche rechtswidrige Taten zu erwarten sind und sie deshalb für die Allgemeinheit gefährlich ist."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "gemäß § 63 StGB"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Gleichzeitig sei sie aber auch Ausdruck erheblicher Gewalt. Diese Gewalt könne sich erneut gegen ein noch ungeborenes eigenes oder gegen ein fremdes Kind richten."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Insbesondere der unbedingte Wunsch der Beschuldigten wieder schwanger zu werden. Dieser Wunsch sei psychotisch und extrem gefährlich."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Der Wunsch nach nur 8 Wochen des Kennens mit dem (suchtkranken) Verlobten nach Thüringen ziehen zu wollen."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Zu berücksichtigen sind neben der Drogenvergangenheit der Beschuldigten auch die Vorfälle in der Unterbringungseinrichtung in Teupitz."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Drogenvergangenheit der Beschuldigten"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Die Beschuldigte hat seit der Tat bereits viermal ihre Lebenspartner gewechselt."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Die Beschuldigte ist bereits zweimal stationär wegen ihrer gezeigten psychischen Auffälligkeiten behandelt worden, ohne dass die erforderliche ambulante Nachbehandlung zustande gekommen ist."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Schärfend",
+            "quote": "Die Beschuldigte hat seit der Tat bereits viermal ihre Lebenspartner gewechselt."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Schärfend",
+            "quote": "Die Beschuldigte ist bereits zweimal stationär wegen ihrer gezeigten psychischen Auffälligkeiten behandelt worden, ohne dass die erforderliche ambulante Nachbehandlung zustande gekommen ist."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Die Beschuldigte hat seit der Tat bereits viermal ihre Lebenspartner gewechselt."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Die Beschuldigte ist bereits zweimal stationär wegen ihrer gezeigten psychischen Auffälligkeiten behandelt worden, ohne dass die erforderliche ambulante Nachbehandlung zustande gekommen ist."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Die Beschuldigte hat seit der Tat bereits viermal ihre Lebenspartner gewechselt."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Die Beschuldigte hat Kl. noch in keiner Weise betrauert."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Die Beschuldigte hat seit der Tat bereits viermal ihre Lebenspartner gewechselt."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Die Beschuldigte ist bereits zweimal stationär wegen ihrer gezeigten psychischen Auffälligkeiten behandelt worden, ohne dass die erforderliche ambulante Nachbehandlung zustande gekommen ist."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Aufgrund der überzeugenden Ausführungen des Sachverständigen steht für die Kammer fest, dass diese Tat auf die bei der Beschuldigten vorliegende schizoaffektiven Psychose aus dem schizophrenen Formenkreis zurückzuführen ist."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die bei ihr vorliegenden schizoaffektiven Psychose aus dem Formenkreis der Schizophrenie"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die bei der Beschuldigten vorliegende schizoaffektiven Psychose aus dem schizophrenen Formenkreis"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die von der Kammer vorgenommene Gesamtwürdigung der Beschuldigten und ihrer Tat hat ergeben, dass von ihr infolge ihres Zustandes – der bei ihr vorliegenden schizoaffektiven Psychose aus dem Formenkreis der Schizophrenie – weitere erhebliche rechtswidrige Taten zu erwarten sind und sie deshalb für die Allgemeinheit gefährlich ist."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller Umstände..."
+        }
+    ]
+}

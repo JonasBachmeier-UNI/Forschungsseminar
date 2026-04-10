@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "lebenslanger Freiheitsstrafe"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 211 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "lebenslange Freiheitsstrafe"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte N hat im Rahmen seines Teil-Geständnisses - wenn auch hinsichtlich der weiteren geschilderten Einzelheiten unglaubhaft - jedenfalls grundsätzlich die Schüsse auf das Opfer und damit das Setzen der Ursache für den Tod von B2 eingeräumt hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "im Rahmen der Verkündung des angepassten Haftbefehls des Amtsgerichts F6 am 05.05.2016 erklärte, ihm tue es leid, was er gemacht habe; er hoffe, der Mann lebe noch"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der Angeklagte N in den letzten Jahren vor der Tat wieder ein straffreies Leben führte"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "er keine Vorstrafen aufweist und sich in der Justizvollzugsanstalt X4 gut führt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "sich bei den Eltern des Verstorbenen - ohne eine eigene Schuld einzugestehen - entschuldigte und sein Bedauern ob des Todes des B2 zum Ausdruck brachte"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "der Angeklagte immerhin schon 47 Jahre alt und ist nach der nun getroffenen Entscheidung mit einer etwaigen Entlassung, wenn überhaupt, weit nach seinem 62. Lebensjahr zu rechnen ist"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "aus niedrigen Beweggründen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Heimtücke"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "sein - mehrfach beschriebenes - Verhalten in der Hauptverhandlung in Bezug auf den Nebenkläger und dessen Familie diesen Worten Hohn"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "der Angeklagte die Warnfunktion massiver - jedenfalls im Sinne von Gewaltdelikten einschlägiger - Vorstrafen missachtet"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "rücksichtslos das Leben völlig unbeteiligter Passanten gefährdet hat"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "in der Hauptverhandlung aufsprang, wild in Richtung des Nebenklägers und seiner Brüder im Zuschauerraum gestikulierte, dabei herumschrie und mehrfach den Nebenkläger u.a. als Terroristen titulierte und die Brüder des Nebenklägers mit den Worten 'Hurensohn, ich ficke deine Mutter' anschrie"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Nach einer abschließenden Gesamtwürdigung aller dieser vorgenannten und aller übrigen für und gegen den Angeklagten N sprechenden schuldrelevanten Umstände und der Täterpersönlichkeit hat die Kammer die besondere Schuldschwere festgestellt"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Unter Abwägung aller, bereits vorstehend für und gegen den Angeklagten angeführten Aspekte weicht auch weder der Fall der Beihilfe zum Mord noch derjenige der gefährlichen Körperverletzung zu Lasten des Zeugen B von den üblicherweise vorkommenden solchen Fällen bereits in einem Ausmaße ab, dass die Anwendung des Ausnahmestrafrahmens geboten gewesen wäre"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "7 Jahre und 6 Monaten"
+        }
+    ]
+}

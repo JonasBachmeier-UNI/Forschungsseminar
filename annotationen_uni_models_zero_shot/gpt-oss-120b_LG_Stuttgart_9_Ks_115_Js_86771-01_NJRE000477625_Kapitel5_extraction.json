@@ -1,0 +1,129 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "lebenslanger Gesamtfreiheitsstrafe"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "5 Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 54 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Absatz 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 224 Absatz 1, 1. Alternative StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Absatz 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 21 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 49 Absatz 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der Regelstrafrahmen für Totschlag, der 5 bis 15 Jahren Freiheitsstrafe vorsieht"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Aus dem angewandten Strafrahmen von 6 Monaten bis 10 Jahren"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen von 5 bis 15 Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen von 6 Monaten bis 10 Jahren"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat sich durch sein maßvolles Geständnis, weitgehend, was den Beginn der Abreibung zwecks Abstrafung anbelangt, und zu einem weiteren Teil, den er mit \"Ohrfeigen\" bagatellisiert hat, der strafrechtlichen Verantwortung gestellt."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Zu seinen Gunsten hat sich sein weitgehendes Geständnis ausgewirkt, durch das er sich bezüglich beider Tatvorwürfe der strafrechtlichen Verantwortung gestellt hat."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte ist einschlägig vorbestraft durch die Verurteilung wegen versuchten Totschlags, begangen am 25. Juli 1991. Im übrigen hat der Angeklagte durch die breite Mischung seiner sonstigen Delikte seit seiner Strafmündigkeit im Jahr 1976 - namentlich Diebstahl, Leistungserschleichung, unerlaubtes Entfernen vom Unfallort, fahrlässige Trunkenheit im Straßenverkehr, Nötigung, Fahren ohne Fahrerlaubnis, Raub, fahrlässiger Vollrausch, Beleidigung und Missbrauch von Ausweispapieren - ein bemerkenswertes Maß sozialer Unverträglichkeit offenbart."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "die Vorstrafe wegen versuchten Totschlags"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die besondere Brutalität, die aus seinem eigenhändigen Tatbeitrag hervorgeht"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die besondere Brutalität, für die der Angeklagte mit den \"Rammstößen\" verantwortlich gewesen ist"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Die Brutalität der Schläge über einen längeren Zeitraum hinweg sowie das Ausmaß der konkreten Verletzungen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die besondere Brutalität seines Mittäters"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "die Banalität und die Belanglosigkeit des Tatmotivs"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Frust wegen der Freundin hatte dem Angeklagten als Anlass der Tat genügt"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "die Quasi‑Gefangenschaft des eingeschüchterten A. M., dem auf diese Weise die sofortige ärztliche Behandlung vorenthalten worden ist, sowie die Verhöhnung"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "im Rahmen der Gesamtwürdigung der Tat und der Persönlichkeit des Angeklagten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "nach Abwägung der für und gegen den Angeklagten sprechenden Umstände"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "einen von drei Monaten bis zu sieben Jahren und sechs Monate Freiheitsstrafe reichenden Strafrahmen"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 27 Abs. 2 S. 2, 49 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 56 Abs. 2, 1 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von einem Jahr und sechs Monaten"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass dieser bisher durch die Begehung von Straftaten nicht aufgefallen ist."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Zum Tatgeschehen hat er sich geständig und umfassend eingelassen."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "dass sich der Angeklagte in einer Situation erheblicher psychischer Anspannung befand."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Er war überzeugt, auch im Sinne seiner Mutter zu handeln, die bekanntermaßen den Freitod einem Wechsel ins Pflegeheim vorzog."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist nicht vorgeahndet und zeigte sich durch den gegen ihn geführten Strafprozess erheblich beeindruckt."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte führt ein bürgerliches Leben."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Die Ausnahmesituation, die zur Begehung der Tat geführt hat, ist nicht mehr präsent."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach nochmaliger Abwägung dieser und aller sonstigen Umstände hat sie eine Freiheitsstrafe von einem Jahr und sechs Monaten für tat- und schuldangemessen erachtet."
+        }
+    ]
+}

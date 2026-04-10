@@ -1,0 +1,79 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 9 Jahren für den Totschlag"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von fünf bis 15 Jahren"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von sechs Monaten bis zu fünf Jahren"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "er hat die Tat auf dem Markplatz in Köln-Vingst spontan und nach vorausgegangener heftiger verbaler Beleidigungen und Provokationen von U1, die bei dem Angeklagten T zu einer emotionalen Anspannung führte, begangen"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "er hat die Tat auf dem Markplatz in Köln-Vingst spontan und nach vorausgegangener heftiger verbaler Beleidigungen und Provokationen von U1, die bei dem Angeklagten T zu einer emotionalen Anspannung führte, begangen"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T ist erstmalig inhaftiert und ihm droht aufgrund der von ihm zu verbüßenden langjährigen Freiheitsstrafe die Abschiebung in die Türkei"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "langjährig und zwar seit seinem 14. Lebensjahr Drogen konsumiert hat und den Konsum in dem Zeitraum vor der Tat noch steigerte, ohne dass dieser jedoch auf die Einsichts- und/oder Steuerungsfähigkeit des Angeklagten T zur Tatzeit Einfluss gehabt hat."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "die körperliche Auseinandersetzung an der Sonderschule in Köln-Z ein gesteigertes Unrechtsbewusstsein hätte haben müssen. Der Angeklagte T hielt sich trotz der Zusage eines \"Einzelkampfes\" auf dem Markplatz in Köln-Vingst nicht an diese Vereinbarung."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T ist erstmalig inhaftiert und ihm droht aufgrund der von ihm zu verbüßenden langjährigen Freiheitsstrafe die Abschiebung in die Türkei"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Zu Lasten des Angeklagten T hat die Kammer berücksichtigt, dass er bereits mehrfach, wenn auch nicht einschlägig, strafrechtlich in Erscheinung getreten ist."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte T hielt sich trotz der Zusage eines \"Einzelkampfes\" auf dem Markplatz in Köln-Vingst nicht an diese Vereinbarung. Nachdem er sich zuvor in Gestalt seines Bruders, des Angeklagten C, eine Verstärkung geholt hatte, schlug er dann gemeinsam mit diesem auf U1 ein und verfolgte ihn noch, als dieser bereits die Flucht ergriffen hatte, um ihm dann die tödlichen Messerstiche beizubringen. Mit dem Wissen um die von ihm ausgeführten Messerstiche in den Oberkörper von U1 schlug und trag er auch selbst weiter auf U1 ein."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "er seinen Bruder, den Angeklagten C, ohne Not in das Tatgeschehen mit hineingezogen hat, da ihm bewusst war, dass sein Bruder eine Bitte um Hilfeleistung auch aufgrund der familiären Konstellation nicht werde abschlagen können."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "er seinen Bruder, den Angeklagten C, ohne Not in das Tatgeschehen mit hineingezogen hat, da ihm bewusst war, dass sein Bruder eine Bitte um Hilfeleistung auch aufgrund der familiären Konstellation nicht werde abschlagen können."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung der vorstehenden, für und gegen den Angeklagten T sprechenden Strafzumessungsgesichtspunkte hielt die Kammer für den Totschlag zum Nachteil von U1 eine Freiheitsstrafe von 9 Jahren für tat- und schuldangemessen."
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmen des § 212 Abs. 1 StGB zu Grunde gelegt und ist mithin von einem Strafrahmen in Höhe von 5 Jahren bis zu 15 Jahren Freiheitsstrafe ausgegangen."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "acht Jahren"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "er strafrechtlich zum damaligen Zeitpunkt noch nicht in Erscheinung getreten war"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "als Ausländer verstärkt haftempfindlich ist"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "es sich um eine spontane Tat handelte, die er in einem affektiv angespannten Erregungszustand beging, auch wenn dieser kein forensisch relevantes Maß erlangte."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die seiner körperlich unterlegenen Ehefrau nahezu keinerlei Chance zur Gegenwehr ließ"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "aus eigensüchtigen Motiven verübte, nämlich weil er den von ihr ausgehenden Entschluss, ihn mit den Kindern zu verlassen, und den damit verbundenen Ansehensverlust nicht verwinden konnte"
+        }
+    ]
+}

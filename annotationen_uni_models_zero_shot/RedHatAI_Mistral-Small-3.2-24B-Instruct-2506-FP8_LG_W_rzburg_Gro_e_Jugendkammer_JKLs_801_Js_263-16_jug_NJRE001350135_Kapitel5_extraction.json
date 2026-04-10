@@ -1,0 +1,139 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Jugendstrafe von elf Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Jugendstrafe von sieben Jahren und sechs Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 105 Abs. 3 Satz 2 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 17 Abs. 2 JGG"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen war dem § 105 Abs. 3 Satz 2 JGG zu entnehmen."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sein bereits im Ermittlungsverfahren abgelegtes, frühzeitig in der Hauptverhandlung wiederholtes, umfassendes und glaubhaftes Geständnis"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "er legte zudem ein strafmilderndes Teilgeständnis ab"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Er hat sich für die Tat sowohl schriftlich als auch mündlich beim Nebenklägervertreter entschuldigt."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Er leistete zudem eine Teilschadenswiedergutmachung in Höhe von 10.000 Euro."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die in den Monaten vor der Tat bei ihm diagnostizierte Erschöpfungsdepression bzw. depressive Grundstimmung sowie den ihn enthemmenden Konsum von Alkohol und synthetischen Cannabinoiden am Tattag"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "den ihn enthemmenden Konsum synthetischer Cannabinoiden am Nachmittag vor der Tat"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "die gut einjährige Dauer der Untersuchungshaft des Angeklagten, die mediale Berichterstattung über das Verfahren, die sich für ihn und für seine Familie als belastend darstellt und seine Person, sowie die finanziellen Folgen des Adhäsionsverfahrens"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "dieser bereits strafrechtlich wegen einer Straftat in Erscheinung getreten ist, die ebenfalls im Zusammenhang mit der Beendigung einer Beziehung zu einer Exfreundin steht"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte ist bereits mehrfach strafrechtlich in Erscheinung getreten, zuletzt wegen einer gemeingefährlichen Straftat."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Die durch die Tat verursachten Verletzungsfolgen der Geschädigten sind - sowohl in psychischer als auch in physischer Hinsicht - massiv und teilweise irreversibel."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die durch die Vorbereitung der Tat und die unmittelbare Tatausführung zum Ausdruck gekommene kriminelle Energie des Angeklagten war überdurchschnittlich"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Die brutale Vorgehensweise des Angeklagten mit zwei gezielten Messerstichen in Kopf und Hals eines Menschen mündete in einem finalen Stich in den Nacken des Opfers, wobei sich aufgrund des äußeren Erscheinungsbildes der Tat zum Zeitpunkt des letzten Stichs das Bild an eine regelrechte Hinrichtung aufgedrängt."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte wollte unter Verwirklichung von zwei Mordmerkmalen seine Exfreundin töten, da er sich in dem Irrglauben verrannt hatte, diese sei für seine persönlich schwierige Lebenssituation verantwortlich."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte verwirklichte bei der Tat auch zwei Mordmerkmale, ein tatbezogenes (Heimtücke) und ein täterbezogenes (niedrige Beweggründe)."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Nachdem er erfahren hatte, dass die Geschädigte seinen Angriff überlebte hat, äußerte er gegenüber der Zeugin Gö....., dass er hoffe, wenigstens einen Nerv getroffen zu haben und dass die Geschädigte irgendeine Behinderung davon tragen möge. Um seine Tat doch noch zu Ende zu bringen, bat er sogar den Zeugen Pö..... darum, ins Krankenhaus zu gehen und die Geschädigte für ihn endgültig zu töten, da er zu diesem Zeitpunkt davor Angst hatte, dass Angaben der Geschädigten, ihn überführen könnten."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Unmittelbar nach der Tat ging der Angeklagte übergangslos in seinen Alltag über, schrieb Textnachrichten an seine Freundin, wollte sich mit dieser verloben und briet sich am Abend Fischstäbchen."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "schulderhöhendes Nachtatverhalten gegeben ist (BGH NStZ 2014, 511)."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Durch einen nachträglichen Tötungsauftrag, der wiederum ein Verbrechen darstellt, wollte der Angeklagte unnachgiebig sein angestrebtes Tötungsziel auch nach dem ersten Scheitern noch erreichen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei Abwägung aller für und gegen den Angeklagten sprechenden Gesichtspunkte und einem Vergleich der vorliegenden Tat mit anderen Mordfällen ist die Kammer zu dem Schluss gelangt, dass der Angeklagte mit dem Mordversuch mit all seinen Begleitumständen ein wesentlich größeres Unrecht begangen und ein erheblich größeres Maß an Schuld auf sich geladen hat, als es dem Höchstmaß des § 105 Abs. 3 Satz 1 JGG entsprechen würde."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer hat auch zwischen dem Tatunrecht und den Folgen der Verbüßung der verhängten Jugendstrafe für die weitere Entwicklung des Angeklagten abgewogen (vgl. st. Rspr.; BGH, Urt. vom 19.02.2014 - 2 StR 413/13 = NStZ 2014, 407; Beschl. v. 28.02.2012 - 3 StR 15/12 = NStZ-RR 2012, 186, 187; Beschl. v. 10.09.1985 - 1 StR 416/85 = StV 1986, 68)."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Abwägung aller für und gegen den Angeklagten sprechenden Strafzumessungsgesichtspunkte, auf die Bezug genommen wird hält die Kammer unter Zugrundelegung des vorgenannten Strafrahmens des § 105 Abs. 3 Satz 2 JGG, eine Jugendstrafe von elf Jahren für ausreichend, aber auch erforderlich, um mit der gebotenen Intensität einerseits und dem gebotenen Schuldausgleich andererseits erzieherisch auf den Angeklagten S..... einwirken zu können."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Abwägung aller für und gegen den Angeklagten sprechenden Strafzumessungsgesichtspunkte, auf die Bezug genommen wird, und unter Berücksichtigung des Erziehungsgedankens und den Folgen der Verbüßung der verhängten Jugendstrafe für die weitere Entwicklung des Angeklagten hält die Kammer unter Zugrundelegung des Strafrahmens des § 105 Abs. 3 Satz 1 JGG, welcher Jugendstrafe von sechs Monaten bis zu zehn Jahre vorsieht, eine Jugendstrafe von sieben Jahren und sechs Monaten für ausreichend, aber auch erforderlich, um mit der gebotenen Intensität einerseits und dem gebotenen Schuldausgleich andererseits erzieherisch auf den Angeklagten A..... einwirken zu können."
+        }
+    ]
+}

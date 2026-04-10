@@ -1,0 +1,69 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von 5 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "gemäß § 213 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "ein Strafrahmen von Freiheitsstrafe von 1 Jahr bis zu 10 Jahren vor"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "daß dieser bereits wegen einer Körperverletzungstat vorbestraft ist"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "daß dieser tateinheitlich eine gefährliche Körperverletzung verwirklicht hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "die schweren körperlichen und psychischen Folgen für das Opfer"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "daß der Angeklagte teilweise geständig war"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "der Angeklagte durch die nunmehrige Verurteilung in besonderer Weise betroffen, weil zu erwarten steht, daß der Angeklagte aus dem Beamtenverhältnis entlassen wird und hierdurch auch seine Pensionsansprüche verliert"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "außerdem wird er durch die Schmerzensgeldforderung zusätzlich belastet und er erscheint als Polizist und Vater besonders haftempfindlich"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "daß dieser sich in einer psychischen Ausnahmesituation befand, auch wenn diese noch nicht so gravierend war, daß von einer erheblich verminderten Schuldfähigkeit ausgegangen werden könnte"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "daß der Angeklagte der Frau C über einen mehrmonatigen Zeitraum nachgestellt, diese verfolgt und mittels Telefonanrufe, SMS-Nachrichten, Emails und auf sonstige Weise belästigt sowie auch teilweise bedroht hat"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller Umstände..."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Hiernach erscheint eine Freiheitsstrafe von 5 Jahren und 6 Monaten tat- und schuldangemessen"
+        }
+    ]
+}

@@ -8,7 +8,7 @@
         {
             "tag": "Gesetzesgrundlage",
             "category": "Formalia",
-            "quote": "gemäß § 17 Abs.2 JGG"
+            "quote": "§ 17 Abs.2 JGG"
         },
         {
             "tag": "Gestaendnis",
@@ -18,7 +18,7 @@
         {
             "tag": "Reue_Einsicht",
             "category": "Mildernd",
-            "quote": "sein Geständnis ist nach dem Eindruck der Kammer auch ernsthaft geprägt von Reue und Einsicht in sein Fehlverhalten und den unwiederbringlich angerichteten schwersten Schaden"
+            "quote": "Sein Geständnis ist nach dem Eindruck der Kammer auch ernsthaft geprägt von Reue und Einsicht in sein Fehlverhalten und den unwiederbringlich angerichteten schwersten Schaden"
         },
         {
             "tag": "Enthemmung_Psychologie",
@@ -36,29 +36,14 @@
             "quote": "Der Angeklagte verbüßt erstmals Haft und ist deshalb als besonders haftempfindlich anzusehen"
         },
         {
-            "tag": "Vorleben_Negativ",
-            "category": "Schaerfend",
-            "quote": "Er wohnte bei seinen Eltern und war wirtschaftlich von ihnen abhängig"
-        },
-        {
-            "tag": "Vorleben_Negativ",
-            "category": "Schaerfend",
-            "quote": "zeigte in seiner schulischen Entwicklung sehr wenig Eigenverantwortung, Einsatzbereitschaft und Zukunftsorientierung"
-        },
-        {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schaerfend",
+            "category": "Schärfend",
             "quote": "Er hat es nicht bei einem oder wenigen Stichen belassen"
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "Schaerfend",
-            "quote": "das hohe Gewicht des sinnlosen Tötungsdelikts und die Nichtigkeit des Anlasses"
-        },
-        {
-            "tag": "Nachtatverhalten_Negativ",
-            "category": "Schaerfend",
-            "quote": "dass es der Angeklagte war, der die Kette der Aggressionen in Gang gesetzt und schließlich für deren Eskalation gesorgt hat"
+            "category": "Schärfend",
+            "quote": "Nichtigkeit des Anlasses"
         },
         {
             "tag": "Gesamtwuerdigung",

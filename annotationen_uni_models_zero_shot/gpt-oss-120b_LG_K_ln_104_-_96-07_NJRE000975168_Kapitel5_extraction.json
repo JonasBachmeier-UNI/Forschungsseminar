@@ -1,0 +1,274 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "von einem Strafrahmen des § 212 Abs. 1 StGB - Freiheitsstrafe von fünf bis 15 Jahren - auszugehen."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen des minder schweren Falls des Totschlags (§ 213 StGB) - Freiheitsstrafe von sechs Monaten bis zu fünf Jahren - konnte keine Anwendung finden."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen für die von dem Angeklagten T verwirkte gefährliche Körperverletzung zum Nachteil von U1 an der Sonderschule in Köln-​Z nach § 224 Abs. 1 StGB beträgt Freiheitsstrafe von sechs Monaten bis zu zehn Jahren."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen für die Tat auf dem Markplatz in Köln-​Vingst zum Nachteil von U1 gemäß § 224 Abs. 1 StGB beträgt sechs Monate bis zu zehn Jahre."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen für die Tat an der Sonderschule in Köln-​Z zum Nachteil von U1 gemäß § 224 Abs. 1 StGB beträgt sechs Monate bis zu zehn Jahre."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen für die Körperverletzungshandlungen auf dem Marktplatz in Köln-​Vingst zum Nachteil von U1 beträgt gemäß § 224 Abs. 1 StGB sechs Monate bis zu zehn Jahre."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 9 Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe im unteren Bereich des Strafrahmens in Höhe von 2 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 10 Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 3 Jahren und 9 Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 2 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 1 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 3 Jahren und 3 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 224 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 46 a Nr. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 46 a Nr. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 54 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 27 Abs. 2 S. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 49 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 17 Abs. 2 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 105 Abs. 1 Nr. 1 JGG"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sein umfassendes Geständnis"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "umfassend eingeräumt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "nach der Tat um den Zustand von U1 besorgt gewesen"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "bei der Zeugin U2, der am 11.03.2008 aufgrund eines Beweisantrages seines Verteidigers in der Hauptverhandlung verlesen worden ist, bei dieser entschuldigt hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "hat sich in seinem letzten Wort bei der Zeugin U2 für sein Verhalten entschuldigt und Reue gezeigt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "hat sich bereits während seiner ersten Einlassung zum Tatgeschehen in der Hauptverhandlung bei der Zeugin U2 glaubhaft bewegt für sein Fehlverhalten entschuldigt, dieses eingesehen und Reue gezeigt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T ist erstmalig inhaftiert"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T führt sich in der Untersuchungshaft ohne Beanstandungen"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "bis zur Tat ein geordnetes Leben führte und regelmäßig und fleißig arbeitete"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte C führte sich in der Untersuchungshaft ohne Beanstandungen"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Er hat sich in der Untersuchungshaft frei von Beanstandungen geführt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "er sich in der Untersuchungshaft sehr gut geführt hat"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "langjährig und zwar seit seinem 14. Lebensjahr Drogen konsumiert hat und den Konsum in dem Zeitraum vor der Tat noch steigerte, ohne dass dieser jedoch auf die Einsichts- und/oder Steuerungsfähigkeit des Angeklagten T zur Tatzeit Einfluss gehabt hat"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "konsumierte regelmäßig Drogen"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "spontan und nach vorausgegangener heftiger verbaler Beleidigungen und Provokationen von U1, die bei dem Angeklagten T zu einer emotionalen Anspannung führte, begangen hat"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "er noch sehr J1 ist"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "er bereits mehrfach, wenn auch nicht einschlägig, strafrechtlich in Erscheinung getreten ist"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "er mehrfach, wenn auch nicht einschlägig, strafrechtlich in Erscheinung getreten ist"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "er mehrfach und auch einschlägig vorbestraft ist"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "er mehrfach, wenn auch nicht einschlägig, vorbestraft ist"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte S ist bereits strafrechtlich in Erscheinung getreten"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "tödlichen Messerstiche in den Oberkörper von U1"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "schlug dann gemeinsam mit diesem auf U1 ein und verfolgte ihn noch, als dieser bereits die Flucht ergriffen hatte, um ihm dann die tödlichen Messerstiche beizubringen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "sorgfältig geplant, gut vorbereitet - Maskierung und Schlagwerkzeuge - und mit hoher krimineller Energie ausgeführt worden ist"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "er die Tat ... tateinheitlich insgesamt drei Varianten des § 224 Abs. 1 StGB verwirklich"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "es war aus einem nichtigen Anlass, der noch ausstehenden Schulden in Höhe von 200,- € bis 300,- €"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "er seinen Bruder, den Angeklagten C, ohne Not in das Tatgeschehen mit hineingezogen hat"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Er hat die Tat während laufender Bewährung begangen"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Nach Abwägung der vorstehenden, für und gegen den Angeklagten T sprechenden Strafzumessungsgesichtspunkte hielt die Kammer für den Totschlag zum Nachteil von U1 eine Freiheitsstrafe von 9 Jahren für tat- und schuldangemessen"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Nach Abwägung der vorstehenden, für und gegen den Angeklagten H sprechenden Gesichtspunkte war allein die Anwendung des Regelstrafrahmes des § 224 Abs. 1 StGB gerechtfertigt"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Nach Abwägung aller zu Gunsten und zu Lasten des Angeklagten S zu berücksichtigenden Umstände hielt die Kammer eine Jugendstrafe von 2 Jahren und 6 Monaten für unbedingt erforderlich"
+        }
+    ]
+}

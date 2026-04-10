@@ -3,12 +3,22 @@
         {
             "tag": "Strafrahmen",
             "category": "Formalia",
-            "quote": "der Regelstrafrahmen des § 223 Abs. 1 StGB entnommen, der Geldstrafe oder Freiheitsstrafe bis zu 5 Jahren vorsieht."
+            "quote": "dem Regelstrafrahmen des § 212 Abs. 1 StGB entnommen, der Freiheitsstrafe nicht unter 5 Jahren vorsieht."
         },
         {
             "tag": "Strafrahmen",
             "category": "Formalia",
-            "quote": "der Regelstrafrahmen des § 212 Abs. 1 StGB entnommen, der Freiheitsstrafe nicht unter 5 Jahren vorsieht."
+            "quote": "minder schweren Fall des Totschlags...nicht angenommen"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "vorliegend, das Doppelverwertungsverbot des § 46 Abs. 3 StGB beachtend"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "9 Jahre und 6 Monate Freiheitsstrafe"
         },
         {
             "tag": "Gesetzesgrundlage",
@@ -26,51 +36,6 @@
             "quote": "§ 46 Abs. 3 StGB"
         },
         {
-            "tag": "Gesetzesgrundlage",
-            "category": "Formalia",
-            "quote": "§ 40 Abs. 2 und Abs. 3 StGB"
-        },
-        {
-            "tag": "Strafhoehe",
-            "category": "Formalia",
-            "quote": "90 Tagessätze zu je 10 EUR Geldstrafe"
-        },
-        {
-            "tag": "Strafhoehe",
-            "category": "Formalia",
-            "quote": "9 Jahre und 6 Monate Freiheitsstrafe"
-        },
-        {
-            "tag": "Strafhoehe",
-            "category": "Formalia",
-            "quote": "Gesamtfreiheitsstrafe von 9 Jahren und 7 Monaten"
-        },
-        {
-            "tag": "Gesamtwuerdigung",
-            "category": "Abwaegung",
-            "quote": "Nach der Gesamtschau der Tatumstände, unter Berücksichtigung der Besonderheiten des Einzelfalls und des konkreten Tatgepräges in Form eines mehrminütigen und von Gegenwehr geprägten Geschehens, welches nicht am unteren Ende denkbarer Deliktsverwirklichungen einzuordnen ist"
-        },
-        {
-            "tag": "Gesamtwuerdigung",
-            "category": "Abwaegung",
-            "quote": "Im Rahmen der Gesamtschau wiegen angesichts des von dem Angeklagten bei der Tat verwirklichten Handlungs- und Erfolgsunrechts die für ihn sprechenden Aspekte nicht derart, dass die Annahme eines minder schweren Falles i.S.d. § 213 Alt. 2 StGB gerechtfertigt wäre."
-        },
-        {
-            "tag": "Gesamtwuerdigung",
-            "category": "Abwaegung",
-            "quote": "Im Rahmen der konkreten Strafzumessung der Tat zu 2. wird auf die zur abstrakten Strafrahmenwahl gemachten Ausführungen verwiesen. Die dort aufgeführten Umstände, die zu Gunsten und zu Lasten des Angeklagten ins Gewicht fallen, sind insofern bei der konkreten Strafzumessung nochmals berücksichtigt worden."
-        },
-        {
-            "tag": "Gesamtwuerdigung",
-            "category": "Abwaegung",
-            "quote": "Im Rahmen der konkreten Strafzumessung der Tat zu 1. kann ebenfalls auf die zur abstrakten Strafrahmenwahl der Tat zu 2. gemachten Ausführungen verwiesen werden, sofern sie sich nicht ausschließlich auf das Tötungsdelikt beziehen."
-        },
-        {
-            "tag": "Gesamtwuerdigung",
-            "category": "Abwaegung",
-            "quote": "Bei der Bildung der Gesamtstrafe sind die oben im einzelnen geschilderten Strafzumessungserwägungen, auf die zur Vermeidung von Wiederholungen Bezug genommen wird, erneut berücksichtigt worden."
-        },
-        {
             "tag": "Gestaendnis",
             "category": "Mildernd",
             "quote": "Der Angeklagte legte ein umfassendes, von Reue getragenes Geständnis ab, in dem er beide Taten einräumte."
@@ -78,12 +43,7 @@
         {
             "tag": "Reue_Einsicht",
             "category": "Mildernd",
-            "quote": "Der Angeklagte legte ein umfassendes, von Reue getragenes Geständnis ab, in dem er beide Taten einräumte."
-        },
-        {
-            "tag": "Enthemmung_Psychologie",
-            "category": "Mildernd",
-            "quote": "Insofern sind die vorangehenden Beleidigungen und die Schläge und das Schubsen ebenso strafmildernde Umstände. Auch wenn der Alkoholisierungsgrad des Angeklagten bei der Tat zu 2. die Einsichts- und Steuerungsfähigkeit des Angeklagten nicht beeinträchtigte (hierzu ebenfalls im Folgenden), so ist doch zugunsten des Angeklagten davon auszugehen, dass der Alkoholgenuss zu einer Enthemmung des Angeklagten führte."
+            "quote": "umfassendes, von Reue getragenes Geständnis"
         },
         {
             "tag": "Vorleben_Positiv",
@@ -91,184 +51,49 @@
             "quote": "Der Angeklagte ist auch nicht vorbestraft und hier erstmals im Alter von 27 straffällig geworden."
         },
         {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "dass der Alkoholgenuss zu einer Enthemmung des Angeklagten führte."
+        },
+        {
             "tag": "Tatprovokation",
             "category": "Mildernd",
             "quote": "Insofern sind die vorangehenden Beleidigungen und die Schläge und das Schubsen ebenso strafmildernde Umstände."
         },
         {
-            "tag": "Tatprovokation",
-            "category": "Mildernd",
-            "quote": "Zwar ist ein Körperverletzungserfolg i.S. einer Gesundheitsschädigung für die Annahme einer Misshandlung i.S.d. § 213 Alt. 1 StGB nicht erforderlich, jedoch kommen als Misshandlungen nur erhebliche Beeinträchtigungen in Betracht (vgl. Fischer, StGB, 68. Aufl., § 213, Rn. 4)."
-        },
-        {
-            "tag": "Tatprovokation",
-            "category": "Mildernd",
-            "quote": "Den Feststellungen ist zwar zu entnehmen, dass der zunächst verbale Streit auch handgreiflich geworden ist. Allerdings lag in dem anfänglichen Einwirken der Getöteten und dem – zuletzt sogar gegenseitigen – Schubsen keine Misshandlung des Angeklagten i.S.d. § 213 Alt. 1 StGB"
-        },
-        {
-            "tag": "Tatprovokation",
-            "category": "Mildernd",
-            "quote": "Die Getötete machte dem Angeklagten zwar kränkende Vorhalte. Nach den Feststellungen trafen diese Kränkungen den Angeklagten nicht (mehr) sonderlich. Die Vorhalte waren ihm bekannt. Er hatte längere Zeit, um sich mit diesen auseinanderzusetzen, was insofern einen gewissen Gewöhnungseffekt beim Angeklagten auslöste."
-        },
-        {
             "tag": "Vorleben_Negativ",
             "category": "Schaerfend",
-            "quote": "Die Tat zu 1. bei der es bereits zu einem Gewaltausbruch des Angeklagten kam."
+            "quote": "Der Sachverständige verwies jedoch auf die hier vorliegende Tat zu 1., bei der es bereits zu einem Gewaltausbruch des Angeklagten kam."
         },
         {
-            "tag": "Nachtatverhalten_Negativ",
+            "tag": "Tatbild_Brutalitaet",
             "category": "Schaerfend",
-            "quote": "Weiterhin befasste sich der Sachverständige in seinem Gutachten mit der Merkmalskategorie der krankhaften seelischen Störung. In diesem Zusammenhang nahm er Bezug auf das Einlassungsverhalten des Angeklagten und erklärte, dass sich die Diagnose einer Alkoholabhängigkeit durchaus stellen lasse, würde man den Angaben des Angeklagten zum Konsummuster folgen."
+            "quote": "straferschwerend wirkt sich aus, dass der Angeklagte mit Tötungsabsicht handelte. Der Angeklagte wusste nicht nur um den Todeseintritt, sondern es kam ihn letztlich darauf an."
         },
         {
             "tag": "Motiv_Verwerflich",
             "category": "Schaerfend",
-            "quote": "Schwer sind Beleidigungen, die von dieser Warte aus die heftige Reaktion des Täters als verständlich erscheinen lassen (vgl. Leipold/ Tsambikakis/Zöller/Mitsch, StGB, 3. Aufl., § 213, Rn. 9)."
-        },
-        {
-            "tag": "Motiv_Verwerflich",
-            "category": "Schaerfend",
-            "quote": "Der Angeklagte wusste nicht nur um den Todeseintritt, sondern es kam ihn letztlich darauf an."
-        },
-        {
-            "tag": "Tatbild_Brutalitaet",
-            "category": "Schaerfend",
-            "quote": "Insbesondere unter Berücksichtigung der Besonderheiten des Einzelfalls und des konkreten Tatgepräges in Form eines mehrminütigen und von Gegenwehr geprägten Geschehens"
-        },
-        {
-            "tag": "Motiv_Verwerflich",
-            "category": "Schaerfend",
-            "quote": "Der Angeklagte war „schuld“ und ebenfalls Provokateur, indem er eine außereheliche Affäre unterhielt und in der Tatnacht erneut spät heimkehrte, was bei seiner Frau, wie er erwarten konnte, eine Eifersuchtsreaktion auslöste, die in dem Streit mündete."
-        },
-        {
-            "tag": "Tatbild_Brutalitaet",
-            "category": "Schaerfend",
-            "quote": "Es kam ihm letztlich darauf an."
-        },
-        {
-            "tag": "Tatbild_Brutalitaet",
-            "category": "Schaerfend",
-            "quote": "Der Angeklagte fasste vielmehr einen spontanen Entschluss, der einem Streit folgte – wenngleich keine Tat im Affekt vorliegt (hierzu im Folgenden). Insofern sind die vorangehenden Beleidigungen und die Schläge und das Schubsen ebenso strafmildernde Umstände."
+            "quote": "straferschwerend wirkt sich aus, dass der Angeklagte mit Tötungsabsicht handelte. Der Angeklagte wusste nicht nur um den Todeseintritt, sondern es kam ihm letztlich darauf an."
         },
         {
             "tag": "Nachtatverhalten_Negativ",
             "category": "Schaerfend",
-            "quote": "Der Angeklagte wusste um den Todeseintritt, sondern es kam ihm letztlich darauf an."
+            "quote": "hat sich bereits im zeitlich unmittelbaren Zusammenhang mit der Tat dazu entschlossen, einen Raubmord durch Dritte vorzutäuschen, was angesichts der dann festgestellten Handlungen des Angeklagten (Ansichnahme des Telefons der Getöteten, Nachrichtenabsendung an diese, Ausräumen des Kleiderschrankes und Öffnen des Tresors) eine erhebliche Geistesleistung erforderlich gemacht habe."
         },
         {
-            "tag": "Tatbild_Brutalitaet",
-            "category": "Schaerfend",
-            "quote": "Die Kammer sieht dies bezogen auf eine tiefgreifende Bewusstseinsstörung so, da dieser Zeitraum jedenfalls die Möglichkeit gibt, das eigene Handeln zu reflektieren, bewusst darüber nachzudenken."
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der erforderlichen Gesamtbetrachtung sind nicht nur diejenigen Umstände zu berücksichtigen, die der Tat vorausgehen oder sie begleiten, sondern auch diejenigen, die ihr nachfolgen (vgl. BGH NJW 1988, 2749). Entscheidend ist, dass der Fall, nicht die Tat insgesamt minderschwer wiegt (Schäfer/Sander/van Gemmeren, Praxis der Strafzumessung, 6. Aufl. 2017, Rn. 1108)."
         },
         {
-            "tag": "Nachtatverhalten_Negativ",
-            "category": "Schaerfend",
-            "quote": "Der Sachverständige führte weiter aus, dass für die Beurteilung einer Affekttat von psychiatrischer Seite mehrere Kriterien herangezogen würden, in Anlehnung an die wissenschaftlichen Ausführungen von Saß (1983), die bis heute, teilweise modifiziert aber im Grunde durchgehend, angewandt würden. Dabei betonte der Sachverständige, dass diese forensisch-psychiatrischen Kriterien, von denen manche eher für, manche eher gegen eine „tiefgreifende Bewusstseinsstörung“ stünden, nicht schematisch analysiert werden dürften in der Form, dass man bei Über- oder Unterschreiten einer gewissen Anzahl dieser Kriterien von einer Affekttat sprechen müsse bzw. diese abzulehnen habe. Der Katalog diene als Hilfestellung. Die jeweiligen Merkmale müssten in der Gesamtschau ihrer Qualität und Ausprägung nach beurteilt werden."
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller Umstände"
         },
         {
-            "tag": "Nachtatverhalten_Negativ",
-            "category": "Schaerfend",
-            "quote": "Der Angeklagte beschloss, einen Raubmord durch Dritte vorzutäuschen, was angesichts der dann festgestellten Handlungen des Angeklagten (Ansichnahme des Telefons der Getöteten, Nachrichtenabsendung an diese, Ausräumen des Kleiderschrankes und Öffnen des Tresors) eine erhebliche Geistesleistung erforderlich gemacht habe."
-        },
-        {
-            "tag": "Nachtatverhalten_Negativ",
-            "category": "Schaerfend",
-            "quote": "Der Angeklagte im unmittelbaren Nachgang zu dem Tatkerngeschehen grammatisch fehlerfreie Whats App Nachrichten versandte."
-        },
-        {
-            "tag": "Nachtatverhalten_Negativ",
-            "category": "Schaerfend",
-            "quote": "Der Sachverständige verwies auf das umsichtige Nachtatverhalten hin, was gegen das Vorliegen dieses Kriteriums spreche."
-        },
-        {
-            "tag": "Nachtatverhalten_Negativ",
-            "category": "Schaerfend",
-            "quote": "Ein in Etappen gegliederter komplexer Handlungsverlauf ist ebenfalls mit einer tiefgreifenden Bewusstseinsstörung nicht zu vereinen, weil er die Fähigkeit zur Handlungssteuerung voraussetzt."
-        },
-        {
-            "tag": "Nachtatverhalten_Negativ",
-            "category": "Schaerfend",
-            "quote": "Der Sachverständige verwies auf den wechselnden Einsatz der Hände. Die Kammer sieht hier allerdings einen eher primitiven Gewalteinsatz von geringer Komplexität."
-        },
-        {
-            "tag": "Nachtatverhalten_Negativ",
-            "category": "Schaerfend",
-            "quote": "Der Sachverständige verwies hier nochmals auf das umsichtige Nachtatverhalten."
-        },
-        {
-            "tag": "Motiv_Verwerflich",
-            "category": "Schaerfend",
-            "quote": "Der Angeklagte wusste nicht nur um den Todeseintritt, sondern es kam ihm letztlich darauf an. Dieser Umstand konnte vorliegend, das Doppelverwertungsverbot des § 46 Abs. 3 StGB beachtend, Berücksichtigung finden (vgl. BGH NStZ 2012, 689)."
-        },
-        {
-            "tag": "Tatbild_Brutalitaet",
-            "category": "Schaerfend",
-            "quote": "Dies ergibt die Gesamtschau der Tatumstände, unter Berücksichtigung der Besonderheiten des Einzelfalls und des konkreten Tatgepräges in Form eines mehrminütigen und von Gegenwehr geprägten Geschehens, welches nicht am unteren Ende denkbarer Deliktsverwirklichungen einzuordnen ist (vgl. BGH NStZ 2018, 533; NStZ-RR 2017, 237; BGH (2. Strafsenat), Beschluss vom 27.07.2017 - 1 ARs 20/16)."
-        },
-        {
-            "tag": "Tatbild_Brutalitaet",
-            "category": "Schaerfend",
-            "quote": "Die Kammer sieht hier keine Komplexität der Tötungshandlungen; es handelte sich eher um zwar zeitlich langgezogene, letztlich jedoch primitive Gewalthandlungen."
-        },
-        {
-            "tag": "Tatbild_Brutalitaet",
-            "category": "Schaerfend",
-            "quote": "Die Kammer sieht dies bezogen auf eine tiefgreifende Bewusstseinsstörung so, da dieser Zeitraum jedenfalls die Möglichkeit gibt, das eigene Handeln zu reflektieren, bewusst darüber nachzudenken."
-        },
-        {
-            "tag": "Vorleben_Negativ",
-            "category": "Schaerfend",
-            "quote": "Ginge man von dem seitens des Angeklagten insgesamt behaupteten Alkoholkonsummuster aus, liege mit einem Alkoholisierungsgrad von 2,3 Promille zur Tatzeit – den Maximalwert, den der rechtsmedizinische Sachverständige errechnete, wenn der Maximaltrinkmenge der Einlassung Glauben geschenkt worden wäre – eine schon erhebliche Alkoholisierung vor, hinsichtlich derer der Angeklagte dann aber eine erhebliche Toleranzentwicklung gezeigt habe. Anders sei das Nachtatverhalten nicht zu erklären."
-        },
-        {
-            "tag": "Nachtatverhalten_Negativ",
-            "category": "Schaerfend",
-            "quote": "Der Angeklagte beschloss, einen Raubmord durch Dritte vorzutäuschen, was angesichts der dann festgestellten Handlungen des Angeklagten (Ansichnahme des Telefons der Getöteten, Nachrichtenabsendung an diese, Ausräumen des Kleiderschrankes und Öffnen des Tresors) eine erhebliche Geistesleistung erforderlich gemacht habe."
-        },
-        {
-            "tag": "Nachtatverhalten_Negativ",
-            "category": "Schaerfend",
-            "quote": "Der Angeklagte im unmittelbaren Nachgang zu dem Tatkerngeschehen grammatisch fehlerfreie Whats App Nachrichten versandte."
-        },
-        {
-            "tag": "Nachtatverhalten_Negativ",
-            "category": "Schaerfend",
-            "quote": "Der Sachverständige verwies auf das umsichtige Nachtatverhalten hin, was gegen das Vorliegen dieses Kriteriums spreche."
-        },
-        {
-            "tag": "Nachtatverhalten_Negativ",
-            "category": "Schaerfend",
-            "quote": "Ein in Etappen gegliederter komplexer Handlungsverlauf ist ebenfalls mit einer tiefgreifenden Bewusstseinsstörung nicht zu vereinen, weil er die Fähigkeit zur Handlungssteuerung voraussetzt."
-        },
-        {
-            "tag": "Nachtatverhalten_Negativ",
-            "category": "Schaerfend",
-            "quote": "Der Sachverständige verwies auf den wechselnden Einsatz der Hände. Die Kammer sieht hier allerdings einen eher primitiven Gewalteinsatz von geringer Komplexität."
-        },
-        {
-            "tag": "Nachtatverhalten_Negativ",
-            "category": "Schaerfend",
-            "quote": "Der Sachverständige verwies hier nochmals auf das umsichtige Nachtatverhalten."
-        },
-        {
-            "tag": "Motiv_Verwerflich",
-            "category": "Schaerfend",
-            "quote": "Der Angeklagte wusste nicht nur um den Todeseintritt, sondern es kam ihm letztlich darauf an. Dieser Umstand konnte vorliegend, das Doppelverwertungsverbot des § 46 Abs. 3 StGB beachtend, Berücksichtigung finden (vgl. BGH NStZ 2012, 689)."
-        },
-        {
-            "tag": "Tatbild_Brutalitaet",
-            "category": "Schaerfend",
-            "quote": "Dies ergibt die Gesamtschau der Tatumstände, unter Berücksichtigung der Besonderheiten des Einzelfalls und des konkreten Tatgepräges in Form eines mehrminütigen und von Gegenwehr geprägten Geschehens, welches nicht am unteren Ende denkbarer Deliktsverwirklichungen einzuordnen ist (vgl. BGH NStZ 2018, 533; NStZ-RR 2017, 237; BGH (2. Strafsenat), Beschluss vom 27.07.2017 - 1 ARs 20/16)."
-        },
-        {
-            "tag": "Tatbild_Brutalitaet",
-            "category": "Schaerfend",
-            "quote": "Die Kammer sieht hier keine Komplexität der Tötungshandlungen; es handelte sich eher um zwar zeitlich langgezogene, letztlich jedoch primitive Gewalthandlungen."
-        },
-        {
-            "tag": "Tatbild_Brutalitaet",
-            "category": "Schaerfend",
-            "quote": "Die Kammer sieht dies bezogen auf eine tiefgreifende Bewusstseinsstörung so, da dieser Zeitraum jedenfalls die Möglichkeit gibt, das eigene Handeln zu reflektieren, bewusst darüber nachzudenken."
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Im Rahmen der Gesamtschau wiegen angesichts des von dem Angeklagten bei der Tat verwirklichten Handlungs- und Erfolgsunrechts die für ihn sprechenden Aspekte nicht derart, dass die Annahme eines minder schweren Falles i.S.d. § 213 Alt. 2 StGB gerechtfertigt wäre."
         }
     ]
 }

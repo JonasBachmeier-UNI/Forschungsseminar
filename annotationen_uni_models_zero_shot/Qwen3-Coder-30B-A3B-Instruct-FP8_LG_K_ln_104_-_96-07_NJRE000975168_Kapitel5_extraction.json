@@ -1,0 +1,389 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 9 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von fünf bis 15 Jahren"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Der Angeklagte T hielt sich trotz der Zusage eines \"Einzelkampfes\" auf dem Markplatz in Köln-​Vingst nicht an diese Vereinbarung."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Er hielt sich trotz der Zusage eines \"Einzelkampfes\" auf dem Markplatz in Köln-​Vingst nicht an diese Vereinbarung."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Mit dem Wissen um die von ihm ausgeführten Messerstiche in den Oberkörper von U1 schlug und trag er auch selbst weiter auf U1 ein."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "er schlug dann gemeinsam mit diesem auf U1 ein und verfolgte ihn noch, als dieser bereits die Flucht ergriffen hatte, um ihm dann die tödlichen Messerstiche beizubringen."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "er schlug dann gemeinsam mit diesem auf U1 ein und verfolgte ihn noch, als dieser bereits die Flucht ergriffen hatte, um ihm dann die tödlichen Messerstiche beizubringen."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Es war der Angeklagte T, der die angebliche Forderung des Zeugen I1 von dem Zeugen X eingefordert, diesen eingeschüchtert und in der Folge die körperliche Auseinandersetzung gegen U1 ohne ersichtlichen Grund begonnen hat."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Er hat bereits mehrfach, wenn auch nicht einschlägig, strafrechtlich in Erscheinung getreten ist."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung der vorstehenden, für und gegen den Angeklagten T sprechenden Strafzumessungsgesichtspunkte hielt die Kammer für den Totschlag zum Nachteil von U1 eine Freiheitsstrafe von 9 Jahren für tat- und schuldangemessen."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T ist erstmalig inhaftiert und ihm droht aufgrund der von ihm zu verbüßenden langjährigen Freiheitsstrafe die Abschiebung in die Türkei, obwohl er seit seinem neunten Lebensjahr seinen Lebensmittelpunkt in der Bundesrepublik Deutschland hat."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T ist erstmalig inhaftiert und ihm droht aufgrund der von ihm zu verbüßenden langjährigen Freiheitsstrafe die Abschiebung in die Türkei, obwohl er seit seinem neunten Lebensjahr seinen Lebensmittelpunkt in der Bundesrepublik Deutschland hat."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "er sich in dem Brief an die Zeugin U2, der am 11.03.2008 aufgrund eines Beweisantrages seines Verteidigers in der Hauptverhandlung verlesen worden ist, bei dieser entschuldigt hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "er sich in dem Brief an die Zeugin U2, der am 11.03.2008 aufgrund eines Beweisantrages seines Verteidigers in der Hauptverhandlung verlesen worden ist, bei dieser entschuldigt hat"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T hat das Tatgeschehen vollumfänglich eingeräumt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T führt sich in der Untersuchungshaft ohne Beanstandungen."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T führt sich in der Untersuchungshaft ohne Beanstandungen."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T ist erstmalig inhaftiert"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T hat langjährig und zwar seit seinem 14. Lebensjahr Drogen konsumiert hat und den Konsum in dem Zeitraum vor der Tat noch steigerte, ohne dass dieser jedoch auf die Einsichts- und/oder Steuerungsfähigkeit des Angeklagten T zur Tatzeit Einfluss gehabt hat."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Er hat die Tat auf dem Markplatz in Köln-​Vingst spontan und nach vorausgegangener heftiger verbaler Beleidigungen und Provokationen von U1, die bei dem Angeklagten T zu einer emotionalen Anspannung führte, begangen hat."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Er hat die Tat auf dem Markplatz in Köln-​Vingst spontan und nach vorausgegangener heftiger verbaler Beleidigungen und Provokationen von U1, die bei dem Angeklagten T zu einer emotionalen Anspannung führte, begangen hat."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Er hat bereits mehrfach, wenn auch nicht einschlägig, strafrechtlich in Erscheinung getreten ist."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Er hielt sich trotz der Zusage eines \"Einzelkampfes\" auf dem Markplatz in Köln-​Vingst nicht an diese Vereinbarung."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Mit dem Wissen um die von ihm ausgeführten Messerstiche in den Oberkörper von U1 schlug und trag er auch selbst weiter auf U1 ein."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Er hat bereits mehrfach, wenn auch nicht einschlägig, strafrechtlich in Erscheinung getreten ist."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "er schlug dann gemeinsam mit diesem auf U1 ein und verfolgte ihn noch, als dieser bereits die Flucht ergriffen hatte, um ihm dann die tödlichen Messerstiche beizubringen."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Es war der Angeklagte T, der die angebliche Forderung des Zeugen I1 von dem Zeugen X eingefordert, diesen eingeschüchtert und in der Folge die körperliche Auseinandersetzung gegen U1 ohne ersichtlichen Grund begonnen hat."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung der vorstehenden, für und gegen den Angeklagten T sprechenden Strafzumessungsgesichtspunkte hielt die Kammer für den Totschlag zum Nachteil von U1 eine Freiheitsstrafe von 9 Jahren für tat- und schuldangemessen."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Er hat bereits mehrfach, wenn auch nicht einschlägig, strafrechtlich in Erscheinung getreten ist."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T ist erstmalig inhaftiert und ihm droht aufgrund der von ihm zu verbüßenden langjährigen Freiheitsstrafe die Abschiebung in die Türkei, obwohl er seit seinem neunten Lebensjahr seinen Lebensmittelpunkt in der Bundesrepublik Deutschland hat."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T ist erstmalig inhaftiert und ihm droht aufgrund der von ihm zu verbüßenden langjährigen Freiheitsstrafe die Abschiebung in die Türkei, obwohl er seit seinem neunten Lebensjahr seinen Lebensmittelpunkt in der Bundesrepublik Deutschland hat."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "er sich in dem Brief an die Zeugin U2, der am 11.03.2008 aufgrund eines Beweisantrages seines Verteidigers in der Hauptverhandlung verlesen worden ist, bei dieser entschuldigt hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "er sich in dem Brief an die Zeugin U2, der am 11.03.2008 aufgrund eines Beweisantrages seines Verteidigers in der Hauptverhandlung verlesen worden ist, bei dieser entschuldigt hat"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T hat das Tatgeschehen vollumfänglich eingeräumt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T führt sich in der Untersuchungshaft ohne Beanstandungen."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T ist erstmalig inhaftiert"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T hat langjährig und zwar seit seinem 14. Lebensjahr Drogen konsumiert hat und den Konsum in dem Zeitraum vor der Tat noch steigerte, ohne dass dieser jedoch auf die Einsichts- und/oder Steuerungsfähigkeit des Angeklagten T zur Tatzeit Einfluss gehabt hat."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Er hat die Tat auf dem Markplatz in Köln-​Vingst spontan und nach vorausgegangener heftiger verbaler Beleidigungen und Provokationen von U1, die bei dem Angeklagten T zu einer emotionalen Anspannung führte, begangen hat."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Er hat die Tat auf dem Markplatz in Köln-​Vingst spontan und nach vorausgegangener heftiger verbaler Beleidigungen und Provokationen von U1, die bei dem Angeklagten T zu einer emotionalen Anspannung führte, begangen hat."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Er hat bereits mehrfach, wenn auch nicht einschlägig, strafrechtlich in Erscheinung getreten ist."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Er hielt sich trotz der Zusage eines \"Einzelkampfes\" auf dem Markplatz in Köln-​Vingst nicht an diese Vereinbarung."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Mit dem Wissen um die von ihm ausgeführten Messerstiche in den Oberkörper von U1 schlug und trag er auch selbst weiter auf U1 ein."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Es war der Angeklagte T, der die angebliche Forderung des Zeugen I1 von dem Zeugen X eingefordert, diesen eingeschüchtert und in der Folge die körperliche Auseinandersetzung gegen U1 ohne ersichtlichen Grund begonnen hat."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung der vorstehenden, für und gegen den Angeklagten T sprechenden Strafzumessungsgesichtspunkte hielt die Kammer für den Totschlag zum Nachteil von U1 eine Freiheitsstrafe von 9 Jahren für tat- und schuldangemessen."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Er hat bereits mehrfach, wenn auch nicht einschlägig, strafrechtlich in Erscheinung getreten ist."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T ist erstmalig inhaftiert und ihm droht aufgrund der von ihm zu verbüßenden langjährigen Freiheitsstrafe die Abschiebung in die Türkei, obwohl er seit seinem neunten Lebensjahr seinen Lebensmittelpunkt in der Bundesrepublik Deutschland hat."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T ist erstmalig inhaftiert und ihm droht aufgrund der von ihm zu verbüßenden langjährigen Freiheitsstrafe die Abschiebung in die Türkei, obwohl er seit seinem neunten Lebensjahr seinen Lebensmittelpunkt in der Bundesrepublik Deutschland hat."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "er sich in dem Brief an die Zeugin U2, der am 11.03.2008 aufgrund eines Beweisantrages seines Verteidigers in der Hauptverhandlung verlesen worden ist, bei dieser entschuldigt hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "er sich in dem Brief an die Zeugin U2, der am 11.03.2008 aufgrund eines Beweisantrages seines Verteidigers in der Hauptverhandlung verlesen worden ist, bei dieser entschuldigt hat"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T hat das Tatgeschehen vollumfänglich eingeräumt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T führt sich in der Untersuchungshaft ohne Beanstandungen."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T ist erstmalig inhaftiert"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T hat langjährig und zwar seit seinem 14. Lebensjahr Drogen konsumiert hat und den Konsum in dem Zeitraum vor der Tat noch steigerte, ohne dass dieser jedoch auf die Einsichts- und/oder Steuerungsfähigkeit des Angeklagten T zur Tatzeit Einfluss gehabt hat."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Er hat die Tat auf dem Markplatz in Köln-​Vingst spontan und nach vorausgegangener heftiger verbaler Beleidigungen und Provokationen von U1, die bei dem Angeklagten T zu einer emotionalen Anspannung führte, begangen hat."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Er hat die Tat auf dem Markplatz in Köln-​Vingst spontan und nach vorausgegangener heftiger verbaler Beleidigungen und Provokationen von U1, die bei dem Angeklagten T zu einer emotionalen Anspannung führte, begangen hat."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Er hat bereits mehrfach, wenn auch nicht einschlägig, strafrechtlich in Erscheinung getreten ist."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Er hielt sich trotz der Zusage eines \"Einzelkampfes\" auf dem Markplatz in Köln-​Vingst nicht an diese Vereinbarung."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Mit dem Wissen um die von ihm ausgeführten Messerstiche in den Oberkörper von U1 schlug und trag er auch selbst weiter auf U1 ein."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Es war der Angeklagte T, der die angebliche Forderung des Zeugen I1 von dem Zeugen X eingefordert, diesen eingeschüchtert und in der Folge die körperliche Auseinandersetzung gegen U1 ohne ersichtlichen Grund begonnen hat."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung der vorstehenden, für und gegen den Angeklagten T sprechenden Strafzumessungsgesichtspunkte hielt die Kammer für den Totschlag zum Nachteil von U1 eine Freiheitsstrafe von 9 Jahren für tat- und schuldangemessen."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Er hat bereits mehrfach, wenn auch nicht einschlägig, strafrechtlich in Erscheinung getreten ist."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T ist erstmalig inhaftiert und ihm droht aufgrund der von ihm zu verbüßenden langjährigen Freiheitsstrafe die Abschiebung in die Türkei, obwohl er seit seinem neunten Lebensjahr seinen Lebensmittelpunkt in der Bundesrepublik Deutschland hat."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T ist erstmalig inhaftiert und ihm droht aufgrund der von ihm zu verbüßenden langjährigen Freiheitsstrafe die Abschiebung in die Türkei, obwohl er seit seinem neunten Lebensjahr seinen Lebensmittelpunkt in der Bundesrepublik Deutschland hat."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "er sich in dem Brief an die Zeugin U2, der am 11.03.2008 aufgrund eines Beweisantrages seines Verteidigers in der Hauptverhandlung verlesen worden ist, bei dieser entschuldigt hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "er sich in dem Brief an die Zeugin U2, der am 11.03.2008 aufgrund eines Beweisantrages seines Verteidigers in der Hauptverhandlung verlesen worden ist, bei dieser entschuldigt hat"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T hat das Tatgeschehen vollumfänglich eingeräumt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T führt sich in der Untersuchungshaft ohne Beanstandungen."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T ist erstmalig inhaftiert"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte T hat langjährig und zwar seit seinem 14. Lebensjahr Drogen konsumiert hat und den Konsum in dem Zeitraum vor der Tat noch steigerte, ohne dass dieser jedoch auf die Einsichts- und/oder Steuerungsfähigkeit des Angeklagten T zur Tatzeit Einfluss gehabt hat."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Er hat die Tat auf dem Markplatz in Köln-​Vingst spontan und nach vorausgegangener heftiger verbaler Beleidigungen und Provokationen von U1, die bei dem Angeklagten T zu einer emotionalen Anspannung führte, begangen hat."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Er hat die Tat auf dem Markplatz in Köln-​Vingst spontan und nach vorausgegangener heftiger verbaler Beleidigungen und Provokationen von U1, die bei dem Angeklagten T zu einer emotionalen Anspannung führte, begangen hat."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Er hat bereits mehrfach, wenn auch nicht einschlägig, strafrechtlich in Erscheinung getreten ist."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Er hielt sich trotz der Zusage eines \"Einzelkampfes\" auf dem Markplatz in Köln-​Vingst nicht an diese Vereinbarung."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Mit dem Wissen um die von ihm ausgeführten Messerstiche in den Oberkörper von U1 schlug und trag er auch selbst weiter auf U1 ein."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Es war der Angeklagte T, der die angebliche Forderung des Zeugen I1 von dem Zeugen X eingefordert, diesen eingeschüchtert und in der Folge die körperliche Auseinandersetzung gegen U1 ohne ersichtlichen Grund begonnen hat."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung der vorstehenden, für und gegen den Angeklagten T sprechenden Strafzumessungsgesichtspunkte hielt die Kammer für den Totschlag zum Nachteil von U1 eine Freiheitsstrafe von 9 Jahren für tat- und schuldangemessen."
+        }
+    ]
+}

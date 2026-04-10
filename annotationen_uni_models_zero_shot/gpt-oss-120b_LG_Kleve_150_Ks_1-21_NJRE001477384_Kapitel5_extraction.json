@@ -1,0 +1,64 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "dem Strafrahmen gemäß § 315d Abs. 5 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 315d Abs. 5 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 315d Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von\n4 Jahren"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "dass er sich geständig eingelassen"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "eine Reue über die Tat und deren Folgen erkennbar"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "mit 21 Jahren noch recht jung und wenig lebenserfahren"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "ein Vorfahrtsverstoß (Verstoß gegen § 8 StVO) des Tatopfers mitursächlich für den tödlichen Verkehrsunfall"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "junger Erstverbüßer"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "sich nach dem Zusammenstoß mit dem D3 der Frau T unerlaubt vom Unfallort entfernt"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "aufgrund einer Abwägung aller für die Wertung von Tat und Täter maßgebenden Umstände"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Die Kammer hat alle für und gegen den Angeklagten sprechenden Strafzumessungserwägungen abgewogen"
+        }
+    ]
+}

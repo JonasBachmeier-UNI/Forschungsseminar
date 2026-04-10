@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "vier Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Alt. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 46 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen von Freiheitsstrafe nicht unter 5 Jahren"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen von einem Jahr bis zu zehn Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "In ihrer Abwägung berücksichtigt die Kammer zu Gunsten des Angeklagten zunächst dessen vollumfängliches Geständnis."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Auch berücksichtigt die Kammer, dass der Angeklagte sich reuig zeigt, tief erschüttert über sein Handeln ist und spürbar um den Verlust seiner großen Liebe und einzigen engen Bezugsperson und Partnerin seit über 50 Jahren trauert."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Zudem ist zu beachten, dass der Angeklagte zum Zeitpunkt der Hauptverhandlung bereits 71 Jahre alt und Zeit seines Lebens nie strafrechtlich in Erscheinung getreten ist."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Angesichts seines fortgeschrittenen Alters ist davon auszugehen, dass die Haft den Angeklagten in besonderem Maße belasten wird."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Dennoch steht zu ihrer Überzeugung fest, dass bei der Tat der Angeklagte affektiv belastet und der Angeklagte in seiner Fähigkeit, die Situation neutral bewerten zu können, deutlich eingeschränkt gewesen ist, wenn auch nicht im Sinne des § 21 StGB."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Jedoch geht die Kammer nach umfassender Abwägung aller Umstände vom Vorliegen eines sonstigen minder schweren Falls des Totschlags gemäß § 213 Alt. 2 StGB aus, welcher die Verschiebung des Strafrahmens gebietet."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Unter zusammenfassender Abwägung des Unrechtsgehalts, angesichts aller zuvor ausgeführten Strafzumessungsgesichtspunkte und unter Beachtung der Folgen der Strafe für das zukünftige Leben des Angeklagten hält die Kammer letztlich eine Freistrafe von vier Jahren für tat- und schuldangemessen, ausreichend aber auch erforderlich, um der Schuld des Angeklagten Rechnung zu tragen."
+        }
+    ]
+}

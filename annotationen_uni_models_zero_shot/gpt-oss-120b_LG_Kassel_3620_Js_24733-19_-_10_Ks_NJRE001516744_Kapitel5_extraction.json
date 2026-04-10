@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "nach den Grundsätzen der Strafzumessung gemäß § 46 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen Freiheitsstrafe von sechs Monaten bis zu zehn Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Gemäß § 212 StGB beträgt der Strafrahmen für den Totschlag Freiheitsstrafe nicht unter fünf Jahren."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "eine Strafrahmenverschiebung wegen des Vorliegens eines minder schweren Falles gemäß § 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "verminderter Schuldfähigkeit nach § 21 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Einzelstrafe von\nneun Jahren\nFreiheitsstrafe für tat- und schuldangemessen"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Gesamtfreiheitsstrafe von\n10 Jahren\nfür tat- und schuldangemessen"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Die Kammer hat zu Gunsten des Angeklagten berücksichtigt, dass sich der Angeklagte in Teilen geständig eingelassen hat."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "dass sich der Angeklagte insgesamt bereits seit etwa einem Jahr in Untersuchungshaft befindet und ihn diese aufgrund der durch die Corona‑Pandemie erforderlichen Einschränkungen im Strafvollzug besonders empfindlich trifft, insbesondere, da er aufgrund der vielen Verhandlungstage regelmäßig in Quarantäne musste und er sich außerdem für ca. zwei Wochen in Laos in Haft befand, wo die Haftbedingungen erheblich schlechter als in Deutschland sind."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Nach einer Gesamtwürdigung aller Umstände auch unter zusätzlicher Berücksichtigung des vertypten Milderungsgrundes wegen des Vorliegens verminderter Schuldfähigkeit nach § 21 StGB vermag die Kammer einen minder schweren Fall nicht feststellen."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Aufgrund der verminderten Schuldfähigkeit kommt es jedoch gemäß §§ 21, 49 Abs. 1 StGB zu einer Strafrahmenverschiebung."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Neben den bereits genannten, zugunsten des Angeklagten sprechenden Umständen ist zulasten des Angeklagten zu berücksichtigen, dass er vorbestraft ist und die Taten unter zweifacher Bewährung beging."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Zu seinen Lasten kommt zum Tragen, dass der Angeklagte vorbestraft ist und zum Tatzeitpunkt unter Bewährung stand."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "sein Verhalten in den Tagen nach Tat zu berücksichtigen, soweit er das Fernsehgerät beiseiteschaffte und sein Verhalten Grund dafür war, dass der Leichnam von W. P. erst später nach der Tat und insbesondere in verwestem Zustand aufgefunden werden konnte."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Ungeachtet dessen, dass die konkrete brutale Tatausführung nach Auffassung der Kammer auch Ausdruck der verminderten Steuerungsfähigkeit ist, ..."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der Gesamtwürdigung sind alle Umstände heranzuziehen, die für die Wertung von Tat und Täterpersönlichkeit in Betracht kommen, gleichgültig ob sie der Tat innewohnen, sie begleiten, ihr vorausgehen oder folgen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter zusammenfassender Abwägung des Unrechtsgehaltes, sowie angesichts aller zuvor ausgeführten für und gegen den Angeklagten streitenden Strafzumessungsgesichtspunkte hält die Kammer letztlich eine Einzelstrafe von neun Jahren..."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der Anwendung des Ausnahmestrafrahmens bei Abwägung aller Umstände, die für die Bewertung von Tat und Täter von Belang sind, zur Überzeugung der Kammer nicht in Betracht."
+        }
+    ]
+}

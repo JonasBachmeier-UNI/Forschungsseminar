@@ -1,0 +1,49 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 3 (drei) Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "minder schwerer Fall des Totschlags"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "weitestgehend geständig"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "nicht vorbestraft"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "seitdem nicht erneut straffällig geworden"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "bereits ein hohes Lebensalter erreicht hat und somit in gesteigertem Maße haftempfindlich ist"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "die vorgenannten und auch alle sonstigen für und gegen den Angeklagten sprechenden Strafzumessungsgründe abwägend"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "SCHAERFEND",
+            "quote": "die Maßstäbe, die nach dem, ihm vertrauten, geltenden Recht bei der Prüfung und Durchführung einer Suizidbegleitung an ärztliches Handeln anzulegen sind, über die bloße Tatbestandsbegehung hinaus in mehrfacher Weise und in erheblichem Maße missachtet hat"
+        }
+    ]
+}

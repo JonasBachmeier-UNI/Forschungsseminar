@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 263a Abs. 1, Abs. 2 i.V.m. 263 Abs. 3 S. 2 Nr. 1 Alt. 1 StGB bzw. §§ 269 Abs. 1, Abs. 3 i.V.m. 267 Abs. 3 S. 2 Nr. 1 Alt. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der Strafrahmen sieht Freiheitsstrafe von sechs Monaten bis zu zehn Jahren vor."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "für die Tat 1.) zehn Monate für die Tat 2.) sechs Monate für die Tat 3.) acht Monate für die Tat 4.) zehn Monate"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen für den Totschlag beträgt Freiheitsstrafe nicht unter fünf Jahren."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sich der Angeklagte in Teilen geständig eingelassen hat."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "sich der Angeklagte insgesamt bereits seit etwa einem Jahr in Untersuchungshaft befindet und ihn diese aufgrund der durch die Corona-​Pandemie erforderlichen Einschränkungen im Strafvollzug besonders empfindlich trifft, insbesondere, da er aufgrund der vielen Verhandlungstage regelmäßig in Quarantäne musste und er sich außerdem für ca. zwei Wochen in Laos in Haft befand, wo die Haftbedingungen erheblich schlechter als in Deutschland sind."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Der Umstand des vorangegangenen Streits ist ebenfalls zu berücksichtigen."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "der Angeklagte vorbestraft ist und zum Tatzeitpunkt unter Bewährung stand."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "soweit er das Fernsehgerät beiseiteschaffte und sein Verhalten Grund dafür war, dass der Leichnam von W. P. erst später nach der Tat und insbesondere in verwestem Zustand aufgefunden werden konnte."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "neun Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Gesamtfreiheitsstrafe von 10 Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach einer Gesamtwürdigung aller Umstände auch unter zusätzlicher Berücksichtigung des vertypten Milderungsgrundes wegen des Vorliegens verminderter Schuldfähigkeit nach § 21 StGB vermag die Kammer einen minder schweren Fall nicht feststellen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter zusammenfassender Abwägung des Unrechtsgehaltes, sowie angesichts aller zuvor ausgeführten für und gegen den Angeklagten streitenden Strafzumessungsgesichtspunkte hält die Kammer letztlich eine Einzelstrafe von"
+        }
+    ]
+}

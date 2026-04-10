@@ -1,0 +1,59 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 2 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "besonders schwerer Fall des Totschlags"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Eine Gesamtwürdigung, wie nachstehend ausgeführt wird, daß sich die Tat nicht als ein minder schwerer Fall des Totschlags darstellt. Vielmehr liegt ein besonders schwerer Fall des Totschlags vor."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Vorliegend ist zugunsten des Angeklagten zu berücksichtigen, daß der Angeklagte in einer affektbeladenen Situation gehandelt hat."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Letztlich ist der Angeklagte als nicht integrierter Ausländer und durch seine Querschnittslähmung als besonders haftempfindlich anzusehen."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Weiter liegt eine Nähe zum Mordmerkmal sonstiger niedriger Beweggründe vor."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Zu Lasten des Angeklagten geht ferner, daß er bereits einmal wegen eines Gewaltdelikts vorbestraft war."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Außerdem fällt erschwerend ins Gewicht, daß er im Rahmen der Tat auch seinen ältesten Sohn B2 unter Einsatz eines Messers angegriffen und verletzt hat."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Besonders erschwerend bemißt die Kammer, daß der Angeklagte die Tötung der Mutter im Beisein und vor Augen der kleinen Kinder B und B3 durchgeführt hat, obwohl er sich deren Anwesenheit und Beobachtung bewußt war."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei Gesamtwürdigung aller zugunsten und zu Lasten des Angeklagten sprechender Umstände ist ein besonders schwerer Fall zu bejahen."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "auf lebenslange Freiheitsstrafe zu erkennen."
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 5 (fünf) Jahren und 10 (zehn) Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "5 (fünf) Jahren und 11 (elf) Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 22, 23 Abs. 2, 49 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 23 Abs. 1, 49 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 55, 54, 53 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 51 Abs. 4 S. 2 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der Strafe dem Strafrahmen des § 212 Abs. 1 StGB entnommen"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "den sie im Rahmen des ihr zustehenden Ermessens nach Würdigung aller nachfolgend aufgeführten Tatumstände und der Persönlichkeit des Angeklagten gemäß §§ 22, 23 Abs. 2, 49 Abs. 1 StGB gemildert hat"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat das Tatgeschehen vollumfänglich eingeräumt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat das Tatgeschehen vollumfänglich eingeräumt"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "dass er sich seit rund neun Monaten in Untersuchungshaft befindet, die für ihn als einen der deutschen Sprache Unkundigen besonders belastend ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "dass er als Erstverbüßer erhöht haftempfindlich ist"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "dass es sich um eine Spontantat gehandelt hat und eine gewisse affektive Erregung des Angeklagten vorlag"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "dass er tateinheitlich zwei Straftatbestände sowie zwei Tatbestandsalternativen der gefährlichen Körperverletzung verwirklicht hat und der Geschädigte nicht unerheblich verletzt worden ist"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach einer umfassenden Gesamtwürdigung der für und gegen den Angeklagten sprechenden Umstände unter Heranziehung aller Gesichtspunkte, die für die Wertung von Tat und Täter in Betracht kommen, gleichgültig, ob sie der Tat innewohnen, sie begleiten, ihr vorausgehen oder ihr folgen, weicht das Gesamtbild der Tat einschließlich aller subjektiven Momente und der Täterpersönlichkeit vom Durchschnitt der erfahrungsgemäß vorkommenden Fälle nicht in einem so erheblichen Maße ab, dass die Anwendung des Ausnahmestrafrahmens geboten erscheint"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller Umstände..."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "die Kammer erkennt nach nochmaliger Würdigung aller für und gegen den Angeklagten sprechenden Umstände auch dann keinen minder schweren Fall gemäß § 213 Alt. 2 StGB, wenn man den vertypten Milderungsgrund nach §§ 22, 23, 49 Abs. 1 StGB zusätzlich in die Abwägung einstellt"
+        }
+    ]
+}

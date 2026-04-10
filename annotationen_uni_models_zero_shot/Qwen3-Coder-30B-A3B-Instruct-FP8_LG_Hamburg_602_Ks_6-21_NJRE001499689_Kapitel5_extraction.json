@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Einzelstrafe von 120 Tagessätzen zu je 3 Euro"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 229 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Er ist nicht vorbestraft und hat den Geschehensablauf am Beginn der Hauptverhandlung eingeräumt"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Der Angeklagte hat eingeräumt, sein Kind nach dem Sturz geschüttelt zu haben"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte sich zu Beginn der Hauptverhandlung erstmals und auch im Angesicht der Nebenklägerin geständig eingelassen hat"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "er nicht vorbestraft (die im Rahmen der Feststellungen strafrechtlich-​relevanten Gewaltausbrüche wurden von beiden Geschädigten – der Nebenklägerin und der Zeugin T. – nicht weiterverfolgt)"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "insoweit besonders haftempfindlich ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Die Untersuchungshaft unter erschwerten Coronabedingungen"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "die Tat den Tod der eigenen Tochter zur Folge hatte und diese Folge eine besondere Belastung für den Angeklagten darstellt"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "die Tat gegen ein sehr junges, wehrloses und schutzloses Opfer – einen gerade mal 11 Wochen alten Säugling – richtete"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "offensichtlich und auch für den Angeklagten erkennbar (vor-)verletzt und hätte besonders vorsichtigen Umgangs bedurft"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "krates Missverhältnis zwischen der unkontrollierten Aggression und der Tatausführung, die sich gegen das eigene Kind richtete"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "unterließ er – wenn auch kurzzeitig – weitere Erste-Hilfe-Maßnahmen, etwa die Beatmung von J.; er ließ sie in ihrem Zimmer allein und unbeaufsichtigt"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Einzelstrafe von 7 (sieben) Jahren und 8 (acht) Monaten Freiheitsstrafe"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 7 (sieben) Jahren und 9 (neun) Monaten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller vorstehend genannter Strafzumessungstatsachen hat die Kammer für diesen Fall im Rahmen der konkreten Strafzumessung eine"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller vorgenannten Aspekte der Strafzumessung und unter Berücksichtigung des äußerst engen zeitlichen, räumlichen, situativen und kriminologischen Zusammenhangs der Taten hat die Kammer unter maßvoller Erhöhung der Einsatzstrafe auf eine"
+        }
+    ]
+}

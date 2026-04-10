@@ -1,0 +1,104 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 8 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der zum Tatzeitpunkt geltende Strafrahmen des § 213 StGB a.F. anzuwenden, der Freiheitsstrafe von 6 Monaten bis 5 Jahren vorsah"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "die Angeklagte hat das Tatgeschehen vollumfänglich eingeräumt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "die Angeklagte sich freiwillig selbst bei der Polizei gestellt, im Strafverfahren angemessen verteidigt und dabei insbesondere weitgehend geständig eingelassen hat"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "die Angeklagte zuvor noch niemals straffällig geworden war"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "in erheblichem Umfang Untersuchungshaft erlitten hat, wobei sie als Erstverbüßerin und aufgrund ihres angegriffenen psychischen Gesundheitszustands als besonders haftempfindlich anzusehen ist"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "ihrem Handeln gerade auch durch die bei ihr vorliegende Persönlichkeitsstörung bedingt war"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die Angeklagte an einer massiven Alkoholkrankheit mit einem Abhängigkeitssyndrom litt"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "die Angeklagte nicht nur die fatale Erfahrung der Folgen ihres heimlichen Handelns bei der Geburt 0000 vor Augen hatte, sondern daß sie diese auch gezielt verheimlicht und ihrer Familie verschwiegen hatte"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "die Angeklagte durch das monatelange Geheimhalten der Schwangerschaft ihre ohnehin bestehende Garantenpflicht maßgeblich verschärft hatte"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die sich daraus ergebende Handlungspflicht für sie mit minimalem Aufwand hätte erfüllt werden können"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "das enorme Gewicht der Garantenstellung der Angeklagten bezüglich des schutzlosen Kindes"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "die Angeklagte nun in dem Bewußtsein der Verantwortlichkeit für bereits zwei entsprechende Abläufe handelte bzw. nicht handelte, sondern wiederum die Schwangerschaft über deren gesamte Dauer hin verheimlichte"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller Umstände..."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter angemessener Berücksichtigung dieser Vielzahl gewichtiger strafmildernder Gesichtspunkte kann trotz des nachhaltigen Warneffekts des vorangegangenen Todesfalls von 0000 die anzusetzende Einzelstrafe nur dem unteren Drittel des anzuwendenden Strafrahmens zu entnehmen sein"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Angesichts dieser Umstände stünde nach Ansicht der Kammer im Grundsatz die gesamte untere Hälfte des bereits gemilderten Strafrahmens zur Verfügung"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "unter nochmaliger besonderer Würdigung der für die Angeklagte sprechenden Umstände, vor allem der verfahrensfördernden weitgehend geständigen Einlassung und der Beeinträchtigungen durch die Alkoholkrankheit vor dem Hintergrund der bestehenden Persönlichkeitsstörung"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Abwägung aller für und gegen die Angeklagte sprechenden Umstände"
+        }
+    ]
+}

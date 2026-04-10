@@ -13,7 +13,7 @@
         {
             "tag": "Vorleben_Positiv",
             "category": "Mildernd",
-            "quote": "der zuvor nur unwesentlich strafrechtlich in Erscheinung getreten ist"
+            "quote": "Die Entwicklung des Angeklagten verlief weitgehend unauffällig, in der Schule hat er sich zuletzt als zielstrebig erwiesen."
         },
         {
             "tag": "Vorleben_Positiv",
@@ -26,104 +26,54 @@
             "quote": "Nach seiner Haftentlassung hat er sich umgehend weiter um die Fortführung seiner Ausbildung bemüht."
         },
         {
-            "tag": "Vorleben_Positiv",
-            "category": "Mildernd",
-            "quote": "der in schulischer Hinsicht zuletzt von Ehrgeiz geprägt war; weiter hat die Kammer nicht übersehen, dass der Angeklagte hinsichtlich seiner schulischen Zukunftsplanung konkrete Vorstellungen hat und er sich um die Fortführung seiner schulischen Ausbildung bemüht."
-        },
-        {
             "tag": "Tatprovokation",
             "category": "Mildernd",
-            "quote": "nachdem es aus der Gruppe um den Angeklagten attackiert worden war- auch das Tatopfer sich aktiv an der Auseinandersetzung beteiligte und Gewalt gegen den Körper des Angeklagten (Schubsen) ausübte."
+            "quote": "nachdem es aus der Gruppe um den Angeklagten attackiert worden war - auch das Tatopfer sich aktiv an der Auseinandersetzung beteiligte und Gewalt gegen den Körper des Angeklagten (Schubsen) ausübte."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
-            "quote": "Andererseits hat der Angeklagte die Tat in einer die Tatbestandsmäßigkeit einer Körperverletzung weit übersteigenden, brutalen und hochgradig gefährlichen Weise mittels eines in die Gaststätte trotz Sicherheitskontrollen mitgeführten gefährlichen Werkzeugs i.S.d. § 224 Abs. 1 Nr. 2 StGB begangen."
-        },
-        {
-            "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
-            "quote": "Die Handlung des Angeklagten hat praktisch unmittelbar zum Tod des Tatopfers geführt. Er hat damit eine geringe Hemmschwelle hinsichtlich der körperlichen Integrität seines Opfers gezeigt."
-        },
-        {
-            "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
-            "quote": "Die Tat ist im oberen Bereich der denkbaren Delikte nach § 227 StGB einzuordnen."
+            "category": "Schaerfend",
+            "quote": "der Angeklagte die Tat in einer die Tatbestandsmäßigkeit einer Körperverletzung weit übersteigenden, brutalen und hochgradig gefährlichen Weise mittels eines in die Gaststätte trotz Sicherheitskontrollen mitgeführten gefährlichen Werkzeugs i.S.d. § 224 Abs. 1 Nr. 2 StGB begangen."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "Nach Gesamtwürdigung der erörterten Gesichtspunkte bejaht die Kammer die Schwere der Schuld gemäß § 17 Abs. 2 JGG."
+            "category": "Abwaegung",
+            "quote": "Nach Gesamtwürdigung der erörterten Gesichtspunkte bejaht die Kammer die Schwere der Schuld."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
+            "category": "Abwaegung",
             "quote": "Unter Berücksichtigung aller Umstände, vorrangig dem Erziehungsgedanken unter Beachtung des Erfordernisses eines gerechten Schuldausgleichs, erschien der Kammer die Verhängung einer Jugendstrafe von 3 Jahren 6 Monaten angemessen."
         },
         {
             "tag": "Strafhoehe",
             "category": "Formalia",
-            "quote": "Jugendstrafe von 3 Jahren 6 Monaten"
+            "quote": "Verhängung einer Jugendstrafe von 3 Jahren 6 Monaten"
         },
         {
             "tag": "Gesetzesgrundlage",
             "category": "Formalia",
-            "quote": "§ 3 JGG"
+            "quote": "Nach Überzeugung der Kammer ist gemäß § 17 Abs. 2 Alt. 2 JGG die Verhängung von Jugendstrafe wegen der Schwere der Schuld erforderlich."
         },
         {
             "tag": "Gesetzesgrundlage",
             "category": "Formalia",
-            "quote": "§ 17 Abs. 2 JGG"
+            "quote": "Gemäß § 18 Abs. 1 S. 1 JGG beträgt das Mindestmaß der Jugendstrafe sechs Monate."
         },
         {
             "tag": "Gesetzesgrundlage",
             "category": "Formalia",
-            "quote": "§ 18 Abs. 1 S. 1 JGG"
-        },
-        {
-            "tag": "Gesetzesgrundlage",
-            "category": "Formalia",
-            "quote": "§ 18 Abs. 1 S. 2 JGG"
-        },
-        {
-            "tag": "Gesetzesgrundlage",
-            "category": "Formalia",
-            "quote": "§ 12 Abs. 1 StGB"
-        },
-        {
-            "tag": "Gesetzesgrundlage",
-            "category": "Formalia",
-            "quote": "§ 227 Abs. 1 StGB"
-        },
-        {
-            "tag": "Gesetzesgrundlage",
-            "category": "Formalia",
-            "quote": "§ 224 Abs. 1 Nr. 2 StGB"
-        },
-        {
-            "tag": "Gesetzesgrundlage",
-            "category": "Formalia",
-            "quote": "§ 227 Abs. 2 StGB"
-        },
-        {
-            "tag": "Gesetzesgrundlage",
-            "category": "Formalia",
-            "quote": "§ 53 AufenthG"
-        },
-        {
-            "tag": "Gesetzesgrundlage",
-            "category": "Formalia",
-            "quote": "§ 56 Abs. 1 Nr. 2 AufenthG"
-        },
-        {
-            "tag": "Gesetzesgrundlage",
-            "category": "Formalia",
-            "quote": "§ 52a JGG"
+            "quote": "nach allgemeinem Strafrecht (§ 227 Abs. 1 StGB, Strafrahmen drei bis 15 Jahre Freiheitsstrafe)"
         },
         {
             "tag": "Strafrahmen",
             "category": "Formalia",
             "quote": "Strafrahmen drei bis 15 Jahre Freiheitsstrafe"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Kammer hat auch das Vorliegen eines minder schweren Falles der Körperverletzung mit Todesfolge gemäß § 227 Abs. 2 StGB geprüft"
         }
     ]
 }

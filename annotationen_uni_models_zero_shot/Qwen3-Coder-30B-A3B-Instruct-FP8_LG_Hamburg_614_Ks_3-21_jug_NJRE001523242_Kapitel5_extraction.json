@@ -1,0 +1,114 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Jugendstrafe von 4 (vier) Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 31 Abs. 1, 105 Abs. 1 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 18 Abs. 1 S. 2, 105 Abs. 3 JGG"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "dass der Angeklagte eingeräumt hat, an allen Taten beteiligt gewesen zu sein"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "ein umfassendes Geständnis abgelegt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Er hat sich bei allen Geschädigten entschuldigt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "sein Verhalten insgesamt von Reue getragen"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Die entwendete Kette des Geschädigten M. ist wiederaufgetaucht und wurde zurückgegeben"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "die Verletzungen in Grenzen hielten und offenbar verarbeitet wurden – in den Fällen 1, 3, und 5"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die Schuldfähigkeit war zumindest nicht ausschließbar krankheitsbedingt eingeschränkt"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "der noch recht junge Angeklagte zum ersten Mal schon lange in Untersuchungshaft sitzt"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "unter den erschwerten Coronabedingungen"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "In den Fällen 1 und 2 ist darüber hinaus zu Lasten des Angeklagten zu berücksichtigen, dass durch eine Handlung je einmal drei Personen geschädigt wurden (Fall 1 – Gebrüder P. und S. K.) und einmal zwei Personen zu Schaden gekommen sind (Fall 2 – M. und B.)."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "in den Fällen 1 und 2 ist darüber hinaus zu Lasten des Angeklagten zu berücksichtigen, dass durch eine Handlung je einmal drei Personen geschädigt wurden (Fall 1 – Gebrüder P. und S. K.) und einmal zwei Personen zu Schaden gekommen sind (Fall 2 – M. und B.)."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die Gewaltanwendung im Fall 3, die auf Veranlassung gefilmt wurde und im besonderen Maße die Demütigung des Opfers zum Ziel hatte"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "gravierende – letztlich auch geplante, provozierte. und gewollte – Gewalttaten (Fall 2 und 4 – Geschädigte M./B./A.) begangen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "erhebliche Verletzungsfolgen (Kieferbruch/Handbrüche), welche noch immer zu spüren sind und bis heute wirken"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Anlass – Wunsch nach neuen Turnschuhen im Wert von gut 170 Euro – und Gewaltanwendung (Schlagen, Tritte und Hochziehen des Körpers an Ohren und Haaren) stehen in einem krassen Missverhältnis"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "das Opfer sollte zudem – verbreitet über I. – als vermeintlicher Drogenkonsument denunziert und bloßgestellt werden"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "die Taten 2. bis 6. – gehen mit einer Intensivierung der Rechtsgutverletzungen einher und gipfelt in einem Messereinsatz gegenüber einer ihm unbekannten Person"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "In der Gesamtschau aller Geschehnisse hat die Kammer die Tatbilder berücksichtigt wie deren schnelle Abfolge bis hin zu einem Messereinsatz am 30. März 2021."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Im Rahmen einer Gesamtbetrachtung aller vorgenannter strafmildernden und strafscharfenden Aspekte im Einzelnen und in der Gesamtschau sowie unter Berücksichtigung des im Jugendstrafrecht dominierenden Erziehungsgedankens hält die Kammer unter Abwägung all jener Aspekte eine Jugendstrafe von 4 (vier) Jahren insgesamt geboten"
+        }
+    ]
+}

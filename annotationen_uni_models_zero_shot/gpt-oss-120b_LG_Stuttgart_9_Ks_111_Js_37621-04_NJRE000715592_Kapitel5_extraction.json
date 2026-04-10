@@ -1,0 +1,69 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "quote": "Die Strafkammer hat bei der Strafzumessung jeweils den Strafrahmen des § 212 Abs. 1 StGB, der Freiheitsstrafe von 5 bis 15 Jahren vorsieht, zugrundegelegt.",
+            "category": "Formalia"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "quote": "der Strafrahmen des § 212 Abs. 1 StGB, der Freiheitsstrafe von 5 bis 15 Jahren vorsieht",
+            "category": "Formalia"
+        },
+        {
+            "tag": "Strafrahmen",
+            "quote": "Ein besonders schwerer Fall des Totschlags gem. § 212 Abs. 2 StGB, der eine lebenslange Freiheitsstrafe vorsieht, war in beiden Fällen nicht gegeben.",
+            "category": "Formalia"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "quote": "gem. § 212 Abs. 2 StGB",
+            "category": "Formalia"
+        },
+        {
+            "tag": "Strafrahmen",
+            "quote": "Ein minder schwerer Fall des Totschlags gem. § 213 StGB, der eine Freiheitsstrafe von einem Jahr bis zu zehn Jahren vorsieht, war bei beiden Tötungen nicht gegeben.",
+            "category": "Formalia"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "quote": "gem. § 213 StGB",
+            "category": "Formalia"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "quote": "§ 21 StGB",
+            "category": "Formalia"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "quote": "dass er nicht vorbestraft ist",
+            "category": "Mildernd"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "quote": "ist aufgrund seines Alters (27 Jahre) erhöht strafempfindlich.",
+            "category": "Mildernd"
+        },
+        {
+            "tag": "Strafhoehe",
+            "quote": "12 Jahren Freiheitsstrafe",
+            "category": "Formalia"
+        },
+        {
+            "tag": "Strafhoehe",
+            "quote": "10 Jahren Freiheitsstrafe",
+            "category": "Formalia"
+        },
+        {
+            "tag": "Strafhoehe",
+            "quote": "15 Jahren",
+            "category": "Formalia"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "quote": "Unter nochmaliger Abwägung sämtlicher Strafzumessungsgesichtspunkte und unter Berücksichtigung des räumlich, situativ und zeitlich engen Zusammenhangs der Tötungen erachtet die Strafkammer eine Gesamtfreiheitsstrafe von",
+            "category": "Abwägung"
+        }
+    ]
+}

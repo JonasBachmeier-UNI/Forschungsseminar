@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "ausgehend vom Regelstrafrahmen des § 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von einem Jahr und sechs Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine solche von einem Jahr und neun Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 56 Abs. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 70 Abs. 1 StGB"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "beide unbestraft sind"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "das Tatgeschehen weitgehend eingeräumt haben"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "eine kritische Distanz zu ihrer Tathandlung zum Ausdruck gebracht hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "eine (gewisse) Einsicht in ihr Fehlverhalten gezeigt"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die Tat mittlerweile mehr als neun Jahre zurückliegt"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "der Zeugin Sch. in deren schwieriger Situation zu helfen"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "die Angeklagte Dr. B. auch ihrer ärztlichen Tätigkeit weiter nachgehen konnte"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "planvoll ein mehr als zwei Wochen zuvor verabredetes Vorgehen umsetzten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der Strafzumessung hat die Kammer ausgehend vom Regelstrafrahmen des § 212 Abs. 1 StGB geprüft, ob ein (sonst) minder schwerer Fall im Sinne des § 213 StGB vorliegt."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der konkreten Strafzumessung hat die Kammer hinsichtlich beider Angeklagten die im Rahmen der Strafrahmenwahl berücksichtigten Umstände erneut gegeneinander abgewogen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer hat daher für die Angeklagte Dr. B. auf eine Freiheitsstrafe von einem Jahr und sechs Monaten und für den Angeklagten Prof. V. auf eine solche von einem Jahr und neun Monaten als tat- und schuldangemessen erkannt."
+        }
+    ]
+}

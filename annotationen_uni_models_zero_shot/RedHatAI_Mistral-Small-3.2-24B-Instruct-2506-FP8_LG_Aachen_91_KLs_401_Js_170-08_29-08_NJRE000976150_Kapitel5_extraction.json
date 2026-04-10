@@ -1,59 +1,79 @@
 {
     "annotations": [
         {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Jugendstrafe von sechs Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 105 Abs.1 Nr.1 JGG"
+        },
+        {
             "tag": "Gesetzesgrundlage",
             "category": "Formalia",
             "quote": "§ 17 Abs.2 JGG"
         },
         {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
             "tag": "Gestaendnis",
             "category": "Mildernd",
-            "quote": "er das Geschehen in den meisten wesentlichen Punkten in tatsächlicher Hinsicht gestanden hat"
+            "quote": "dass er das Geschehen in den meisten wesentlichen Punkten in tatsächlicher Hinsicht gestanden hat."
         },
         {
             "tag": "Reue_Einsicht",
             "category": "Mildernd",
-            "quote": "sein Geständnis ist nach dem Eindruck der Kammer auch ernsthaft geprägt von Reue und Einsicht in sein Fehlverhalten"
+            "quote": "sein Geständnis ist nach dem Eindruck der Kammer auch ernsthaft geprägt von Reue und Einsicht in sein Fehlverhalten und den unwiederbringlich angerichteten schwersten Schaden."
         },
         {
             "tag": "Enthemmung_Psychologie",
             "category": "Mildernd",
-            "quote": "sein tödliches Verhalten auf einen spontanen, nicht geplanten Entschluss gründete"
+            "quote": "sehr wenig Eigenverantwortung, Einsatzbereitschaft und Zukunftsorientierung und legte ein jugendtypisches, weitestgehend unbekümmertes Freizeitverhalten an den Tag."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "sein tödliches Verhalten auf einen spontanen, nicht geplanten Entschluss gründete."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Dass er den Tod eines anderen Menschen verschulden könnte, hat der Angeklagte aber sicher bis zum letzten Augenblick nicht einkalkuliert."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "minder schwerer Fall im Sinne von § 213 StGB"
         },
         {
             "tag": "Tatprovokation",
             "category": "Mildernd",
-            "quote": "sich insgesamt um ein gruppendynamisches Geschehen handelte, das der Angeklagte zwar maßgeblich mit ausgelöst hat, dem er sich aber in der Eskalationsphase dann nicht mehr entziehen konnte bzw. mochte"
+            "quote": "dass es sich insgesamt um ein gruppendynamisches Geschehen handelte, das der Angeklagte zwar maßgeblich mit ausgelöst hat, dem er sich aber in der Eskalationsphase dann nicht mehr entziehen konnte bzw. mochte."
         },
         {
             "tag": "Haftempfindlichkeit",
             "category": "Mildernd",
-            "quote": "Der Angeklagte verbüßt erstmals Haft und ist deshalb als besonders haftempfindlich anzusehen"
-        },
-        {
-            "tag": "Motiv_Verwerflich",
-            "category": "Schärfend",
-            "quote": "das hohe Gewicht des sinnlosen Tötungsdelikts und die Nichtigkeit des Anlasses"
+            "quote": "Der Angeklagte verbüßt erstmals Haft und ist deshalb als besonders haftempfindlich anzusehen."
         },
         {
             "tag": "Tatbild_Brutalitaet",
             "category": "Schärfend",
-            "quote": "Er hat es nicht bei einem oder wenigen Stichen belassen"
+            "quote": "Er hat es nicht bei einem oder wenigen Stichen belassen."
         },
         {
-            "tag": "Vorleben_Negativ",
+            "tag": "Motiv_Verwerflich",
             "category": "Schärfend",
-            "quote": "Erziehungsdefizite"
+            "quote": "das hohe Gewicht des sinnlosen Tötungsdelikts und die Nichtigkeit des Anlasses."
         },
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Unter Berücksichtigung aller für und gegen den Angeklagten sprechenden Umstände, im Hinblick auf seine aufzuarbeitenden Erziehungsdefizite und in Anbetracht des schweren menschlichen Schadens, den er angerichtet hat"
-        },
-        {
-            "tag": "Strafhoehe",
-            "category": "Formalia",
-            "quote": "Jugendstrafe von sechs Jahren"
+            "quote": "Unter Berücksichtigung aller für und gegen den Angeklagten sprechenden Umstände, im Hinblick auf seine aufzuarbeitenden Erziehungsdefizite und in Anbetracht des schweren menschlichen Schadens, den er angerichtet hat, hält die Kammer eine"
         }
     ]
 }

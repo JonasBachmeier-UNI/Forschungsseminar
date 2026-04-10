@@ -1,0 +1,89 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von fünf Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 224 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "sechs Monaten bis zu zehn Jahren"
+        },
+        {
+            "tag": "Schlechterstellungsverbot",
+            "category": "Formalia",
+            "quote": "Schlechterstellungsverbot eingreift, da nur der Angeklagte das Ausgangsurteil mit der Revision angegriffen hat"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "dass er den Messerstich nicht ausschließbar auch deshalb abgegeben hat, weil er zuvor einen Faustschlag erlitten hat"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "dass er weite Teile des objektiven Tatgeschehens eingeräumt hat"
+        },
+        {
+            "tag": "Verfahrensdauer",
+            "category": "Mildernd",
+            "quote": "dass das Verfahren zum Zeitpunkt der Urteilsverkündung seit insgesamt 22 Monaten über dem Angeklagten schwebt"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "dass dieser sich seit seiner Festnahme vom 3. März 2023 in Untersuchungshaft befindet, was angesichts der im Vergleich zur regulären Strafhaft härteren Bedingungen der Untersuchungshaft allein wegen der langen Dauer eine besondere Härte darstellt"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "dass es sich nicht um eine geplante Tat handelte, sondern der Angeklagte sich spontan zur Begehung der Tat veranlasst gesehen hat, nicht ausschließbar eine eigene, durch den Geschädigten verursachte Verletzung erlitten hat und nicht ausschließbar infolge des Konsums von Alkohol bei der Tatbegehung enthemmt war"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "dass der Angeklagte im Zuge seines letzten Wortes aufrichtig wirkende Reue für den Vorfall gezeigt hat"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "dass der Angeklagte mehrfach einschlägig vorbestraft ist"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "dass der Geschädigte durch die Tat erhebliche Verletzungsfolgen erlitten"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "dass der Geschädigte für die Dauer von fünf Monaten arbeitsunfähig und leidet bis heute an durch die Tat verursachten Schmerzen"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "dass der Angeklagte in Verletzungsabsicht handelte"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "dass er allein schon durch das Beisichführen des Messers gegen das ihm auferlegte Waffenverbot verstoßen hat"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "dass er die Tat in einem öffentlichen Park und in der Nähe eines Kinderspielplatzes begangen hat, weshalb die Tat in besonderem Maße geeignet gewesen ist, das Sicherheitsempfinden der Allgemeinheit negativ zu beeinflussen"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Im Ergebnis einer Gesamtschau und Abwägung der Strafzumessungsgesichtspunkte"
+        }
+    ]
+}

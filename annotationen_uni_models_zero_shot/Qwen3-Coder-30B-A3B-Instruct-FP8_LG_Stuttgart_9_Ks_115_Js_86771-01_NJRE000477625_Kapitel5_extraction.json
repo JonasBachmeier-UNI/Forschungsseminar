@@ -1,0 +1,109 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "lebenslanger Gesamtfreiheitsstrafe"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Absatz 2 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der 5 bis 15 Jahren Freiheitsstrafe vorsieht"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sein maßvolles Geständnis"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Alkoholisierung, Drogen, psychische Ausnahmesituation oder Affekt"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "einschlägig vorbestraft durch die Verurteilung wegen versuchten Totschlags"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "besondere Brutalität, die aus seinem eigenhändigen Tatbeitrag hervorgeht"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Banalität und Belanglosigkeit des Tatmotivs"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller Umstände..."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "die Verurteilung wegen versuchten Totschlags, begangen am 25. Juli 1991"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Brutalität der Schläge über einen längeren Zeitraum hinweg sowie das Ausmaß der konkreten Verletzungen"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Quasi-​Gefangenschaft des eingeschüchterten A. M., dem auf diese Weise die sofortige ärztliche Behandlung vorenthalten worden ist"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Bernd S. eine Antwort zu bekommen, ist das vorgebliche Ziel, aber nicht die geeignete Lösung des Problems gewesen"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "bagatellisierende Tendenzen in seiner Einlassung erkennen lassen: \"Ich weiß, es war Schwachsinn; ich war halt betrunken; es war nicht geplant, dass der Abend so verläuft.\""
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "ein bemerkenswertes Maß sozialer Unverträglichkeit offenbart"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "11 Jahren Gesamtfreiheitsstrafe"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Absatz 1 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sein weitgehendes Geständnis"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Alkoholisierung, Drogen, psychische Ausnahmesituation oder Affekt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "erstmals vor Gericht"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "verhältnismäßig geringere Brutalität des eigenhändigen Tatbeitrags"
+        }
+    ]
+}

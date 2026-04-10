@@ -1,0 +1,64 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Im Rahmen der Strafzumessung stellt der Strafrahmen des § 212 Abs. 1 StGB den Ausgangspunkt dar, der eine Freiheitsstrafe zwischen fünf und fünfzehn Jahren vorsieht."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "11 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Alt. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Alt. 2 StGB"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass er nicht vorbestraft ist"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sein frühes, bereits im Rahmen der Festnahme erfolgtes Teil-Geständnis"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "da es sich um eine Spontantat handelt und der Angeklagten in dieser Situation affektiv erregt war"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "der Angeklagte mit Tötungsabsicht handelte"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "die Kinder unter schweren Tatfolgen leiden, die mit der Diagnose der posttraumatischen Belastungsstörung von Krankheitswert sind und sie für eine nicht absehbare Zeit weiter psychotherapeutisch behandelt werden müssen"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der konkreten Strafzumessung hat die Kammer die dargestellten für und gegen den Angeklagten sprechenden Umstände noch einmal umfassend gewürdigt und gegeneinander abgewogen."
+        }
+    ]
+}

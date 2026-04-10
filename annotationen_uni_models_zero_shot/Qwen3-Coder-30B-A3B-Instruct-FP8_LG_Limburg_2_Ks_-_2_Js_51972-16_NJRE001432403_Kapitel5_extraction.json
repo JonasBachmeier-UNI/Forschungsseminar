@@ -1,0 +1,44 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen des § 212 Abs. 1 StGB sieht Freiheitsstrafe von 5 Jahren bis 15 Jahren vor."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Alt. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Abs. 1 StGB"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Sie ist selbstunsicher, sozial gehemmt und verfügt über gering ausgeprägte Problemlösungsstrategien. Die Angeklagte ist besonders haftempfindlich, weil die Art des Deliktes ihr das Zusammenleben mit anderen Strafgefangenen erschwert."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Die Angeklagte hat strafrechtlich noch nicht in Erscheinung getreten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 9 Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter Abwägung sämtlicher für und gegen die Angeklagte sprechenden Umstände, hielt die Kammer eine Freiheitsstrafe von 9 Jahren für tat- und schuldangemessen."
+        }
+    ]
+}

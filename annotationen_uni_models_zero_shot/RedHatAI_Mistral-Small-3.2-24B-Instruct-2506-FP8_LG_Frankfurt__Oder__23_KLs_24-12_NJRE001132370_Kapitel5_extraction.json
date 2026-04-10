@@ -1,0 +1,64 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Unterbringung der Beschuldigten in einem psychiatrischen Krankenhaus gemäß § 63 StGB"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Diese Gewalt könne sich erneut gegen ein noch ungeborenes eigenes oder gegen ein fremdes Kind richten. Hierfür spreche insbesondere der unbedingte Wunsch der Beschuldigten wieder schwanger zu werden. Dieser Wunsch sei psychotisch und extrem gefährlich."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Die Beschuldigte hat seit der Tat bereits viermal ihre Lebenspartner gewechselt. Zwar hat die Beschuldigte im Zusammenhang mit der Erörterung ihrer letzten Schwangerschaft in der Hauptverhandlung erklärt, dass sie zunächst die Schule machen wolle, der Kinderwunsch müsse daher „zunächst“ zurücktreten. Zudem verhütet sie zurzeit mittels Depotspritze."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Die Beschuldigte hat – wie zuvor unter II. ausgeführt – am 20.04.2012 eine rechtswidrige Tat begangen, bei der sie mit natürlichem Vorsatz handelte, bei deren Ausführung sie jedoch mangels Einsichtsfähigkeit nicht ausschließbar schuldunfähig war."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Die Beschuldigte habe Kl. noch in keiner Weise betrauert. Bezeichnend hierfür sei auch, dass sie bei der Schilderung ihrer Tochter Kl. in ihrer Einlassung in den Präsenz gefallen sei."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Eine erneute Schwangerschaft würde die notwendige Trauerarbeit torpedieren."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Sollte die Beschuldigte wieder wahnhaft sein, so könne sie durchaus Personen ihres allernächsten familiären Umfeldes in das Wahnerleben einbeziehen, wie sie es bereits im Vorfeld der Tat getan habe, und im Rahmen einer rekonstruierten erheblich ambivalenten Beziehungsgestaltung auch für diese anderen Personen z.B. durch die Planung eines erweiterten Suizids gefährlich werden."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Diese Gefahr eines erweiterten Suizids sei bei der Beschuldigten nach wie vor hochgradig real. Der Sachverständige hat auch nicht ausschließen wollen, dass die Beschuldigte nicht nur eine Gefahr für zukünftige eigene Kinder sei, sondern auch für fremde Kinder, die sie entführen könnte."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Die Beschuldigte hat bereits zweimal stationär wegen ihrer gezeigten psychischen Auffälligkeiten behandelt worden, ohne dass die erforderliche ambulante Nachbehandlung zustande gekommen ist."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Zu berücksichtigen sind neben der Drogenvergangenheit der Beschuldigten auch die Vorfälle in der Unterbringungseinrichtung in Teupitz."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Bei der Abwägung der Folgen für die Beschuldigte gegenüber den Gefahren für die Allgemeinheit ist eine Unterbringung unter Verhältnismäßigkeitsgesichtspunkten angezeigt."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Angesichts der Wahrscheinlichkeit, dass sie sich nach einer erneuten Schwangerschaft wieder gegenüber ihrem (zukünftigen) Kind in vergleichbarer Weise fremdgefährdend verhält, hat im Interesse der Allgemeinheit ihre persönliche Freiheit gegenüber dem Schutz des noch ungeborenen Kindes zurückzustehen."
+        }
+    ]
+}

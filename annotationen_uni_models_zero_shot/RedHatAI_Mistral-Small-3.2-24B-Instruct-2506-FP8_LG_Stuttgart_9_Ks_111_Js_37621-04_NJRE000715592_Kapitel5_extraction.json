@@ -1,0 +1,89 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der § 212 Abs. 1 StGB, der Freiheitsstrafe von 5 bis 15 Jahren vorsieht"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 21 StGB"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Bei der Strafzumessung sprach für den Angeklagten, dass er nicht vorbestraft ist."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Strafmildernd war auch zu berücksichtigen, dass es sich in beiden Fällen jeweils um eine Spontantat handelte."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte befindet sich erstmals in Haft und ist aufgrund seines Alters (27 Jahre) erhöht strafempfindlich."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Bei der Tat zum Nachteil von O.G. war zu Gunsten des Angeklagten zu berücksichtigen, dass er allgemein die Tötung von O.G. eingeräumt hat."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "dass die sechs Jahre alte Tochter der getöteten O.G. durch die Tat ihre Mutter verloren hat."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Die Tötung des eigenen Kindes die Überwindung einer deutlich höheren Hemmschwelle erfordert"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "12 Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "10 Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 15 Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "unter Würdigung aller Umstände eine Einzelstrafe von 12 Jahren Freiheitsstrafe für tat- und schuldangemessen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "unter Würdigung aller Umstände - eine Einzelstrafe von 10 Jahren Freiheitsstrafe für tat- und schuldangemessen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Abwägung sämtlicher Strafzumessungsgesichtspunkte und unter Berücksichtigung des räumlich, situativ und zeitlich engen Zusammenhangs der Tötungen erachtet die Strafkammer eine Gesamtfreiheitsstrafe von 15 Jahren für tat- und schuldangemessen."
+        }
+    ]
+}

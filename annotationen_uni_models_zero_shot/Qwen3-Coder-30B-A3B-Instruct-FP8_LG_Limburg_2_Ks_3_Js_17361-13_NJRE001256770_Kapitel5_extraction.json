@@ -1,0 +1,49 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Bei der Strafzumessung ist die von dem Strafrahmen des § 212 Abs. 1 StGB ausgegangen, der Freiheitsstrafe von 5 Jahren bis 15 Jahren vorsieht."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte hat ein gewisses Schütteln - wenn auch erst nach Konfrontation mit den rechtsmedizinischen Erkenntnisse - eingeräumt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Außerdem ist der Angeklagte nicht vorbestraft"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "der Angeklagte als leiblicher Vater gegenüber seinem Sohn, dessen Betreuung er wahrnahm, eine besondere Obhutspflicht hatte"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Gesamtabwägung sämtlicher innerer und äußerer Tatumstände hat ergeben, dass die Intensität des von dem Angeklagten begangenen Unrechts hinter den erfahrungsgemäß gewöhnlich vorkommenden Fällen des § 212 Abs. 1 StGB nicht in einem Maß zurückbleibt, das die Anwendung des regulären Strafrahmens unangemessen erscheinen ließe."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter Abwägung sämtlicher für und gegen den Angeklagten sprechenden Umständen hielt die Kammer eine Freiheitsstrafe von 7 Jahren und 6 Monaten für tat- und schuldangemessen."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "7 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Alt. 2 StGB"
+        }
+    ]
+}

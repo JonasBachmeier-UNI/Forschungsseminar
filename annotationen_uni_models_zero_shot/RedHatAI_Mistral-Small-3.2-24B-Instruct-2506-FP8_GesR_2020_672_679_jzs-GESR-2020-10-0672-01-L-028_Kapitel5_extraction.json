@@ -11,11 +11,6 @@
             "quote": "§ 213 StGB"
         },
         {
-            "tag": "Gesamtwuerdigung",
-            "category": "Abwaegung",
-            "quote": "bei der insoweit vorzunehmenden Gesamtwürdigung von Person und Tat"
-        },
-        {
             "tag": "Motiv_Verwerflich",
             "category": "Schärfend",
             "quote": "sie die Tat nicht etwa in einer schnelle Entscheidungen erfordernden Notfallsituation begangen haben, sondern vielmehr planvoll ein mehr als zwei Wochen zuvor verabredetes Vorgehen umsetzten"
@@ -23,7 +18,7 @@
         {
             "tag": "Vorleben_Positiv",
             "category": "Mildernd",
-            "quote": "Schuldmindernd wirkte sich zudem für beide Angekl. aus, dass die Tat mittlerweile mehr als neun Jahre zurückliegt, beide unbestraft sind"
+            "quote": "die Tat mittlerweile mehr als neun Jahre zurückliegt, beide unbestraft sind"
         },
         {
             "tag": "Gestaendnis",
@@ -31,24 +26,14 @@
             "quote": "das Tatgeschehen weitgehend eingeräumt haben"
         },
         {
-            "tag": "Enthemmung_Psychologie",
+            "tag": "Motiv_Verwerflich",
             "category": "Mildernd",
-            "quote": "ihr Handeln im Vorfeld der Tat von dem Ziel geprägt war, das Risiko für den gesunden Zwilling zu minimieren"
-        },
-        {
-            "tag": "Tatprovokation",
-            "category": "Mildernd",
-            "quote": "ihr Handeln das Ziel hatte, der Zeugin S. in deren schwieriger Situation zu helfen"
+            "quote": "ihr Handeln das Ziel hatte, der Zeugin S. in deren schwieriger Situation zu helfen und im Ergebnis den Zustand herzustellen, der auch bei Vornahme eines zulässigen selektiven Schwangerschaftsabbruchs bestanden hätte"
         },
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Bei der konkreten Strafzumessung hat die Kammer hinsichtlich beider Angekl. die im Rahmen der Strafrahmenwahl berücksichtigten Umstände erneut gegeneinander abgewogen"
-        },
-        {
-            "tag": "Reue_Einsicht",
-            "category": "Mildernd",
-            "quote": "eine kritische Distanz zu ihrer Tathandlung zum Ausdruck gebracht hat"
+            "quote": "Hinsichtlich der Angekl. Dr. R. hat sie zudem strafmildernd berücksichtigt, dass diese in der Hauptverhandlung eine kritische Distanz zu ihrer Tathandlung zum Ausdruck gebracht hat. Strafmildernd war zu ihren Gunsten darüber hinaus zu werten, dass ihr berufsrechtliche Konsequenzen in Gestalt des Entzuges der Approbation drohen."
         },
         {
             "tag": "Strafhoehe",
@@ -63,32 +48,27 @@
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "dass die Angekl. Dr. R. als Operateurin die eigentliche Tathandlung ausgeführt hat, demgegenüber jedoch nicht außer Acht gelassen, dass der Angekl. Prof. V. – worauf er in der Hauptverhandlung ausdrücklich hingewiesen hat – trotz seiner Assistentenstellung während der Operation als Chefarzt Vorgesetzter der Angekl. Dr. R. war"
+            "quote": "Sie hat dabei berücksichtigt, dass die Angekl. Dr. R. als Operateurin die eigentliche Tathandlung ausgeführt hat, demgegenüber jedoch nicht außer Acht gelassen, dass der Angekl. Prof. V. – worauf er in der Hauptverhandlung ausdrücklich hingewiesen hat – trotz seiner Assistentenstellung während der Operation als Chefarzt Vorgesetzter der Angekl. Dr. R. war."
         },
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "zum einen wurde der langen Dauer des gesamten Verfahrens bereits im Rahmen der Strafzumessung zugunsten der Angekl. Rechnung getragen"
+            "quote": "die beiden unbestraften Angekl. sich die bloße Verurteilung zu einer Freiheitsstrafe zur Warnung dienen lassen und künftig keine weiteren Straften begehen werden"
         },
         {
             "tag": "Haftempfindlichkeit",
             "category": "Mildernd",
-            "quote": "die Angekl. sich für dieses Verfahren nicht in Haft befanden und die Angekl. Dr. R. auch ihrer ärztlichen Tätigkeit weiter nachgehen konnte, sich mithin die durch das Verfahren ausgehende Belastung für die Angekl. in Grenzen hielt"
-        },
-        {
-            "tag": "Vorleben_Positiv",
-            "category": "Mildernd",
-            "quote": "dass die beiden unbestraften Angekl. sich die bloße Verurteilung zu einer Freiheitsstrafe zur Warnung dienen lassen und künftig keine weiteren Straften begehen werden"
+            "quote": "sich die durch das Verfahren ausgehende Belastung für die Angekl. in Grenzen hielt"
         },
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "dass beide Angekl. bisher strafrechtlich nicht in Erscheinung getreten sind und beanstandungsfrei als Geburtsmediziner gearbeitet haben"
+            "quote": "die Gefahr, dass der Täter bei weiterer Ausübung seines Berufs erhebliche rechtswidrige Taten unter grober Verletzung von Berufspflichten begehen wird"
         },
         {
             "tag": "Reue_Einsicht",
             "category": "Mildernd",
-            "quote": "in der Hauptverhandlung eine (gewisse) Einsicht in ihr Fehlverhalten gezeigt und glaubhaft erklärt hat, eine solche Vorgehensweise nicht zu wiederholen"
+            "quote": "die Angekl. in der Hauptverhandlung eine (gewisse) Einsicht in ihr Fehlverhalten gezeigt und glaubhaft erklärt hat, eine solche Vorgehensweise nicht zu wiederholen"
         }
     ]
 }

@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "ein Strafrahmen von Freiheitsstrafe von 5 Jahren bis zu 15 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 I StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 2. Alt. StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "er hat die Verabreichung des Kaliumchlorids und das Handeln in Tötungsabsicht eingeräumt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "er ist nicht vorbestraft"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "sicher in einer schwierigen Lebenssituation befand"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "durch die bei ihm vorliegende Grunderkrankung der Depression nicht ausschließbar zusätzlich belastet war"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "der Angeklagte von dem Schicksal des Patienten I3 nicht ausschließbar persönlich betroffen war"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "er sich nahezu ein Jahr in Untersuchungshaft befunden hat"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "als Erstinhaftierter (...) besonders haftempfindlich ist"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "die bewusst wahrheitswidrige Täuschung der Angehörigen des Geschädigten I3 in dem Angehörigengespräch am 13.11.2020 eine nicht unerhebliche kriminelle Energie des Angeklagten belegt"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Bei der gebotenen Gesamtabwägung aller für und gegen den Angeklagten sprechenden Umstände"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 1 Jahr bis zu 10 Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "3 Jahren und 6 Monaten"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der Freiheitsstrafe von fünf Jahren bis zu fünfzehn Jahre vorsieht"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "ein Strafrahmen, der Freiheitsstrafe von einem Jahr bis zu zehn Jahren vorsieht"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "auf eine Freiheitsstrafe von zwei (2) Jahren erkannt"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 23 Abs. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 46 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 49 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 22, 23, 49 StGB"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "sich der Angeklagte bei Tatausführung in einer emotional belastenden Situation befunden hat"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass er als nicht vorbestraft zu gelten hat"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "der ausgeprägte und insgesamt schon rechtsfeindliche Züge aufweisende Starrsinn des Angeklagten"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "unter dem Deckmantel der Patientenverfügung, die ihm als Vorwand diente, seinen rational nicht mehr begründbaren Vorstellungen gefolgt ist"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "hat das Personal der Intensivstation über einen längeren Zeitraum kontinuierlich 'in Atem' gehalten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei einer Gesamtwürdigung dieser Umstände kommt eine weitere Strafrahmenmilderung auf der Basis der §§ 23 Abs. 2, 49 Abs. 1 StGB nicht mehr in Betracht"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der Strafzumessung im engeren Sinne hat die Kammer nach Maßgabe des § 46 StGB die für und gegen den Angeklagten anzuführenden Gesichtspunkte, die bereits oben erörtert worden sind und deshalb an dieser Stelle nicht mehr wiederholt zu werden brauchen, nochmals gegeneinander abgewogen und sodann auf eine Freiheitsstrafe von zwei (2) Jahren erkannt"
+        }
+    ]
+}

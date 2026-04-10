@@ -1,0 +1,69 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von fünf bis fünfzehn Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von einem Jahr bis zehn Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Alt. 2 StGB"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte befand sich vor der Tat in einer für ihn nicht einfachen und als belastend empfundenen Lebenssituation. Die Beziehung zu K. P. kriselte seit geraumer Zeit, er genügte ihr nicht mehr, was sie ihn auch spüren ließ. Er war seinerseits unzufrieden mit der Beziehung und fühlte sich von ihr unter Druck gesetzt und fremdbestimmt, wobei er es nicht schaffte, sich von ihr loszulösen, da er sich von ihren Hilfeleistungen abhängig fühlte. Hinzu kam das Gefühl, in seinem Leben nichts erreicht zu haben. Der erhoffte finanzielle Wohlstand hatte sich nicht eingestellt. Mit seiner aktuellen Arbeitsstelle war er unzufrieden und empfand diese als belastend. Seine Wohnsituation gestaltete sich ebenfalls als schwierig, da seine eigene Wohnung nach dem Auszug des Zeugen L. in einem chaotischen Zustand war. Zudem stand der Besuch seiner Ehefrau an, die er dort im aktuellen Zustand der Wohnung nicht empfangen konnte. Er hoffte darauf, dass diese endlich zu ihm nach Deutschland ziehen würde, was sie zuvor jedoch abgelehnt hatte."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte stellte sich bereits kurze Zeit nach der Tat der Polizei, wo er auf den Tod der K. P. hinwies, einen Zusammenhang mit seiner Person erkennen ließ und Verantwortung für sein Handeln übernahm, wenn er auch nicht einräumte, sie vorsätzlich getötet zu haben."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat ... die Ursache für den Tod von K. P. gesetzt zu haben, ohne allerdings ein Handeln mit Tötungsvorsatz zu gestehen."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Nach dem Eindruck der Kammer - die insoweit die Einschätzung der psychiatrischen Sachverständigen Dr. YJ. teilt - bereut der Angeklagte die Tat zutiefst."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat - wenn auch unbeholfen - den Nebenklägern sein Beileid zum Tod ihrer Mutter ausgesprochen, was beiden Söhnen etwas bedeutete, wie sie auf Nachfrage erklärt haben."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist nicht vorbestraft."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Schließlich war zu seinen Gunsten eine erhöhte Haftempfindlichkeit zu berücksichtigen, da er - soweit ersichtlich - erstmals Untersuchungshaft verbüßt und er zudem der deutschen Sprache nicht mächtig ist."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Die Abwägung dieser Umstände ergibt, dass die zu Gunsten des Angeklagten sprechenden Umstände in ihrer Gesamtschau so schwer wiegen, dass sie einer Affektlage im Sinne des § 213 Alt. 1 StGB gleichkommen, ohne dass K. P. ein Mitverschuldensvorwurf zu machen wäre."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "sieben Jahren und sechs Monaten"
+        }
+    ]
+}
