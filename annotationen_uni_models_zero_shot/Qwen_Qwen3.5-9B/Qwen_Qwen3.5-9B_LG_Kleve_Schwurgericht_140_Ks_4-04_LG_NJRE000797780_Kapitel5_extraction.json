@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "minder schwerer Fall"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "dass dieser bereits wegen einer Körperverletzungstat vorbestraft ist"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "dass der Angeklagte der Frau C über einen mehrmonatigen Zeitraum nachgestellt, diese verfolgt und mittels Telefonanrufen, SMS-Nachrichten, Emails und auf sonstige Weise belästigt sowie auch teilweise bedroht hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "dass dieser tateinheitlich eine gefährliche Körperverletzung verwirklicht hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "schweren körperlichen und psychischen Folgen für das Opfer zum Nachteil des Angeklagten zu berücksichtigen"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "dass der Angeklagte teilweise geständig war"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "daß der Angeklagte aus dem Beamtenverhältnis entlassen wird und hierdurch auch seine Pensionsansprüche verliert"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "er durch die Schmerzensgeldforderung zusätzlich belastet und er erscheint als Polizist und Vater besonders haftempfindlich"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "dass dieser sich in einer psychischen Ausnahmesituation befand, auch wenn diese noch nicht so gravierend war, daß von einer erheblich verminderten Schuldfähigkeit ausgegangen werden könnte"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "gesetzlich vertypter Milderungsgrund gemäß § 23 Abs. 2, 49 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen von Freiheitsstrafe von 1 Jahr bis zu 10 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "nach §§ 22, 23, 49 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Annahme eines minder schweren Falles des Totschlags gemäß § 213 StGB"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Zur Bemessung der konkreten Strafe hat die Kammer nochmals alle vorgenannten für und gegen den Angeklagten sprechenden Umstände gegeneinander abgewogen"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 5 Jahren und 6 Monaten"
+        }
+    ]
+}

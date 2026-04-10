@@ -1,0 +1,64 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der maßgebliche Regelstrafrahmen des § 212 Abs. 1 StGB beläuft sich auf Freiheitsstrafe von 5 Jahren bis 15 Jahren (§ 38 Abs. 2 StGB); dieser war zugrunde zu legen."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Hinsichtlich der zu bildenden Strafe hat sich die Kammer an den Grundsätzen der Strafzumessung gemäß § 46 StGB ausgerichtet"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Die Bemerkung, wie er darauf komme, dass es sich bei den Kindern um seine Kinder handele, stellt sowohl objektiv als auch subjektiv eine erhebliche Provokation des Angeklagten dar"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Bereits ein Jahr zuvor hatte er S. A. in einer ähnlichen Situation ein Messer an den Hals gehalten und gedroht, sie umzubringen, sowie im Jahr 2009 seinen Schwager mit einem Messer bedroht."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "malträtierte S. A. mit 30 brutalen Messerstichen"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "nach Durchführung der Stiche das Messer auf S. A. warf und somit seine Herablassung demonstrierte."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Äußerungen gegenüber den Kindern, die Mutter komme in die Hölle erheblich nachteilig dar"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass er nicht vorbestraft ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "durch die dadurch und durch seine geringen Sprachkenntnisse bestehende Haftempfindlichkeit"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "stellt er die Tat nicht in Abrede"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach einer Gesamtwürdigung dieser für und gegen den Angeklagten sprechenden Gesichtspunkte"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "13 Jahren"
+        }
+    ]
+}

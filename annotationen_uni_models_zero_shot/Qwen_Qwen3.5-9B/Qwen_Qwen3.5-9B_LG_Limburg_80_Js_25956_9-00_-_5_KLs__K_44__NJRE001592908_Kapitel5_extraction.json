@@ -1,0 +1,349 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Strafrahmen der gefährlichen Körperverletzung gemäß § 223 a StGB a.F"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte W.K. hat sich, wenn auch mit Einschränkungen zur Motivlage, zur Tat bekannt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "sich bei dem Opfer in der Hauptverhandlung entschuldigt"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Ausgehend von einem herabgesetzten Strafrahmen von Geldstrafe oder Freiheitsstrafe bis zu 3 Jahren und 9 Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 1 Jahr und 6 Monaten"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "zu Gunsten des Angeklagten W.K. zu würdigen, dass er geständig, nicht bestraft und mit 59 Jahren besonders haftempfindlich ist"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Zu seinen Lasten wirkte sich sein perfides Vorgehen aus"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "Er hat das Opfer nach der Tat empfangen, um sich ein Bild von den Verletzungsfolgen machen zu können"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Die Tat diente der Durchsetzung erheblicher wirtschaftlicher Interessen"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe in Höhe von 5 Jahren und 3 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Strafrahmen für die besonders schwere Körperverletzung gem. den §§ 224, 225 Abs. 2 StGB a.F."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der einen Strafrahmen von einer Freiheitsstrafe von 2 Jahren bis zu 10 Jahren vorsieht"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "zur Tatzeit nicht vorbestraft war"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "umfassende Geständnis mit Aufklärungshilfe"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Entschuldigung beim Opfer"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "zwei weitere Verurteilungen nach der Tat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "erheblichen Tatbeitrag, der in der Besorgung des Messers lag"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "in Folge der Verletzungsfolgen noch heute andauernden psychischen Schäden des Opfers K."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 4 Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Würdigung aller Strafzumessungserwägungen hat die Kammer unter Erhöhung der höchsten Einsatzstrafe eine Gesamtfreiheitsstrafe von 4 Jahren und 9 Monaten gebildet"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "dass er die Taten unter laufender Bewährung begangen hat"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "dass er zweifach unter Bewährung stand und in einem Fall eine einschlägige Vorstrafe aufzuweisen hatte"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "die Gleichgültigkeit gegenüber den Opfern, die ihm persönlich kein Leid zugefügt hatten"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "war sein umfassendes Geständnis zu seinen Gunsten zu würdigen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "massiven Verletzungen des H.F. waren einzustellen"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 2 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "war zu seinen Gunsten sein Teilgeständnis zu berücksichtigen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "zu seinen Lasten hingegen waren die erheblichen Verletzungen des H.W. einzustellen"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 1 Jahr und 6 Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 5 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Hierbei sind noch einmal sämtliche Strafzumessungserwägungen gegeneinander abgewogen"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 6 Jahren und 10 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Beim Angeklagten V. war zu seinen Gunsten seine Aufklärungshilfe zu würdigen"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Aufklärungshilfe zu würdigen, die über das Geständnis zum eigenen Tatbeitrag erheblich hinausging"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Auch bei ihm ist seine schwierige Sozialisation strafmildernd zu berücksichtigen"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "dass er zur Tatzeit unter laufender Bewährung stand"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Auch die erheblichen psychischen Folgen des Opfers K. sind ihm anzulasten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 3 Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "hinsichtlich des Diebstahls der Uhr, ausgehend von einem Strafrahmen von 3 Monaten Freiheitsstrafe bis zu 10 Jahren, eine Freiheitsstrafe von 6 Monaten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Würdigung sämtlicher Strafzumessungsgesichtspunkten erschien eine Gesamtfreiheitsstrafe von 4 Jahren angemessen"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "war bei der Strafzumessung sein Geständnis hinsichtlich seiner Tatbeiträge in allen Fällen, in denen er beteiligt war, zu seinen Gunsten zu würdigen"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "sich bei den Opfern in der Hauptverhandlung entschuldigt hat"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "dass er mehrfach vorbestraft war und zwei einschlägige Vorverurteilungen aufzuweisen hatte"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "dass er zudem unter Bewährung stand"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Dieses dreifache Bewährungsversagen im Tatzeitraum wiegt in erheblicher Weise strafschärfend"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Auch bei M. ist eine Rücksichtslosigkeit und Gleichgültigkeit hinsichtlich der Interessen Dritter auf körperliche Unversehrtheit zu verzeichnen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "verletzungsfolgen der Opfer zu berücksichtigen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "die gegenüber den anderen Mittätern deutlich herabgesetzte Hemmschwelle, die es ihm ermöglicht hat, die Ohrmuscheln abzuschneiden"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 7 Jahren und 2 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Bei dem Angeklagten B. hat die Kammer zu seinen Gunsten berücksichtigt, dass er lange Zeit in Untersuchungshaft verbüßt hat und die Taten gestanden hat"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "die Taten gestanden hat"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Zu seinen Lasten wiegen seine erheblichen Vorbelastungen"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Auch seine gleichgültige Einstellung hinsichtlich der körperlichen Unversehrtheit Dritter, ist strafschärfend zu würdigen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "schwere Verletzungsfolgen beim Geschädigten H.F."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 2 Jahren und 9 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Die vorsätzliche Körperverletzung gemäß § 223 StGB alte Fassung"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Als Anstifter war er gleich einem Täter zu bestrafen (§ 26 StGB)"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "sieht Geldstrafe oder Freiheitsstrafe bis zu 5 Jahren vor"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Zu seinen Gunsten war die Entschuldigung gegenüber H.W. zu einem früheren Zeitpunkt und die Ausgleichszahlung an ihn zu würdigen"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Auch insoweit gilt, dass der Angeklagte A.K. noch nicht bestraft war und nach der Tat ein straffreies Leben führte"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Eine alkoholbedingte Enthemmung am Tatabend der Auftragserteilung ist zu seinen Gunsten berücksichtigt worden"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Gegen ihn sprach, dass er mit der Tat auch wirtschaftliche Interessen verfolgte"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Geldstrafe von 120 Tagessätzen zu je 600,00 DM"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Die gefährliche Körperverletzung gemäß § 223a StGB alter Fassung"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "sieht als Strafrahmen eine Freiheitsstrafe von 3 Monaten bis zu 5 Jahren vor"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Erschwerend wirkt wiederum, dass wirtschaftliche Interessen mitbestimmend waren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 1 Jahr"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Hierbei sind noch einmal sämtliche für und gegen den Angeklagten sprechenden Zumessungsgesichtspunkte gegeneinander abgewogen worden"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Freiheitsstrafe konnte gemäß § 56 Abs. 2 StGB zur Bewährung ausgesetzt werden, weil nach der Gesamtwürdigung von Tat und Persönlichkeit besondere Umstände vorliegen"
+        }
+    ]
+}

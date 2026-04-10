@@ -1,0 +1,44 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs, 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe zwischen 5 und 15 Jahren"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass er bislang strafrechtlich nicht in Erscheinung getreten ist"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "der jahrelange Streit mit dem Nachbarn kann nicht völlig unbeachtet bleiben"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "dass er aus nichtigem Anlass den Tod eines anderen Menschen herbeigeführt hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "dass sich die Tat auch auf Familienangehörige des Tötungsopfers auswirkt. Insbesondere die Witwe des Tatopfers ist nach mehr als 50 Ehejahren im Alter nunmehr auf sich allein gestellt"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 12 Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Unter Berücksichtigung der vorgenannten Gesichtspunkte erachtet die Kammer eine Freiheitsstrafe von 12 Jahren für tat- und schuldangemessen"
+        }
+    ]
+}

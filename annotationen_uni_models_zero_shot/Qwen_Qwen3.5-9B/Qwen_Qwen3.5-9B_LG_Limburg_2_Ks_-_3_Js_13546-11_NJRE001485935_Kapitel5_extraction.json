@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 5 Jahren bis 15 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 2 SGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Alt. 2 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmens"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "minder schwerer Fall"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "dass sie die Taten gestanden hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Reue gezeigt, indem sie sich bei ihrer Familie entschuldigt hat"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "nicht vorbestraft ist"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Todeskampf der Kinder bis zum Eintritt der Bewusstlosigkeit einige Minuten dauerte"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "dass das Gefühl der Angeklagten, von ihrem zunächst in Russland gebliebenen Ehemann allein gelassen worden zu sein, angesichts ihrer erst kurz zuvor erfolgten Übersiedlung nach Deutschland zusätzlich zu der subjektiven Überforderung beitrug"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Einzelfreiheitsstrafe von 9 Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Einzelfreiheitsstrafe von 10 Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die getrennt von der Kammer durchgeführten Gesamtabwägungen sämtlicher innerer und äußeren Tatumstände haben ergeben, dass in keinem Fall die Intensität des von der Angeklagten begangenen Unrechts hinter den erfahrungsgemäß gewöhnlich vorkommenden Fällen des § 212 Abs. 1 StGB in einem Maß zurückbleibt, das die Anwendung des regulären Strafrahmens unangemessen erscheinen lässt"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 13 Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter erneuter Abwägung sämtlicher für und gegen die Angeklagten sprechenden Umstände war unter angemessener Erhöhung der verwirkten höchsten Einzelstrafe eine Gesamtstrafe zu bilden"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "dass die Angeklagte drei Menschen getötet hat"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Dabei hat die Kammer insbesondere auf der einen Seite berücksichtigt, dass die Angeklagte drei Menschen getötet hat. Auf der anderen Seite wäre angesichts der Tatsache, dass sie durch ihr Geständnis bei der Polizei das Verfahren gegen sich erst ermöglicht hat, eine höhere Gesamtstrafe nicht mehr angemessen gewesen"
+        }
+    ]
+}

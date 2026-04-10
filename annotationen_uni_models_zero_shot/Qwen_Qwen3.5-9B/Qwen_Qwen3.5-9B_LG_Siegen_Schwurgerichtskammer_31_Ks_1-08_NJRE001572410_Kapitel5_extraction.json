@@ -1,0 +1,104 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB alter Fassung"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "minder schwerer Fall"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 6 Monaten bis 5 Jahren"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "niemals straffällig geworden war"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "weitgehend geständig eingelassen hat"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "als Erstverbüßerin und aufgrund ihres angegriffenen psychischen Gesundheitszustands als besonders haftempfindlich anzusehen"
+        },
+        {
+            "tag": "Strafhöhe",
+            "category": "Formalia",
+            "quote": "Einzelstrafe von 1 Jahr und 9 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen von 1 Jahr bis 10 Jahren"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "frühere Straffreiheit"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Beeinträchtigung durch die wesentlich auf den früheren Taten beruhende Alkoholerkrankung"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Persönlichkeitsstörung"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "monatelange Geheimhalten der Schwangerschaft"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Wiederholungstat"
+        },
+        {
+            "tag": "Strafhöhe",
+            "category": "Formalia",
+            "quote": "Einzelstrafe von 3 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Abwägung aller für und gegen die Angeklagte sprechenden Umstände"
+        },
+        {
+            "tag": "Strafhöhe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 4 Jahren und 3 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Gesamtstrafe gem. § 53 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 465 I StPO"
+        }
+    ]
+}

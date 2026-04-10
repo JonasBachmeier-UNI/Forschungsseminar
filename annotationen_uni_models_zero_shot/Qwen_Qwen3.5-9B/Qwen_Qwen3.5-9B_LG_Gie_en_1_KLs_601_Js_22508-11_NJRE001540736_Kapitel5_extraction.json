@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "im Sinne von § 21 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "gemäß §§ 1, 3, 105 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "gemäß § 17 Abs. 2 JGG"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "allein auf Jugendstrafe zu erkennen war"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Einheitsjugendstrafe von 3 Jahren 10 Monaten"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "dass der hierbei jeweils 18 Jahre alte Angeklagte nach seiner sittlichen und geistigen Entwicklung noch einem Jugendlichen gleichstand"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "das Verhalten der Nebenklägerin selbst trug in nicht unbeträchtlichem Maße zur Eskalation aller drei abgeurteilten Taten bei"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sein Verhalten zumindest teilweise und im Laufe der Hauptverhandlung auch in Punkten, die er zuvor abstritt, einräumte"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "sich bei der Nebenklägerin glaubhaft entschuldigte"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "sowohl die Tat am 02.07.20.. wie auch am 13.07.20.. nach dem Konsum nicht unbeträchtlicher Mengen Alkohols beging"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "wiederkehrende Thematisierung seiner Rache- bzw. Tötungsüberlegungen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "gleich mehrfach Angriffe auf das Leben der Nebenklägerin unternahm, hierbei nicht vor dem Versuch zurückschreckte"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte war vor Begehung der Taten zudem bereits strafrechtlich in Erscheinung getreten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung auch sämtlicher übriger für und gegen den Angeklagten sprechenden Umstände"
+        }
+    ]
+}

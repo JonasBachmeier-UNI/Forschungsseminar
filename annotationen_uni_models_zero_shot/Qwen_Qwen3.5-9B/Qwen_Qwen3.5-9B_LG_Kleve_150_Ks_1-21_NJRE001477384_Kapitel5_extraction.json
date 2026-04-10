@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 315d Abs. 5 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von einem Jahr bis zu 10 Jahren"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "geständig eingelassen"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Reue über die Tat und deren Folgen erkennbar"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "21 Jahren noch recht jung und wenig lebenserfahren war"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "die lange Verfahrensdauer und die lange Untersuchungshaft, zumal als junger Erstverbüßer unter dem Vorwurf des Mordes und dem konkreten Drohen einer lebenslangen Freiheitsstrafe, außerdem verbunden mit den besonderen Beschränkungen infolge der Schutzmaßnahmen gegen die Corona-​Pandemie für den Angeklagten darstellten"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Vorfahrtsverstoß (Verstoß gegen § 8 StVO) des Tatopfers mitursächlich für den tödlichen Verkehrsunfall war"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "das hohe Maß der Pflichtwidrigkeit, insbesondere die sehr große Gefährlichkeit der Art und Weise der Rennfahrt aufgrund der sehr hohen Geschwindigkeitsüberschreitung und der Fahrt über die für den Gegenverkehr vorgesehene linke Fahrspur sowie die schwere Folge des Todes der Frau T ins Gewicht, die der Angeklagte verursacht hat"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "er sich nach dem Zusammenstoß mit dem D3 der Frau T unerlaubt vom Unfallort entfernt hat"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Die Vorstrafen des Angeklagten hat die Kammer nicht zu dessen Lasten berücksichtigt"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Abwägung aller für die Wertung von Tat und Täter maßgebenden Umstände"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmens des § 315d Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "alle für und gegen den Angeklagten sprechenden Strafzumessungserwägungen abgewogen"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "4 Jahren"
+        }
+    ]
+}

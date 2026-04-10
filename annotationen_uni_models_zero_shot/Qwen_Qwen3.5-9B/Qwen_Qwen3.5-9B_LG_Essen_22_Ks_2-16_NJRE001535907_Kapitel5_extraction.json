@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs.1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 5 Jahren bis zu 15 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 23 Abs.2, 49 Abs.1 Ziff. 2, 3 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen von Freiheitsstrafe von 2 Jahren bis zu 11 Jahren und 3 Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "4 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 69 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 69 a StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "weitestgehend geständig eingelassen hat"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der Angeklagte unvorbestraft ist"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "der Geschädigte durch sein Verhalten die Eskalation des Streits weiter vorangetrieben hat"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "unreife Persönlichkeit"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "sich mit seinem Vater zwischenzeitlich wieder versöhnt hat"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "nichtige Tatanlass - ein Streit über die Zubereitung eines Nudelauflaufs"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "hohe Brutalität der Tathandlung, bei der der Angeklagte den Pkw zunächst zurückgesetzt hat, um seinen Vater gezielt anzufahren, und dann noch Tritte gegen Kopf und Körper des bereits verletzt und hilflos am Boden liegenden Geschädigten ausgeführt hat"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Unter Abwägung aller vorgenannten und Berücksichtigung sämtlicher weiterer Strafzumessungsgesichtspunkte des § 46 StGB hat die Kammer für die Tat auf eine Freiheitsstrafe von"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "da die mildernden Faktoren schon allein im Hinblick auf die massiven Verletzungen des Geschädigten und die objektive Gefährlichkeit der Tathandlung nicht beträchtlich überwiegen"
+        }
+    ]
+}

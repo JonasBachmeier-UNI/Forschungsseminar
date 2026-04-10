@@ -1,0 +1,54 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von fünf Jahren bis zu 15 Jahren (§ 38 Abs. 2 StGB) vorsieht"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "gemäß § 213 StGB"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Denn bei der gebotenen gesamtschauenden Betrachtung der wesentlichen belastenden und entlastenden Umstände wich das gesamte Tatbild einschließlich der subjektiven Momente und der Täterpersönlichkeit vom Durchschnitt der gewöhnlich vorkommenden Fälle in einem solchen Maße ab, dass die Anwendung des Ausnahmestrafrahmens des § 213 StGB geboten erschien"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass dieser nicht vorbestraft ist"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "geständig eingelassen hat"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Aufgrund des fortgeschrittenen Alters des Angeklagten, seiner persönlichen Verhältnisse und seiner Situation als Erstverbüßer ist er zudem als besonders haftempfindlich anzusehen"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Aufgrund des erheblichen Gewichts der dargelegten strafmildernden Umstände erschien der Kammer der Regelstrafrahmen des § 212 StGB mit einer Mindeststrafe von fünf Jahren für den hier zu beurteilenden Fall daher nicht mehr angemessen und die Anwendung des geminderten Strafrahmens des § 213 StGB geboten"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmens von einem bis zu zehn Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "drei Jahre"
+        }
+    ]
+}

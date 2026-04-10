@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Nach § 17 Abs. 2 JGG wird Jugendstrafe verhängt"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Nach § 18 Abs. 1 S. 1 JGG beträgt das Mindestmaß der Jugendstrafe sechs Monate"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Das Mindestmaß der Jugendstrafe sechs Monate. Das Höchstmaß der Jugendstrafe beträgt gemäß § 18 Abs. 1 S. 2 JGG zehn Jahre"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "im Bereich der Strafzumessung bedeutsam sein"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen drei bis 15 Jahre Freiheitsstrafe"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Die Entwicklung des Angeklagten verlief weitgehend unauffällig"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat sich während der Untersuchungshaft einwandfrei geführt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "vorher nur unwesentlich strafrechtlich in Erscheinung getreten ist"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "dass er den von ihm ausgeführten Messerstich und damit den äußeren Tathergang als solchen eingeräumt hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "In der Hauptverhandlung hat der Angeklagte glaubhaft sein Bedauern über den von ihm verursachten Tod des Opfers zum Ausdruck gebracht"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "dass - nachdem es aus der Gruppe um den Angeklagten attackiert worden war - auch das Tatopfer sich aktiv an der Auseinandersetzung beteiligte und Gewalt gegen den Körper des Angeklagten (Schubsen) ausübte"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "in einer die Tatbestandsmäßigkeit einer Körperverletzung weit übersteigenden, brutalen und hochgradig gefährlichen Weise"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Die Handlung des Angeklagten hat praktisch unmittelbar zum Tod des Tatopfers geführt"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer hat die oben dargestellten unbenannten Milderungsgründe in einer Gesamtwürdigung der erheblichen tat- sowie täterbezogenen Umstände und Aspekte gewichtet"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter Berücksichtigung aller Umstände, vorrangig dem Erziehungsgedanken unter Beachtung des Erfordernisses eines gerechten Schuldausgleichs, erschien der Kammer die Verhängung einer Jugendstrafe von 3 Jahren 6 Monaten angemessen"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Verhängung einer Jugendstrafe von 3 Jahren 6 Monaten"
+        }
+    ]
+}

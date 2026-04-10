@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "vom Strafrahmen des § 212 Abs. 1 StGB ausgegangen, der Freiheitsstrafe von fünf Jahren bis zu fünfzehn Jahre vorsieht"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "ein Strafrahmen, der Freiheitsstrafe von einem Jahr bis zu zehn Jahren vorsieht"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 23 Abs. 2 StGB"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "dass sich der Angeklagte bei Tatausführung in einer emotional belastenden Situation befunden hat, nachdem er unvorbereitet an seinem Arbeitsplatz erfahren hatte, dass seine Schwiegermutter auf der Intensivstation lag, und im Krankenhaus zudem mit der Möglichkeit ihres Ablebens konfrontiert wurde"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass er als nicht vorbestraft zu gelten hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaefend",
+            "quote": "hat mit sich steigernder Aggressivität auf das Abschalten aller Geräte gedrängt und dadurch das Personal der Intensivstation über einen längeren Zeitraum kontinuierlich \"in Atem\" gehalten"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaefend",
+            "quote": "hat den Ablauf dort durch sein aggressives Auftreten und schließlich die Tatausführung empfindlich gestört, weil Ärzte und Pfleger gezwungen waren, die Betreuung anderer Patienten zurückzustellen, um ins Krankenzimmer der Frau Z zu eilen und die Aktivitäten des Angeklagten zu beenden"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei einer Gesamtwürdigung dieser Umstände kommt eine weitere Strafrahmenmilderung auf der Basis der §§ 23 Abs. 2, 49 Abs. 1 StGB nicht mehr in Betracht, weil der Umstand, dass die Tat im Versuchsstadium stecken geblieben ist, bereits maßgeblich zu einer Reduzierung des Unrechts- und Schuldgehalts und damit zur Annahme des minder schweren Falls beigetragen hat, der ohne den vertypten Milderungsgrund aus §§ 22, 23, 49 StGB nicht in Betracht gekommen wäre"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 46 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von zwei (2) Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der Strafzumessung im engeren Sinne hat die Kammer nach Maßgabe des § 46 StGB die für und gegen den Angeklagten anzuführenden Gesichtspunkte, die bereits oben erörtert worden sind und deshalb an dieser Stelle nicht mehr wiederholt zu werden brauchen, nochmals gegeneinander abgewogen und sodann auf eine Freiheitsstrafe von zwei (2) Jahren erkannt, die zumindest erforderlich, jedenfalls tat- und schuldangemessen und insgesamt ausreichend ist, um dem Angeklagten das Unrecht seiner Tat vor Augen zu führen und ihn in der Zukunft von der Begehung weiterer Straftaten abzuhalten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Dabei ist insbesondere auch berücksichtigt worden, dass durch die Sanktion klargestellt werden muss, dass Patientenverfügungen nicht dem Inhalt zuwider als Vorwand benutzt werden dürfen, um unter ihrem Deckmantel auf eine Lebensverkürzung schwer kranker Patienten, bei denen noch Heilungschancen bestehen, hinzuwirken"
+        }
+    ]
+}

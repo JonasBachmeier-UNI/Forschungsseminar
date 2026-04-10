@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "vom Regelstrafrahmen des § 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von fünf bis fünfzehn Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "minder schweren Fall des Totschlags gemäß § 213 Alt. 2 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "einer Freiheitsstrafe von einem Jahr bis zehn Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Kammer hat nach Abwägung aller für und gegen den Angeklagten sprechenden Umstände im Ergebnis einen minder schweren Fall des Totschlags gemäß § 213 Alt. 2 StGB angenommen"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte befand sich vor der Tat in einer für ihn nicht einfachen und als belastend empfundenen Lebenssituation."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "worin er in Zorn geriet - wenn auch in einem nicht schuldfähigkeitsrelevanten Ausmaß - und aus dieser Situation heraus den Entschluss fasste, diese zu töten"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte stellte sich bereits kurze Zeit nach der Tat der Polizei, wo er auf den Tod der K. P. hinwies, einen Zusammenhang mit seiner Person erkennen ließ und Verantwortung für sein Handeln übernahm"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Die Tat hat der Angeklagte in seiner variierenden Einlassung zumindest teilweise gestanden"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "bereut der Angeklagte die Tat zutiefst."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist nicht vorbestraft."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Schließlich war zu seinen Gunsten eine erhöhte Haftempfindlichkeit zu berücksichtigen, da er - soweit ersichtlich - erstmals Untersuchungshaft verbüßt und er zudem der deutschen Sprache nicht mächtig ist."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Abwägung dieser Umstände ergibt, dass die zu Gunsten des Angeklagten sprechenden Umstände in ihrer Gesamtschau so schwer wiegen, dass sie einer Affektlage im Sinne des § 213 Alt. 1 StGB gleichkommen"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "sieben Jahren und sechs Monaten"
+        }
+    ]
+}

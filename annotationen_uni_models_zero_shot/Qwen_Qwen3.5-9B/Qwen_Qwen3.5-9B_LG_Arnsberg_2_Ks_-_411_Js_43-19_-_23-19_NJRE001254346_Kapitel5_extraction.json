@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von nicht unter fünf Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "gemäß § 213 Var. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "gemäß § 213 Var. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "gemäß § 212 Abs. 2 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "insbesondere sein Geständnis (die Tötung des T als solche) zu berücksichtigen"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "sich in der Hauptverhandlung reuig gezeigt hat"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "nur geringfügig und nicht einschlägig vorbestraft"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Er ist als Erstverbüßer einer Haftstrafe zudem besonders haftempfindlich"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Spontantat aus einer affektiven Erregung heraus begangen hat"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "dass der Geschädigte - nicht ausschließbar - die Hilfsbedürftigkeit des noch jungen, zur Tatzeit 21jährigen und im Umgang mit Behörden überforderten Angeklagten mit dem Ziel sexueller Annäherung ausgenutzt hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "hohe kriminelle Energie, die in der besonderen Aggressivität mit einer Vielzahl von Hieb- und Stichverletzungen"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "bereits vorbestraft ist"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "der §§ 49 Abs. 1, 21 StGB"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der Strafzumessung im engeren Sinne hat die Kammer sämtliche oben genannten, für und gegen den Angeklagten sprechenden Umstände, auf die zur Vermeidung von Wiederholungen ausdrücklich verwiesen wird, umfassend abgewogen"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von acht Jahren und sechs Monaten"
+        }
+    ]
+}

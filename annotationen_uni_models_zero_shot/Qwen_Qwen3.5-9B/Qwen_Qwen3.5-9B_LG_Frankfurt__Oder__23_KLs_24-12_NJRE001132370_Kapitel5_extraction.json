@@ -1,0 +1,59 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Unterbringung der Beschuldigten in einem psychiatrischen Krankenhaus gemäß § 63 StGB"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die von der Kammer vorgenommene Gesamtwürdigung der Beschuldigten und ihrer Tat hat ergeben"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "infolge ihres Zustandes – der bei ihr vorliegenden schizoaffektiven Psychose aus dem Formenkreis der Schizophrenie"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Zustand der Schuldunfähigkeit"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Drogenvergangenheit der Beschuldigten"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "unbedingte Wunsch der Beschuldigten wieder schwanger zu werden. Dieser Wunsch sei psychotisch und extrem gefährlich."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "Die Beschuldigte habe Kl. noch in keiner Weise betrauert."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Ausdruck erheblicher Gewalt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "krankheitseinsichtig und therapiebereit"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der Abwägung der Folgen für die Beschuldigte gegenüber den Gefahren für die Allgemeinheit"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Aussetzung der Vollstreckung dieser Maßregel zur Bewährung gemäß § 67 b StGB"
+        }
+    ]
+}

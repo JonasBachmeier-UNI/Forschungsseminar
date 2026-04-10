@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 224 Abs. 1 Halbsatz 2 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "minder schweren Fall"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "des § 21 StGB"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "dass sich der Angeklagte in dem Strafverfahren mit dem Geschädigten auf einen Vergleich geeinigt hat, der zum Zwecke der Schadenswiedergutmachung abgeschlossen wurde"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass der Angeklagte bisher nicht bestraft ist"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat, soweit er sich an das Geschehen noch erinnern konnte, zur Aufklärung beigetragen und einen finanziellen Ausgleich mit dem Geschädigten gesucht"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "erheblich alkoholisiert und stand noch etwas unter Drogeneinfluss, was hier erneut für ihn zu berücksichtigen ist"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "dass er zumindest aufgrund der zwei Verfahren aus den Jahren 2004 und 2007 gewusst hat, dass er unter Alkoholeinfluss zu Aggressionen neigen kann"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "die psychischen und physischen Folgen für den Geschädigten erheblich"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "dass der Geschädigte mehrere Tage im Krankenhaus verbringen und aufgrund des großes Blutverlustes mit einer ihn über Wochen körperlich einschränkenden Thrombose leben musste"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Denn angesichts der Stichrichtung sowie der Klingenlänge des Messers hätten hier noch wesentlich schwerere Verletzungen entstehen können, die nur aufgrund der Geistesgegenwärtigkeit des Geschädigten ausgeblieben sind"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Abwägung aller genannten und aller weiteren Strafzumessungsgesichtspunkte hat die Kammer"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "drei Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Eine Unterbringung nach § 64 StGB"
+        }
+    ]
+}

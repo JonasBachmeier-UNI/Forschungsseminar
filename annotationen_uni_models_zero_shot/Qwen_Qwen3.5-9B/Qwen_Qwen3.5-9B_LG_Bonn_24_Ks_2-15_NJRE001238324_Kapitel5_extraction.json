@@ -1,0 +1,69 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Das Gesetz sieht für den Totschlag gemäß § 212 Abs. 1 StGB die Verhängung einer Freiheitsstrafe von fünf bis fünfzehn Jahren vor. In besonders schweren Fällen ist gemäß § 212 Abs. 2 StGB auf lebenslange Freiheitsstrafe zu erkennen. Im minder schweren Fall ist gemäß § 213 StGB ein Strafrahmen eröffnet, der Freiheitsstrafe von einem bis zu zehn Jahren vorsieht."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Erforderlich hierfür ist eine Gesamtbetrachtung, bei der alle Umstände einzubeziehen und zu würdigen sind, die für die Wertung der Tat und des Täters in Betracht kommen, und zwar gleichgültig, ob sie der Tat selbst innewohnen, sie begleiten, ihr vorausgehen oder nachfolgen."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Es ist daher von dem Strafrahmen des § 212 Abs. 1 StGB und damit einem Strafrahmen von fünf bis fünfzehn Jahren Freiheitsstrafe auszugehen."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Abwägung der vorgenannten Umstände, bei denen die belastenden Momente in ihrem Gewicht deutlich überwiegen, führt dazu, dass ein sonstiger minder schwerer Fall des § 213 Alternative 2 StGB erkennbar nicht vorliegt. Andererseits liegt insbesondere unter Berücksichtigung des frühzeitigen, von Reue getragenen Geständnisses auch ein besonders schwerer Fall des Totschlags im Sinne des § 212 Abs. 2 StGB nicht vor."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "der Angeklagte bereits frühzeitig in seiner ersten verantwortlichen Vernehmung ein von Reue getragenes Geständnis abgelegt hat, welches dadurch dokumentiert wird, dass er die vernehmenden Polizeibeamten zum Ablageort der Leiche geführt hat, und er dieses Geständnis in der Hauptverhandlung wiederholt hat,"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "er versucht hat, dem Streit durch Rückzug auszuweichen,"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "er durch die vorangegangene Auseinandersetzung aufgebracht war,"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "es sich bei der erlittenen Untersuchungshaft um die erste Freiheitsentziehung handelt, die naturgemäß beeindruckt."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "die Tat gedanklich schon lange vorweggenommen und durch das Ausheben des Grabes manifestiert war und der Gedanke tatzeitnah durch das Aufsuchen des Grabes aktualisiert wurde,"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "er selbstsüchtige Motive insoweit verfolgte, als durch die Tat - mag dies auch einen untergeordneten Beweggrund dargestellt haben - auch finanziellen Folgen einer Trennung begegnet werden sollte."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Diese in dieser Handlung zum Ausdruck kommende Gefühlslosigkeit war ebenso strafschärfend zu berücksichtigen wie der Umstand, dass das rasche Schreiten zur Tat das Opfer - mag es angesichts früherer, auch massiver körperlicher Übergriffe bei streitigen Auseinandersetzungen auch nicht arglos gewesen sein - jedenfalls überrascht und dadurch seine Möglichkeit zu entkommen oder sich zur Wehr zu setzen, nachhaltig beeinträchtigt hat."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Die Abwägung der vorgenannten Umstände, bei denen die belastenden Momente in ihrem Gewicht deutlich überwiegen, führt dazu, dass ein sonstiger minder schwerer Fall des § 213 Alternative 2 StGB erkennbar nicht vorliegt. Andererseits liegt insbesondere unter Berücksichtigung des frühzeitigen, von Reue getragenen Geständnisses auch ein besonders schwerer Fall des Totschlags im Sinne des § 212 Abs. 2 StGB nicht vor."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "zwölf Jahre"
+        }
+    ]
+}

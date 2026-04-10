@@ -1,0 +1,104 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Jugendstrafe von elf Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Jugendstrafe von sieben Jahren und sechs Monaten"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "somit eröffnet sich der Strafrahmen bis zu 15 Jahren Jugendstrafe"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "welcher Jugendstrafe von sechs Monaten bis zu zehn Jahre vorsieht"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Zugrundelegung des vorgenannten Strafrahmens des § 105 Abs. 3 Satz 2 JGG"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "insbesondere sein umfassendes Geständnis"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "umfassendes und glaubhaftes Geständnis"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "sich für die Tat sowohl schriftlich als auch mündlich beim Nebenklägervertreter entschuldigt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "ließ über seinen Verteidiger eine Entschuldigung verlesen und entschuldigte sich im Rahmen seines letzten Wortes auch noch persönlich für die Tat"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "enthemmenden Konsum von Alkohol und synthetischen Cannabinoiden am Tattag"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "geordneten Familienverhältnisse ohne beeinträchtigende Erziehungseinflüsse aufgewachsen ist"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "zwar nicht einschlägig, wohl aber bereits strafrechtlich wegen einer Straftat in Erscheinung getreten"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "bereits mehrfach strafrechtlich in Erscheinung getreten"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "zwei gezielten Messerstichen in Kopf und Hals eines Menschen mündete in einem finalen Stich in den Nacken des Opfers"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "situativ an eine Hinrichtung erinnert"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "niedrige Beweggründe"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "durch einen nachträglichen Tötungsauftrag"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "einen Ausbruchversuch in der Justizvollzugsanstalt Aschaffenburg"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei Abwägung aller für und gegen den Angeklagten sprechenden Gesichtspunkte"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Abwägung aller für und gegen den Angeklagten sprechenden Strafzumessungsgesichtspunkte"
+        }
+    ]
+}

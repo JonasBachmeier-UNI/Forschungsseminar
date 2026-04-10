@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 105 Abs.1 Nr.1 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 17 Abs.2 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "nur die Verhängung von Jugendstrafe in Betracht"
+        },
+        {
+            "tag": "Geständnis",
+            "category": "Mildernd",
+            "quote": "dass er das Geschehen in den meisten wesentlichen Punkten in tatsächlicher Hinsicht gestanden hat"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Sein Geständnis ist nach dem Eindruck der Kammer auch ernsthaft geprägt von Reue und Einsicht in sein Fehlverhalten und den unwiederbringlich angerichteten schwersten Schaden."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "dass sich sein tödliches Verhalten auf einen spontanen, nicht geplanten Entschluss gründete."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte verbüßt erstmals Haft und ist deshalb als besonders haftempfindlich anzusehen."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Dass der Angeklagte die Provokation zuvor geschürt hatte"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "das hohe Gewicht des sinnlosen Tötungsdelikts und die Nichtigkeit des Anlasses"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Er hat es nicht bei einem oder wenigen Stichen belassen."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "der Angeklagte war, der die Kette der Aggressionen in Gang gesetzt und schließlich für deren Eskalation gesorgt hat."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Jugendstrafe von sechs Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Unter Berücksichtigung aller für und gegen den Angeklagten sprechenden Umstände, im Hinblick auf seine aufzuarbeitenden Erziehungsdefizite und in Anbetracht des schweren menschlichen Schadens, den er angerichtet hat, hält die Kammer eine Jugendstrafe von sechs Jahren für notwendig und angemessen."
+        }
+    ]
+}

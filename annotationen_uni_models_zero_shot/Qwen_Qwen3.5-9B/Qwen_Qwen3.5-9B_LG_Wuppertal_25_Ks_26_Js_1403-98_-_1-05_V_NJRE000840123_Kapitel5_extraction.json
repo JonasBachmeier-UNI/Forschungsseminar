@@ -1,0 +1,69 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 52 Abs.2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 1. Alternative StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "in Höhe von 5 Jahren bis zu 15 Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Selbst wenn ein im Verhältnis zu den früheren Streitgesprächen maßvoll geführter Disput der Tat vorangegangen sein sollte, wäre zu beachten gewesen, dass bei der Einschätzung der Schwere einer Beleidigung im Rahmen von § 213 1. Alternative StGB vom Lebenskreis der Beteiligten auszugehen ist"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass er strafrechtlich zum damaligen Zeitpunkt noch nicht in Erscheinung getreten war"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "und als Ausländer verstärkt haftempfindlich ist"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "dass es sich um eine spontane Tat handelte, die er in einem affektiv angespannten Erregungszustand beging"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "aus eigensüchtigen Motiven verübte"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "tateinheitlich mit der Tötungshandlung an seiner Ehefrau einen Schwangerschaftsabbruch beging"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Um die Schuld des Angeklagten und das Unrecht der von ihm begangenen Tat angemessen zu ahnden, hielt die Kammer unter maßgeblicher Berücksichtigung der langen Verfahrensdauer eine Freiheitsstrafe in Höhe von"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "acht Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "für angemessen, aber auch unumgänglich, um der Tat und dem Unrechtsgehalt der Handlungsweise des Angeklagten gerecht zu werden und um ihm die Tragweite seines Fehlverhaltens ausreichend deutlich vor Augen zu führen."
+        }
+    ]
+}

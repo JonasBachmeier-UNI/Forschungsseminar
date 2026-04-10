@@ -1,0 +1,129 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 2 Jahren und 4 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 177 Abs. 6 Nr. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmen des § 177 Abs. 6 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Er hat, soweit es ihm möglich war, die Tat geständig eingeräumt."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Geständnis war auch von Reue und der Fassungslosigkeit über die eigene Tat geprägt."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "strafrechtlich bisher nicht in Erscheinung getreten ist"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Anpassungsstörung, an der der Angeklagte zum Zeitpunkt der Vergewaltigung litt"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "tiefgreifenden Bewusstseinsstörung vermindert schuldfähig war"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "zunächst auf seine Frau eingestochen, dann das Werkzeug gewechselt und sie zumindest mit einem Kissen anerstickt."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Ehebett, also an einem Ort, an dem sich ein Mensch üblicherweise geschützt und geborgen fühlen sollte"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "aus eigensüchtigen Motiven die körperliche Nähe zu der Geschädigten gesucht"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Verantwortung für seine Handlungen übernommen, sich also, soweit es ihm möglich war, geständig gezeigt. Weiter hat die Kammer erneut zugunsten des Angeklagten berücksichtigt, dass dieser an einer diagnostizierten Anpassungsstörung litt"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "In einer Gesamtschau dieser zu Gunsten und zulasten des Angeklagten sprechenden Umstände überwiegen die mildernden Faktoren nicht so beträchtlich, dass die Bestrafung aus dem Regelstrafrahmen unangemessen erscheinen würde."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "minder schwerer Fall im Sinne des § 213 StGB, der eine Freiheitsstrafe von einem Jahr bis zu 10 Jahren vorsieht, liegt nicht vor."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 7 Jahren"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmen des § 212 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 306a StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von einem Jahr und 6 Monaten"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Brandlegung in der Hauptverhandlung gestanden"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Mehrere Personen waren bei Rettungsbemühungen zumindest durch Rauchgase konkret gefährdet worden."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "psychischen Ausnahmesituation befunden hat"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 8 Jahren gebildet. Bei der Bemessung der Gesamtstrafe"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 8 Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Aufgrund des sehr engen zeitlichen und situativen Zusammenhangs der verwirklichten Straftaten rechtfertigt sich vorliegend nach Auffassung der Kammer eine nur moderate Erhöhung der Einsatzstrafe von 7 Jahren."
+        }
+    ]
+}

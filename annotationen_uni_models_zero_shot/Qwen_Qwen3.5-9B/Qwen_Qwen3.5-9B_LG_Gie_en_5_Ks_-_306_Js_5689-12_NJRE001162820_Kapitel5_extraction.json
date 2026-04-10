@@ -1,0 +1,64 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 212, 213, 22, 23 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "in einem minder schweren Fall"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 21, 49 StGB"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "schweren depressiven Episode als krankhaft seelische Störung i.S.d. 1. Alternative des § 20 StGB"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Suizidversuche unternommen, die letztlich zur stationären Behandlung des Angeklagten in einer psychiatrischen Abteilung führten."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "geständige Einlassung zum objektiven Geschehensablauf"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Er befand sich aufgrund der sich bereits 15 Jahre hinziehenden Erkrankung seiner Ehefrau, die sich stetig verschlechterte, in einer schwierigen Konfliktsituation."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller für und gegen den Angeklagten sprechenden Umstände"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von einem Jahr"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "gem. § 56 Abs. 1 StGB"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der 80jährige Angeklagte war in seinem Leben bislang nie strafrechtlich in Erscheinung getreten."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "minder schwerer Fall des versuchten Totschlags nach § 213, 2. Alternative StGB"
+        }
+    ]
+}

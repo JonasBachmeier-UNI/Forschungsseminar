@@ -1,0 +1,49 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "einem von drei Monaten bis zu sieben Jahren und sechs Monate Freiheitsstrafe reichenden Strafrahmen"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "einen sonstigen minder schweren Fall des Totschlags gemäß § 213 StGB"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass dieser bisher durch die Begehung von Straftaten nicht aufgefallen ist"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Zum Tatgeschehen hat er sich geständig und umfassend eingelassen"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "dass sich der Angeklagte in einer Situation erheblicher psychischer Anspannung befand"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "nach den §§ 27 Abs. 2 S. 2, 49 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "einem Jahr und sechs Monaten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach der Gesamtwürdigung von Tat und Persönlichkeit des Angeklagten"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte führt ein bürgerliches Leben"
+        }
+    ]
+}

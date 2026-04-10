@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "gem. § 105 Abs. 1 Nr. 1 JGG Jugendstrafrecht anzuwenden"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 31 Abs. 1, 105 Abs. 1 JGG für alle unter II. festgestellten Sachverhalte zu bilden"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der Rahmen der §§ 18 Abs. 1 S. 2, 105 Abs. 3 JGG zugrunde zu legen"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "schädliche Neigungen iSd § 17 Abs. 2 JGG vor, die auch immer noch vorhanden sind"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "dass der Angeklagte eingeräumt hat, an allen Taten beteiligt gewesen zu sein"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "ein umfassendes Geständnis abgelegt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Er hat sich bei allen Geschädigten entschuldigt, mit dem Geschädigten H. eine Geldzahlung in Höhe von 1.000 € als Schadenswiedergutmachung und Schmerzensgeld vereinbart"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Insoweit ist sein Verhalten insgesamt von Reue getragen"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Die Schuldfähigkeit war zudem zumindest nicht ausschließbar krankheitsbedingt eingeschränkt"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "gravierende – letztlich auch geplante, provozierte. und gewollte – Gewalttaten (Fall 2 und 4 – Geschädigte M./B./A.) begangen wurden mit erheblichen Verletzungsfolgen (Kieferbruch/Handbrüche)"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "dass durch eine Handlung je einmal drei Personen geschädigt wurden (Fall 1 – Gebrüder P. und S. K.) und einmal zwei Personen zu Schaden gekommen sind (Fall 2 – M. und B.)"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Erheblich ins Gewicht fällt die Gewaltanwendung im Fall 3, die auf Veranlassung gefilmt wurde und im besonderen Maße die Demütigung des Opfers zum Ziel hatte, um von ihm ein Paar Turnschuhe zu erpressen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "bis hin zu einem Messereinsatz am 30. März 2021"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "diese aus nichtigem Anlass provoziert, ein Streitgespräch gesucht"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Im Rahmen einer Gesamtbetrachtung aller vorgenannter strafmildernden und strafscharfenden Aspekte im Einzelnen und in der Gesamtschau sowie unter Berücksichtigung des im Jugendstrafrecht dominierenden Erziehungsgedankens"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Jugendstrafe von 4 (vier) Jahren"
+        }
+    ]
+}

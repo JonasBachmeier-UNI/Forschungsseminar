@@ -1,0 +1,79 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Strafandrohung des § 224 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von sechs Monaten bis zu zehn Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "minder schweren Falls i.S.v. § 224 Abs. 1 Hs. 2 StGB"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "nicht ausschließbaren Faustschlages des Geschädigten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Schwere der vom Geschädigten erlittenen Verletzung und der weiteren strafschärfenden Strafzumessungsgesichtspunkte"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "weil er zuvor einen Faustschlag erlitten hat"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "weite Teile des objektiven Tatgeschehens eingeräumt hat"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Untersuchungshaft befindet, was angesichts der im Vergleich zur regulären Strafhaft härteren Bedingungen der Untersuchungshaft allein wegen der langen Dauer eine besondere Härte darstellt"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Konsums von Alkohol bei der Tatbegehung enthemmt war"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "aufrichtig wirkende Reue für den Vorfall gezeigt hat"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "mehrfach einschlägig vorbestraft ist"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "erhebliche Verletzungsfolgen erlitten. So schloss sich an die Tatbegehung ein zweiwöchiger Krankenhausaufenthalt an, der Geschädigte musste zwei Mal operiert werden. Nach der Tat war der Geschädigte für die Dauer von fünf Monaten arbeitsunfähig und leidet bis heute an durch die Tat verursachten Schmerzen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "in Verletzungsabsicht handelte, bei der Begehung der Tat unter Führungsaufsicht stand, er allein schon durch das Beisichführen des Messers gegen das ihm auferlegte Waffenverbot verstoßen hat und er die Tat in einem öffentlichen Park und in der Nähe eines Kinderspielplatzes begangen hat"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Gesamtschau und Abwägung der Strafzumessungsgesichtspunkte"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von fünf Jahren"
+        }
+    ]
+}

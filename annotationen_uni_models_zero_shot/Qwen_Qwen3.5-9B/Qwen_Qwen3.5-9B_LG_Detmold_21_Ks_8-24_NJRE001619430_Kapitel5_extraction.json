@@ -1,0 +1,64 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "strafbar nach §§ 212 Abs. 1, 218 Abs. 1, 223 Abs. 1, 226 Abs. 1 Nr. 3, 22, 23, 52 StGB."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Bei der Strafzumessung ist die Kammer gemäß § 52 Abs. 2 StGB vom Strafrahmen des § 212 Abs. 1 StGB ausgegangen."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Einen minder schweren Fall des Totschlags im Sinne des § 213 StGB hat die Kammer nicht zu erkennen vermocht."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass der Angeklagte nicht vorbestraft ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "bereits sieben Monate Untersuchungshaft verbüßt hat"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "dass der Angeklagte spontan zu der Tat hingerissen wurde"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte hat den Kopf der Nebenklägerin in Tötungsabsicht so lange unter Wasser gedrückt, bis sie kein Lebenszeichen mehr von sich gab."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Die Nebenklägerin hat den Angriff knapp überlebt."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Strafschärfend hatte sich hingegen auszuwirken, dass der Angeklagte tateinheitlich zum versuchten Totschlag eine schwere Körperverletzung sowie einen Schwangerschaftsabbruch verwirklicht hat."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Straferhöhend hat die Kammer auch die besonders gravierenden Tatfolgen berücksichtigt: bei allen für die Erfüllung des Tatbestandsmerkmals des Siechtums in Betracht kommenden Krankheitszuständen liegt der Zustand der Nebenklägerin deutlich im oberen Bereich."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller für und gegen den Angeklagten sprechenden Umstände hat die Kammer unter Berücksichtigung der Person des Angeklagten und der abgeurteilten Tat eine Freiheitsstrafe von 13 Jahren für tat- und schuldangemessen erachtet."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "13 Jahren"
+        }
+    ]
+}

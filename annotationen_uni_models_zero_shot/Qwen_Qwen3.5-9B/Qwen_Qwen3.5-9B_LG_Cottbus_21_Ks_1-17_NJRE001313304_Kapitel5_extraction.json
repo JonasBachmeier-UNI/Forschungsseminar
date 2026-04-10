@@ -1,0 +1,64 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Der Straftatbestand des Totschlags sieht nach § 212 Abs. 1 StGB eine Freiheitsstrafe von fünf bis zu fünfzehn Jahren vor."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "eine Freiheitsstrafe von fünf bis zu fünfzehn Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "entsprechend den Grundsätzen der Strafzumessung gemäß § 46 StGB"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass er nicht vorbestraft ist"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Er hat zudem die Begehung der Tat vom äußeren Geschehensablauf her im Wesentlichen eingeräumt und die Tötung seiner Ehefrau durch ihn nicht in Abrede gestellt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Strafmildernd wurde auch seine besondere Täterpersönlichkeit berücksichtigt, die durch seinen Glauben geprägt ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "dass die Strafvollstreckung auf ihn sowohl als Erstverbüßer als auch im Hinblick auf die kulturellen Unterschiede und die vorhandene Sprachbarriere eine besondere Härte bedeutet"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Seine manifeste eifersüchtige Sicht auf seine Ehefrau, sein daraus hervorgehendes ausgeprägtes Kontrollbedürfnis und die Einengung ihres Bewegungsspielraumes"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Demgegenüber war strafschärfend zu werten, mit welcher kriminellen Energie der Angeklagte gegen das Opfer vorging. Sein Handeln erschöpfte sich nicht in einem einzigen raschen Akt. Die von ihm eingesetzte Kraft und die zum Teil wuchtig geführten Stiche waren Ausdruck seiner erheblichen Aggressivität und Brutalität"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Gegen ihn spricht ferner, dass er mit der Tötung seiner Ehefrau den Kindern ihre Mutter genommen hat"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "auf eine Freiheitsstrafe von dreizehn Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter Abwägung aller für und gegen den Angeklagten sprechenden Strafzumessungsgesichtspunkte im Sinne von § 46 StGB und unter Würdigung der Persönlichkeit des Angeklagten hat die Kammer zur Ahndung des begangenen Totschlags auf eine Freiheitsstrafe von dreizehn Jahren als tat- und schuldangemessen erkannt"
+        }
+    ]
+}

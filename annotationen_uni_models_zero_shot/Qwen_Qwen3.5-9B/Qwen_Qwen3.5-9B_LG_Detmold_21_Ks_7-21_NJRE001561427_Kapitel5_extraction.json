@@ -1,0 +1,49 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "strafbar gemäß §§ 211 Abs. 2 Alt. 5, 212 Abs. 1, 53 StGB."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Der Angeklagte hat seinen Bruder F vorsätzlich mit einem einzelnen aufgesetzten Genickschuss getötet."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "Nach den Tötungen deckte er die Leichen jeweils sorgfältig mit der Bettdecke zu."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "verbarg er nach der Tat die Tatwaffe wieder in seiner Westentasche"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist bislang strafrechtlich nicht in Erscheinung getreten."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte war zum Tatzeitpunkt derart berauscht, dass bei ihm eine Enthemmung und Kritikminderung vorlag."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Die Unrechtseinsicht des Angeklagten und seine Fähigkeit, die Tatsituation in ihrem Bedeutungsgehalt für das Opfer realistisch wahrzunehmen und einzuschätzen uneingeschränkt vorhanden waren."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Die Zurückweisung seines Bruders als subjektiv relevante Auslösesituation einer akuten Belastungsreaktion, die dann in der Tat mündete, geeignet."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter Abwägung der für und gegen das Vorliegen einer schuldrelevanten affektiven Erregung sprechenden Umstände kommt die Kammer zu dem Ergebnis, dass diejenigen genannten Merkmale, die gegen eine tiefgreifende Bewusstseinsstörung sprechen, deutlich überwiegen."
+        }
+    ]
+}

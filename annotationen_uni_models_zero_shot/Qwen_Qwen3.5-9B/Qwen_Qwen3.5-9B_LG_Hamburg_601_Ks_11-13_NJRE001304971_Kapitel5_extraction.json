@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "minder schweren Falles des Totschlags im Sinne des § 213 Alt. 2 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Regelstrafrahmens des § 212 StGB (5 bis 15 Jahre)"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach einer Gesamtwürdigung aller - nachfolgend aufgeführten - tat- und täterbezogenen Umstände"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "frühzeitige und umfassende Geständnis der Angeklagten gewertet"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Ihr Geständnis war ersichtlich von tiefer Reue getragen"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass sie bislang strafrechtlich nicht in Erscheinung getreten ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "das fortgeschrittene Alter der Angeklagten, ihre angeschlagene Gesundheit"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Beabsichtigt hatte die Angeklagte einen erweiterten Suizid, der ihr aber misslang"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "dass die Angeklagte planvoll vorging – sie kaufte den Likör ein, legte das Strangwerkzeug zurecht und ging in Gedanken die Tötung der Tochter und den eigenen Suizid durch - und einen Menschen getötet hat, der ihr sein volles Vertrauen entgegenbracht, sich in ihrer Obhut befunden hat und aufgrund der Behinderung völlig hilflos war"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Strafrahmen des § 213 StGB, der eine Freiheitsstrafe von 1 bis 10 Jahren vorsieht"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "nach §§ 21, 49 Abs. 1 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "ein Strafrahmen von 3 Monaten bis zu 7 Jahren 6 Monate Freiheitsstrafe"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 2 Jahren"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach erneuter Abwägung aller maßgeblichen Strafzumessungskriterien"
+        }
+    ]
+}
