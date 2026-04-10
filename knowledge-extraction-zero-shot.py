@@ -32,10 +32,25 @@ input_files = sorted(Path("ergebnis_kapitel_5").glob("*.txt"))
 def sanitize_name(value: str) -> str:
     return re.sub(r"[^A-Za-z0-9._-]", "_", value)
 
+def resolve_model_output_dir(base_dir: Path, model_id: str) -> Path:
+    # Prefer an existing folder that matches the model name, then fall back to sanitized.
+    exact_dir = base_dir / model_id
+    if exact_dir.exists() and exact_dir.is_dir():
+        return exact_dir
+
+    safe_model_id = sanitize_name(model_id)
+    safe_dir = base_dir / safe_model_id
+    safe_dir.mkdir(parents=True, exist_ok=True)
+    return safe_dir
+
 # 3. Process Models and Files
+base_output_dir = Path("annotationen_uni_models_zero_shot")
+base_output_dir.mkdir(parents=True, exist_ok=True)
+
 for model in available_models['data'][:3]:
     model_id = model['id']
     safe_model_id = sanitize_name(model_id)
+    model_output_dir = resolve_model_output_dir(base_output_dir, model_id)
     
     for text_file in input_files:
         print(f"Processing {text_file.name} with {model_id}...")
@@ -68,10 +83,7 @@ for model in available_models['data'][:3]:
 
             # Prepare Output Path
             safe_filename = sanitize_name(text_file.stem)
-            output_dir = Path("annotationen_uni_models_zero_shot")
-            output_dir.mkdir(parents=True, exist_ok=True)
-            
-            output_filename = output_dir / f"{safe_model_id}_{safe_filename}_extraction.json"
+            output_filename = model_output_dir / f"{safe_model_id}_{safe_filename}_extraction.json"
 
             # 4. Save to File
             with open(output_filename, "w", encoding="utf-8") as f:
