@@ -47,51 +47,79 @@ def resolve_model_output_dir(base_dir: Path, model_id: str) -> Path:
 base_output_dir = Path("annotationen_uni_models_zero_shot")
 base_output_dir.mkdir(parents=True, exist_ok=True)
 
-for model in available_models['data'][:3]:
+selected_models = available_models['data'][:1]
+
+tasks = []
+for model in selected_models:
     model_id = model['id']
     safe_model_id = sanitize_name(model_id)
     model_output_dir = resolve_model_output_dir(base_output_dir, model_id)
-    
+
     for text_file in input_files:
-        print(f"Processing {text_file.name} with {model_id}...")
-        
-        text_content = text_file.read_text(encoding="utf-8")
-        
+        safe_filename = sanitize_name(text_file.stem)
+        output_filename = model_output_dir / f"{safe_model_id}_{safe_filename}_extraction.json"
+        tasks.append((model_id, safe_model_id, text_file, output_filename))
+
+total_tasks = len(tasks)
+existing_tasks = sum(1 for _, _, _, output_filename in tasks if output_filename.exists())
+remaining_tasks = total_tasks - existing_tasks
+processed_tasks = 0
+
+print(
+    f"Total tasks: {total_tasks} | "
+    f"Already existing: {existing_tasks} | "
+    f"To process: {remaining_tasks}"
+)
+
+for model_id, safe_model_id, text_file, output_filename in tasks:
+    processed_tasks += 1
+    progress_pct = (processed_tasks / total_tasks * 100) if total_tasks else 100.0
+
+    if output_filename.exists():
+        print(
+            f"[{processed_tasks}/{total_tasks} | {progress_pct:.1f}%] "
+            f"Skipping existing: {output_filename.name}"
+        )
+        continue
+
+    print(
+        f"[{processed_tasks}/{total_tasks} | {progress_pct:.1f}%] "
+        f"Processing {text_file.name} with {model_id}..."
+    )
+
+    text_content = text_file.read_text(encoding="utf-8")
+
+    try:
+        response = client.chat.completions.create(
+            model=model_id,
+            messages=[
+                {"role": "system", "content": "Du bist ein erfahrener Richter am Landgericht, spezialisiert auf Kapitaldelikte (Totschlag, § 212 StGB). Deine Aufgabe ist die dogmatische Analyse der Strafzumessungserwägungen in einem Urteil."},
+                {"role": "user", "content": base_prompt + "\n\nUrteilstext:\n" + text_content}
+            ],
+            temperature=0.7
+        )
+
+        # Extract content from response
+        raw_content = response.choices[0].message.content
+
+        # Clean Markdown formatting if present (e.g., ```json ... ```)
+        clean_json_str = re.sub(r'^```json\s*|```$', '', raw_content.strip(), flags=re.MULTILINE)
+
+        # Parse the string as JSON
         try:
-            response = client.chat.completions.create(
-                model=model_id,
-                messages=[
-                    {"role": "system", "content": "Du bist ein erfahrener Richter am Landgericht, spezialisiert auf Kapitaldelikte (Totschlag, § 212 StGB). Deine Aufgabe ist die dogmatische Analyse der Strafzumessungserwägungen in einem Urteil."},
-                    {"role": "user", "content": base_prompt + "\n\nUrteilstext:\n" + text_content}
-                ],
-                temperature=0.7
-            )
+            data_to_save = json.loads(clean_json_str)
+        except json.JSONDecodeError:
+            # If the model fails to provide valid JSON, we save the raw text in a JSON wrapper
+            print(f"Warning: Output for {text_file.name} was not valid JSON. Saving as raw string.")
+            data_to_save = {"error": "Invalid JSON from model", "raw_response": raw_content}
 
-            # Extract content from response
-            raw_content = response.choices[0].message.content
+        # 4. Save to File
+        with open(output_filename, "w", encoding="utf-8") as f:
+            json.dump(data_to_save, f, ensure_ascii=False, indent=4)
 
-            # Clean Markdown formatting if present (e.g., ```json ... ```)
-            clean_json_str = re.sub(r'^```json\s*|```$', '', raw_content.strip(), flags=re.MULTILINE)
+        print(f"Successfully saved: {output_filename}")
 
-            # Parse the string as JSON
-            try:
-                data_to_save = json.loads(clean_json_str)
-            except json.JSONDecodeError:
-                # If the model fails to provide valid JSON, we save the raw text in a JSON wrapper
-                print(f"Warning: Output for {text_file.name} was not valid JSON. Saving as raw string.")
-                data_to_save = {"error": "Invalid JSON from model", "raw_response": raw_content}
-
-            # Prepare Output Path
-            safe_filename = sanitize_name(text_file.stem)
-            output_filename = model_output_dir / f"{safe_model_id}_{safe_filename}_extraction.json"
-
-            # 4. Save to File
-            with open(output_filename, "w", encoding="utf-8") as f:
-                json.dump(data_to_save, f, ensure_ascii=False, indent=4)
-            
-            print(f"Successfully saved: {output_filename}")
-
-        except Exception as e:
-            print(f"An error occurred while processing {text_file.name}: {e}")
+    except Exception as e:
+        print(f"An error occurred while processing {text_file.name}: {e}")
 
 print("\nProcessing complete.")
