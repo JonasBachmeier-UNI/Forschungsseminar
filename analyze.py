@@ -2,6 +2,7 @@ import json
 from pathlib import Path
 from itertools import combinations
 from difflib import SequenceMatcher
+import re
 import pandas as pd
 import matplotlib
 
@@ -24,6 +25,10 @@ def extract_annotations(filepath):
         return []
 
 
+def sanitize_name(value):
+    return re.sub(r"[^A-Za-z0-9._-]", "_", value)
+
+
 def load_model_prefixes(base_dir):
     """Load known model ids and convert them to filename prefixes."""
     models_path = base_dir / "available_models.json"
@@ -37,7 +42,7 @@ def load_model_prefixes(base_dir):
     for item in data.get("data", []):
         model_id = item.get("id")
         if model_id:
-            prefixes.append(model_id.replace("/", "_"))
+            prefixes.append(sanitize_name(model_id))
 
     return sorted(set(prefixes), key=len, reverse=True)
 
@@ -57,7 +62,7 @@ def parse_extraction_filename(filename, model_prefixes):
 # 1. Load your files
 base_dir = Path(__file__).resolve().parent
 output_dir = base_dir / "annotationen_uni_models_zero_shot"
-all_files = list(output_dir.glob("*_extraction.json"))
+all_files = list(output_dir.rglob("*_extraction.json"))
 model_prefixes = load_model_prefixes(base_dir)
 
 # Group files by the original Text ID
@@ -138,9 +143,15 @@ print(df_results.to_string(index=False))
 
 # Calculate Average Performance across all texts
 print("\n--- Average Agreement by Model Pair ---")
-avg_agreement = df_results.groupby("Model_Pair")[["Tag_Overlap_Score", "Quote_Similarity_Score"]].mean().reset_index()
-avg_agreement["Quality_Score"] = avg_agreement[["Tag_Overlap_Score", "Quote_Similarity_Score"]].mean(axis=1)
-print(avg_agreement.to_string(index=False))
+if df_results.empty:
+    print("No pairwise comparisons available.")
+    avg_agreement = pd.DataFrame(
+        columns=["Model_Pair", "Tag_Overlap_Score", "Quote_Similarity_Score", "Quality_Score"]
+    )
+else:
+    avg_agreement = df_results.groupby("Model_Pair")[["Tag_Overlap_Score", "Quote_Similarity_Score"]].mean().reset_index()
+    avg_agreement["Quality_Score"] = avg_agreement[["Tag_Overlap_Score", "Quote_Similarity_Score"]].mean(axis=1)
+    print(avg_agreement.to_string(index=False))
 
 model_scores = pd.DataFrame(model_level_results)
 if not model_scores.empty:
