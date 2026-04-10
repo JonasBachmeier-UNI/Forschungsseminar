@@ -4,6 +4,7 @@ import json
 from pathlib import Path
 import re
 import time
+import threading
 
 # 1. Setup API Client
 # First, add your Key to your shell environment:
@@ -21,7 +22,7 @@ client = OpenAI(
     base_url="https://hub.nhr.fau.de/api/llmgw/v1"
 )
 
-REQUEST_TIMEOUT_SECONDS = int(os.getenv("LLM_REQUEST_TIMEOUT_SECONDS", "180"))
+REQUEST_TIMEOUT_SECONDS = int(os.getenv("LLM_REQUEST_TIMEOUT_SECONDS", "240"))
 MAX_RETRIES = int(os.getenv("LLM_MAX_RETRIES", "1"))
 
 
@@ -38,6 +39,44 @@ def is_retryable_error(error: Exception) -> bool:
         "upstream",
     ]
     return any(marker in message for marker in retryable_markers)
+
+
+def create_completion_with_live_timer(model_id: str, prompt_text: str):
+    start_time = time.perf_counter()
+    stop_event = threading.Event()
+
+    def timer_worker():
+        while not stop_event.wait(1):
+            elapsed = int(time.perf_counter() - start_time)
+            print(f"  Call running: {elapsed}s", end="\r", flush=True)
+
+    timer_thread = threading.Thread(target=timer_worker, daemon=True)
+    timer_thread.start()
+
+    try:
+        response = client.chat.completions.create(
+            model=model_id,
+            messages=[
+                {"role": "system", "content": "Du bist ein erfahrener Richter am Landgericht, spezialisiert auf Kapitaldelikte (Totschlag, § 212 StGB). Deine Aufgabe ist die dogmatische Analyse der Strafzumessungserwägungen in einem Urteil."},
+                {"role": "user", "content": prompt_text}
+            ],
+            temperature=0.7,
+            timeout=REQUEST_TIMEOUT_SECONDS,
+        )
+        return response, time.perf_counter() - start_time
+    finally:
+        stop_event.set()
+        timer_thread.join(timeout=0.2)
+        elapsed = int(time.perf_counter() - start_time)
+        print(f"  Call running: {elapsed}s", flush=True)
+
+
+def normalize_response_content(raw_content) -> str:
+    if isinstance(raw_content, str):
+        return raw_content
+    if raw_content is None:
+        return ""
+    return str(raw_content)
 
 # 2. Load Models and Prompt
 with open('available_models.json') as f:
@@ -66,7 +105,7 @@ def resolve_model_output_dir(base_dir: Path, model_id: str) -> Path:
 base_output_dir = Path("annotationen_uni_models_zero_shot")
 base_output_dir.mkdir(parents=True, exist_ok=True)
 
-selected_models = available_models['data'][:4]
+selected_models = available_models['data'][:6]
 
 tasks = []
 for model in selected_models:
@@ -110,16 +149,13 @@ for model_id, safe_model_id, text_file, output_filename in tasks:
 
     try:
         response = None
+        call_elapsed_seconds = None
         for attempt in range(1, MAX_RETRIES + 1):
             try:
-                response = client.chat.completions.create(
-                    model=model_id,
-                    messages=[
-                        {"role": "system", "content": "Du bist ein erfahrener Richter am Landgericht, spezialisiert auf Kapitaldelikte (Totschlag, § 212 StGB). Deine Aufgabe ist die dogmatische Analyse der Strafzumessungserwägungen in einem Urteil."},
-                        {"role": "user", "content": base_prompt + "\n\nUrteilstext:\n" + text_content}
-                    ],
-                    temperature=0.7,
-                    timeout=REQUEST_TIMEOUT_SECONDS,
+                print(f"  Attempt {attempt}/{MAX_RETRIES} started...")
+                response, call_elapsed_seconds = create_completion_with_live_timer(
+                    model_id=model_id,
+                    prompt_text=base_prompt + "\n\nUrteilstext:\n" + text_content,
                 )
                 break
             except KeyboardInterrupt:
@@ -138,19 +174,33 @@ for model_id, safe_model_id, text_file, output_filename in tasks:
         if response is None:
             raise RuntimeError("No response after retries.")
 
+        print(
+            f"Call succeeded in {call_elapsed_seconds:.2f}s "
+            f"(attempt {attempt}/{MAX_RETRIES})"
+        )
+
         # Extract content from response
-        raw_content = response.choices[0].message.content
+        raw_content = normalize_response_content(response.choices[0].message.content)
 
-        # Clean Markdown formatting if present (e.g., ```json ... ```)
-        clean_json_str = re.sub(r'^```json\s*|```$', '', raw_content.strip(), flags=re.MULTILINE)
+        if not raw_content.strip():
+            print(
+                f"Warning: Empty response content for {text_file.name}. "
+                "Skipping file save."
+            )
+            continue
+        else:
+            # Clean Markdown formatting if present (e.g., ```json ... ```)
+            clean_json_str = re.sub(r'^```json\s*|```$', '', raw_content.strip(), flags=re.MULTILINE)
 
-        # Parse the string as JSON
-        try:
-            data_to_save = json.loads(clean_json_str)
-        except json.JSONDecodeError:
-            # If the model fails to provide valid JSON, we save the raw text in a JSON wrapper
-            print(f"Warning: Output for {text_file.name} was not valid JSON. Saving as raw string.")
-            data_to_save = {"error": "Invalid JSON from model", "raw_response": raw_content}
+            # Parse the string as JSON
+            try:
+                data_to_save = json.loads(clean_json_str)
+            except json.JSONDecodeError:
+                print(
+                    f"Warning: Output for {text_file.name} was not valid JSON. "
+                    "Skipping file save."
+                )
+                continue
 
         # 4. Save to File
         with open(output_filename, "w", encoding="utf-8") as f:
