@@ -1,0 +1,279 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 1 Jahr und 6 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 223 a StGB a.F"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "einen Strafrahmen von Geldstrafe oder Freiheitsstrafe bis zu 3 Jahren und 9 Monaten"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte W.K. hat sich, wenn auch mit Einschränkungen zur Motivlage, zur Tat bekannt"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "sich bei dem Opfer in der Hauptverhandlung entschuldigt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "nicht bestraft"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "mit 59 Jahren besonders haftempfindlich"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "erheblichen Verletzungsfolgen"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "die Tat diente der Durchsetzung erheblicher wirtschaftlicher Interessen"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "er hat sein Opfer über seine Täterschaft lange im Dunkeln ließ"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Nach Abwägung aller Umstände..."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe in Höhe von 5 Jahren und 3 Monate"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§§ 224, 225 Abs. 2 StGB a.F"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "einen Strafrahmen von einer Freiheitsstrafe von 2 Jahren bis zu 10 Jahren"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Teilgeständnis"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Entschuldigung gegenüber dem Opfer, eine Körperverletzung beauftragt zu haben"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "schwere psychische Folgen, die er D.K. zugefügt hat"
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "hat er doch K. in vermeintlicher Sorge Ratschläge zum Aufsuchen für Spezialisten für Ohrenrekonstruktionen erteilt und ihm damals das Ehrenwort gegeben, mit der Tat nicht in Verbindung zu stehen"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 6 Jahren"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "zwei weitere Verurteilungen nach der Tat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "erhebliche psychische Schäden des Opfers K."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 4 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 55 StGB"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 4 Jahren und 9 Monaten"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "zweifach unter Bewährung stand und in einem Fall eine einschlägige Vorstrafe aufzuweisen hatte"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Gleichgültigkeit gegenüber den Opfern, die ihm persönlich kein Leid zugefügt hatten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 2 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 223 a StGB a.F"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 1 Jahr und 6 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 223a StGB alte Fassung"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 5 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 224, 225 Abs. 2 StGB alter Fassung"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 6 Jahren und 10 Monate"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "mehrere Vorstrafen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "psychischen Folgen für das Opfer"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 3 Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 6 Monaten"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 4 Jahren"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "unter laufender Bewährung stand"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "erhebliche psychische Folgen des Opfers K."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 2 Jahren und 4 Monate"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 2 Jahren und 6 Monate"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 5 Jahren und 9 Monate"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 7 Jahren und 2 Monate"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "mehrfach vorbestraft war und zwei einschlägige Vorverurteilungen aufzuweisen hatte"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Verletzungsfolgen der Opfer"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "wirtschaftliche Interessen"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Geldstrafe von 120 Tagessätzen zu je 15,00 DM"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 2 Jahren"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 2 Jahren und 9 Monate"
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "erheblichen Vorbelastungen, wobei es sich in einem Fall um eine einschlägige Vorstrafe handelte"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "schwere Verletzungsfolgen beim Geschädigten H.F."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Geldstrafe von 120 Tagessätzen zu je 600,00 DM"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 1 Jahr"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gesamtfreiheitsstrafe von 1 Jahr und 3 Monate"
+        }
+    ]
+}
