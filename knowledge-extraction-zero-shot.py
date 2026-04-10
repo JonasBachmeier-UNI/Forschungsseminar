@@ -3,6 +3,7 @@ import os
 import json
 from pathlib import Path
 import re
+import time
 
 # 1. Setup API Client
 # First, add your Key to your shell environment:
@@ -19,6 +20,24 @@ client = OpenAI(
     api_key=api_key,
     base_url="https://hub.nhr.fau.de/api/llmgw/v1"
 )
+
+REQUEST_TIMEOUT_SECONDS = int(os.getenv("LLM_REQUEST_TIMEOUT_SECONDS", "180"))
+MAX_RETRIES = int(os.getenv("LLM_MAX_RETRIES", "1"))
+
+
+def is_retryable_error(error: Exception) -> bool:
+    message = str(error).lower()
+    retryable_markers = [
+        "502",
+        "proxy error",
+        "error reading from remote server",
+        "timed out",
+        "timeout",
+        "connection",
+        "temporar",
+        "upstream",
+    ]
+    return any(marker in message for marker in retryable_markers)
 
 # 2. Load Models and Prompt
 with open('available_models.json') as f:
@@ -47,7 +66,7 @@ def resolve_model_output_dir(base_dir: Path, model_id: str) -> Path:
 base_output_dir = Path("annotationen_uni_models_zero_shot")
 base_output_dir.mkdir(parents=True, exist_ok=True)
 
-selected_models = available_models['data'][:1]
+selected_models = available_models['data'][:4]
 
 tasks = []
 for model in selected_models:
@@ -90,14 +109,34 @@ for model_id, safe_model_id, text_file, output_filename in tasks:
     text_content = text_file.read_text(encoding="utf-8")
 
     try:
-        response = client.chat.completions.create(
-            model=model_id,
-            messages=[
-                {"role": "system", "content": "Du bist ein erfahrener Richter am Landgericht, spezialisiert auf Kapitaldelikte (Totschlag, § 212 StGB). Deine Aufgabe ist die dogmatische Analyse der Strafzumessungserwägungen in einem Urteil."},
-                {"role": "user", "content": base_prompt + "\n\nUrteilstext:\n" + text_content}
-            ],
-            temperature=0.7
-        )
+        response = None
+        for attempt in range(1, MAX_RETRIES + 1):
+            try:
+                response = client.chat.completions.create(
+                    model=model_id,
+                    messages=[
+                        {"role": "system", "content": "Du bist ein erfahrener Richter am Landgericht, spezialisiert auf Kapitaldelikte (Totschlag, § 212 StGB). Deine Aufgabe ist die dogmatische Analyse der Strafzumessungserwägungen in einem Urteil."},
+                        {"role": "user", "content": base_prompt + "\n\nUrteilstext:\n" + text_content}
+                    ],
+                    temperature=0.7,
+                    timeout=REQUEST_TIMEOUT_SECONDS,
+                )
+                break
+            except KeyboardInterrupt:
+                raise
+            except Exception as request_error:
+                if attempt >= MAX_RETRIES or not is_retryable_error(request_error):
+                    raise
+                wait_seconds = min(2 ** attempt, 20)
+                print(
+                    f"Retryable error for {text_file.name} "
+                    f"(attempt {attempt}/{MAX_RETRIES}): {request_error}"
+                )
+                print(f"Waiting {wait_seconds}s before retry...")
+                time.sleep(wait_seconds)
+
+        if response is None:
+            raise RuntimeError("No response after retries.")
 
         # Extract content from response
         raw_content = response.choices[0].message.content
