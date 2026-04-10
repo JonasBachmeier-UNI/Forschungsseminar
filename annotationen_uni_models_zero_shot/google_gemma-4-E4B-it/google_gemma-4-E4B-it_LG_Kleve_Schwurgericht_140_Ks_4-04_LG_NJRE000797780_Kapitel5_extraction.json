@@ -1,0 +1,69 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Das Strafmaß für den vom Angeklagten begangenen versuchten Totschlag ist aus § 213 StGB zu entnehmen, weil ein sonstiger minder schwerer Fall vorliegt."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Dies ist nach einer Gesamtwürdigung zu beurteilen, im Rahmen derer alle Umstände, die für die Wertung von Tat und Täter in Betracht kommen, gleichgültig, ob sie der Tat inne wohnen, sie begleiten, ihr vorausgehen oder ihr folgen, zu berücksichtigen sind (vgl. Tröndle-​Fischer, § 46 StGB, Rdnr. 85; § 213 StGB, Rdnr. 15)."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "SCHAERFEND",
+            "quote": "Im Rahmen dieser Gesamtwürdigung ist zu Lasten des Angeklagten zunächst zu berücksichtigen, daß dieser bereits wegen einer Körperverletzungstat vorbestraft ist."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "SCHAERFEND",
+            "quote": "Auch ist das weitere Vortatverhalten, daß der Angeklagte der Frau C über einen mehrmonatigen Zeitraum nachgestellt, diese verfolgt und mittels Telefonanrufen, SMS-​Nachrichten, Emails und auf sonstige Weise belästigt sowie auch teilweise bedroht hat."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "SCHAERFEND",
+            "quote": "Zu Lasten des Angeklagten ist ferner zu berücksichtigen, daß dieser tateinheitlich eine gefährliche Körperverletzung verwirklicht hat."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "SCHAERFEND",
+            "quote": "Außerdem sind die schweren körperlichen und psychischen Folgen für das Opfer zum Nachteil des Angeklagten zu berücksichtigen."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Zu seinen Gunsten ist zu berücksichtigen, daß der Angeklagte teilweise geständig war."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Ebenso wird der Angeklagte durch die nunmehrige Verurteilung in besonderer Weise betroffen, weil zu erwarten steht, daß der Angeklagte aus dem Beamtenverhältnis entlassen wird und hierdurch auch seine Pensionsansprüche verliert."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Außerdem wird er durch die Schmerzensgeldforderung zusätzlich belastet und er erscheint als Polizist und Vater besonders haftempfindlich."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Ferner ist zugunsten des Angeklagten zu berücksichtigen, daß dieser sich in einer psychischen Ausnahmesituation befand, auch wenn diese noch nicht so gravierend war, daß von einer erheblich verminderten Schuldfähigkeit ausgegangen werden könnte."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Hiernach liegt ein Strafrahmen von Freiheitsstrafe von 1 Jahr bis zu 10 Jahren vor."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Bei Würdigung aller Umstände, insbesondere auch unter Berücksichtigung des Umstandes, daß mit dem Versuch ein gesetzlich vertypter Milderungsgrund gemäß § 23 Abs. 2, 49 Abs. 1 StGB gegeben ist, erscheint die Annahme eines minder schweren Falls gerechtfertigt."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Hiernach erscheint eine Freiheitsstrafe von 5 Jahren und 6 Monaten tat- und schuldangemessen."
+        }
+    ]
+}

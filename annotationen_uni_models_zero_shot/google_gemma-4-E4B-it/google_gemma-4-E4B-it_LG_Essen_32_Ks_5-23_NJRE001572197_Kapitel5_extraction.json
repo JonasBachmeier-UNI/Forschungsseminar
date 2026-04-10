@@ -1,0 +1,54 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Auszugehen war zunächst vom Strafrahmen des § 212 Abs. 1 StGB welcher Freiheitsstrafe von fünf Jahren bis zu 15 Jahren (§ 38 Abs. 2 StGB) vorsieht."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "geständig eingelassen hat."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "dass dieser nicht vorbestraft ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Aufgrund des fortgeschrittenen Alters des Angeklagten, seiner persönlichen Verhältnisse und seiner Situation als Erstverbüßer ist er zudem als besonders haftempfindlich anzusehen."
+        },
+        {
+            "tag": "Mildernd",
+            "category": "Mildernd",
+            "quote": "Letztlich hat die Kammer auch die Motivation des Angeklagten für seine Suizidhilfe bei dem Geschädigten strafmildernd gewertet."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Zwar lassen die dargestellten Formulierungen im \"Befundbericht\" des Angeklagten den Schluss zu, dass dieser um des erstrebten Ziels willen, nämlich psychisch erkrankten und somatisch erkrankten Menschen gleichermaßen Zugang zu einem ärztlich assistierten Suizid zu gewähren und eine ihm mit Blick auf das Leid des Geschädigten ethisch gebotene Hilfe zur Lebensbeendigung zu leisten, bereit war, den \"Befundbericht\" zu nutzen, um Tatsachen verkürzt und irreführend darzustellen und die Suizidassistenz im Fall des M. auf dieses Weise \"freizugeben\"."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Aufgrund des erheblichen Gewichts der dargelegten strafmildernden Umstände erschien der Kammer der Regelstrafrahmen des § 212 StGB mit einer Mindeststrafe von fünf Jahren für den hier zu beurteilenden Fall daher nicht mehr angemessen und die Anwendung des geminderten Strafrahmens des § 213 StGB geboten."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "drei Jahren"
+        }
+    ]
+}

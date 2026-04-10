@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "minder schweren Fall der gefährlichen Körperverletzung nach § 224 Abs. 1 Halbsatz 2 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "minder schweren Fall"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sich der Angeklagte in dem Strafverfahren mit dem Geschädigten auf einen Vergleich geeinigt hat, der zum Zwecke der Schadenswiedergutmachung abgeschlossen wurde."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "unter Verbrauch des § 21 StGB den Sonderstrafrahmen angewandt"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "der Angeklagte bisher nicht bestraft ist"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "die Tat aus einer – durch den Angeklagten missverstandenen – Kränkungssituation entstanden ist."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat, soweit er sich an das Geschehen noch erinnern konnte, zur Aufklärung beigetragen und einen finanziellen Ausgleich mit dem Geschädigten gesucht, der zu dem gerichtlich protokollierten Vergleich geführt hat."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Zudem war der Angeklagte erheblich alkoholisiert und stand noch etwas unter Drogeneinfluss, was hier erneut für ihn zu berücksichtigen ist."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "dass er zumindest aufgrund der zwei Verfahren aus den Jahren 2004 und 2007 gewusst hat, dass er unter Alkoholeinfluss zu Aggressionen neigen kann"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Darüber hinaus sind die psychischen und physischen Folgen für den Geschädigten erheblich."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Dieser hat nicht nur einen erheblichen Vertrauensverlust gegenüber einem Menschen erlitten, den dieser selbst als Vaterfigur beschrieben hat, sondern auch den Verlust der Freundschaft zum Angeklagten selbst sowie dessen Mutter hinnehmen müssen, die über Jahre Bestand hatten."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Auch die Kinder des Geschädigten haben erhebliche Ängste ausgestanden und mussten sich gedanklich mit dem Tod ihres Vaters auseinandersetzen, was wiederum den Angeklagten belastet hat."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Nicht unberücksichtigt darf auch bleiben, dass der Geschädigte mehrere Tage im Krankenhaus verbringen und aufgrund des großes Blutverlustes mit einer ihn über Wochen körperlich einschränkenden Thrombose leben musste."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Denn angesichts der Stichrichtung sowie der Klingenlänge des Messers hätten hier noch wesentlich schwerere Verletzungen entstehen können, die nur aufgrund der Geistesgegenwärtigkeit des Geschädigten ausgeblieben sind."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Abwägung aller genannten und aller weiteren Strafzumessungsgesichtspunkte hat die Kammer eine Freiheitsstrafe von"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "drei Jahren"
+        }
+    ]
+}

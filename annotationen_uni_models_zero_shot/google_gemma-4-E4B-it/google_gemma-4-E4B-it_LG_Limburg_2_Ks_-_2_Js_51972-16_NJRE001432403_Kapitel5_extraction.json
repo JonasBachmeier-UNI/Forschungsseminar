@@ -1,0 +1,59 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Der Strafrahmen des § 212 Abs. 1 StGB sieht Freiheitsstrafe von 5 Jahren bis 15 Jahren vor."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Alt. 2 StGB"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Zu Gunsten der Angeklagten hat die Kammer berücksichtigt, dass sie strafrechtlich noch nicht in Erscheinung getreten ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Die Angeklagte ist besonders haftempfindlich, weil die Art des Deliktes ihr das Zusammenleben mit anderen Strafgefangenen erschwert."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Gegen die Angeklagte sprach, dass sie gegenüber ihrem Kind eine Obhutspflicht hatte."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "In der Gesamtschau hat die Kammer einen minder schweren Fall verneint."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Bei der Zumessung der Strafe aus dem Strafrahmen des § 213 Abs. 1 StGB waren die Umstände zu sehen, die bereits bei der Prüfung eines minder schweren Falles Berücksichtigung fanden."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Hierbei hat die Kammer – wie auch bei Prüfung des minder schweren Falles - mildernd bedacht, dass die Tat das zukünftige Leben der Angeklagten auch nach Haftverbüßung belasten wird."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 9 Jahren"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Abs. 1 StGB"
+        }
+    ]
+}

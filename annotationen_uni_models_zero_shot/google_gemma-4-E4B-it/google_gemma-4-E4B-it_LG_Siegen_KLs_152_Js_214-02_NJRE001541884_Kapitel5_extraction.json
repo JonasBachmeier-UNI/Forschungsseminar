@@ -1,0 +1,89 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 1 Abs.1 und 2 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 17 Abs.2 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 3 JGG"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "ein Rahmen von 6 Monaten bis zu 10 Jahren eröffnet."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "von Anbeginn geständig war"
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "eine ersichtlich ernst gemeinte Einsicht in sein allerdings massives Fehlverhalten dokumentiert hat."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "im Zustand erheblich verminderter Steuerungsfähigkeit gehandelt hat."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "die schwere affektive Erschütterung des Angeklagten zur Tatzeit"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "daß er nicht vorbelastet ist"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "hat er sich für sein jugendliches Alter erstaunlich angemessen verteidigt."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "sein Reifegrad nicht etwa an der unteren Grenze der Verantwortlichkeit anzusiedeln ist, und daß er sich zweier Kapitalverbrechen, nämlich der vorsätzlichen Tötung zweier Menschen, schuldig gemacht hat."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "krasse Mißverhältnis zwischen Anlaß und Tat zu konstatieren"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Er hat vorsätzlich zwei Menschenleben ausgelöscht"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Unter dieser Prämisse hat die Kammer zugunsten des Angeklagten berücksichtigt, daß er nicht vorbelastet ist, von Anbeginn geständig war und eine ersichtlich ernst gemeinte Einsicht in sein allerdings massives Fehlverhalten dokumentiert hat."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Daneben können für die Bemessung der Jugendstrafe im vorliegenden Fall angesichts des Ausmaßes des in dem Tatgeschehen hervorgetretenen Unrechts Gesichtspunkte der Sühne und der Vergeltung für begangenes Unrecht nicht völlig außen vor bleiben."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "6 Jahre"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Um die erforderliche erzieherische Einwirkung auf den Angeklagten zu ermöglichen, darüber hinaus aber auch dem Sühnegedanken hinreichend Rechnung zu tragen, hat die Kammer unter Berücksichtigung der vorstehend aufgeführten Erwägungen die Jugendstrafe auf"
+        }
+    ]
+}

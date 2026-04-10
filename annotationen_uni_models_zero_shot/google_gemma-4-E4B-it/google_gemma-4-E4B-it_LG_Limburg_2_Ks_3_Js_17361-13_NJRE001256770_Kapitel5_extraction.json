@@ -1,0 +1,54 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Bei der Strafzumessung ist die von dem Strafrahmen des § 212 Abs. 1 StGB ausgegangen, der Freiheitsstrafe von 5 Jahren bis 15 Jahren vorsieht."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Die Kammer hat zunächst geprüft, ob ein minder schwerer Fall vorliegt (§ 213 Alt. 2 StGB)."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Gesamtabwägung sämtlicher innerer und äußerer Tatumstände hat ergeben, dass die Intensität des von dem Angeklagten begangenen Unrechts hinter den erfahrungsgemäß gewöhnlich vorkommenden Fällen des § 212 Abs. 1 StGB nicht in einem Maß zurückbleibt, das die Anwendung des regulären Strafrahmens unangemessen erscheinen ließe."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Hierbei sprach für den Angeklagten, dass er ein gewisses Schütteln - wenn auch erst nach Konfrontation mit den rechtsmedizinischen Erkenntnisse - eingeräumt hat."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "In der Tatsituation lag nicht ausschließbar eine gewisse Belastung vor."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Außerdem ist der Angeklagte nicht vorbestraft."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Gegen den Angeklagten sprach, dass er als leiblicher Vater gegenüber seinem Sohn, dessen Betreuung er wahrnahm, eine besondere Obhutspflicht hatte."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der Zumessung der Strafe innerhalb des Rahmens des § 212 Abs. 1 StGB waren insbesondere die Umstände zu berücksichtigen, die bei der Prüfung eines minder schweren Falles gegeneinander abgewogen worden sind."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "7 Jahren und 6 Monaten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter Abwägung sämtlicher für und gegen den Angeklagten sprechenden Umstände hielt die Kammer eine Freiheitsstrafe von"
+        }
+    ]
+}

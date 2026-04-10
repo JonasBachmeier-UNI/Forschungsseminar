@@ -1,0 +1,109 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Jugendstrafe von 3 Jahren 6 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 3 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 17 Abs. 2 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 12 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 227 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 18 Abs. 1 S. 1 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 18 Abs. 1 S. 2 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 18 Abs. 2 JGG"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 224 Abs. 1 Nr. 2 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 227 Abs. 2 StGB"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Nach Gesamtwürdigung der erörterten Gesichtspunkte bejaht die Kammer die Schwere der Schuld gemäß § 17 Abs. 2 JGG."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Unter Berücksichtigung aller Umstände, vorrangig dem Erziehungsgedanken unter Beachtung des Erfordernisses eines gerechten Schuldausgleichs, erschien der Kammer die Verhängung einer Jugendstrafe von 3 Jahren 6 Monaten angemessen."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Zugunsten des zur Tatzeit erst 17-​jährigen Angeklagten, der zuvor nur unwesentlich strafrechtlich in Erscheinung getreten ist, war zu berücksichtigen, dass er den von ihm ausgeführten Messerstich und damit den äußeren Tathergang als solchen eingeräumt hat, auch wenn er versucht hat, ein Notwehrrecht bzw. jedenfalls einen Notwehrexzess zu konstruieren."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Er hat in der Hauptverhandlung sein Bedauern über den von ihm verursachten Tod des Opfers glaubhaft zum Ausdruck gebracht."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat die Tat nicht von langer Hand geplant, sondern hat sich in unübersichtlicher Lage spontan zu der Tat entschlossen."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Zugunsten des Angeklagten wirkt sich auch aus, dass - nachdem es aus der Gruppe um den Angeklagten attackiert worden war - auch das Tatopfer sich aktiv an der Auseinandersetzung beteiligte und Gewalt gegen den Körper des Angeklagten (Schubsen) ausübte."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Die Kammer hat auch gesehen, dass sich der Angeklagte in der Untersuchungshaft und nach seiner Entlassung aus derselben einwandfrei geführt hat."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Berücksichtigt hat die Kammer auch den bisherigen Werdegang des Angeklagten, der in schulischer Hinsicht zuletzt von Ehrgeiz geprägt war; weiter hat die Kammer nicht übersehen, dass der Angeklagte hinsichtlich seiner schulischen Zukunftsplanung konkrete Vorstellungen hat und er sich um die Fortführung seiner schulischen Ausbildung bemüht."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Andererseits hat der Angeklagte die Tat in einer die Tatbestandsmäßigkeit einer Körperverletzung weit übersteigenden, brutalen und hochgradig gefährlichen Weise mittels eines in die Gaststätte trotz Sicherheitskontrollen mitgeführten gefährlichen Werkzeugs i.S.d. § 224 Abs. 1 Nr. 2 StGB begangen."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "In der Tat des Angeklagten sind eine hohe Gewaltbereitschaft und eine geringe Hemmschwelle zur Begehung einer (gefährlichen) Körperverletzung zum Ausdruck gekommen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Trotz der Milderungsgründe, deren Bedeutung nicht verkannt wird, und auch unter Berücksichtigung des Umstands, dass sich die Tat letztlich als Eskalation zum Ende einer Auseinandersetzung darstellt, weicht die Tat nicht vom Durchschnitt der gewöhnlich vorkommenden Fälle einer Körperverletzung mit Todesfolge nach unten hin ab und auch die Schuld des Angeklagten hebt sich nicht nach unten vom Regelfall des § 227 StGB ab."
+        }
+    ]
+}

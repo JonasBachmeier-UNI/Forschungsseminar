@@ -1,0 +1,99 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Strafkammer hat bei der Strafzumessung jeweils den Strafrahmen des § 212 Abs. 1 StGB, der Freiheitsstrafe von 5 bis 15 Jahren vorsieht, zugrundegelegt."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Ein besonders schwerer Fall des Totschlags gem. § 212 Abs. 2 StGB, der eine lebenslange Freiheitsstrafe vorsieht, war in beiden Fällen nicht gegeben."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Ein minder schwerer Fall des Totschlags gem. § 213 StGB, der eine Freiheitsstrafe von einem Jahr bis zu zehn Jahren vorsieht, war bei beiden Tötungen nicht gegeben."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Eine Tatprovokation des Angeklagten durch O.G., etwa eine schwere Beleidigung o.ä., konnte nicht festgestellt werden."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Allein die Feststellung, dass der Angeklagte im Verlauf des Streites mit O.G. aus Wut oder weil ihm die Streitigkeiten mit ihr auf die Nerven gingen, sich zu der Tatbegehung entschloss, legt für sich genommen noch nicht nahe, dass es zu einer Tatprovokation im Sinne des § 213 StGB durch das Tatopfer gekommen ist."
+        },
+        {
+            "tag": "Mildernd",
+            "category": "Mildernd",
+            "quote": "Mildernde Umstände, die die Taten - erheblich vom Normalfall einer Tötung abweichend - als minder schwer erscheinen lassen, waren nicht feststellbar."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Eine erheblich verminderte Steuerungsfähigkeit im Sinne des § 21 StGB lag nicht vor."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Bei der Strafzumessung sprach für den Angeklagten, dass er nicht vorbestraft ist."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Strafmildernd war auch zu berücksichtigen, dass es sich in beiden Fällen jeweils um eine Spontantat handelte."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte befindet sich erstmals in Haft und ist aufgrund seines Alters (27 Jahre) erhöht strafempfindlich."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Strafschärfend war zu berücksichtigen, dass die sechs Jahre alte Tochter der getöteten O.G. durch die Tat ihre Mutter verloren hat."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Bei der Tat zum Nachteil von K. H. hat die Strafkammer strafschärfend berücksichtigt, dass die Tötung des eigenen Kindes die Überwindung einer deutlich höheren Hemmschwelle erfordert."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Bei der Tat zum Nachteil von O.G. war zu Gunsten des Angeklagten zu berücksichtigen, dass er allgemein die Tötung von O.G. eingeräumt hat."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der Tat zum Nachteil von K. H. hat die Strafkammer strafschärfend berücksichtigt, dass die Tötung des eigenen Kindes die Überwindung einer deutlich höheren Hemmschwelle erfordert. Sie erachtet daher unter Würdigung aller Umstände eine Einzelstrafe von"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Die Strafkammer erachtet daher - ebenfalls unter Würdigung aller Umstände - eine Einzelstrafe von"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Abwägung sämtlicher Strafzumessungsgesichtspunkte und unter Berücksichtigung des räumlich, situativ und zeitlich engen Zusammenhangs der Tötungen erachtet die Strafkammer eine Gesamtfreiheitsstrafe von"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "12 Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "10 Jahren Freiheitsstrafe"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "15 Jahren"
+        }
+    ]
+}

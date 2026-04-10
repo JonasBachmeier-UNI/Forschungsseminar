@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Kammer hat im Rahmen der Strafzumessung zunächst den Strafrahmen der §§ 212 Abs. 1, 213 StGB zugrunde gelegt, der Freiheitsstrafe von einem Jahr bis zu zehn Jahren vorsieht."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Es liegt ein minder schwerer Fall in der Variante der Provokation durch eine ihm zugefügte Misshandlung vor."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte war von dem Tatopfer zuvor misshandelt, dadurch zum Zorn gereizt und auf der Stelle zur Tat hingerissen worden, ohne daran eigene Schuld zu tragen."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte war ferner durch den vorherigen Überfall und die erlittene Behandlung zum Zorn gereizt worden."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist zudem ohne eigene Schuld zum Zorne hingerissen worden. Er hat keinerlei Veranlassung zu der Misshandlung durch das spätere Opfer gegeben (vgl. dazu BGH, NStZ 08, 510, 624)."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Aufgrund des vorangegangenen Überfalls litt der Angeklagte unter einer akuten Belastungsreaktion, die eine nicht auszuschließende erhebliche Verminderung der Schuldfähigkeit zur Folge hatte."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Damit hatte die Kammer einen Strafrahmen von Geldstrafe oder drei Monate bis sieben Jahre und sechs Monate Freiheitsstrafe zugrunde zu legen."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte befand sich in einem vermeidbaren Verbotsirrtum."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Kammer hat daher den Strafrahmen nochmals auf 1 Monat bis zu 5 Jahre 7 Monate verringert."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Bei der Strafzumessung hat die Kammer zu Gunsten des Angeklagten berücksichtigt, dass er nicht vorbestraft ist"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "zur Tatzeit 77 Jahre alt war"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "kurz zuvor Opfer eines von dem Getöteten und den vier Zeugen begangenen Raubüberfalles geworden war, in dessen Verlauf er sein Leben als bedroht ansah. Er war gesundheitlich aufgrund einer vorherigen Knieoperation stark eingeschränkt, ihm wurde eine Pistole an den Kopf gehalten und er wurde mit einem Schal stranguliert."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Darüber hinaus leidet er weiterhin in erheblicher Weise psychisch unter den Folgen sowohl der Raubtat als auch unter dem Umstand, den Tod des (…) verursacht zu haben."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Mildernd wirkte sich zudem aus, dass er sich geständig eingelassen und Reue gezeigt hat und seit der Tat bereits mehrere Jahre vergangen sind."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Unter Abwägung aller dieser Strafzumessungsgesichtspunkte hat die Kammer eine Freiheitsstrafe von neun Monaten für tat- und schuldangemessen angesehen."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Unter Abwägung aller dieser Strafzumessungsgesichtspunkte hat die Kammer eine Freiheitsstrafe von neun Monaten für tat- und schuldangemessen angesehen."
+        }
+    ]
+}

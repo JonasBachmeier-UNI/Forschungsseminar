@@ -1,0 +1,64 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Der Angeklagte war wegen versuchten Totschlags in einem minder schweren Fall gem. §§ 212, 213, 22, 23 StGB zu bestrafen."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Strafe war dem gem. §§ 21, 49 StGB geminderten Strafrahmen des § 213 StGB zu entnehmen."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte befand sich beim Durchschneiden der Sonde in einer schweren depressiven Episode als krankhaft seelische Störung i.S.d. 1. Alternative des § 20 StGB."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Es konnte nicht ausgeschlossen werden, dass die Steuerungsfähigkeit des Angeklagten aufgrund dessen zur Tatzeit gem. § 21 StGB erheblich eingeschränkt war."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat vor der Tat einen und danach innerhalb nur einen Monats drei weitere Suizidversuche unternommen, die letztlich zur stationären Behandlung des Angeklagten in einer psychiatrischen Abteilung führten."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "In einer Gesamtbetrachtung ist die Kammer unter Berücksichtigung des Minderungsgrundes zu dem Ergebnis gelangt, dass ein minder schwerer Fall des versuchten Totschlags nach § 213, 2. Alternative StGB vorliegt."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Gegenüber dem geminderten Strafrahmen des § 212 StGB handelt es sich nach der Gesamtwürdigung bei § 213 StGB um den schuldangemesseneren Strafrahmen."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Für den Angeklagten sprach seine geständige Einlassung zum objektiven Geschehensablauf."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Er befand sich aufgrund der sich bereits 15 Jahre hinziehenden Erkrankung seiner Ehefrau, die sich stetig verschlechterte, in einer schwierigen Konfliktsituation."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Nach Abwägung aller für und gegen den Angeklagten sprechenden Umstände hielt die Kammer eine"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von einem Jahr"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der 80jährige Angeklagte war in seinem Leben bislang nie strafrechtlich in Erscheinung getreten."
+        }
+    ]
+}

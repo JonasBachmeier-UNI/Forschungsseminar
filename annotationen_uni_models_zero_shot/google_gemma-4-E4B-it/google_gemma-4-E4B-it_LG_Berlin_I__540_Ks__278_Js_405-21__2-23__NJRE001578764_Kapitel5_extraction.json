@@ -1,0 +1,44 @@
+{
+    "annotations": [
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Zu Lasten des Angeklagten hat die Kammer berücksichtigt, dass er bei seinem Umgang mit der Geschädigten im Zuge des Tatgeschehens die Maßstäbe, die nach dem, ihm vertrauten, geltenden Recht bei der Prüfung und Durchführung einer Suizidbegleitung an ärztliches Handeln anzulegen sind, über die bloße Tatbestandsbegehung hinaus in mehrfacher Weise und in erheblichem Maße missachtet hat."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Bei der Strafzumessung im engeren Sinn hat das Gericht zu Gunsten des Angeklagten berücksichtigt, dass er nicht vorbestraft sowie bereits im Ermittlungsverfahren hinsichtlich des objektiven Tatgeschehens weitestgehend geständig war."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Bei der Strafzumessung im engeren Sinn hat das Gericht zu Gunsten des Angeklagten berücksichtigt, dass er nicht vorbestraft sowie bereits im Ermittlungsverfahren hinsichtlich des objektiven Tatgeschehens weitestgehend geständig war."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Strafmildernd hat die Kammer ferner berücksichtigt, dass der Angeklagte bereits ein hohes Lebensalter erreicht hat und somit in gesteigertem Maße haftempfindlich ist."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Die Tat stellte sich wegen der altruistischen Motivation des Angeklagten, die Geschädigte von einem leidvollen Zustand zu erlösen und damit einen aus seiner Sicht drohenden alternativen \"Gewaltsuizid\" ihrerseits zu verhindern, als ein sonstiger minder schwerer Fall des Totschlags dar, der vom Durchschnitt der erfahrungsgemäß vorkommenden Fälle dieses Delikts so weit nach unten abweicht, dass die Anwendung des Regelstrafrahmens nicht schuldangemessen gewesen wäre."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Das Gericht hat sodann, die vorgenannten und auch alle sonstigen für und gegen den Angeklagten sprechenden Strafzumessungsgründe abwägend, eine"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von 3 (drei) Jahren"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Strafrahmen des § 213 StGB"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 46 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "der Strafrahmen des § 212 Abs. 1 StGB, der eine Freiheitsstrafe von fünf Jahren bis zu 15 Jahren vorsieht"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 StGB"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "einen Strafrahmen von einem Jahr bis zu zehn Jahren vorsieht"
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Totschlag auszugehen, wenn der Totschläger ohne eigene Schuld durch eine ihm oder einem Angehörigen zugefügte Misshandlung oder schwere Beleidigung von dem getöteten Menschen zum Zorn gereizt und hierdurch auf der Stelle zur Tat hingerissen worden ist oder sonst ein minder schwerer Fall vorliegt."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Beim Totschlag aufgrund eines unverschuldeten Provokationsaffekts wird der Strafrahmen aus zwei Gründen gemildert, zum einen wegen der affektbedingten Schuldminderung beim Täter, zum anderen wegen der Mitverantwortung des Opfers für die Eskalation des Geschehens."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Es muss mithin eine Provokationshandlung des Getöteten gegenüber dem Täter vorliegen."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Vielmehr plante er die Tötung der Geschädigten bereits seit mindestens einer Woche."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Dabei sprach zu Gunsten des Angeklagten, dass dieser bisher strafrechtlich nicht in Erscheinung getreten ist."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Mildernd",
+            "quote": "Daneben hat die Kammer auch berücksichtigt, dass die Geschädigte nicht lange leiden musste und wenige Sekunden nach dem Messerstich das Bewusstsein verlor."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Ferner hat die Kammer berücksichtigt, dass der Angeklagte sich seit nunmehr bereits ca. 7 Monaten als Erstverbüßer in Untersuchungshaft befindet und als nichtdeutschsprachiger Ausländer besonders haftempfindlich ist und während der Untersuchungshaft eine mittelgradige depressive Episode mit latenter Suizidalität erlitt."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Zu seinen Lasten war indes das planvolle Vorgehen mit der aufwändigen Vorbereitung der Tat über eine Woche, in der der Angeklagte mehrfach Einbruchsituationen vorspielte, diversen Familienmitgliedern hiervon berichtete, dem Vermieter Bescheid gab und zur Polizei ging, um eine diffuse Bedrohungssituation zu kreieren zu berücksichtigen."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Weiterhin war zu bedenken, dass der Angeklagte die Geschädigte in der gemeinsamen Wohnung, in der die Geschädigte sich sicher fühlen durfte, begangen hat."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte handelte mithin sehr überlegt und mit erheblicher krimineller Energie."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Ausgehend von dem danach zur Verfügung stehenden Strafrahmen von fünf Jahren bis zu fünfzehn Jahren Freiheitsstrafe hat die Kammer bei der Strafzumessung im engeren Sinne die oben ausgeführten für und gegen den Angeklagten sprechenden Strafzumessungsgesichtspunkte gegeneinander abgewogen."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "zwölf Jahren und sechs Monaten"
+        }
+    ]
+}

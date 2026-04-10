@@ -1,0 +1,79 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Strafe für den Angeklagten hat die Kammer dem Strafrahmen gemäß § 315d Abs. 5 StGB entnommen, der sich auf Freiheitsstrafe von einem Jahr bis zu 10 Jahren beläuft."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 315d Abs. 5 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Für den Angeklagten spricht, dass er sich geständig eingelassen und auch versucht hat, sich bei der Familie der getöteten Frau Y3 entschuldigen."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "In seinem diesbezüglichen Verhalten und seinen Erklärungen wurde auch eine Reue über die Tat und deren Folgen erkennbar."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Weiter hat die Kammer zugunsten des Angeklagten berücksichtigt, dass dieser zum Zeitpunkt der Tat mit 21 Jahren noch recht jung und wenig lebenserfahren war."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Ebenso sind die besonderen Belastungen strafmildernd zu berücksichtigt, die die lange Verfahrensdauer und die lange Untersuchungshaft, zumal als junger Erstverbüßer unter dem Vorwurf des Mordes und dem konkreten Drohen einer lebenslangen Freiheitsstrafe, außerdem verbunden mit den besonderen Beschränkungen infolge des Schutzmaßnahmen gegen die Corona-​Pandemie für den Angeklagten darstellten."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Die Kammer hat berücksichtigt, dass ein Vorfahrtsverstoß (Verstoß gegen § 8 StVO) des Tatopfers mitursächlich für den tödlichen Verkehrsunfall war."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Zu Lasten des Angeklagten fällt demgegenüber das hohe Maß der Pflichtwidrigkeit, insbesondere die sehr große Gefährlichkeit der Art und Weise der Rennfahrt aufgrund der sehr hohen Geschwindigkeitsüberschreitung und der Fahrt über die für den Gegenverkehr vorgesehene linke Fahrspur sowie die schwere Folge des Todes der Frau T ins Gewicht, die der Angeklagte verursacht hat."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Die Tötung eines Menschen stellt im Verhältnis zu den von § 315d Abs. 5 StGB umfassten qualifizierenden Folgen eine besonders schwerwiegende Folge dar."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte hat den N geführt, obwohl er wusste, dass er nicht über die hierfür erforderliche Fahrerlaubnis verfügt."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schärfend",
+            "quote": "Er hat weiter vorsätzlich gegen die Feststellungspflicht gemäß § 142 Abs. 1 Nr. 1 StGB verstoßen, indem er sich trotz seiner Unfallbeteiligung bewusst vom Ort des Verkehrsunfalls entfernt hat, bevor er zugunsten der anderen Unfallbeteiligten und Geschädigten Feststellungen zu seiner Person und seiner Beteiligung an dem Unfall ermöglicht hat."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Ferner hat der Angeklagte zwei weitere Straftatbestände erfüllt, indem er vorsätzlich ohne Fahrerlaubnis (§ 21 Abs. 1 Nr. 1 StVG) gefahren ist und sich nach dem Zusammenstoß mit dem D3 der Frau T unerlaubt vom Unfallort entfernt hat (§ 142 Abs. 1 Nr. 1 StGB)."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Hiervon ausgehend liegt bei Abwägung aller für die Wertung von Tat und Täter maßgebenden Umstände kein minder schwerer Fall gemäß § 315d Abs. 5, letzter Halbsatz StGB vor. Gegen die Annahme eines minder schweren Falles sprechen insbesondere das hohe Ausmaß der Pflichtwidrigkeit und die schwere Folge der Tötung. Angesichts dessen ist - auch unter Berücksichtigung der geständigen Einlassung, der Reue und des jungen Alters sowie der weiteren strafmildernden Gesichtspunkte - keine Fallgestaltung gegeben, bei der das gesamte Tatbild vom Durchschnitt der gewöhnlich vorkommenden Fälle in einem solchen Maße abweicht, dass die Anwendung des Ausnahmestrafrahmens geboten erscheint, weil die Anwendung des Regelstrafrahmens des § 315d Abs. 1 StGB vor dem Hintergrund des Unrechts- und Schuldgehalts der Tat unangemessen hart wäre."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Ausgehend von dem hiernach eröffneten Strafrahmen hat die Kammer für die konkrete Zumessung der Strafe nochmals alle für und gegen den Angeklagten sprechenden Strafzumessungserwägungen abgewogen."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Die Kammer hält hiernach eine Freiheitsstrafe von\n\n4 Jahren\n\nfür tat- und schuldangemessen."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Gemäß den §§ 1 Abs. 1, 105 Abs. 1 Nr. 1 JGG war auf ihn Jugendstrafrecht anzuwenden"
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Bei Bemessung der Jugendstrafe war gemäß § 18 Abs. 1 S. 1 JGG von einem Strafrahmen von sechs Monaten bis zu zehn Jahren auszugehen."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Zwar ist bei dem Angeklagten von einer gewissen alkoholbedingten Enthemmung unterhalb der Schwelle des § 21 StGB auszugehen."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Bei der Tat handelt es sich um einen brutalen Angriff auf zwei dem Angeklagten bis dahin völlig unbekannte Personen aus einem nichtigen Anlass."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Auch war er bei Begehung der Tat - wenn auch unterhalb der Schwelle des § 21 StGB - alkoholbedingt enthemmt."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Zugunsten des Angeklagten hat die Kammer seine zumindest teilgeständige Einlassung berücksichtigt."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Mildernd",
+            "quote": "Außerdem ist der Angeklagte nur geringfügig und nicht einschlägig vorbestraft."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Er befindet sich bereits seit über zehn Monaten in Untersuchungshaft, was für einen jungen Heranwachsenden eine einschneidende Erfahrung darstellt."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Zu seinen Lasten fiel demgegenüber ins Gewicht, dass sich sein Angriff gegen zwei Geschädigte richtete."
+        },
+        {
+            "tag": "Nachtatverhalten_Negativ",
+            "category": "Schaerfend",
+            "quote": "Mit seinem Nachtatverhalten, dem Einsprühen mit dem Parfum des Opfers und der Entsorgung seiner persönlichen Dinge, als wären sie Abfall, hat er dieses verhöhnt."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Die durch die Tatbeteiligung zum Ausdruck gebrachte egoistische und rücksichtslose Grundeinstellung, das Maß an Brutalität sowie die zutage getretenen Empathiedefizite weisen auf einen erheblichen Erziehungsbedarf hin."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Durch den Tod von PF. W., einem erkennbar jungen Menschen, hat er erhebliches Leid verursacht."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter Abwägung aller für und gegen die Angeklagte sprechenden Umstände hat die Kammer unter Einbeziehung des Urteils des Amtsgerichts F. vom 29.04.2024 die Verhängung einer Einheitsjugendstrafe von"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "neun Jahren"
+        }
+    ]
+}

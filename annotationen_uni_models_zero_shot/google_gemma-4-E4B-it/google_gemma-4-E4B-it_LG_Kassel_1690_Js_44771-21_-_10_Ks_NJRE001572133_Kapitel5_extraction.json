@@ -1,0 +1,69 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Der maßgebliche Regelstrafrahmen des § 212 Abs. 1 StGB beläuft sich auf Freiheitsstrafe von 5 Jahren bis 15 Jahren (§ 38 Abs. 2 StGB); dieser war zugrunde zu legen."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Darüber hinaus handelte er absichtlich und malträtierte S. A. mit 30 brutalen Messerstichen"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Gravierend zu seinen Lasten wirkt sich jedoch die Anwesenheit der fünf Kinder bei der Tat aus und der Umstand, dass er deren Flehen aufzuhören nicht nachkam, sondern schwerwiegende Folgen für diese in Kauf nahm."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Zudem stellen sich seine Äußerungen gegenüber den Kindern, die Mutter komme in die Hölle erheblich nachteilig dar und der Umstand, dass er nach Durchführung der Stiche das Messer auf S. A. warf und somit seine Herablassung demonstrierte."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Bei der Bewertung der Frage, ob ein besonders schwerer Fall vorliegt, hat die Kammer zulasten des Angeklagten in die Bewertung eingestellt, dass diesem aufgrund vorhergehender Situationen, in denen er S. A. oder seinen Schwager bereits mit einem Messer bedrohte, bewusst war, dass er zu Gewalttätigkeiten neigt und dennoch keinerlei Anstalten machte, sich um Hilfe zu bemühen."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Durch sein überdurchschnittlich aggressives Verhalten trug er dazu bei, dass S. A. ihn beleidigte und provozierte."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Die Bemerkung, wie er darauf komme, dass es sich bei den Kindern um seine Kinder handele, stellt sowohl objektiv als auch subjektiv eine erhebliche Provokation des Angeklagten dar, die seine Vaterschaft und Ehre in Frage stellt."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Indessen hat die Kammer zugunsten des Angeklagten berücksichtigt, dass er nicht vorbestraft ist, die dadurch und durch seine geringen Sprachkenntnisse bestehende Haftempfindlichkeit und dass es sich um eine Impulstat handelte."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Zudem stellt er die Tat nicht in Abrede und ging nicht planvoll vor."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Indessen hat die Kammer zugunsten des Angeklagten berücksichtigt, dass er nicht vorbestraft ist, die dadurch und durch seine geringen Sprachkenntnisse bestehende Haftempfindlichkeit"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Zusammenfassend reichen vorliegend die zulasten des Angeklagten zu berücksichtigenden Umstände nicht, um einen besonders schweren Fall des Totschlags zu rechtfertigen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwägung",
+            "quote": "Im Rahmen der konkreten Strafzumessung sind die unter Ziff. b) zugunsten und zulasten des Angeklagten berücksichtigten Umstände erneut abzuwägen."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "für tat- und schuldangemessen."
+        }
+    ]
+}

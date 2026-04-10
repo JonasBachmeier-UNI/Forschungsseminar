@@ -1,0 +1,79 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Das Strafmaß für den vom Angeklagten begangenen Totschlag ist aus § 212 Abs. 2 StGB zu entnehmen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Schließlich ergibt eine Gesamtwürdigung, wie nachstehend ausgeführt wird, daß sich die Tat nicht als ein minder schwerer Fall des Totschlags darstellt."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Das Vorliegen eines besonders schweren Falles ist nach einer Abwägung aller Umstände, die für die Würdigung von Tat und Täter in Betracht kommen, wenn sie der Tat inne wohnen oder doch wenigstens im Zusammenhang mit ihr stehen, zu beurteilen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Für die Annahme eines besonders schweren Falles des Totschlags gemäß § 212 Abs. 2 StGB muß der Unrechts- und Schuldgehalt des Totschlags wertungsmäßig einem Mord entsprechen."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Vorliegend ist zugunsten des Angeklagten zu berücksichtigen, daß der Angeklagte in einer affektbeladenen Situation gehandelt hat."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Letztlich ist der Angeklagte als nicht integrierter Ausländer und durch seine Querschnittslähmung als besonders haftempfindlich anzusehen."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Zu Lasten des Angeklagten ist zu berücksichtigen, daß die Umstände der Tat eine Nähe zu zwei Mordmerkmalen aufweisen."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Weiter liegt eine Nähe zum Mordmerkmal sonstiger niedriger Beweggründe vor."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Bei zusammenfassender Würdigung aller anderen Handlungsantriebe wären diese als verachtenswert und als auf tiefster Stufe stehend anzusehen gewesen."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Zu Lasten des Angeklagten geht ferner, daß er bereits einmal wegen eines Gewaltdelikts vorbestraft war."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Außerdem fällt erschwerend ins Gewicht, daß er im Rahmen der Tat auch seinen ältesten Sohn B2 unter Einsatz eines Messers angegriffen und verletzt hat."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Besonders erschwerend bemißt die Kammer, daß der Angeklagte die Tötung der Mutter im Beisein und vor Augen der kleinen Kinder B und B3 durchgeführt hat, obwohl er sich deren Anwesenheit und Beobachtung bewußt war."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Hinsichtlich der Folgen der Tat ist ferner zu Lasten des Angeklagten zu berücksichtigen, daß dieser durch die Tat seinen sechs Kindern ihre Mutter genommen hat."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Bei Gesamtwürdigung aller zugunsten und zu Lasten des Angeklagten sprechender Umstände ist ein besonders schwerer Fall zu bejahen."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Gemäß § 212 Abs. 2 StGB ist danach auf lebenslange Freiheitsstrafe zu erkennen."
+        }
+    ]
+}

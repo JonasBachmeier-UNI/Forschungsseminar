@@ -1,0 +1,99 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Ausgangspunkt für die Strafzumessung ist § 224 Abs. 1 StGB, der eine Freiheitsstrafe von sechs Monaten bis zehn Jahren vorsieht."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Ein minder schwerer Fall des § 224 Abs. 1 StGB ist zu verneinen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Die Beurteilung eines minder schweren Falls ist aufgrund einer Gesamtwürdigung von Tat und Täter zu treffen, wobei die Täterpersönlichkeit, die Tatvorgeschichte, das Opferverhalten und die Tatfolgen, insbesondere die Intensität der Verletzungen des Opfers unter Berücksichtigung der Heilungsdauer und eventuell verbleibender Beeinträchtigungen zu berücksichtigen sind."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "SCHAERFEND",
+            "quote": "Zu Lasten des Angeklagten ist zu berücksichtigen, dass er zwei Qualifikationsmerkmale der gefährlichen Körperverletzung – der Einsatz eines Messers und die lebensgefährliche Behandlung - verwirklicht hat."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "SCHAERFEND",
+            "quote": "Das Maß der Verletzung der körperlichen Integrität und Gesundheit ist strafschärfend einzustellen."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "SCHAERFEND",
+            "quote": "Die oberflächliche Schnitt- oder Rissverletzung an der linken Halsseite verfehlte nur knapp die Halsschlagader und ging in dem dynamischen Geschehen mit einer Lebensgefahr einher."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "SCHAERFEND",
+            "quote": "Zwei Messerstichverletzungen am linken Oberschenkel gingen ebenfalls mit einer Lebensgefahr einher, eröffneten die tiefe Oberschenkelarterie und führten zu einer stark spritzenden Blutung, die ohne zeitnahe operative Versorgung zum Tode Nebenklägers geführt hätte."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "SCHAERFEND",
+            "quote": "Als Folge der körperlichen Verletzungen war der Nebenkläger vier Monate arbeitsunfähig krankgeschrieben."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Für den Angeklagten spricht, dass er die spontan begangene Tat gestanden hat."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist über sein Handeln selbst erschrocken, bereut die Tat und hat sich bei dem Nebenkläger entschuldigt."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Das aufbrausende und verbal aggressive Verhalten des Nebenklägers war ebenso mitursächlich für die Eskalation des Treffens wie sein Schlag mit dem flachen Handrücken gegen die Brust des Angeklagten, so dass der Kaffeebecher überschwappte und der Kaffee auf das Hemd des Angeklagten spritzte."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Im Weiteren spricht die straffreie Lebensführung – die geringe strafrechtliche Vorbelastung hat kein Gewicht – für den in familiär und beruflich stabilen Verhältnissen lebenden Angeklagten."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Dabei hat die Kammer bedacht, dass die Tatfolgen gegenüber dem Handlungsunrecht nicht überbewertet werden dürfen und die Intensität der Verletzungshandlung vorliegend keine Rückschlüsse auf eine erhöhte rechtsfeindliche Gesinnung oder verbrecherische Energie zulässt, sondern die psychische Beeinträchtigung des Angeklagten – der Affekt – Einfluss auf die Art der Tatausführung hatte."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Auch unter Berücksichtigung des vertypten Milderungsgrundes des § 21 StGB begründet dies in einer Gesamtschau nicht die Annahme eines minder schweren Falls des § 224 Abs. 1 StGB."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Es erschien angemessen, den Normalstrafrahmen des § 224 Abs. 1 StGB wegen der verminderten Schuldfähigkeit des Angeklagten nach §§ 21, 49 StGB zu verschieben."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Insbesondere liegt kein Fall der Tatprovokation vor. Weder eine Misshandlung noch eine schwere Beleidigung gingen der Tat voraus."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Innerhalb des so gefundenen Strafrahmens, der von einem Monat bis zu sieben Jahren und sechs Monaten reicht, hat die Kammer in der erneuten Gesamtschau der Tat, der Persönlichkeit des Angeklagten und der aufgezeigten Strafzumessungserwägungen, wobei die verminderte Schuldfähigkeit nach Strafrahmenverschiebung mit ihrem verbleibenden Gewicht eingestellt worden ist, eine Freiheitsstrafe von"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "3 Jahren und 4 Monaten"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "für tat- und schuldangemessen erachtet."
+        }
+    ]
+}

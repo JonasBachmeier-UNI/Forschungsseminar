@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "strafbar gemäß §§ 211 Abs. 2 Alt. 5, 212 Abs. 1, 53 StGB."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Totschlag"
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Der Hof spielte für seine Altersversorgung zwar eine wichtige Rolle."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Der Angeklagte hat seinen Bruder F vorsätzlich mit einem einzelnen aufgesetzten Genickschuss getötet."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Es handelte sich vielmehr um eine spontane Äußerung in einer emotionalen Ausnahmesituation ohne tiefere Reflektion."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte hat im Moment der Schussabgabe in feindlicher Willensrichtung dessen Arg- und Wehrlosigkeit bewusst zur Tötung ausgenutzt."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Die Kammer verkennt hierbei nicht, dass es an einem Ausnutzungsbewusstsein bei affektiven Durchbrüchen oder heftigen Gemütsbewegungen fehlen kann (ständige Rspr., vgl nur BGH, Beschluss vom 21.07.2021 - Az.: 4 StR 53/21 m.w.N.)."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Die Kammer hat bei der vorgenommenen Gesamtabwägung sämtlicher tat- und täterbezogenen Merkmale, die als Indizien für und gegen die Annahme eines schuldrelevanten Affekts sprechen können, berücksichtigt, dass sich bei dem Angeklagten über die Jahre ein gewisser Affektstau aufgebaut hatte, der sich in der Tat entlud."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte war zum Tatzeitpunkt derart berauscht, dass bei ihm eine Enthemmung und Kritikminderung vorlag."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist bislang strafrechtlich nicht in Erscheinung getreten, die Beweisaufnahme hat keine Hinweise auf frühere Gewalttätigkeiten ergeben."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Die Kammer ist sich aus folgenden Erwägungen jedoch sicher, dass es sich bei der affektiven Erregung des Angeklagten noch um einen für vorsätzliche Tötungsdelikte, bei denen gefühlsmäßige Regungen eine Rolle spielen, typischen psychologischen Vorgang handelte, der den Grad einer tiefgreifenden Bewusstseinsstörung nicht erreichte:"
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte selbst hat eine starke affektive Erregung bei der Tatbegehung auch nicht beschrieben."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Unter Abwägung der für und gegen das Vorliegen einer schuldrelevanten affektiven Erregung sprechenden Umstände kommt die Kammer zu dem Ergebnis, dass diejenigen genannten Merkmale, die gegen eine tiefgreifende Bewusstseinsstörung sprechen, deutlich überwiegen."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Auch ein Zusammenwirken der alkohol- und drogenbedingten Beeinflussung des Angeklagten sowie der emotionalen Ausnahmesituation in der er sich befand, führte vorliegend nicht zu einer relevanten Beeinträchtigung der Einsichts- oder Steuerungsfähigkeit."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Vor diesem Hintergrund ist die Zurückweisung seines Bruders als subjektiv relevante Auslösesituation einer akuten Belastungsreaktion, die dann in der Tat mündete, geeignet."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte war in seiner kognitiven und körperlichen Leistungsfähigkeit nicht wesentlich beeinträchtigt."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Seine detaillierte Beschreibung des Tathergangs zeugt von einem guten Erinnerungsvermögen und lässt auf ein von ihm kontrolliertes Geschehen schließen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Die Kammer hat im Rahmen der durchgeführten Gesamtbetrachtung einerseits berücksichtigt, dass der Tat eine seit Jahrzehnten belastete Täter-​Opfer-​Beziehung zugrunde liegt, die den Angeklagten in seinem Wesen geprägt hat. Andererseits sprechen gewichtige Beweisanzeichen für den Erhalt seiner Hemmungsfähigkeit."
+        }
+    ]
+}

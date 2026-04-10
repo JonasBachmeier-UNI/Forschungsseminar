@@ -1,0 +1,109 @@
+{
+    "annotations": [
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Allgemein sprach für die Angeklagte, dass sie nicht vorbestraft ist"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "sich zu den objektiven Umständen geständig gezeigt und zudem Verantwortung für ihre Taten übernommen hat"
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Auch ihre herausfordernde persönliche Lebenssituation mit dem zum Zeitpunkt der Hauptverhandlung noch nicht einmal ein Jahr alten Kind, das bei Begehung der Taten 2 bis 4 im Oktober 2023 erst wenige Monate alt war, und ihrer neuerlichen Schwangerschaft im achten Monat zum Zeitpunkt der Hauptverhandlung, sowie den Umstand, dass die Angeklagte durch die auch medial beachtete Hauptverhandlung und die Berichterstattung im Vorfeld besonders belastet war, hat die Kammer strafmildernd berücksichtigt."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Strafschärfend hat die Kammer allerdings das konkrete Tatbild, namentlich die besonders drastisch entwürdigende und von bemerkenswerter Empathielosigkeit geprägte glorifizierende Darstellung des getöteten Soldaten im kontextuellen Zusammenhang zu den zum Zeitpunkt der Tat andauernden Angriffen der Hamas auf Israel gewertet."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schärfend",
+            "quote": "Soweit die Angeklagte durch diese Tat zugleich den Straftatbestand der Billigung von Straftaten verwirklicht hat, waren zu ihren Lasten auch ihre antisemitischen Beweggründe gemäß § 46 Abs. 2 Satz 2 StGB zu berücksichtigen."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Nach Abwägung all dessen hat sie für diese Tat auf eine Einzelfreiheitsstrafe von einem Jahr und zwei Monaten als tat- und schuldangemessen erkannt."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Auch hier wurden strafmildernd die oben ausgeführten, für alle Fälle zutreffenden Strafzumessungserwägungen herangezogen. Strafschärfend wurde indes das konkrete Tatbild bewertet, insbesondere der relativ große Adressatenkreis der Aufforderung und die durch die Ereignisse im Gazastreifen an und nach dem 7. Oktober 2023 sowie die bereits erfolgten gewalttätigen Ausschreitungen in Berlin erheblich aufgeheizte Situation, in die die Aufforderung der Angeklagten fiel. Danach hat die Kammer auch für diese Tat eine Einzelfreiheitsstrafe von einem Jahr und zwei Monaten als tat- und schuldangemessen erachtet."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Im Fall 1 hat die Kammer ihrer Strafzumessung den Strafrahmen des § 130 Abs. 1 StGB zu Grunde gelegt."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "eine Einzelfreiheitsstrafe von sechs Monaten als tat- und schuldangemessen erachtet."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Auch bei der Tat vom 7. Oktober 2023 hat die Kammer den Strafrahmen des § 130 Abs. 1 StGB der Strafzumessung zu Grunde liegt."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "auf eine Einzelfreiheitsstrafe von einem Jahr und zwei Monaten als tat- und schuldangemessen erkannt."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Strafe für diese Tat hat die Kammer dem Strafrahmen des § 111 Abs. 2 StGB entnommen."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Danach hat die Kammer auch für diese Tat eine Einzelfreiheitsstrafe von einem Jahr und zwei Monaten als tat- und schuldangemessen erachtet."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Für die Tat 4 hat die Kammer die Strafe dem Strafrahmen des § 140 StGB entnommen"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "auf eine Einzelfreiheitstrafe von sechs Monaten als tat- und schuldangemessen erkannt."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Unter nochmaliger Abwägung aller für und gegen die Angeklagte sprechenden Umstände sowie unter Berücksichtigung des engen zeitlichen Zusammenhangs der Taten 2 bis 4 und des engen situativen Zusammenhangs zwischen den Taten 3 und 4 hat die Kammer eine Gesamtfreiheitsstrafe von"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "1 (einem) Jahr und 10 (zehn) Monaten"
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Die Kammer konnte der nicht vorbestraften und weitgehend geständigen Angeklagten auch mit Blick auf ihre persönlichen Umstände, insbesondere ihr noch nicht einmal ein Jahr altes Kind und die bevorstehende Geburt ihres zweites Kindes, eine positive Legalprognose stellen."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Die Kammer konnte der nicht vorbestraften und weitgehend geständigen Angeklagten auch mit Blick auf ihre persönlichen Umstände, insbesondere ihr noch nicht einmal ein Jahr altes Kind und die bevorstehende Geburt ihres zweites Kindes, eine positive Legalprognose stellen."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Dabei hat die Kammer hat nicht übersehen, dass die Angeklagte schon bei Begehung der Taten 2 bis 4 Mutter eines seinerzeit nur wenige Monate alten Kindes war. Der Angeklagten ist aber nach Einschätzung der Kammer durch das Ermittlungsverfahren und die hiesige Hauptverhandlung ihr Fehlverhalten eindrücklich bewusst geworden. Auch wenn die Angeklagte ihre antisemitische Haltung nicht abgelegt hat, ist sie sich doch der Gefahr einer zu vollstreckenden Freiheitsstrafe als Konsequenz neuerlicher Straftaten bewusst und will diese schon ihrer Familie zuliebe vermeiden, weshalb sie nach Einschätzung der Kammer keine Straftaten mehr begehen wird."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Die Kammer hat nach einer Gesamtwürdigung der Taten und der Täterpersönlichkeit insbesondere auf Grund der fehlenden Vorstrafen und der weitgehend geständigen Einlassung der Angeklagten zugleich besondere Umstände erkannt, die trotz der verhängten Gesamtfreiheitsstrafe von über einem Jahr die Aussetzung der Strafvollstreckung zur Bewährung rechtfertigen."
+        }
+    ]
+}

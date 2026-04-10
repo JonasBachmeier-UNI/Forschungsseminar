@@ -1,0 +1,74 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Ausgangspunkt der Strafzumessung war der Strafrahmen des § 212 Abs. 1 StGB, der eine Freiheitsstrafe von nicht unter fünf Jahren vorsieht."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 212 Abs. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Var. 1 StGB"
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "§ 213 Var. 2 StGB"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "bei den im Rahmen dieser Gesamtwürdigung zu berücksichtigenden Umständen war für die Annahme eines minder schweren Falles und zu Gunsten des Angeklagten N insbesondere sein Geständnis (die Tötung des T als solche) zu berücksichtigen."
+        },
+        {
+            "tag": "Reue_Einsicht",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte, der sich seit über neun Monaten in Untersuchungshaft befindet und sich in der Hauptverhandlung reuig gezeigt hat, ist darüber hinaus nur geringfügig und nicht einschlägig vorbestraft."
+        },
+        {
+            "tag": "Haftempfindlichkeit",
+            "category": "Mildernd",
+            "quote": "Er ist als Erstverbüßer einer Haftstrafe zudem besonders haftempfindlich."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Zugunsten des Angeklagten und für die Annahme eines minder schweren Falls spricht darüber hinaus, dass der Angeklagte die Spontantat aus einer affektiven Erregung heraus begangen hat und der Geschädigte - nicht ausschließbar - die Hilfsbedürftigkeit des noch jungen, zur Tatzeit 21jährigen und im Umgang mit Behörden überforderten Angeklagten mit dem Ziel sexueller Annäherung ausgenutzt hat"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schärfend",
+            "quote": "Zu Lasten des Angeklagten und gegen die Annahme eines minder schweren Falles hat die Kammer jedoch die hohe kriminelle Energie, die in der besonderen Aggressivität mit einer Vielzahl von Hieb- und Stichverletzungen zum Ausdruck gekommen ist, eingestellt."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schärfend",
+            "quote": "Darüber hinaus ist der Angeklagte - wenn auch nicht einschlägig - bereits vorbestraft ist."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Mit Blick auf die konkrete Art und Weise der Tatausführung vermochte die Kammer in der Gesamtschau der allgemeinen schulderhöhenden und schuldmindernden Merkmale keine Abweichung des Tatbildes einschließlich sämtlicher subjektiver Momente vom Durchschnitt der erfahrungsgemäß vorkommenden Fälle des Totschlags festzustellen, sodass die Bejahung eines minder schweren Falles gerechtfertigt wäre."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der Strafzumessung im engeren Sinne hat die Kammer sämtliche oben genannten, für und gegen den Angeklagten sprechenden Umstände, auf die zur Vermeidung von Wiederholungen ausdrücklich verwiesen wird, umfassend abgewogen."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Freiheitsstrafe von acht Jahren und sechs Monaten"
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Unter Berücksichtigung dessen und unter nochmaliger Würdigung der Gesamtpersönlichkeit des Angeklagten einschließlich seines Geständnisses, mit dem er sich zur Tat bekannt hat, hält die Kammer eine"
+        }
+    ]
+}

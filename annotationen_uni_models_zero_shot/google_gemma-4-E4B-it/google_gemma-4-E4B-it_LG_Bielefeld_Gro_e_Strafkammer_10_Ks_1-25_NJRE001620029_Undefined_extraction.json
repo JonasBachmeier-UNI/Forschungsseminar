@@ -1,0 +1,69 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die gegen den Angeklagten wegen dieser Tat zu verhängende Strafe hat die Kammer einem von drei Monaten bis zu sieben Jahren und sechs Monate Freiheitsstrafe reichenden Strafrahmen entnommen."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "sonstigen minder schweren Fall des Totschlags gemäß § 213 StGB geprüft"
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Zum Tatgeschehen hat er sich geständig und umfassend eingelassen."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Die Kammer hat auch berücksichtigt, dass sich der Angeklagte in einer Situation erheblicher psychischer Anspannung befand."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Zu Gunsten des Angeklagten ist anzuführen gewesen, dass dieser bisher durch die Begehung von Straftaten nicht aufgefallen ist."
+        },
+        {
+            "tag": "Tatprovokation",
+            "category": "Mildernd",
+            "quote": "Bereits in der Zeit vor ihrem Versterben war der Angeklagte seinen Eltern weitgehend willfährig. Folgsam erfüllte er ihre Wünsche und fügte sich ihren Willen."
+        },
+        {
+            "tag": "Gesetzesgrundlage",
+            "category": "Formalia",
+            "quote": "Aufgrund der im Verhältnis zur Täterschaft geringer wiegenden Beihilfe ist der Strafrahmen nach den §§ 27 Abs. 2 S. 2, 49 Abs. 1 StGB gesetzlich verpflichtend nochmals zu mildern gewesen."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "hat sie eine Freiheitsstrafe von\neinem Jahr und sechs Monaten\nfür tat- und schuldangemessen erachtet."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Dem Angeklagten kann die von § 56 Abs. 1 StGB vorausgesetzte günstige Sozialprognose gestellt werden."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Die zur Verurteilung gebrachte Tat entsprang einer familiären, singulären Ausnahmesituation. Eine Wiederholungsgefahr ist nicht zu erwarten."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist nicht vorgeahndet und zeigte sich durch den gegen ihn geführten Strafprozess erheblich beeindruckt."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "ABWAEGUNG",
+            "quote": "Darüber hinaus liegen nach der Gesamtwürdigung von Tat und Persönlichkeit des Angeklagten auch besondere Umstände im Sinne des § 56 Abs. 2 StGB vor."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte führt ein bürgerliches Leben."
+        }
+    ]
+}

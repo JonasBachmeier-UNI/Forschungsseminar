@@ -1,0 +1,94 @@
+{
+    "annotations": [
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Strafe der Tat zu 1. ist dem Regelstrafrahmen des § 223 Abs. 1 StGB entnommen, der Geldstrafe oder Freiheitsstrafe bis zu 5 Jahren vorsieht."
+        },
+        {
+            "tag": "Strafrahmen",
+            "category": "Formalia",
+            "quote": "Die Strafe der Tat zu 2. ist dem Regelstrafrahmen des § 212 Abs. 1 StGB entnommen, der Freiheitsstrafe nicht unter 5 Jahren vorsieht."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Einen minder schweren Fall des Totschlags hat die Kammer geprüft, im Ergebnis der durchzuführenden Gesamtabwägung aber nicht angenommen:"
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Den Feststellungen ist zwar zu entnehmen, dass der zunächst verbale Streit auch handgreiflich geworden ist. Allerdings lag in dem anfänglichen Einwirken der Getöteten und dem – zuletzt sogar gegenseitigen – Schubsen keine Misshandlung des Angeklagten i.S.d. § 213 Alt. 1 StGB. Es mangelt an der erforderlichen Erheblichkeit der Beeinträchtigung."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Gemessen daran, auch die Autonomie des Angeklagten beachtend, seine Partnerin frei wählen zu dürfen, war der Angeklagte „schuld“ und ebenfalls Provokateur, indem er eine außereheliche Affäre unterhielt und in der Tatnacht erneut spät heimkehrte, was bei seiner Frau, wie er erwarten konnte, eine Eifersuchtsreaktion auslöste, die in dem Streit mündete."
+        },
+        {
+            "tag": "Vorleben_Negativ",
+            "category": "Schaerfend",
+            "quote": "Es gab allerdings eine Reihe von Strafzumessungsfaktoren, die für den Angeklagten günstig sind."
+        },
+        {
+            "tag": "Gestaendnis",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte legte ein umfassendes, von Reue getragenes Geständnis ab, in dem er beide Taten einräumte."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Auch wenn der Alkoholisierungsgrad des Angeklagten bei der Tat zu 2. die Einsichts- und Steuerungsfähigkeit des Angeklagten nicht beeinträchtigte (hierzu ebenfalls im Folgenden), so ist doch zugunsten des Angeklagten davon auszugehen, dass der Alkoholgenuss zu einer Enthemmung des Angeklagten führte."
+        },
+        {
+            "tag": "Vorleben_Positiv",
+            "category": "Mildernd",
+            "quote": "Der Angeklagte ist auch nicht vorbestraft und hier erstmals im Alter von 27 straffällig geworden."
+        },
+        {
+            "tag": "Tatbild_Brutalitaet",
+            "category": "Schaerfend",
+            "quote": "Straferschwerend wirkt sich allerdings aus, dass der Angeklagte mit Tötungsabsicht handelte."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Im Rahmen der Gesamtschau wiegen angesichts des von dem Angeklagten bei der Tat verwirklichten Handlungs- und Erfolgsunrechts die für ihn sprechenden Aspekte nicht derart, dass die Annahme eines minder schweren Falles i.S.d. § 213 Alt. 2 StGB gerechtfertigt wäre."
+        },
+        {
+            "tag": "Enthemmung_Psychologie",
+            "category": "Mildernd",
+            "quote": "Die Kammer hat zudem bedacht, dass der Angeklagte sich selbst und auch durch die ihn näher kennenden Zeugen, so insbesondere den Zeugen S. oder auch die Zeugin B., als eher ruhig und besonnen beschrieben wurde."
+        },
+        {
+            "tag": "Motiv_Verwerflich",
+            "category": "Schaerfend",
+            "quote": "Bedenkt man seine persönliche Situation zur Tatzeit, in der die Eheprobleme für ihn zwar erheblich, jedoch nicht ausweglos erschienen, liegt ein Affekt oder eine affektive Erregung fern."
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Tat zu 1: 90 Tagessätze zu je 10 EUR Geldstrafe"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Tat zu 2. 9 Jahre und 6 Monate Freiheitsstrafe"
+        },
+        {
+            "tag": "Strafhoehe",
+            "category": "Formalia",
+            "quote": "Aus den Einzelstrafen hat das Gericht unter Erhöhung der höchsten Einzelfreiheitsstrafe eine Gesamtfreiheitsstrafe von 9 Jahren und 7 Monaten gebildet."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Bei der Bildung der Gesamtstrafe sind die oben im einzelnen geschilderten Strafzumessungserwägungen, auf die zur Vermeidung von Wiederholungen Bezug genommen wird, erneut berücksichtigt worden."
+        },
+        {
+            "tag": "Gesamtwuerdigung",
+            "category": "Abwaegung",
+            "quote": "Dabei stand nicht die Summe der Einzelstrafen im Vordergrund, sondern die Persönlichkeit des Angeklagten sowie die Auswirkungen der Strafe auf sein Leben."
+        }
+    ]
+}
