@@ -40,6 +40,7 @@ base_dir   = Path(__file__).resolve().parent
 output_dir = base_dir / "annotationen_uni_models_zero_shot"
 gt_dir     = base_dir / "ground_truth"   # Ordner mit professionellen Annotationen
 figure_path = base_dir / "llm_quality_comparison_2.png"
+hallucination_figure_path = base_dir / "zero_shot_halluzination.png"
 
 
 # ─────────────────────────────────────────────
@@ -115,11 +116,48 @@ def match_items(
     return tp, fp, fn
 
 
+def match_annotations_with_hallucinations(
+    pred: list[dict],
+    gold: list[dict],
+    threshold: float = SIMILARITY_THRESHOLD,
+) -> tuple[int, int, int, Counter]:
+    """Greedy-Matching plus Kategorien der nicht gematchten Vorhersagen."""
+    gold_remaining = list(gold)
+    tp = 0
+    hallucinated_categories: Counter = Counter()
+
+    for pred_ann in pred:
+        p_tag = pred_ann.get("tag", "")
+        p_quote = pred_ann.get("quote", "")
+        matched = False
+
+        for i, gold_ann in enumerate(gold_remaining):
+            if p_tag == gold_ann.get("tag", "") and similarity(p_quote, gold_ann.get("quote", "")) >= threshold:
+                tp += 1
+                gold_remaining.pop(i)
+                matched = True
+                break
+
+        if not matched:
+            category = pred_ann.get("category", "Unbekannt") or "Unbekannt"
+            hallucinated_categories[category] += 1
+
+    fp = len(pred) - tp
+    fn = len(gold_remaining)
+    return tp, fp, fn, hallucinated_categories
+
+
 def compute_prf(tp: int, fp: int, fn: int) -> dict[str, float]:
     precision = tp / (tp + fp) if (tp + fp) > 0 else 0.0
     recall    = tp / (tp + fn) if (tp + fn) > 0 else 0.0
     f1        = (2 * precision * recall / (precision + recall)) if (precision + recall) > 0 else 0.0
     return {"precision": precision, "recall": recall, "f1": f1}
+
+
+def compute_hallucination_rate(tp: int, fp: int) -> float:
+    """Anteil der vorhergesagten Aussagen, die nicht durch die Referenz gedeckt sind."""
+    total_predicted = tp + fp
+    return fp / total_predicted if total_predicted > 0 else 0.0
 
 
 # ─────────────────────────────────────────────
@@ -279,6 +317,7 @@ print(avg_pair.to_string(index=False))
 # ─────────────────────────────────────────────
 
 gt_rows = []
+gt_hallucinated_by_model: dict[str, Counter] = defaultdict(Counter)
 
 for text_id, gt_annotations in ground_truth.items():
     if text_id not in texts_dict:
@@ -289,6 +328,8 @@ for text_id, gt_annotations in ground_truth.items():
         pred_items = ann_to_items(model_annotations)
         tp, fp, fn = match_items(pred_items, gt_items)
         prf = compute_prf(tp, fp, fn)
+        _, _, _, hallucinated_categories = match_annotations_with_hallucinations(model_annotations, gt_annotations)
+        gt_hallucinated_by_model[model_id].update(hallucinated_categories)
 
         # Per-Tag Breakdown
         all_tags = set(t for t, _ in gt_items) | set(t for t, _ in pred_items)
@@ -302,6 +343,9 @@ for text_id, gt_annotations in ground_truth.items():
                 "Model":     model_id,
                 "Tag":       tag,
                 "TP": tp_t, "FP": fp_t, "FN": fn_t,
+                "Hallucinated_Count": fp_t,
+                "Predicted_Count": tp_t + fp_t,
+                "Hallucination_Rate": round(compute_hallucination_rate(tp_t, fp_t), 3),
                 **{k: round(v, 3) for k, v in prf_t.items()},
             })
 
@@ -313,20 +357,40 @@ if not df_gt.empty:
     print("=" * 70)
 
     model_gt_summary = (
-        df_gt.groupby("Model")[["precision", "recall", "f1"]]
-        .mean()
+        df_gt.groupby("Model")[["TP", "FP", "FN"]]
+        .sum()
         .reset_index()
-        .sort_values("f1", ascending=False)
     )
-    print("\n--- Modell-Gesamt (Ø über GT-Dateien und Tags) ---")
+    model_gt_summary[["precision", "recall", "f1"]] = model_gt_summary.apply(
+        lambda row: pd.Series(
+            compute_prf(int(row["TP"]), int(row["FP"]), int(row["FN"]))
+        ),
+        axis=1,
+    )
+    model_gt_summary["Hallucination_Rate"] = model_gt_summary.apply(
+        lambda row: compute_hallucination_rate(int(row["TP"]), int(row["FP"])),
+        axis=1,
+    )
+    model_gt_summary = model_gt_summary.sort_values("f1", ascending=False)
+    print("\n--- Modell-Gesamt (aggregiert über GT-Dateien) ---")
     print(model_gt_summary.to_string(index=False))
 
     tag_gt_summary = (
-        df_gt.groupby(["Tag", "Model"])[["precision", "recall", "f1"]]
-        .mean()
+        df_gt.groupby(["Tag", "Model"])[["TP", "FP", "FN"]]
+        .sum()
         .reset_index()
-        .sort_values(["Tag", "f1"], ascending=[True, False])
     )
+    tag_gt_summary[["precision", "recall", "f1"]] = tag_gt_summary.apply(
+        lambda row: pd.Series(
+            compute_prf(int(row["TP"]), int(row["FP"]), int(row["FN"]))
+        ),
+        axis=1,
+    )
+    tag_gt_summary["Hallucination_Rate"] = tag_gt_summary.apply(
+        lambda row: compute_hallucination_rate(int(row["TP"]), int(row["FP"])),
+        axis=1,
+    )
+    tag_gt_summary = tag_gt_summary.sort_values(["Tag", "f1"], ascending=[True, False])
     print("\n--- Per-Tag Breakdown ---")
     print(tag_gt_summary.to_string(index=False))
 
@@ -336,7 +400,15 @@ if not df_gt.empty:
         f1_vals = grp["f1"].tolist()
         mean_f1 = np.mean(f1_vals)
         lo, hi  = bootstrap_ci(f1_vals)
-        print(f"  {model_id:<40}  F1={mean_f1:.3f}  95%-CI=[{lo:.3f}, {hi:.3f}]")
+        hallucination_rate = (
+            grp["FP"].sum() / (grp["TP"].sum() + grp["FP"].sum())
+            if (grp["TP"].sum() + grp["FP"].sum()) > 0
+            else 0.0
+        )
+        print(
+            f"  {model_id:<40}  F1={mean_f1:.3f}  "
+            f"Hallucination={hallucination_rate:.3f}  95%-CI=[{lo:.3f}, {hi:.3f}]"
+        )
 else:
     print("\nKeine Ground-Truth-Dateien gefunden – GT-Evaluation übersprungen.")
 
@@ -346,6 +418,7 @@ else:
 # ─────────────────────────────────────────────
 
 pseudo_gt_rows = []
+pseudo_hallucinated_by_model: dict[str, Counter] = defaultdict(Counter)
 
 for text_id, model_outputs in texts_dict.items():
     if len(model_outputs) < 2:
@@ -359,9 +432,15 @@ for text_id, model_outputs in texts_dict.items():
         pred_items = ann_to_items(model_annotations)
         tp, fp, fn = match_items(pred_items, pseudo_items)
         prf = compute_prf(tp, fp, fn)
+        _, _, _, hallucinated_categories = match_annotations_with_hallucinations(model_annotations, pseudo_gt)
+        pseudo_hallucinated_by_model[model_id].update(hallucinated_categories)
         pseudo_gt_rows.append({
             "Text_File": text_id,
             "Model":     model_id,
+            "TP": tp, "FP": fp, "FN": fn,
+            "Hallucinated_Count": fp,
+            "Predicted_Count": tp + fp,
+            "Hallucination_Rate": round(compute_hallucination_rate(tp, fp), 3),
             **{k: round(v, 3) for k, v in prf.items()},
         })
 
@@ -372,11 +451,21 @@ if not df_pseudo.empty:
     print("MAJORITY-VOTE PSEUDO-GT EVALUATION (alle 75 Texte)")
     print("=" * 70)
     pseudo_summary = (
-        df_pseudo.groupby("Model")[["precision", "recall", "f1"]]
-        .mean()
+        df_pseudo.groupby("Model")[["TP", "FP", "FN"]]
+        .sum()
         .reset_index()
-        .sort_values("f1", ascending=False)
     )
+    pseudo_summary[["precision", "recall", "f1"]] = pseudo_summary.apply(
+        lambda row: pd.Series(
+            compute_prf(int(row["TP"]), int(row["FP"]), int(row["FN"]))
+        ),
+        axis=1,
+    )
+    pseudo_summary["Hallucination_Rate"] = pseudo_summary.apply(
+        lambda row: compute_hallucination_rate(int(row["TP"]), int(row["FP"])),
+        axis=1,
+    )
+    pseudo_summary = pseudo_summary.sort_values("f1", ascending=False)
     print(pseudo_summary.to_string(index=False))
 
 
@@ -495,3 +584,74 @@ fig.suptitle("LLM Annotation Quality – Strafzumessungsumstände", fontsize=15)
 fig.tight_layout(rect=[0, 0, 1, 0.95])
 fig.savefig(figure_path, dpi=200, bbox_inches="tight")
 print(f"\nVisualisierung gespeichert: {figure_path}")
+
+# — Separate Halluzinationsgrafik —
+if has_gt or has_pgt:
+    if has_gt:
+        hallucination_plot = model_gt_summary.sort_values("Hallucination_Rate")
+        hallucination_categories = gt_hallucinated_by_model
+        hallucination_title = "Zero-Shot Halluzination (Ground Truth)"
+    else:
+        hallucination_plot = pseudo_summary.sort_values("Hallucination_Rate")
+        hallucination_categories = pseudo_hallucinated_by_model
+        hallucination_title = "Zero-Shot Halluzination (Pseudo-GT)"
+
+    category_names = sorted({cat for counts in hallucination_categories.values() for cat in counts.keys()})
+    if not category_names:
+        category_names = ["Unbekannt"]
+
+    category_totals = Counter()
+    for counts in hallucination_categories.values():
+        category_totals.update(counts)
+    category_order = [cat for cat, _ in category_totals.most_common()]
+    if not category_order:
+        category_order = category_names
+
+    category_colors = plt.cm.tab20(np.linspace(0, 1, max(len(category_order), 1)))
+
+    hallu_fig, (hallu_ax_rate, hallu_ax_cat) = plt.subplots(
+        2,
+        1,
+        figsize=(11, max(6, 0.45 * len(hallucination_plot) + 4)),
+        gridspec_kw={"height_ratios": [1, 1.2]},
+    )
+
+    colors_hall = plt.cm.OrRd(norm(1 - hallucination_plot["Hallucination_Rate"]))
+    hallu_ax_rate.barh(hallucination_plot["Model"], hallucination_plot["Hallucination_Rate"], color=colors_hall)
+    hallu_ax_rate.set_title(hallucination_title)
+    hallu_ax_rate.set_xlabel("Halluzinationsrate")
+    hallu_ax_rate.set_xlim(0, 1)
+    hallu_ax_rate.grid(axis="x", linestyle="--", alpha=0.3)
+    for idx, (_, row) in enumerate(hallucination_plot.iterrows()):
+        hallu_ax_rate.text(
+            min(row["Hallucination_Rate"] + 0.01, 0.97),
+            idx,
+            f"{row['Hallucination_Rate']:.2f}",
+            va="center",
+            fontsize=8,
+        )
+
+    left_offsets = np.zeros(len(hallucination_plot))
+    model_names = hallucination_plot["Model"].tolist()
+    for cat_idx, category in enumerate(category_order):
+        category_values = np.array([
+            hallucination_categories[model].get(category, 0)
+            for model in model_names
+        ])
+        hallu_ax_cat.barh(
+            model_names,
+            category_values,
+            left=left_offsets,
+            color=category_colors[cat_idx % len(category_colors)],
+            label=category,
+        )
+        left_offsets += category_values
+
+    hallu_ax_cat.set_title("Halluzinierte Annotationen nach Category")
+    hallu_ax_cat.set_xlabel("Anzahl halluzinierter Annotationen")
+    hallu_ax_cat.grid(axis="x", linestyle="--", alpha=0.3)
+    hallu_ax_cat.legend(fontsize=8, bbox_to_anchor=(1.02, 1), loc="upper left")
+
+    hallu_fig.tight_layout()
+    hallu_fig.savefig(hallucination_figure_path, dpi=200, bbox_inches="tight")
+    print(f"Separate Halluzinationsgrafik gespeichert: {hallucination_figure_path}")
