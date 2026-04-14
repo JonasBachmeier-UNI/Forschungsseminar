@@ -97,37 +97,37 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Zulasten des Angeklagten spricht zunächst, dass dieser zwar nicht einschlägig, wohl aber bereits strafrechtlich wegen einer Straftat in Erscheinung getreten ist"
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Zulasten des Angeklagten spricht zunächst, dass er - wenn auch nicht einschlägig - strafrechtlich zweifach vorgeahndet ist."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Die brutale Vorgehensweise des Angeklagten mit zwei gezielten Messerstichen in Kopf und Hals eines Menschen mündete in einem finalen Stich in den Nacken des Opfers, wobei sich aufgrund des äußeren Erscheinungsbildes der Tat zum Zeitpunkt des letzten Stichs das Bild an eine regelrechte Hinrichtung aufgedrängt."
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Der Angeklagte wollte unter Verwirklichung von zwei Mordmerkmalen seine Exfreundin töten, da er sich in dem Irrglauben verrannt hatte, diese sei für seine persönlich schwierige Lebenssituation verantwortlich."
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Er verwirklichte bei der Tat auch zwei Mordmerkmale, ein tatbezogenes (Heimtücke) und ein täterbezogenes (niedrige Beweggründe)."
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Zu Lasten des Angeklagten wertete die Kammer das Nachtatverhalten des Angeklagten, ... Nachdem er erfahren hatte, dass die Geschädigte seinen Angriff überlebte hat, äußerte er gegenüber der Zeugin Gö....., dass er hoffe, wenigstens einen Nerv getroffen zu haben und dass die Geschädigte irgendeine Behinderung davon tragen möge."
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Auch ist hier das Nachtatverhalten des Angeklagten zu berücksichtigen: Durch einen nachträglichen Tötungsauftrag, der wiederum ein Verbrechen darstellt, wollte der Angeklagte unnachgiebig sein angestrebtes Tötungsziel auch nach dem ersten Scheitern noch erreichen."
         },
         {
@@ -137,13 +137,13 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "Bei Abwägung aller für und gegen den Angeklagten sprechenden Gesichtspunkte und einem Vergleich der vorliegenden Tat mit anderen Mordfällen ist die Kammer zu dem Schluss gelangt, dass der Angeklagte mit dem Mordversuch ... ein wesentlich größeres Unrecht begangen ..."
+            "category": "Abwaegung",
+            "quote": "Bei Abwaegung aller für und gegen den Angeklagten sprechenden Gesichtspunkte und einem Vergleich der vorliegenden Tat mit anderen Mordfällen ist die Kammer zu dem Schluss gelangt, dass der Angeklagte mit dem Mordversuch ... ein wesentlich größeres Unrecht begangen ..."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "Unter nochmaliger Abwägung aller für und gegen den Angeklagten sprechenden Strafzumessungsgesichtspunkte, auf die Bezug genommen wird, und unter Berücksichtigung des Erziehungsgedankens und den Folgen der Verbüßung der verhängten Jugendstrafe für die weitere Entwicklung des Angeklagten hält die Kammer ... eine Jugendstrafe von elf Jahren für ausreichend"
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Abwaegung aller für und gegen den Angeklagten sprechenden Strafzumessungsgesichtspunkte, auf die Bezug genommen wird, und unter Berücksichtigung des Erziehungsgedankens und den Folgen der Verbüßung der verhängten Jugendstrafe für die weitere Entwicklung des Angeklagten hält die Kammer ... eine Jugendstrafe von elf Jahren für ausreichend"
         }
     ]
 }

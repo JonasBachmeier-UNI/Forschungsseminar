@@ -37,23 +37,23 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "brutalen Angriff"
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "aus einem nichtigen Anlass"
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Nachtatverhalten, dem Einsprühen mit dem Parfum des Opfers und der Entsorgung seiner persönlichen Dinge"
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "Unter Abwägung aller für und gegen die Angeklagte sprechenden Umstände"
+            "category": "Abwaegung",
+            "quote": "Unter Abwaegung aller für und gegen die Angeklagte sprechenden Umstände"
         }
     ]
 }

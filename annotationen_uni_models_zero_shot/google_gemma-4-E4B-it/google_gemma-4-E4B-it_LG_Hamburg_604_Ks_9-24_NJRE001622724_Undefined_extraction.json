@@ -12,8 +12,8 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
-            "quote": "trotz des nicht ausschließbaren Faustschlages des Geschädigten und der hierin liegenden Provokation des Angeklagten – aufgrund der Schwere der vom Geschädigten erlittenen Verletzung und der weiteren strafschärfenden Strafzumessungsgesichtspunkte kein Raum."
+            "category": "Schaerfend",
+            "quote": "trotz des nicht ausschließbaren Faustschlages des Geschädigten und der hierin liegenden Provokation des Angeklagten – aufgrund der Schwere der vom Geschädigten erlittenen Verletzung und der weiteren strafSchaerfenden Strafzumessungsgesichtspunkte kein Raum."
         },
         {
             "tag": "Enthemmung_Psychologie",
@@ -52,33 +52,33 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
-            "quote": "Erheblich strafschärfend war zu berücksichtigen, dass der Angeklagte mehrfach einschlägig vorbestraft ist."
+            "category": "Schaerfend",
+            "quote": "Erheblich strafSchaerfend war zu berücksichtigen, dass der Angeklagte mehrfach einschlägig vorbestraft ist."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Zudem hat der Geschädigte durch die Tat erhebliche Verletzungsfolgen erlitten."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "So schloss sich an die Tatbegehung ein zweiwöchiger Krankenhausaufenthalt an, der Geschädigte musste zwei Mal operiert werden."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Nach der Tat war der Geschädigte für die Dauer von fünf Monaten arbeitsunfähig und leidet bis heute an durch die Tat verursachten Schmerzen."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
-            "quote": "Schließlich war strafschärfend zu berücksichtigen, dass der Angeklagte in Verletzungsabsicht handelte, bei der Begehung der Tat unter Führungsaufsicht stand, er allein schon durch das Beisichführen des Messers gegen das ihm auferlegte Waffenverbot verstoßen hat und er die Tat in einem öffentlichen Park und in der Nähe eines Kinderspielplatzes begangen hat, weshalb die Tat in besonderem Maße geeignet gewesen ist, das Sicherheitsempfinden der Allgemeinheit negativ zu beeinflussen."
+            "category": "Schaerfend",
+            "quote": "Schließlich war strafSchaerfend zu berücksichtigen, dass der Angeklagte in Verletzungsabsicht handelte, bei der Begehung der Tat unter Führungsaufsicht stand, er allein schon durch das Beisichführen des Messers gegen das ihm auferlegte Waffenverbot verstoßen hat und er die Tat in einem öffentlichen Park und in der Nähe eines Kinderspielplatzes begangen hat, weshalb die Tat in besonderem Maße geeignet gewesen ist, das Sicherheitsempfinden der Allgemeinheit negativ zu beeinflussen."
         },
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Im Ergebnis einer Gesamtschau und Abwägung der Strafzumessungsgesichtspunkte hält die Kammer eine"
+            "quote": "Im Ergebnis einer Gesamtschau und Abwaegung der Strafzumessungsgesichtspunkte hält die Kammer eine"
         },
         {
             "tag": "Strafhoehe",

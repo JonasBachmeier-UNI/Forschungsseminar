@@ -72,58 +72,58 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Der Angeklagte ist einschlägig vorbestraft durch die Verurteilung wegen versuchten Totschlags, begangen am 25. Juli 1991. Im übrigen hat der Angeklagte durch die breite Mischung seiner sonstigen Delikte seit seiner Strafmündigkeit im Jahr 1976 - namentlich Diebstahl, Leistungserschleichung, unerlaubtes Entfernen vom Unfallort, fahrlässige Trunkenheit im Straßenverkehr, Nötigung, Fahren ohne Fahrerlaubnis, Raub, fahrlässiger Vollrausch, Beleidigung und Missbrauch von Ausweispapieren - ein bemerkenswertes Maß sozialer Unverträglichkeit offenbart."
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "die Vorstrafe wegen versuchten Totschlags"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "die besondere Brutalität, die aus seinem eigenhändigen Tatbeitrag hervorgeht"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "die besondere Brutalität, für die der Angeklagte mit den \"Rammstößen\" verantwortlich gewesen ist"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Die Brutalität der Schläge über einen längeren Zeitraum hinweg sowie das Ausmaß der konkreten Verletzungen"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "die besondere Brutalität seines Mittäters"
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "die Banalität und die Belanglosigkeit des Tatmotivs"
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Frust wegen der Freundin hatte dem Angeklagten als Anlass der Tat genügt"
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "die Quasi‑Gefangenschaft des eingeschüchterten A. M., dem auf diese Weise die sofortige ärztliche Behandlung vorenthalten worden ist, sowie die Verhöhnung"
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
+            "category": "Abwaegung",
             "quote": "im Rahmen der Gesamtwürdigung der Tat und der Persönlichkeit des Angeklagten"
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "nach Abwägung der für und gegen den Angeklagten sprechenden Umstände"
+            "category": "Abwaegung",
+            "quote": "nach Abwaegung der für und gegen den Angeklagten sprechenden Umstände"
         }
     ]
 }

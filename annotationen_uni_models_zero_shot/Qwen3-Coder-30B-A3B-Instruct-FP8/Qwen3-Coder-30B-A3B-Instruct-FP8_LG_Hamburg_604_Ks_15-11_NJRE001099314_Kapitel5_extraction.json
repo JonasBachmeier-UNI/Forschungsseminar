@@ -42,28 +42,28 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Vorstrafen (insb. einschlägig), Bewährungsbruch, Hafterfahrung."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Die Angeklagte hat das Tatgeschehen vollumfänglich eingeräumt"
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Nichtiges Motiv, Eifersucht, Rache, Besitzdenken."
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Flucht, Leichenbeseitigung, fehlende Hilfeleistung, Gleichgültigkeit."
         },
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Nach Abwägung aller Umstände..."
+            "quote": "Nach Abwaegung aller Umstände..."
         }
     ]
 }

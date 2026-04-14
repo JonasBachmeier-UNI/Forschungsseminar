@@ -17,23 +17,23 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
-            "quote": "Strafschärfend hat die Kammer allerdings das konkrete Tatbild, namentlich die besonders drastisch entwürdigende und von bemerkenswerter Empathielosigkeit geprägte glorifizierende Darstellung des getöteten Soldaten im kontextuellen Zusammenhang zu den zum Zeitpunkt der Tat andauernden Angriffen der Hamas auf Israel gewertet."
+            "category": "Schaerfend",
+            "quote": "StrafSchaerfend hat die Kammer allerdings das konkrete Tatbild, namentlich die besonders drastisch entwürdigende und von bemerkenswerter Empathielosigkeit geprägte glorifizierende Darstellung des getöteten Soldaten im kontextuellen Zusammenhang zu den zum Zeitpunkt der Tat andauernden Angriffen der Hamas auf Israel gewertet."
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Soweit die Angeklagte durch diese Tat zugleich den Straftatbestand der Billigung von Straftaten verwirklicht hat, waren zu ihren Lasten auch ihre antisemitischen Beweggründe gemäß § 46 Abs. 2 Satz 2 StGB zu berücksichtigen."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
-            "quote": "Nach Abwägung all dessen hat sie für diese Tat auf eine Einzelfreiheitsstrafe von einem Jahr und zwei Monaten als tat- und schuldangemessen erkannt."
+            "category": "Abwaegung",
+            "quote": "Nach Abwaegung all dessen hat sie für diese Tat auf eine Einzelfreiheitsstrafe von einem Jahr und zwei Monaten als tat- und schuldangemessen erkannt."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
-            "quote": "Auch hier wurden strafmildernd die oben ausgeführten, für alle Fälle zutreffenden Strafzumessungserwägungen herangezogen. Strafschärfend wurde indes das konkrete Tatbild bewertet, insbesondere der relativ große Adressatenkreis der Aufforderung und die durch die Ereignisse im Gazastreifen an und nach dem 7. Oktober 2023 sowie die bereits erfolgten gewalttätigen Ausschreitungen in Berlin erheblich aufgeheizte Situation, in die die Aufforderung der Angeklagten fiel. Danach hat die Kammer auch für diese Tat eine Einzelfreiheitsstrafe von einem Jahr und zwei Monaten als tat- und schuldangemessen erachtet."
+            "category": "Abwaegung",
+            "quote": "Auch hier wurden strafmildernd die oben ausgeführten, für alle Fälle zutreffenden Strafzumessungserwägungen herangezogen. StrafSchaerfend wurde indes das konkrete Tatbild bewertet, insbesondere der relativ große Adressatenkreis der Aufforderung und die durch die Ereignisse im Gazastreifen an und nach dem 7. Oktober 2023 sowie die bereits erfolgten gewalttätigen Ausschreitungen in Berlin erheblich aufgeheizte Situation, in die die Aufforderung der Angeklagten fiel. Danach hat die Kammer auch für diese Tat eine Einzelfreiheitsstrafe von einem Jahr und zwei Monaten als tat- und schuldangemessen erachtet."
         },
         {
             "tag": "Strafrahmen",
@@ -77,8 +77,8 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
-            "quote": "Unter nochmaliger Abwägung aller für und gegen die Angeklagte sprechenden Umstände sowie unter Berücksichtigung des engen zeitlichen Zusammenhangs der Taten 2 bis 4 und des engen situativen Zusammenhangs zwischen den Taten 3 und 4 hat die Kammer eine Gesamtfreiheitsstrafe von"
+            "category": "Abwaegung",
+            "quote": "Unter nochmaliger Abwaegung aller für und gegen die Angeklagte sprechenden Umstände sowie unter Berücksichtigung des engen zeitlichen Zusammenhangs der Taten 2 bis 4 und des engen situativen Zusammenhangs zwischen den Taten 3 und 4 hat die Kammer eine Gesamtfreiheitsstrafe von"
         },
         {
             "tag": "Strafhoehe",
@@ -102,7 +102,7 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Die Kammer hat nach einer Gesamtwürdigung der Taten und der Täterpersönlichkeit insbesondere auf Grund der fehlenden Vorstrafen und der weitgehend geständigen Einlassung der Angeklagten zugleich besondere Umstände erkannt, die trotz der verhängten Gesamtfreiheitsstrafe von über einem Jahr die Aussetzung der Strafvollstreckung zur Bewährung rechtfertigen."
         }
     ]

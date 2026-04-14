@@ -52,12 +52,12 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Nach Gesamtwürdigung der erörterten Gesichtspunkte bejaht die Kammer die Schwere der Schuld gemäß § 17 Abs. 2 JGG."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Unter Berücksichtigung aller Umstände, vorrangig dem Erziehungsgedanken unter Beachtung des Erfordernisses eines gerechten Schuldausgleichs, erschien der Kammer die Verhängung einer Jugendstrafe von 3 Jahren 6 Monaten angemessen."
         },
         {
@@ -92,17 +92,17 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Andererseits hat der Angeklagte die Tat in einer die Tatbestandsmäßigkeit einer Körperverletzung weit übersteigenden, brutalen und hochgradig gefährlichen Weise mittels eines in die Gaststätte trotz Sicherheitskontrollen mitgeführten gefährlichen Werkzeugs i.S.d. § 224 Abs. 1 Nr. 2 StGB begangen."
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "In der Tat des Angeklagten sind eine hohe Gewaltbereitschaft und eine geringe Hemmschwelle zur Begehung einer (gefährlichen) Körperverletzung zum Ausdruck gekommen."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Trotz der Milderungsgründe, deren Bedeutung nicht verkannt wird, und auch unter Berücksichtigung des Umstands, dass sich die Tat letztlich als Eskalation zum Ende einer Auseinandersetzung darstellt, weicht die Tat nicht vom Durchschnitt der gewöhnlich vorkommenden Fälle einer Körperverletzung mit Todesfolge nach unten hin ab und auch die Schuld des Angeklagten hebt sich nicht nach unten vom Regelfall des § 227 StGB ab."
         }
     ]

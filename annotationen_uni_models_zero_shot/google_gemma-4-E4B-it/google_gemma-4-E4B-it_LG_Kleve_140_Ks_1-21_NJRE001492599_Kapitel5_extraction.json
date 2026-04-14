@@ -27,8 +27,8 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
-            "quote": "B3 eine Gesamtabwägung unter Berücksichtigung aller nachfolgend aufgeführten Milderungsgründe ergibt nicht, dass die vorliegende Tat vom \"Normalfall\" der vorsätzlichen Tötung in einem solchen Grad abweicht, dass die Anwendung des Regelstrafrahmens unangemessen erscheint."
+            "category": "Abwaegung",
+            "quote": "B3 eine GesamtAbwaegung unter Berücksichtigung aller nachfolgend aufgeführten Milderungsgründe ergibt nicht, dass die vorliegende Tat vom \"Normalfall\" der vorsätzlichen Tötung in einem solchen Grad abweicht, dass die Anwendung des Regelstrafrahmens unangemessen erscheint."
         },
         {
             "tag": "Gestaendnis",
@@ -57,7 +57,7 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Dass die Angeklagte sich schon seit einigen Monaten in Untersuchungshaft befindet, hat dagegen hier keinen strafmildernden Wert, da T6 ja ohnehin zu einer weit längerfristigeren Freiheitsstrafe verurteilt wird."
         },
         {
@@ -67,8 +67,8 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
-            "quote": "Nach Gesamtabwägung aller zugunsten und zu Lasten der Angeklagten sprechenden Umstände ist eine Freiheitsstrafe von 5 Jahren und 6 Monaten tat- und schuldangemessen."
+            "category": "Abwaegung",
+            "quote": "Nach GesamtAbwaegung aller zugunsten und zu Lasten der Angeklagten sprechenden Umstände ist eine Freiheitsstrafe von 5 Jahren und 6 Monaten tat- und schuldangemessen."
         },
         {
             "tag": "Strafhoehe",

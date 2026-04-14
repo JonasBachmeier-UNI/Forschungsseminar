@@ -12,12 +12,12 @@
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Der Hof spielte für seine Altersversorgung zwar eine wichtige Rolle."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Der Angeklagte hat seinen Bruder F vorsätzlich mit einem einzelnen aufgesetzten Genickschuss getötet."
         },
         {
@@ -37,8 +37,8 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
-            "quote": "Die Kammer hat bei der vorgenommenen Gesamtabwägung sämtlicher tat- und täterbezogenen Merkmale, die als Indizien für und gegen die Annahme eines schuldrelevanten Affekts sprechen können, berücksichtigt, dass sich bei dem Angeklagten über die Jahre ein gewisser Affektstau aufgebaut hatte, der sich in der Tat entlud."
+            "category": "Abwaegung",
+            "quote": "Die Kammer hat bei der vorgenommenen GesamtAbwaegung sämtlicher tat- und täterbezogenen Merkmale, die als Indizien für und gegen die Annahme eines schuldrelevanten Affekts sprechen können, berücksichtigt, dass sich bei dem Angeklagten über die Jahre ein gewisser Affektstau aufgebaut hatte, der sich in der Tat entlud."
         },
         {
             "tag": "Enthemmung_Psychologie",
@@ -62,8 +62,8 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
-            "quote": "Unter Abwägung der für und gegen das Vorliegen einer schuldrelevanten affektiven Erregung sprechenden Umstände kommt die Kammer zu dem Ergebnis, dass diejenigen genannten Merkmale, die gegen eine tiefgreifende Bewusstseinsstörung sprechen, deutlich überwiegen."
+            "category": "Abwaegung",
+            "quote": "Unter Abwaegung der für und gegen das Vorliegen einer schuldrelevanten affektiven Erregung sprechenden Umstände kommt die Kammer zu dem Ergebnis, dass diejenigen genannten Merkmale, die gegen eine tiefgreifende Bewusstseinsstörung sprechen, deutlich überwiegen."
         },
         {
             "tag": "Enthemmung_Psychologie",
@@ -87,7 +87,7 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Die Kammer hat im Rahmen der durchgeführten Gesamtbetrachtung einerseits berücksichtigt, dass der Tat eine seit Jahrzehnten belastete Täter-​Opfer-​Beziehung zugrunde liegt, die den Angeklagten in seinem Wesen geprägt hat. Andererseits sprechen gewichtige Beweisanzeichen für den Erhalt seiner Hemmungsfähigkeit."
         }
     ]

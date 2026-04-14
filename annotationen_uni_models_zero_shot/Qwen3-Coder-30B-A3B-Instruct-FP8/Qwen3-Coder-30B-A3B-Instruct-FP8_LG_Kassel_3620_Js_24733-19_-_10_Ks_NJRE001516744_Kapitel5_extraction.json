@@ -57,17 +57,17 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Der Angeklagte vorbestraft ist"
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "der Angeklagte vorbestraft ist und zum Tatzeitpunkt unter Bewährung stand"
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "sein Verhalten Grund dafür war, dass der Leichnam von W. P. erst später nach der Tat und insbesondere in verwestem Zustand aufgefunden werden konnte"
         },
         {
@@ -78,7 +78,7 @@
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Unter zusammenfassender Abwägung des Unrechtsgehaltes, sowie angesichts aller zuvor ausgeführten für und gegen den Angeklagten streitenden Strafzumessungsgesichtspunkte hält die Kammer letztlich eine Einzelstrafe von neun Jahren Freiheitsstrafe für tat- und schuldangemessen."
+            "quote": "Unter zusammenfassender Abwaegung des Unrechtsgehaltes, sowie angesichts aller zuvor ausgeführten für und gegen den Angeklagten streitenden Strafzumessungsgesichtspunkte hält die Kammer letztlich eine Einzelstrafe von neun Jahren Freiheitsstrafe für tat- und schuldangemessen."
         },
         {
             "tag": "Gesamtwuerdigung",
@@ -92,7 +92,7 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "die konkrete brutale Tatausführung"
         }
     ]

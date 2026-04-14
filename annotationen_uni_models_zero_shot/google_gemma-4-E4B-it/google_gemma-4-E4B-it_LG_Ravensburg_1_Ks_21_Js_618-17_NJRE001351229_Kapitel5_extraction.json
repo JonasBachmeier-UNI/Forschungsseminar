@@ -27,12 +27,12 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
-            "quote": "Demgegenüber war strafschärfend zu sehen, dass der Angeklagte durch die Tat zwei strafrechtliche Tatbestände in Tateinheit verwirklicht hat."
+            "category": "Schaerfend",
+            "quote": "Demgegenüber war strafSchaerfend zu sehen, dass der Angeklagte durch die Tat zwei strafrechtliche Tatbestände in Tateinheit verwirklicht hat."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Überdies richtete sich die durch eine Vielzahl von Beleidigungen und massive Bedrohungen geprägte Tat auch gegen zwei verschiedene Personen."
         },
         {
@@ -42,12 +42,12 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Unter Berücksichtigung sämtlicher Umstände hielt die Kammer die Verhängung einer"
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Dabei hat die Kammer im Hinblick auf die Regelung des § 47 Abs. 1 StGB namentlich geprüft, ob gegen den Angeklagten auch die Verhängung einer Geldstrafe ausreichen kann. Insbesondere im Hinblick auf die Vielzahl der Beleidigungen und der massiven Bedrohungen - wobei sich Letzteres wenige Tage später im Fall Ziff. II.5.2 wiederholte - erschien die Verhängung einer kurzen Freiheitsstrafe zur Einwirkung auf den Angeklagten unerlässlich."
         },
         {
@@ -57,7 +57,7 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "nach Gegenüberstellung aller wesentlichen Zumessungsfaktoren für angemessen hielt. Die Tat weicht in der Gesamtschau aller die Tat und die Person betreffenden Umstände von den üblicherweise vorkommenden Tatbegehungen soweit nach unten ab, dass die Anwendung des milderen Ausnahmestrafrahmens angezeigt schien."
         },
         {
@@ -67,17 +67,17 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
-            "quote": "Strafschärfend wirkte sich demgegenüber aus, dass es sich um ein Mehrfaches der nicht geringen Menge einer vergleichsweise harten Droge mit hohem Suchtpotenzial handelte."
+            "category": "Schaerfend",
+            "quote": "StrafSchaerfend wirkte sich demgegenüber aus, dass es sich um ein Mehrfaches der nicht geringen Menge einer vergleichsweise harten Droge mit hohem Suchtpotenzial handelte."
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Dass der Angeklagte bereits und z.T. einschlägig in Erscheinung getreten ist, wurde zwar ebenfalls erschwerend bedacht, wobei diesem Gesichtspunkt angesichts der lange zurückliegenden Vorstrafen weniger Gewicht beizumessen war."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Innerhalb des gewählten Strafrahmens hat die Kammer nochmals alle für und gegen den Angeklagten sprechenden Umstände herangezogen und gewichtet. Unter Berücksichtigung aller Umstände erschien die Verhängung einer"
         },
         {
@@ -87,7 +87,7 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "als insgesamt angemessener Schuldausgleich."
         },
         {
@@ -102,7 +102,7 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Einen sonst minder schweren Fall nach § 213 StGB hat sie nach einer Gesamtbewertung aller Umstände - sowohl ohne als auch mit zusätzlicher Heranziehung des vertypten Milderungsgrundes des Versuchs - verneint."
         },
         {
@@ -122,22 +122,22 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
-            "quote": "Demgegenüber zeigen sich straferschwerende Gesichtspunkte ebenso gewichtig. So mussten sich strafschärfend die dem Geschädigten im Rahmen der mehraktigen und überaus nachhaltigen Tatbegehung zugefügten Verletzungen und die diesem entstandenen körperlichen und psychischen Folgen auswirken."
+            "category": "Abwaegung",
+            "quote": "Demgegenüber zeigen sich straferschwerende Gesichtspunkte ebenso gewichtig. So mussten sich strafSchaerfend die dem Geschädigten im Rahmen der mehraktigen und überaus nachhaltigen Tatbegehung zugefügten Verletzungen und die diesem entstandenen körperlichen und psychischen Folgen auswirken."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Die dem Angeklagten zuzurechnenden psychischen und körperlichen Folgen der zusätzlich tateinheitlich begangenen vorsätzlichen Körperverletzung - mit 16 Zahnarztbesuchen und drei Operationen - waren erheblich."
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Auch die Vorstrafen des Angeklagten waren - angesichts des Umstands, dass diese nicht einschlägig waren und auch über zehn Jahre zurückliegen, allerdings nur in geringem Maße - zu berücksichtigen."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Insgesamt sah sich die Kammer auch angesichts des Gesamttatbildes nicht veranlasst, den Ausnahmestrafrahmen des § 213 StGB heranzuziehen; demgegenüber erschien ihr der Strafrahmen des § 212 StGB angemessen, den sie insbesondere in Anbetracht der verglichen mit anderen versuchten Tötungsdelikten noch überschaubaren Folgen nach §§ 22, 23, 49 StGB gemildert hat."
         },
         {
@@ -147,7 +147,7 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Innerhalb dieses gemilderten Strafrahmens des § 212 StGB hat die Kammer die angeführten für und gegen den Angeklagten sprechenden Umstände nochmals herangezogen und gegeneinander abgewogen. Unter Berücksichtigung aller Umstände und des Tatbilds hielt sie eine"
         },
         {
@@ -157,7 +157,7 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "für die dem Unrecht der Tat und der Persönlichkeit des Angeklagten gerecht werdende, schuldangemessene Strafe."
         },
         {
@@ -172,13 +172,13 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
-            "quote": "Strafschärfend wirkte sich neben den nicht einschlägigen und lange zurückliegenden Vorstrafen insbesondere aus, dass der Angeklagte die Tat in Kenntnis mehrerer gegen ihn anhängiger Ermittlungsverfahren, unter anderem auch wegen Bedrohung und Beleidigung, begangen hat und die gegen den Geschädigten W. gerichtete Drohung durch die besonders massive und nachhaltige Äußerung geprägt ist."
+            "category": "Schaerfend",
+            "quote": "StrafSchaerfend wirkte sich neben den nicht einschlägigen und lange zurückliegenden Vorstrafen insbesondere aus, dass der Angeklagte die Tat in Kenntnis mehrerer gegen ihn anhängiger Ermittlungsverfahren, unter anderem auch wegen Bedrohung und Beleidigung, begangen hat und die gegen den Geschädigten W. gerichtete Drohung durch die besonders massive und nachhaltige Äußerung geprägt ist."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
-            "quote": "Nach Abwägung aller Umstände hielt die Kammer die Verhängung einer"
+            "category": "Abwaegung",
+            "quote": "Nach Abwaegung aller Umstände hielt die Kammer die Verhängung einer"
         },
         {
             "tag": "Strafhoehe",
@@ -187,12 +187,12 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "für tat- und schuldangemessen."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Auch hier hat die Kammer im Hinblick auf die Regelung des § 47 Abs. 1 StGB in den Blick genommen, ob gegen den Angeklagten auch die Verhängung einer Geldstrafe ausreichen kann. Insbesondere im Hinblick auf die binnen weniger Tage trotz laufenden Ermittlungsverfahrens wiederholte ähnliche, durchaus auch hier wieder nachhaltige Tatbegehung erschien indes auch hier die Verhängung einer kurzen Freiheitsstrafe zur Einwirkung auf den Angeklagten unerlässlich."
         },
         {
@@ -202,7 +202,7 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "weil die erforderliche Gesamtbetrachtung, bei der alle Umstände heranzuziehen und zu würdigen sind, die für die Wertung der Tat und des Täters in Betracht kommen, gleich, ob sie der Tat selbst innewohnen, sie begleiten, ihr vorausgehen oder nachfolgen, ergab, dass ein minder schwerer Fall anzunehmen ist."
         },
         {
@@ -212,22 +212,22 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Überdies war die Grenze zur nichtgeringen Menge nur überaus knapp überschritten."
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
-            "quote": "Strafschärfend wirkte sich demgegenüber aus, dass der Tat die vergleichsweise harte Droge Kokain zugrunde lag sowie, dass der Angeklagte bereits einschlägig, wenngleich über zehn Jahre zurückliegend, in Erscheinung trat und die Tat lediglich wenige Tage nach Sicherstellung einer größeren Menge Kokain durch die Polizei - also in Kenntnis eines neuen, gegen ihn laufenden Ermittlungsverfahrens - begangen hat."
+            "category": "Schaerfend",
+            "quote": "StrafSchaerfend wirkte sich demgegenüber aus, dass der Tat die vergleichsweise harte Droge Kokain zugrunde lag sowie, dass der Angeklagte bereits einschlägig, wenngleich über zehn Jahre zurückliegend, in Erscheinung trat und die Tat lediglich wenige Tage nach Sicherstellung einer größeren Menge Kokain durch die Polizei - also in Kenntnis eines neuen, gegen ihn laufenden Ermittlungsverfahrens - begangen hat."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Im Ergebnis erschien es, namentlich angesichts der Rauschgift- und Wirkstoffmenge, dennoch angemessen, von einem minder schweren Fall auszugehen."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Innerhalb des gewählten Strafrahmens hat die Kammer alle für und gegen den Angeklagten sprechenden Umstände erneut herangezogen und bewertet. Hiernach hielt sie letztlich die Verhängung einer"
         },
         {
@@ -237,22 +237,22 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "für tat- und schuldangemessen."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Bei der gem. § 53 StGB zu bildenden Gesamtstrafe hat die Kammer - ausgehend von der Einsatzstrafe von 5 Jahren - nochmals alle für und gegen den Angeklagten sprechenden Umstände im Rahmen einer Gesamtwürdigung gegenübergestellt und eine Würdigung des Gesamtbildes sowie des Unrechtsgehalts der Taten vorgenommen."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Bei ihrer Gesamtschau der Taten hat die Kammer besonders das Verhältnis der einzelnen Straftaten zueinander, ihren Zusammenhang, den Umfang ihrer Selbständigkeit, die Verletzung höchstpersönlicher Rechtsgüter verschiedener Personen, die teils ähnliche Begehungsweise und das Gesamtgewicht des abzuurteilenden Sachverhalts berücksichtigt. Ferner hat die Kammer die Person des Angeklagten, seine Strafempfänglichkeit und das Maß der verwirklichten Gesamtschuld zusammenfassend gewürdigt und die Frage, ob die Taten einem kriminellen Hang entspringen oder ob es sich um Gelegenheitsdelikte ohne innere Verbindung handelt, in den Blick genommen."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Dabei hat sie besonders den einerseits zeitlich und sachlich - in Bezug auf den sämtlichen Taten zugrunde liegenden Kokainkonsum - engen Zusammenhang zwischen den Taten gesehen, andererseits aber auch den Umstand, dass sich die durchaus unterschiedlich gelagerten Taten gegen verschiedenste Rechtsgüter und mehrere Personen richteten."
         },
         {
@@ -262,7 +262,7 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "als der dem Gesamtunrecht und der Persönlichkeit des Angeklagten insgesamt gerecht werdende Schuldausgleich."
         }
     ]

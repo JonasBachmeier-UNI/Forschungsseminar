@@ -12,7 +12,7 @@
  
 	
  
-214	Demgegenüber war strafschärfend zu sehen, dass der Angeklagte durch die Tat zwei strafrechtliche Tatbestände in Tateinheit verwirklicht hat. Überdies richtete sich die durch eine Vielzahl von Beleidigungen und massive Bedrohungen geprägte Tat auch gegen zwei verschiedene Personen.
+214	Demgegenüber war strafSchaerfend zu sehen, dass der Angeklagte durch die Tat zwei strafrechtliche Tatbestände in Tateinheit verwirklicht hat. Überdies richtete sich die durch eine Vielzahl von Beleidigungen und massive Bedrohungen geprägte Tat auch gegen zwei verschiedene Personen.
  
 	
  
@@ -36,7 +36,7 @@
  
 	
  
-220	Strafschärfend wirkte sich demgegenüber aus, dass es sich um ein Mehrfaches der nicht geringen Menge einer vergleichsweise harten Droge mit hohem Suchtpotenzial handelte. Dass der Angeklagte bereits und z.T. einschlägig in Erscheinung getreten ist, wurde zwar ebenfalls erschwerend bedacht, wobei diesem Gesichtspunkt angesichts der lange zurückliegenden Vorstrafen weniger Gewicht beizumessen war.
+220	StrafSchaerfend wirkte sich demgegenüber aus, dass es sich um ein Mehrfaches der nicht geringen Menge einer vergleichsweise harten Droge mit hohem Suchtpotenzial handelte. Dass der Angeklagte bereits und z.T. einschlägig in Erscheinung getreten ist, wurde zwar ebenfalls erschwerend bedacht, wobei diesem Gesichtspunkt angesichts der lange zurückliegenden Vorstrafen weniger Gewicht beizumessen war.
  
 	
  
@@ -68,7 +68,7 @@
  
 	
  
-228	Demgegenüber zeigen sich straferschwerende Gesichtspunkte ebenso gewichtig. So mussten sich strafschärfend die dem Geschädigten im Rahmen der mehraktigen und überaus nachhaltigen Tatbegehung zugefügten Verletzungen und die diesem entstandenen körperlichen und psychischen Folgen auswirken. Die dem Angeklagten zuzurechnenden psychischen und körperlichen Folgen der zusätzlich tateinheitlich begangenen vorsätzlichen Körperverletzung - mit 16 Zahnarztbesuchen und drei Operationen - waren erheblich. Auch die Vorstrafen des Angeklagten waren - angesichts des Umstands, dass diese nicht einschlägig waren und auch über zehn Jahre zurückliegen, allerdings nur in geringem Maße - zu berücksichtigen.
+228	Demgegenüber zeigen sich straferschwerende Gesichtspunkte ebenso gewichtig. So mussten sich strafSchaerfend die dem Geschädigten im Rahmen der mehraktigen und überaus nachhaltigen Tatbegehung zugefügten Verletzungen und die diesem entstandenen körperlichen und psychischen Folgen auswirken. Die dem Angeklagten zuzurechnenden psychischen und körperlichen Folgen der zusätzlich tateinheitlich begangenen vorsätzlichen Körperverletzung - mit 16 Zahnarztbesuchen und drei Operationen - waren erheblich. Auch die Vorstrafen des Angeklagten waren - angesichts des Umstands, dass diese nicht einschlägig waren und auch über zehn Jahre zurückliegen, allerdings nur in geringem Maße - zu berücksichtigen.
  
 	
  
@@ -96,11 +96,11 @@
  
 	
  
-235	Strafschärfend wirkte sich neben den nicht einschlägigen und lange zurückliegenden Vorstrafen insbesondere aus, dass der Angeklagte die Tat in Kenntnis mehrerer gegen ihn anhängiger Ermittlungsverfahren, unter anderem auch wegen Bedrohung und Beleidigung, begangen hat und die gegen den Geschädigten W. gerichtete Drohung durch die besonders massive und nachhaltige Äußerung geprägt ist.
+235	StrafSchaerfend wirkte sich neben den nicht einschlägigen und lange zurückliegenden Vorstrafen insbesondere aus, dass der Angeklagte die Tat in Kenntnis mehrerer gegen ihn anhängiger Ermittlungsverfahren, unter anderem auch wegen Bedrohung und Beleidigung, begangen hat und die gegen den Geschädigten W. gerichtete Drohung durch die besonders massive und nachhaltige Äußerung geprägt ist.
  
 	
  
-236	Nach Abwägung aller Umstände hielt die Kammer die Verhängung einer
+236	Nach Abwaegung aller Umstände hielt die Kammer die Verhängung einer
  
 	
  
@@ -124,7 +124,7 @@
  
 	
  
-242	Strafschärfend wirkte sich demgegenüber aus, dass der Tat die vergleichsweise harte Droge Kokain zugrunde lag sowie, dass der Angeklagte bereits einschlägig, wenngleich über zehn Jahre zurückliegend, in Erscheinung trat und die Tat lediglich wenige Tage nach Sicherstellung einer größeren Menge Kokain durch die Polizei - also in Kenntnis eines neuen, gegen ihn laufenden Ermittlungsverfahrens - begangen hat.
+242	StrafSchaerfend wirkte sich demgegenüber aus, dass der Tat die vergleichsweise harte Droge Kokain zugrunde lag sowie, dass der Angeklagte bereits einschlägig, wenngleich über zehn Jahre zurückliegend, in Erscheinung trat und die Tat lediglich wenige Tage nach Sicherstellung einer größeren Menge Kokain durch die Polizei - also in Kenntnis eines neuen, gegen ihn laufenden Ermittlungsverfahrens - begangen hat.
  
 	
  
@@ -160,7 +160,7 @@
  
 	
  
-251	Unter nochmaliger Abwägung aller Umstände erschien die Festsetzung einer Gesamtstrafe von
+251	Unter nochmaliger Abwaegung aller Umstände erschien die Festsetzung einer Gesamtstrafe von
  
 	
  

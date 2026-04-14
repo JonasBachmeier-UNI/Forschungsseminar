@@ -13,7 +13,7 @@
         {
             "tag": "Strafrahmen",
             "category": "Formalia",
-            "quote": "Einen minder schweren Fall des Totschlags hat die Kammer geprüft, im Ergebnis der durchzuführenden Gesamtabwägung aber nicht angenommen:"
+            "quote": "Einen minder schweren Fall des Totschlags hat die Kammer geprüft, im Ergebnis der durchzuführenden GesamtAbwaegung aber nicht angenommen:"
         },
         {
             "tag": "Gesetzesgrundlage",
@@ -92,22 +92,22 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
+            "category": "Abwaegung",
             "quote": "Es gab allerdings eine Reihe von Strafzumessungsfaktoren, die für den Angeklagten günstig sind."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
+            "category": "Abwaegung",
             "quote": "Im Rahmen der Gesamtschau wiegen angesichts des von dem Angeklagten bei der Tat verwirklichten Handlungs- und Erfolgsunrechts die für ihn sprechenden Aspekte nicht derart, dass die Annahme eines minder schweren Falles i.S.d. § 213 Alt. 2 StGB gerechtfertigt wäre."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
+            "category": "Abwaegung",
             "quote": "Im Rahmen der konkreten Strafzumessung der Tat zu 2. wird auf die zur abstrakten Strafrahmenwahl gemachten Ausführungen verwiesen."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
+            "category": "Abwaegung",
             "quote": "Bei der Bildung der Gesamtstrafe sind die oben im einzelnen geschilderten Strafzumessungserwägungen, auf die zur Vermeidung von Wiederholungen Bezug genommen wird, erneut berücksichtigt worden."
         }
     ]

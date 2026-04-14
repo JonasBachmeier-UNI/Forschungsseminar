@@ -37,7 +37,7 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "der strafrechtlich erheblich vorbelastete, auch bereits wiederholt durch Widerstand gegen Vollstreckungsbeamte und Körperverletzungsdelikte aufgefallene"
         },
         {
@@ -52,18 +52,18 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "hat einen Menschen zu töten versucht und diesem ganz besonders schwerwiegende Gesichtsverletzungen zugefügt"
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "er sich ungeachtet der offensichtlich schlimmen Folgen seiner Tat zum Nachteil des Nebenklägers schon am folgenden Morgen erneut einer polizeilichen Maßnahme widersetzt und dabei unmittelbar dazu angesetzt hat, einen Polizeibeamten - KHK H. - körperlich zu verletzen"
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "Schließlich ergibt die Abwägung aller vorgenannten Umstände"
+            "category": "Abwaegung",
+            "quote": "Schließlich ergibt die Abwaegung aller vorgenannten Umstände"
         }
     ]
 }

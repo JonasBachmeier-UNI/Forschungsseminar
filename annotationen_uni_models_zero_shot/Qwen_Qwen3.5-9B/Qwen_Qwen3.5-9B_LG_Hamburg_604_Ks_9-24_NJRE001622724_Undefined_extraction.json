@@ -22,8 +22,8 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "Schwere der vom Geschädigten erlittenen Verletzung und der weiteren strafschärfenden Strafzumessungsgesichtspunkte"
+            "category": "Abwaegung",
+            "quote": "Schwere der vom Geschädigten erlittenen Verletzung und der weiteren strafSchaerfenden Strafzumessungsgesichtspunkte"
         },
         {
             "tag": "Tatprovokation",
@@ -52,23 +52,23 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "mehrfach einschlägig vorbestraft ist"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "erhebliche Verletzungsfolgen erlitten. So schloss sich an die Tatbegehung ein zweiwöchiger Krankenhausaufenthalt an, der Geschädigte musste zwei Mal operiert werden. Nach der Tat war der Geschädigte für die Dauer von fünf Monaten arbeitsunfähig und leidet bis heute an durch die Tat verursachten Schmerzen"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "in Verletzungsabsicht handelte, bei der Begehung der Tat unter Führungsaufsicht stand, er allein schon durch das Beisichführen des Messers gegen das ihm auferlegte Waffenverbot verstoßen hat und er die Tat in einem öffentlichen Park und in der Nähe eines Kinderspielplatzes begangen hat"
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "Gesamtschau und Abwägung der Strafzumessungsgesichtspunkte"
+            "category": "Abwaegung",
+            "quote": "Gesamtschau und Abwaegung der Strafzumessungsgesichtspunkte"
         },
         {
             "tag": "Strafhoehe",

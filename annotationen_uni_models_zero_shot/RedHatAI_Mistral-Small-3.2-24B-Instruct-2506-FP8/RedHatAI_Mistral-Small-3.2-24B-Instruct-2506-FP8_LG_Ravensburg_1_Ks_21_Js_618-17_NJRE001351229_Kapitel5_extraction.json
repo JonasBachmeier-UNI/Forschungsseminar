@@ -52,7 +52,7 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "ist bereits und z.T. einschlägig in Erscheinung getreten"
         },
         {
@@ -92,12 +92,12 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "die dem Geschädigten im Rahmen der mehraktigen und überaus nachhaltigen Tatbegehung zugefügten Verletzungen und die diesem entstandenen körperlichen und psychischen Folgen"
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "die Vorstrafen des Angeklagten"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "lange zurückliegenden Vorstrafen"
         },
         {
@@ -127,7 +127,7 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "ist bereits einschlägig, wenngleich über zehn Jahre zurückliegend, in Erscheinung trat"
         },
         {
@@ -163,7 +163,7 @@
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Nach Abwägung aller Umstände"
+            "quote": "Nach Abwaegung aller Umstände"
         }
     ]
 }

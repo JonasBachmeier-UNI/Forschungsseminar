@@ -57,13 +57,13 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "erheblicher Brutalität vorgegangen ist"
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "Nach Abwägung aller für und gegen den Angeklagten W. sprechenden Umstände"
+            "category": "Abwaegung",
+            "quote": "Nach Abwaegung aller für und gegen den Angeklagten W. sprechenden Umstände"
         },
         {
             "tag": "Strafhoehe",
@@ -87,13 +87,13 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "bereits einschlägig vorbestraft"
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "Nach Abwägung insbesondere dieser Umstände"
+            "category": "Abwaegung",
+            "quote": "Nach Abwaegung insbesondere dieser Umstände"
         },
         {
             "tag": "Strafhoehe",

@@ -9,7 +9,7 @@ ANWEISUNG ZUR FORMATIERUNG (WICHTIG FÜR CATMA):
 3. Jedes Objekt muss folgende Felder haben:
    - "tag": Der exakte Name des Tags aus der Liste unten.
    - "quote": Das EXAKTE Zitat aus dem Text (Copy & Paste). Verändere kein einziges Zeichen, damit es im Text wiedergefunden werden kann.
-   - "category": Die Oberkategorie (z.B. "Mildernd", "Schärfend").
+   - "category": Die Oberkategorie (z.B. "Mildernd", "Schaerfend").
 
 TAG-SCHEMA (Nutze nur diese Tags):
 
@@ -18,7 +18,7 @@ KATEGORIE: FORMALIA (Fakten)
 - "GESETZESGRUNDLAGE": Die angewendeten Paragraphen (z.B. "§ 212 StGB", "§ 213 StGB").
 - "STRAFRAHMEN": Der zugrunde gelegte Strafrahmen (z.B. "minder schwerer Fall", "Regelstrafrahmen").
 
-KATEGORIE: MILDERND (Zugunsten des Täters)
+KATEGORIE: Mildernd (Zugunsten des Täters)
 - "GESTAENDNIS": Erwähnung eines Geständnisses, Teilgeständnisses oder der Einlassung.
 - "REUE_EINSICHT": Ausdrückliche Reue, Entschuldigung oder Schuldeinsicht.
 - "VORLEBEN_POSITIV": Keine Vorstrafen, geregeltes Leben, positive Sozialprognose.
@@ -26,14 +26,14 @@ KATEGORIE: MILDERND (Zugunsten des Täters)
 - "TATPROVOKATION": Vorangegangenes Verhalten des Opfers, das die Tat auslöste.
 - "HAFTEMPFINDLICHKEIT": Besonderes Alter, Krankheit oder Suizidgefahr des Täters.
 
-KATEGORIE: SCHAERFEND (Zu Lasten des Täters)
+KATEGORIE: Schaerfend (Zu Lasten des Täters)
 - "VORLEBEN_NEGATIV": Vorstrafen (insb. einschlägig), Bewährungsbruch, Hafterfahrung.
 - "TATBILD_BRUTALITAET": Besondere Härte der Ausführung, Anzahl der Stiche/Schläge, Leiden des Opfers.
 - "MOTIV_VERWERFLICH": Nichtiges Motiv, Eifersucht, Rache, Besitzdenken.
 - "NACHTATVERHALTEN_NEGATIV": Flucht, Leichenbeseitigung, fehlende Hilfeleistung, Gleichgültigkeit.
 
-KATEGORIE: ABWAEGUNG (Argumentation)
-- "GESAMTWUERDIGUNG": Sätze, die explizit Milderungs- und Schärfungsgründe gegeneinander abwiegen (oft eingeleitet mit "Nach Abwägung aller Umstände...").
+KATEGORIE: Abwaegung (Argumentation)
+- "GESAMTWUERDIGUNG": Sätze, die explizit Milderungs- und Schärfungsgründe gegeneinander abwiegen (oft eingeleitet mit "Nach Abwaegung aller Umstände...").
 
 BEISPIEL OUTPUT FORMAT:
 {

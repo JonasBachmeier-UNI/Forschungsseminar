@@ -52,38 +52,38 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass der Angeklagte mehrfach einschlägig vorbestraft ist"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass der Geschädigte durch die Tat erhebliche Verletzungsfolgen erlitten"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass der Geschädigte für die Dauer von fünf Monaten arbeitsunfähig und leidet bis heute an durch die Tat verursachten Schmerzen"
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass der Angeklagte in Verletzungsabsicht handelte"
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass er allein schon durch das Beisichführen des Messers gegen das ihm auferlegte Waffenverbot verstoßen hat"
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass er die Tat in einem öffentlichen Park und in der Nähe eines Kinderspielplatzes begangen hat, weshalb die Tat in besonderem Maße geeignet gewesen ist, das Sicherheitsempfinden der Allgemeinheit negativ zu beeinflussen"
         },
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Im Ergebnis einer Gesamtschau und Abwägung der Strafzumessungsgesichtspunkte"
+            "quote": "Im Ergebnis einer Gesamtschau und Abwaegung der Strafzumessungsgesichtspunkte"
         }
     ]
 }

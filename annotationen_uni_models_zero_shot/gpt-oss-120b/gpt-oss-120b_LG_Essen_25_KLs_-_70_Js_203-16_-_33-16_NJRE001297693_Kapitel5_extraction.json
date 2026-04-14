@@ -47,43 +47,43 @@
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "SCHAERFEND",
+            "category": "Schaerfend",
             "quote": "mit der Heimtücke und dem Handeln aus niedrigen Beweggründen"
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "SCHAERFEND",
+            "category": "Schaerfend",
             "quote": "das stets auf Rache bzw. Selbstjustiz ausgerichtete Handeln des Angeklagten gegen die Familie L/B5"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "SCHAERFEND",
+            "category": "Schaerfend",
             "quote": "Begehungsweise in aller Öffentlichkeit auf offener, belebter Straße (vgl. BGH, NStZ 2005, 88, Rn. 9) mit einem an eine öffentliche Exekution/Hinrichtung erinnernden Geschehen"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "SCHAERFEND",
+            "category": "Schaerfend",
             "quote": "rücksichtslos das Leben völlig unbeteiligter Passanten gefährdet"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "SCHAERFEND",
+            "category": "Schaerfend",
             "quote": "mit der stetigen Steigerung des Maßes der Gewalt von der Verwendung eines Klappmessers, eines Dolches und schließlich eines Buschmessers"
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "SCHAERFEND",
+            "category": "Schaerfend",
             "quote": "die Warnfunktion massiver - jedenfalls im Sinne von Gewaltdelikten einschlägiger - Vorstrafen missachtet"
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Nach einer abschließenden Gesamtwürdigung aller dieser vorgenannten und aller übrigen für und gegen den Angeklagten N sprechenden schuldrelevanten Umstände"
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
-            "quote": "unter Abwägung aller für und gegen den Angeklagten sprechenden Umstände"
+            "category": "Abwaegung",
+            "quote": "unter Abwaegung aller für und gegen den Angeklagten sprechenden Umstände"
         }
     ]
 }

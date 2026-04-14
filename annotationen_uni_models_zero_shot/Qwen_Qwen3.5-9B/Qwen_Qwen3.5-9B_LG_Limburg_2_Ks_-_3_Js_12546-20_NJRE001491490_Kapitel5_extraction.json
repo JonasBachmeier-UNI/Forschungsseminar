@@ -18,21 +18,21 @@
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Die Gesamtabwägung sämtlicher innerer und äußeren Tatumstände ergibt, dass die Intensität des von dem Angeklagten begangenen Unrechts nicht hinter den erfahrungsgemäß gewöhnlich vorkommenden Fällen der gefährlichen Körperverletzung in einem Maß zurückbleibt, das die Anwendung des regulären Strafrahmens unangemessen erscheinen ließe."
+            "quote": "Die GesamtAbwaegung sämtlicher innerer und äußeren Tatumstände ergibt, dass die Intensität des von dem Angeklagten begangenen Unrechts nicht hinter den erfahrungsgemäß gewöhnlich vorkommenden Fällen der gefährlichen Körperverletzung in einem Maß zurückbleibt, das die Anwendung des regulären Strafrahmens unangemessen erscheinen ließe."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Zu Lasten des Angeklagten ist zu berücksichtigen, dass er zwei Qualifikationsmerkmale der gefährlichen Körperverletzung – der Einsatz eines Messers und die lebensgefährliche Behandlung - verwirklicht hat."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Die oberflächliche Schnitt- oder Rissverletzung an der linken Halsseite verfehlte nur knapp die Halsschlagader und ging in dem dynamischen Geschehen mit einer Lebensgefahr einher."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Zwei Messerstichverletzungen am linken Oberschenkel gingen ebenfalls mit einer Lebensgefahr einher, eröffneten die tiefe Oberschenkelarterie und führten zu einer stark spritzenden Blutung, die ohne zeitnahe operative Versorgung zum Tode Nebenklägers geführt hätte."
         },
         {
@@ -61,7 +61,7 @@
             "quote": "Schon der Vollzug von Untersuchungshaft und eine – erstmalige - Strafhaft haben Auswirkungen auf den Familienbetrieb."
         },
         {
-            "tag": "Abwägung",
+            "tag": "Abwaegung",
             "category": "Abwaegung",
             "quote": "Auch unter Berücksichtigung des vertypten Milderungsgrundes des § 21 StGB begründet dies in einer Gesamtschau nicht die Annahme eines minder schweren Falls des § 224 Abs. 1 StGB."
         },
@@ -86,7 +86,7 @@
             "quote": "die Sperrwirkung des § 213 StGB"
         },
         {
-            "tag": "Abwägung",
+            "tag": "Abwaegung",
             "category": "Abwaegung",
             "quote": "Insbesondere liegt kein Fall der Tatprovokation vor."
         },
@@ -101,7 +101,7 @@
             "quote": "3 Jahren und 4 Monaten"
         },
         {
-            "tag": "Abwägung",
+            "tag": "Abwaegung",
             "category": "Abwaegung",
             "quote": "für tat- und schuldangemessen erachtet."
         }

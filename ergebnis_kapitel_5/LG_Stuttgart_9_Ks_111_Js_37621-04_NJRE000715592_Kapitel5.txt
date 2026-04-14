@@ -12,9 +12,9 @@ V. Strafzumessung (Extrakt aus LG_Stuttgart_9_Ks_111_Js_37621-04_NJRE000715592.r
  
 411	Bei der Strafzumessung sprach für den Angeklagten, dass er nicht vorbestraft ist. Strafmildernd war auch zu berücksichtigen, dass es sich in beiden Fällen jeweils um eine Spontantat handelte. Der Angeklagte befindet sich erstmals in Haft und ist aufgrund seines Alters (27 Jahre) erhöht strafempfindlich.
  
-412	Strafschärfend war zu berücksichtigen, dass die sechs Jahre alte Tochter der getöteten O.G. durch die Tat ihre Mutter verloren hat.
+412	StrafSchaerfend war zu berücksichtigen, dass die sechs Jahre alte Tochter der getöteten O.G. durch die Tat ihre Mutter verloren hat.
  
-413	Bei der Tat zum Nachteil von K. H. hat die Strafkammer strafschärfend berücksichtigt, dass die Tötung des eigenen Kindes die Überwindung einer deutlich höheren Hemmschwelle erfordert. Sie erachtet daher unter Würdigung aller Umstände eine Einzelstrafe von
+413	Bei der Tat zum Nachteil von K. H. hat die Strafkammer strafSchaerfend berücksichtigt, dass die Tötung des eigenen Kindes die Überwindung einer deutlich höheren Hemmschwelle erfordert. Sie erachtet daher unter Würdigung aller Umstände eine Einzelstrafe von
  
 414	12 Jahren Freiheitsstrafe
  
@@ -26,7 +26,7 @@ V. Strafzumessung (Extrakt aus LG_Stuttgart_9_Ks_111_Js_37621-04_NJRE000715592.r
  
 418	für tat- und schuldangemessen.
  
-419	Unter nochmaliger Abwägung sämtlicher Strafzumessungsgesichtspunkte und unter Berücksichtigung des räumlich, situativ und zeitlich engen Zusammenhangs der Tötungen erachtet die Strafkammer eine Gesamtfreiheitsstrafe von
+419	Unter nochmaliger Abwaegung sämtlicher Strafzumessungsgesichtspunkte und unter Berücksichtigung des räumlich, situativ und zeitlich engen Zusammenhangs der Tötungen erachtet die Strafkammer eine Gesamtfreiheitsstrafe von
  
 420	15 Jahren
  

@@ -12,8 +12,8 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
-            "quote": "Denn der Angeklagte wurde nicht durch eine Provokation auf der Stelle zur Tat hingerissen. Maßgebend ist insoweit, ob der durch eine Kränkung hervorgerufene Zorn noch angehalten und als nicht durch rationale Abwägung unterbrochene Gefühlsaufwallung fortgewirkt hat (NStZ-​RR 07, 200; 11, 10). Das war vorliegend nicht der Fall."
+            "category": "Abwaegung",
+            "quote": "Denn der Angeklagte wurde nicht durch eine Provokation auf der Stelle zur Tat hingerissen. Maßgebend ist insoweit, ob der durch eine Kränkung hervorgerufene Zorn noch angehalten und als nicht durch rationale Abwaegung unterbrochene Gefühlsaufwallung fortgewirkt hat (NStZ-​RR 07, 200; 11, 10). Das war vorliegend nicht der Fall."
         },
         {
             "tag": "Mildernd",
@@ -22,7 +22,7 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "da die mildernden Faktoren schon allein im Hinblick auf die massiven Verletzungen des Geschädigten und die objektive Gefährlichkeit der Tathandlung nicht beträchtlich überwiegen."
         },
         {
@@ -57,28 +57,28 @@
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "SCHAERFEND",
+            "category": "Schaerfend",
             "quote": "Zu Lasten des Angeklagten war demgegenüber der nichtige Tatanlass - ein Streit über die Zubereitung eines Nudelauflaufs - anzuführen."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "SCHAERFEND",
+            "category": "Schaerfend",
             "quote": "Gegen den Angeklagten sprach auch die hohe Brutalität der Tathandlung, bei der der Angeklagte den Pkw zunächst zurückgesetzt hat, um seinen Vater gezielt anzufahren, und dann noch Tritte gegen Kopf und Körper des bereits verletzt und hilflos am Boden liegenden Geschädigten ausgeführt hat."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "SCHAERFEND",
+            "category": "Schaerfend",
             "quote": "Weiter war zu seinen Lasten anzuführen, dass er durch die Tat massive Verletzungen seines Vaters und zudem einen erheblichen Sachschaden in Höhe von ca. 8.000,00 - 9.000,00 EUR an Haus und Carport der Familie N3 verursacht hat."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "SCHAERFEND",
+            "category": "Schaerfend",
             "quote": "Schlussendlich war zu berücksichtigen, dass der Angeklagte im Rahmen seiner Tat zwei weitere Tatbestände, nämlich eine gefährliche Körperverletzung und einen gefährlichen Eingriff in den Straßenverkehr, verwirklicht hat."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
-            "quote": "Unter Abwägung aller vorgenannten und Berücksichtigung sämtlicher weiterer Strafzumessungsgesichtspunkte des § 46 StGB hat die Kammer für die Tat auf eine Freiheitsstrafe von"
+            "category": "Abwaegung",
+            "quote": "Unter Abwaegung aller vorgenannten und Berücksichtigung sämtlicher weiterer Strafzumessungsgesichtspunkte des § 46 StGB hat die Kammer für die Tat auf eine Freiheitsstrafe von"
         },
         {
             "tag": "Strafhoehe",
@@ -87,12 +87,12 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Im Hinblick auf die Bemessung der erforderlichen Sperrfrist hat das Gericht zu Gunsten des Angeklagten berücksichtigt, dass es sich bei der Tat um einen einmaligen Vorfall handelte."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Andererseits war zu seinen Lasten die in der Tat zum Ausdruck kommende eklatante Verletzung von Kraftfahrerpflichten zu berücksichtigen."
         },
         {

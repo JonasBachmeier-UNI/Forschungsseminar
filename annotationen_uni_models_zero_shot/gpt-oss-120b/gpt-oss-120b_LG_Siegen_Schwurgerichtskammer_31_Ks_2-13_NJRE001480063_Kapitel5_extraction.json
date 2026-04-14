@@ -17,7 +17,7 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
+            "category": "Abwaegung",
             "quote": "Bei der Strafzumessung hat sich die Kammer an § 46 StGB orientiert und alle für und gegen den Angeklagten sprechenden Umstände gegeneinander abgewogen."
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Erheblich gegen den Angeklagten sprach hingegen, dass er die zu den Straftaten führende Ausgangssituation in der Tatnacht selbst durch den Einbruch, der einen Hausfriedensbruch und eine Sachbeschädigung darstellt, herbeigeführt hat, auch wenn durch den einvernehmlichen Geschlechtsverkehr später eine gewisse Zäsur erfolgt ist."
         },
         {
@@ -52,13 +52,13 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Negativ war hingegen zusätzlich zu berücksichtigen, dass der Angeklagte vor Fassen des Tötungsvorsatzes bereits durch die Schläge und das Herbeiführen des Schädel‑Hirn‑Traumas Körperverletzungen begangen hat."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "nach Abwägung aller genannten Umstände"
+            "category": "Abwaegung",
+            "quote": "nach Abwaegung aller genannten Umstände"
         },
         {
             "tag": "Strafhoehe",
@@ -67,8 +67,8 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "Nach Abwägung aller für und gegen den Angeklagten sprechenden Umstände"
+            "category": "Abwaegung",
+            "quote": "Nach Abwaegung aller für und gegen den Angeklagten sprechenden Umstände"
         },
         {
             "tag": "Strafhoehe",
@@ -77,8 +77,8 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "Nach erneuter Abwägung aller relevanten Umstände"
+            "category": "Abwaegung",
+            "quote": "Nach erneuter Abwaegung aller relevanten Umstände"
         },
         {
             "tag": "Strafhoehe",
@@ -87,7 +87,7 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass sich bei dem Brand mehrere Bewohner im Haus befunden haben, mit deren Anwesenheit der Angeklagte rechnen musste, auch wenn eine konkrete Gefahr für die Bewohner nicht bestanden hat."
         }
     ]

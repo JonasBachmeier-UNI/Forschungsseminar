@@ -27,37 +27,37 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "einschlägig vorbestraft durch die Verurteilung wegen versuchten Totschlags"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "besondere Brutalität, die aus seinem eigenhändigen Tatbeitrag hervorgeht"
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Banalität und Belanglosigkeit des Tatmotivs"
         },
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Nach Abwägung aller Umstände..."
+            "quote": "Nach Abwaegung aller Umstände..."
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "die Verurteilung wegen versuchten Totschlags, begangen am 25. Juli 1991"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Brutalität der Schläge über einen längeren Zeitraum hinweg sowie das Ausmaß der konkreten Verletzungen"
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Quasi-​Gefangenschaft des eingeschüchterten A. M., dem auf diese Weise die sofortige ärztliche Behandlung vorenthalten worden ist"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "ein bemerkenswertes Maß sozialer Unverträglichkeit offenbart"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "verhältnismäßig geringere Brutalität des eigenhändigen Tatbeitrags"
         }
     ]

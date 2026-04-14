@@ -52,17 +52,17 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass er bereits mehrfach, wenn auch nicht einschlägig, strafrechtlich in Erscheinung getreten ist"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Mit dem Wissen um die von ihm ausgeführten Messerstiche in den Oberkörper von U1 schlug und trat er auch selbst weiter auf U1 ein"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass die Tat sorgfältig geplant, gut vorbereitet - Maskierung und Schlagwerkzeuge - und mit hoher krimineller Energie ausgeführt worden ist"
         },
         {
@@ -72,8 +72,8 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "Nach Abwägung der vorstehenden, für und gegen den Angeklagten T sprechenden Strafzumessungsgesichtspunkte hielt die Kammer für den Totschlag zum Nachteil von U1 eine Freiheitsstrafe von 9 Jahren für tat- und schuldangemessen"
+            "category": "Abwaegung",
+            "quote": "Nach Abwaegung der vorstehenden, für und gegen den Angeklagten T sprechenden Strafzumessungsgesichtspunkte hielt die Kammer für den Totschlag zum Nachteil von U1 eine Freiheitsstrafe von 9 Jahren für tat- und schuldangemessen"
         },
         {
             "tag": "Gesetzgrundlage",
@@ -82,12 +82,12 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass er mehrfach, wenn auch nicht einschlägig, strafrechtlich in Erscheinung getreten"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass er durch die Tat tateinheitlich insgesamt drei Varianten des § 224 Abs. 1 StGB verwirklich hat"
         },
         {
@@ -97,12 +97,12 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "Bei der Bemessung der Höhe der Strafe innerhalb des nach der Abwägung anzuwendenden Regelstrafrahmens des § 224 Abs. 1 StGB hat die Kammer alle dargelegten für und gegen den Angeklagten T sprechenden Strafzumessungsgesichtspunkte erneut gegeneinander abgewogen"
+            "category": "Abwaegung",
+            "quote": "Bei der Bemessung der Höhe der Strafe innerhalb des nach der Abwaegung anzuwendenden Regelstrafrahmens des § 224 Abs. 1 StGB hat die Kammer alle dargelegten für und gegen den Angeklagten T sprechenden Strafzumessungsgesichtspunkte erneut gegeneinander abgewogen"
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
+            "category": "Abwaegung",
             "quote": "Deshalb und vor allem aufgrund des Umstandes, dass der Angeklagte T die Verbüßung einer langen Haftstrafe in noch recht jungem Alter zukommen wird, war aus Sicht die Kammer eine nur moderate Erhöhung der Einsatzstrafe von neun Jahren geboten"
         },
         {
@@ -117,12 +117,12 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass er mehrfach und auch einschlägig vorbestraft ist"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass er die körperliche Auseinandersetzung begonnen und bis zum Schluss auf U1 eingeschlagen und -getreten hat"
         },
         {
@@ -142,23 +142,23 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass er mehrfach, wenn auch nicht einschlägig, vorbestraft ist. Er hat die Tat während laufender Bewährung begangen."
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass es besonders verwerflich war, das Vertrauen seines einstmals guten Freundes, U1, so wie festgestellt worden ist, auszunutzen"
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass er gegenüber den Zeugen N2 und O2 Verdunklungshandlungen vorgenommen hat"
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "Nach Abwägung der vorstehenden für und gegen den Angeklagten H sprechenden Gesichtspunkte war allein die Anwendung des Regelstrafrahmes des § 224 Abs. 1 StGB gerechtfertig"
+            "category": "Abwaegung",
+            "quote": "Nach Abwaegung der vorstehenden für und gegen den Angeklagten H sprechenden Gesichtspunkte war allein die Anwendung des Regelstrafrahmes des § 224 Abs. 1 StGB gerechtfertig"
         },
         {
             "tag": "Strafhoehe",
@@ -167,7 +167,7 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
+            "category": "Abwaegung",
             "quote": "Deshalb und vor allem aufgrund des Umstandes, dass der Angeklagte H fast umfassend geständige Angaben gemacht hat und auf ihn in noch recht jungem Alter eine lange Haftstrafe zukommen wird, wobei er mit der Festsetzung einer Jugendstrafe in dem Verfahren vor dem Amtsgericht Köln (Az.: 647 Ds 69/06) rechnen muss, hielt die Kammer eine moderate Erhöhung der Einsatzstrafe von 2 Jahren und 6 Monaten für geboten"
         },
         {
@@ -212,7 +212,7 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "dass er bereits strafrechtlich, auch auf dem Gebiet der Gewaltdelikte, in Erscheinung getreten ist"
         },
         {

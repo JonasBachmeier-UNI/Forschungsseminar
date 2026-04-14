@@ -17,17 +17,17 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "SCHAERFEND",
+            "category": "Schaerfend",
             "quote": "bereits wegen einer Körperverletzungstat vorbestraft"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "SCHAERFEND",
+            "category": "Schaerfend",
             "quote": "tateinheitlich eine gefährliche Körperverletzung verwirklicht hat"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "SCHAERFEND",
+            "category": "Schaerfend",
             "quote": "schweren körperlichen und psychischen Folgen für das Opfer"
         },
         {
@@ -47,12 +47,12 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "nach einer Gesamtwürdigung"
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "alle vorgenannten für und gegen den Angeklagten sprechenden Umstände gegeneinander abgewogen"
         }
     ]

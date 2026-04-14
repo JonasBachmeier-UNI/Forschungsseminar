@@ -52,43 +52,43 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "der Angeklagte mehrfach einschlägig vorbestraft ist"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "der Geschädigte durch die Tat erhebliche Verletzungsfolgen erlitten hat"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "So schloss sich an die Tatbegehung ein zweiwöchiger Krankenhausaufenthalt an, der Geschädigte musste zwei Mal operiert werden"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "der Geschädigte für die Dauer von fünf Monaten arbeitsunfähig und leidet bis heute an durch die Tat verursachten Schmerzen"
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "der Angeklagte in Verletzungsabsicht handelte"
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "er allein schon durch das Beisichführen des Messers gegen das ihm auferlegte Waffenverbot verstoßen hat"
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "die Tat in einem öffentlichen Park und in der Nähe eines Kinderspielplatzes begangen hat, weshalb die Tat in besonderem Maße geeignet gewesen ist, das Sicherheitsempfinden der Allgemeinheit negativ zu beeinflussen"
         },
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Im Ergebnis einer Gesamtschau und Abwägung der Strafzumessungsgesichtspunkte hält die Kammer eine"
+            "quote": "Im Ergebnis einer Gesamtschau und Abwaegung der Strafzumessungsgesichtspunkte hält die Kammer eine"
         }
     ]
 }

@@ -62,18 +62,18 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Zu seinen Lasten ist zu werten, dass er mit erheblicher Brutalität vorgegangen ist."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
-            "quote": "Darüber hinaus ist strafschärfend zu berücksichtigen, dass der Angeklagte W. zugleich den Tatbestand der schweren Körperverletzung erfüllt hat."
+            "category": "Schaerfend",
+            "quote": "Darüber hinaus ist strafSchaerfend zu berücksichtigen, dass der Angeklagte W. zugleich den Tatbestand der schweren Körperverletzung erfüllt hat."
         },
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Nach Abwägung aller für und gegen den Angeklagten W. sprechenden Umstände ist eine Freiheitsstrafe von"
+            "quote": "Nach Abwaegung aller für und gegen den Angeklagten W. sprechenden Umstände ist eine Freiheitsstrafe von"
         },
         {
             "tag": "Strafhoehe",
@@ -102,13 +102,13 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Zu seinen Lasten ist indes zu berücksichtigen, dass er bereits einschlägig vorbestraft ist."
         },
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Nach Abwägung insbesondere dieser Umstände hat die Kammer gegen den Angeklagten J. eine Freiheitsstrafe von"
+            "quote": "Nach Abwaegung insbesondere dieser Umstände hat die Kammer gegen den Angeklagten J. eine Freiheitsstrafe von"
         },
         {
             "tag": "Strafhoehe",

@@ -42,33 +42,33 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Er ist nur geringfügig und nicht einschlägig vorbestraft."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "bei der Tat handelt es sich um einen brutalen Angriff auf zwei dem Angeklagten bis dahin völlig unbekannte Personen aus einem nichtigen Anlass."
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "bei der Tat handelt es sich um einen brutalen Angriff [...] aus einem nichtigen Anlass."
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Mit seinem Nachtatverhalten, dem Einsprühen mit dem Parfum des Opfers und der Entsorgung seiner persönlichen Dinge, als wären sie Abfall, hat er dieses verhöhnt."
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Die durch die Tatbeteiligung zum Ausdruck gebrachte egoistische und rücksichtslose Grundeinstellung, das Maß an Brutalität sowie die zutage getretenen Empathiedefizite"
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "Abwägung",
-            "quote": "Unter Abwägung aller für und gegen die Angeklagte sprechenden Umstände"
+            "category": "Abwaegung",
+            "quote": "Unter Abwaegung aller für und gegen die Angeklagte sprechenden Umstände"
         }
     ]
 }

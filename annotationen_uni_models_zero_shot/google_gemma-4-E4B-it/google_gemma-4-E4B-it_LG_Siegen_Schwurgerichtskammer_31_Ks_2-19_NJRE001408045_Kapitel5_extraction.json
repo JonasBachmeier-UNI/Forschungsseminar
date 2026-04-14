@@ -22,7 +22,7 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Auch nach zusammenfassender Würdigung sämtlicher für und gegen den Angeklagten sprechenden Gesichtspunkte vermochte die Kammer bei Betrachtung der Tat nicht zu ersehen, dass das Tatbild einschließlich aller subjektiven Momente und der Persönlichkeit des Angeklagten dergestalt vom Durchschnitt der erfahrungsgemäß gewöhnlich vorkommenden Fälle abwich, dass die grundsätzliche Anwendung des Regelstrafrahmens unangemessen erschien."
         },
         {
@@ -62,23 +62,23 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Demgegenüber fiel zu Lasten des Angeklagten ins Gewicht, dass er das Messer verdeckt eingesetzt und dessen Einsatz zuvor nicht angedroht hat."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Zudem war der Nebenkläger wegen der durch die Tat des Angeklagten erlittenen gesundheitlichen Folgen 9 Tage in stationärer Behandlung, anschließend noch 12 Wochen arbeitsunfähig und ist nach wie vor in psychotherapeutischer Behandlung."
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Zudem war zu Lasten des Angeklagten zu berücksichtigen, dass er gleich zwei Tatbestandsalternativen des § 224 Abs. 1 StGB verwirklicht hat, die Vielzahl der Stichverletzungen und der Umstand, dass der Anlass für das Anzetteln der körperlichen Auseinandersetzung gering war."
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
-            "quote": "In der Gesamtschau vermochten danach die strafmildernden die strafschärfenden Gesichtspunkte nicht wesentlich zu überwiegen."
+            "category": "Abwaegung",
+            "quote": "In der Gesamtschau vermochten danach die strafmildernden die strafSchaerfenden Gesichtspunkte nicht wesentlich zu überwiegen."
         },
         {
             "tag": "Strafrahmen",
@@ -87,7 +87,7 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "Bei der Strafzumessung im engeren Sinne hat die Kammer dann ausgehend von der Schuld des Angeklagten die Gesamtheit der inneren und äußeren Seite der Tat erneut gewürdigt und sämtliche für und gegen den Angeklagten sprechenden Umstände, wie sie bereits bei der Bestimmung des Strafrahmens erörtert wurden, nochmals gegeneinander abgewogen."
         },
         {

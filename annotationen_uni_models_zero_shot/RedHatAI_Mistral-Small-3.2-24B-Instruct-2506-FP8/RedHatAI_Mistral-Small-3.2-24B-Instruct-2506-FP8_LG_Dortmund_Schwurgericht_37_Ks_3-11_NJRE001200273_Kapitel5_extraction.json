@@ -47,28 +47,28 @@
         },
         {
             "tag": "Vorleben_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Der Angeklagte hat bereits eine Vorstrafe wegen Körperverletzung"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Die Tat war besonders brutal und das Leiden des Opfers war erheblich"
         },
         {
             "tag": "Motiv_Verwerflich",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Das Motiv der Tat war verwerflich"
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Der Angeklagte hat versucht, die Tat zu vertuschen"
         },
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Nach Abwägung aller Umstände erscheint eine Freiheitsstrafe von 8 Jahren und 6 Monaten angemessen"
+            "quote": "Nach Abwaegung aller Umstände erscheint eine Freiheitsstrafe von 8 Jahren und 6 Monaten angemessen"
         }
     ]
 }

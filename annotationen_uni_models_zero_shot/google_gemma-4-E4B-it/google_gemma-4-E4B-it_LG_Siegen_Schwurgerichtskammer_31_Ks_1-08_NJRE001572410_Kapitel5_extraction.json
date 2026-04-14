@@ -52,13 +52,13 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "Dabei muß allerdings zu Lasten der Angeklagten gewürdigt werden, daß sie durch das monatelange Geheimhalten der Schwangerschaft ihre ohnehin bestehende Garantenpflicht maßgeblich verschärft hatte, wobei die sich daraus ergebende Handlungspflicht für sie mit minimalem Aufwand hätte erfüllt werden können."
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
-            "quote": "Insoweit muß auch strafschärfend ins Gewicht fallen, daß die Angeklagte nicht nur die fatale Erfahrung der Folgen ihres heimlichen Handelns bei der Geburt 0000 vor Augen hatte, sondern daß sie diese auch gezielt verheimlicht und ihrer Familie verschwiegen hatte."
+            "category": "Schaerfend",
+            "quote": "Insoweit muß auch strafSchaerfend ins Gewicht fallen, daß die Angeklagte nicht nur die fatale Erfahrung der Folgen ihres heimlichen Handelns bei der Geburt 0000 vor Augen hatte, sondern daß sie diese auch gezielt verheimlicht und ihrer Familie verschwiegen hatte."
         },
         {
             "tag": "Gesamtwuerdigung",
@@ -77,12 +77,12 @@
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "Schärfend",
-            "quote": "Andererseits muß auch wegen dieser Tat das enorme Gewicht der Garantenstellung der Angeklagten bezüglich des schutzlosen Kindes - im Vergleich zu dem geringen zur Vermeidung des Todesfalls erforderlichen Aufwand - strafschärfend wirken"
+            "category": "Schaerfend",
+            "quote": "Andererseits muß auch wegen dieser Tat das enorme Gewicht der Garantenstellung der Angeklagten bezüglich des schutzlosen Kindes - im Vergleich zu dem geringen zur Vermeidung des Todesfalls erforderlichen Aufwand - strafSchaerfend wirken"
         },
         {
             "tag": "Nachtatverhalten_Negativ",
-            "category": "Schärfend",
+            "category": "Schaerfend",
             "quote": "zumal die Angeklagte nun in dem Bewußtsein der Verantwortlichkeit für bereits zwei entsprechende Abläufe handelte bzw. nicht handelte, sondern wiederum die Schwangerschaft über deren gesamte Dauer hin verheimlichte."
         },
         {
@@ -98,7 +98,7 @@
         {
             "tag": "Gesamtwuerdigung",
             "category": "Abwaegung",
-            "quote": "Unter nochmaliger Abwägung aller für und gegen die Angeklagte sprechenden Umstände war zwar einerseits der inhaltliche Zusammenhang zur strafrechtlich nicht mehr zu ahndenden Tat von 0000 zu berücksichtigen, andererseits aber auch zu beachten, daß insoweit wohl lediglich ein Fahrlässigkeitsdelikt verwirklicht worden sein kann."
+            "quote": "Unter nochmaliger Abwaegung aller für und gegen die Angeklagte sprechenden Umstände war zwar einerseits der inhaltliche Zusammenhang zur strafrechtlich nicht mehr zu ahndenden Tat von 0000 zu berücksichtigen, andererseits aber auch zu beachten, daß insoweit wohl lediglich ein Fahrlässigkeitsdelikt verwirklicht worden sein kann."
         },
         {
             "tag": "Vorleben_Positiv",

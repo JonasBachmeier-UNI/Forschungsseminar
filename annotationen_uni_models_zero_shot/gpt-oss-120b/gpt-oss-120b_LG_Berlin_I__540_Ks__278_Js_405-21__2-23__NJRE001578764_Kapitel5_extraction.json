@@ -37,12 +37,12 @@
         },
         {
             "tag": "Gesamtwuerdigung",
-            "category": "ABWAEGUNG",
+            "category": "Abwaegung",
             "quote": "die vorgenannten und auch alle sonstigen für und gegen den Angeklagten sprechenden Strafzumessungsgründe abwägend"
         },
         {
             "tag": "Tatbild_Brutalitaet",
-            "category": "SCHAERFEND",
+            "category": "Schaerfend",
             "quote": "die Maßstäbe, die nach dem, ihm vertrauten, geltenden Recht bei der Prüfung und Durchführung einer Suizidbegleitung an ärztliches Handeln anzulegen sind, über die bloße Tatbestandsbegehung hinaus in mehrfacher Weise und in erheblichem Maße missachtet hat"
         }
     ]

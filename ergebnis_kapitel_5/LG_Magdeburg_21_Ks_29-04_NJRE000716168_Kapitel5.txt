@@ -10,9 +10,9 @@ V. Strafzumessung (Extrakt aus LG_Magdeburg_21_Ks_29-04_NJRE000716168.rtf)
  
 48	Zu seinen Gunsten ist insbesondere zu werten gewesen, dass er geständig war, die Tat bedauert und sich auch schriftlich beim Geschädigten entschuldigt hat. Darüber hinaus ist zu seinen Gunsten zu berücksichtigen, dass er die Gerüchte, die der Geschädigte über ihn nach – freilich ungeprüften - Angaben eines Dritten in die Welt gesetzt haben soll, als kränkend empfand und entsprechend erregt war, weiterhin ist eine gewisse Enthemmung durch den zuvor genossenen Alkohol sowie der Umstand, dass der Angeklagte J. ihn zu einem besonders entschlossenen Vorgehen gegen den Geschädigten gereizt hat, zu seinen Gunsten zu berücksichtigen. Auch der hinsichtlich der Tötung nur bedingte Vorsatz ist zu seinen Gunsten zu berücksichtigen. Schließlich ist der Angeklagte W. bislang auch nicht einschlägig vorbestraft.
  
-49	Dem gegenüber ist zu seinen Lasten zu werten, dass er mit erheblicher Brutalität vorgegangen ist. Darüber hinaus ist strafschärfend zu berücksichtigen, dass der Angeklagte W. zugleich den Tatbestand der schweren Körperverletzung erfüllt hat.
+49	Dem gegenüber ist zu seinen Lasten zu werten, dass er mit erheblicher Brutalität vorgegangen ist. Darüber hinaus ist strafSchaerfend zu berücksichtigen, dass der Angeklagte W. zugleich den Tatbestand der schweren Körperverletzung erfüllt hat.
  
-50	Nach Abwägung aller für und gegen den Angeklagten W. sprechenden Umstände ist eine Freiheitsstrafe von
+50	Nach Abwaegung aller für und gegen den Angeklagten W. sprechenden Umstände ist eine Freiheitsstrafe von
  
 51	sechs Jahren und neun Monaten
  
@@ -24,7 +24,7 @@ V. Strafzumessung (Extrakt aus LG_Magdeburg_21_Ks_29-04_NJRE000716168.rtf)
  
 55	Zu seinen Lasten ist indes zu berücksichtigen, dass er bereits einschlägig vorbestraft ist.
  
-56	Nach Abwägung insbesondere dieser Umstände hat die Kammer gegen den Angeklagten J. eine Freiheitsstrafe von
+56	Nach Abwaegung insbesondere dieser Umstände hat die Kammer gegen den Angeklagten J. eine Freiheitsstrafe von
  
 57	einem Jahr
  
