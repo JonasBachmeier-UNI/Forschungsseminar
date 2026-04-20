@@ -32,7 +32,7 @@ import pandas as pd
 # ─────────────────────────────────────────────
 
 SIMILARITY_THRESHOLD = 0.75   # Ab wann gilt ein Quote-Match als "gefunden"
-MAJORITY_THRESHOLD   = 0.5    # Anteil Modelle, die einen Tag brauchen für Pseudo-GT
+MAJORITY_THRESHOLD   = 0.35    # Anteil Modelle, die einen Tag brauchen für Pseudo-GT
 BOOTSTRAP_N          = 1_000  # Iterationen für Konfidenzintervalle
 RANDOM_SEED          = 42
 
@@ -465,7 +465,13 @@ if not df_pseudo.empty:
         lambda row: compute_hallucination_rate(int(row["TP"]), int(row["FP"])),
         axis=1,
     )
+    pseudo_summary["Pseudo_Disagreement_Rate"] = pseudo_summary["Hallucination_Rate"]
     pseudo_summary = pseudo_summary.sort_values("f1", ascending=False)
+    if df_gt.empty:
+        print(
+            "Hinweis: Ohne Ground-Truth ist Hallucination_Rate eine "
+            "Pseudo-GT-Konsens-Abweichung (nicht zwingend echte Halluzination im Text)."
+        )
     print(pseudo_summary.to_string(index=False))
 
 
@@ -591,10 +597,14 @@ if has_gt or has_pgt:
         hallucination_plot = model_gt_summary.sort_values("Hallucination_Rate")
         hallucination_categories = gt_hallucinated_by_model
         hallucination_title = "Zero-Shot Halluzination (Ground Truth)"
+        hallucination_rate_col = "Hallucination_Rate"
+        hallucination_x_label = "Halluzinationsrate"
     else:
-        hallucination_plot = pseudo_summary.sort_values("Hallucination_Rate")
+        hallucination_plot = pseudo_summary.sort_values("Pseudo_Disagreement_Rate")
         hallucination_categories = pseudo_hallucinated_by_model
-        hallucination_title = "Zero-Shot Halluzination (Pseudo-GT)"
+        hallucination_title = "Zero-Shot Pseudo-GT Abweichung"
+        hallucination_rate_col = "Pseudo_Disagreement_Rate"
+        hallucination_x_label = "Abweichungsrate zu Pseudo-GT"
 
     category_names = sorted({cat for counts in hallucination_categories.values() for cat in counts.keys()})
     if not category_names:
@@ -616,17 +626,17 @@ if has_gt or has_pgt:
         gridspec_kw={"height_ratios": [1, 1.2]},
     )
 
-    colors_hall = plt.cm.OrRd(norm(1 - hallucination_plot["Hallucination_Rate"]))
-    hallu_ax_rate.barh(hallucination_plot["Model"], hallucination_plot["Hallucination_Rate"], color=colors_hall)
+    colors_hall = plt.cm.OrRd(norm(1 - hallucination_plot[hallucination_rate_col]))
+    hallu_ax_rate.barh(hallucination_plot["Model"], hallucination_plot[hallucination_rate_col], color=colors_hall)
     hallu_ax_rate.set_title(hallucination_title)
-    hallu_ax_rate.set_xlabel("Halluzinationsrate")
+    hallu_ax_rate.set_xlabel(hallucination_x_label)
     hallu_ax_rate.set_xlim(0, 1)
     hallu_ax_rate.grid(axis="x", linestyle="--", alpha=0.3)
     for idx, (_, row) in enumerate(hallucination_plot.iterrows()):
         hallu_ax_rate.text(
-            min(row["Hallucination_Rate"] + 0.01, 0.97),
+            min(row[hallucination_rate_col] + 0.01, 0.97),
             idx,
-            f"{row['Hallucination_Rate']:.2f}",
+            f"{row[hallucination_rate_col]:.2f}",
             va="center",
             fontsize=8,
         )

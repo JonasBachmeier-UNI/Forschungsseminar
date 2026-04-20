@@ -44,10 +44,10 @@ TAG_ALIASES = {
     "Geständnis": "Gestaendnis",
 }
 CATEGORY_ALIASES = {
-    "ABWAEGUNG":  "Abwägung",
-    "Abwaegung":  "Abwägung",
-    "SCHAERFEND": "Schärfend",
-    "Schaerfend": "Schärfend",
+    "Abwaegung":  "Abwaegung",
+    "Abwaegung":  "Abwaegung",
+    "Schaerfend": "Schaerfend",
+    "Schaerfend": "Schaerfend",
 }
 
 # ============================================================
